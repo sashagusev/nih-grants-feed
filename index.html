@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NIH Grants Feed</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+      <div class="site-header">
+        <div class="site-title">NIH Grants Feed</div>
+        <div id="last-fetch" class="site-updated"></div>
+      </div>
+
+      <nav class="site-nav">
+        <a href="#" data-section="posted" class="nav-item active">Open Grants</a>
+        <a href="#" data-section="forecasted" class="nav-item">Forecasted</a>
+        <a href="#" data-section="highlighted" class="nav-item">Highlighted Topics</a>
+        <a href="#" data-section="saved" class="nav-item saved-nav-item">
+          <span class="saved-nav-label">Saved <span id="saved-badge" class="saved-badge" hidden>0</span></span>
+          <span class="saved-pills" id="saved-pills" hidden>
+            <button id="export-btn" class="saved-pill" title="Export CSV">↓ CSV</button>
+            <button id="clear-btn" class="saved-pill saved-pill-danger" title="Clear saved">✕</button>
+          </span>
+        </a>
+      </nav>
+
+      <div class="filter-block" id="filter-block" hidden>
+
+        <div class="filter-section" id="mech-section">
+          <div class="filter-header">
+            <span class="filter-label">Mechanism</span>
+            <span class="filter-reset-group">
+              <a href="#" id="filter-mech-all" class="filter-reset">all</a>
+              <span class="filter-reset-sep">/</span>
+              <a href="#" id="filter-mech-none" class="filter-reset">none</a>
+            </span>
+          </div>
+          <div id="mech-filter-list" class="filter-list"></div>
+        </div>
+
+        <div class="filter-section">
+          <div class="filter-header">
+            <span class="filter-label">Institute</span>
+            <span class="filter-reset-group">
+              <a href="#" id="filter-inst-all" class="filter-reset">all</a>
+              <span class="filter-reset-sep">/</span>
+              <a href="#" id="filter-inst-none" class="filter-reset">none</a>
+            </span>
+          </div>
+          <div id="institute-filter-list" class="filter-list"></div>
+        </div>
+
+        <div class="filter-section">
+          <div class="filter-header">
+            <span class="filter-label">Assistance Listing</span>
+            <span class="filter-reset-group">
+              <a href="#" id="filter-cfda-all" class="filter-reset">all</a>
+              <span class="filter-reset-sep">/</span>
+              <a href="#" id="filter-cfda-none" class="filter-reset">none</a>
+            </span>
+          </div>
+          <div id="cfda-filter-list" class="filter-list"></div>
+        </div>
+
+        <div class="filter-section">
+          <div class="filter-header">
+            <span class="filter-label">Award</span>
+          </div>
+          <div class="award-filter-btns">
+            <button class="award-btn active" data-range="any">Any</button>
+            <button class="award-btn" data-range="lt250">&lt;$250K</button>
+            <button class="award-btn" data-range="250-750">$250K–$750K</button>
+            <button class="award-btn" data-range="gt750">&gt;$750K</button>
+          </div>
+        </div>
+      </div>
+
+      <footer class="site-footer">
+        <p>Sources: <a href="https://simpler.grants.gov/search?status=posted&agency=HHS-NIH11" target="_blank" rel="noopener">simpler.grants.gov</a> &amp; <a href="https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics" target="_blank" rel="noopener">grants.nih.gov</a></p>
+      </footer>
+    </div>
+  </aside>
+
+  <main class="main-content">
+    <div id="new-notice" class="new-notice" hidden></div>
+    <div id="content">
+      <p class="status-msg">Loading&hellip;</p>
+    </div>
+  </main>
+
+  <aside class="detail-panel" id="detail-panel">
+    <div class="detail-number" id="detail-number"></div>
+    <div class="detail-title" id="detail-title"></div>
+    <div class="detail-body" id="detail-body"></div>
+  </aside>
+
+  <script src="app.js"></script>
+</body>
+</html>
