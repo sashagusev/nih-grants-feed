@@ -107,9 +107,9 @@
     if (!opts.length) return '';
     var btns = opts.map(function (opt) {
       var isActive = opt.key === sortField;
-      var arrow = isActive ? (sortDir === 'desc' ? ' ↓' : ' ↑') : '';
+      var dir = isActive ? sortDir : '';
       return '<button class="sort-btn' + (isActive ? ' active' : '') +
-             '" data-field="' + opt.key + '">' + opt.label + arrow + '</button>';
+             '" data-field="' + opt.key + '" data-dir="' + dir + '">' + opt.label + '</button>';
     }).join('');
     return '<div class="sort-bar"><span class="sort-label">Sort</span>' + btns + '</div>';
   }
@@ -433,21 +433,25 @@
     var url       = item.url          || '#';
     var fresh     = isNew(postDate);
 
-    // Meta line: posted · closes
+    // Meta line: posted · opens · closes
     var metaParts = [];
     if (postDate)  metaParts.push('posted\u00a0' + fmtDate(postDate));
+    if (openDate)  metaParts.push('opens\u00a0'  + fmtDate(openDate));
     if (closeDate) metaParts.push('closes\u00a0' + fmtDate(closeDate));
 
-    // Sub line: institute · opens · award · num awards
+    // Sub line: institute · award · num awards
     var subParts = [];
     var inst = item.institute || item.lead_ico || '';
     var instDisplay = inst;
-    if (inst && item.participating_icos && item.participating_icos.length) {
-      var others = item.participating_icos.filter(function (ico) { return ico !== inst; });
+    var picos = item.participating_icos || [];
+    if (!inst && picos.length) {
+      // No single institute but has participating ICs — show them directly
+      instDisplay = picos.join(', ');
+    } else if (inst && picos.length) {
+      var others = picos.filter(function (ico) { return ico !== inst; });
       if (others.length) instDisplay = inst + ' (' + others.join(', ') + ')';
     }
     if (instDisplay) subParts.push({ cls: 'institute', text: instDisplay });
-    if (openDate)           subParts.push({ cls: '', text: 'opens\u00a0' + fmtDate(openDate) });
     if (item.award_ceiling) subParts.push({ cls: '', text: fmtAmount(item.award_ceiling) + '\u00a0max' });
     if (item.num_awards)    subParts.push({ cls: '', text: item.num_awards + '\u00a0award' +
                                             (item.num_awards !== '1' ? 's' : '') });
@@ -715,7 +719,9 @@
   // ── Theme toggle ──────────────────────────────────────────────────────────────
   function setTheme(light) {
     lightTheme = light;
+    document.body.classList.add('theme-changing');
     document.body.classList.toggle('light-theme', light);
+    setTimeout(function () { document.body.classList.remove('theme-changing'); }, 400);
   }
 
   document.getElementById('theme-toggle').addEventListener('click', function () {

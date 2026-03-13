@@ -25,6 +25,7 @@ import json
 import os
 import re
 import sys
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 
@@ -94,6 +95,82 @@ def _parse_institute_from_text(text):
     if m and m.group(1) in _IC_SET:
         return m.group(1)
     return ""
+
+
+def _get_announcement_text(opp_id):
+    """Return the plain text of the Full Announcement for an opportunity.
+
+    Handles three cases:
+    1. Real HTML: files.simpler.grants.gov/…/XXX-Full-Announcement.html
+    2. Meta-refresh stub that redirects to grants.nih.gov/grants/guide/…/XXX.html
+    3. No stub file — grants.nih.gov link appears directly on the opportunity page
+    """
+    # Step 1: find the Full Announcement URL from the simpler.grants.gov opportunity page
+    page = requests.get(f"https://simpler.grants.gov/opportunity/{opp_id}",
+                        headers=HEADERS, timeout=30)
+    page.raise_for_status()
+
+    # Case 1 & 2: stub file on files.simpler.grants.gov
+    m = re.search(
+        r'https://files\.simpler\.grants\.gov/[^\s"\'<>]+Full-Announcement\.html',
+        page.text)
+    if m:
+        html_r = requests.get(m.group(0), headers=HEADERS, timeout=30)
+        html_r.raise_for_status()
+
+        # Case 2: meta-refresh redirect to grants.nih.gov guide page
+        refresh = re.search(
+            r'<meta[^>]+http-equiv=["\']refresh["\'][^>]+content=["\'][^"\']*URL=["\']?([^"\'>\s]+)',
+            html_r.text, re.IGNORECASE)
+        if refresh:
+            redirect_url = refresh.group(1).rstrip("'\"")
+            target_url = redirect_url if redirect_url.startswith("http") \
+                         else "https://grants.nih.gov" + redirect_url
+            guide_r = requests.get(target_url, headers=HEADERS, timeout=30)
+            guide_r.raise_for_status()
+            return BeautifulSoup(guide_r.text, "html.parser").get_text()
+
+        # Case 1: real Full Announcement HTML
+        return BeautifulSoup(html_r.text, "html.parser").get_text()
+
+    # Case 3: direct grants.nih.gov/grants/guide link on the opportunity page
+    guide_m = re.search(
+        r'https?://(?:www\.)?grants\.nih\.gov/grants/guide/[^\s"\'<>\\]+\.html',
+        page.text)
+    if guide_m:
+        guide_url = guide_m.group(0).rstrip("\\")
+        guide_r = requests.get(guide_url, headers=HEADERS, timeout=30)
+        guide_r.raise_for_status()
+        return BeautifulSoup(guide_r.text, "html.parser").get_text()
+
+    return ""
+
+
+def _fetch_announcement_icos(opp_id, _retries=3, _backoff=2.0):
+    """Scrape the Full Announcement HTML on simpler.grants.gov and return the list of
+    participating IC acronyms from the 'Components of Participating Organizations' section."""
+    last_exc = None
+    for attempt in range(_retries):
+        try:
+            text = _get_announcement_text(opp_id)
+            if not text:
+                return []
+            idx = text.find("Components of Participating Organ")
+            if idx < 0:
+                return []
+            section = text[idx: idx + 1000]
+            ics = []
+            for pm in re.finditer(r'\(([A-Z]{2,8})\)', section):
+                code = pm.group(1)
+                if code in _IC_SET and code not in ics:
+                    ics.append(code)
+            return ics
+        except Exception as exc:
+            last_exc = exc
+            if attempt < _retries - 1:
+                time.sleep(_backoff * (attempt + 1))
+    # Surface the error to the caller so we can log it
+    raise last_exc
 
 
 # ── Highlighted Topics (always works — public API) ────────────────────────────
@@ -381,6 +458,39 @@ def enrich_with_details(grants):
             grants[id_to_idx[oid]].update(detail)
             done  += 1
     print(f"  ✓ enriched {done} grants")
+
+    # Fetch participating ICs from Full Announcement HTML for grants whose
+    # institute is not encoded in the grant number (PAR, PA, etc.)
+    needs_html = {g["opportunity_id"]: i for i, g in enumerate(grants)
+                  if not g.get("institute")}
+    if needs_html:
+        print(f"  → fetching full announcements for {len(needs_html)} grants …", flush=True)
+        error_counts: dict = {}
+        with ThreadPoolExecutor(max_workers=4) as ex:
+            futures = {ex.submit(_fetch_announcement_icos, oid): oid
+                       for oid in needs_html}
+            found = 0
+            for fut in as_completed(futures):
+                oid = futures[fut]
+                try:
+                    ics = fut.result()
+                except Exception as exc:
+                    err_key = type(exc).__name__
+                    error_counts[err_key] = error_counts.get(err_key, 0) + 1
+                    continue
+                if ics:
+                    idx = needs_html[oid]
+                    grants[idx]["participating_icos"] = ics
+                    # Only assign a specific institute when exactly one IC is listed;
+                    # true multi-IC announcements stay as "NIH (general)" for display
+                    # but all ICs are available for filter matching via participating_icos
+                    if len(ics) == 1:
+                        grants[idx]["institute"] = ics[0]
+                    found += 1
+        if error_counts:
+            print(f"  ⚠ errors during announcement fetch: {error_counts}", file=sys.stderr)
+        print(f"  ✓ resolved institute for {found} of {len(needs_html)} grants")
+
     return grants
 
 

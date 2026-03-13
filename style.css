@@ -506,17 +506,17 @@ a:hover {
 }
 
 .grant-title a {
-  font-size:                 14px;
-  font-weight:               600;
-  line-height:               20px;
-  color:                     var(--title);
-  text-decoration:           underline;
-  text-decoration-thickness: 2px;
-  text-decoration-color:     var(--border);
+  font-size:            14px;
+  font-weight:          600;
+  line-height:          20px;
+  color:                var(--title);
+  text-decoration:      none;
+  text-decoration-line: none;
 }
 .grant-title a:hover {
-  color:                 var(--text);
-  text-decoration-color: var(--border);
+  color:                var(--text);
+  text-decoration:      none;
+  text-decoration-line: none;
 }
 
 .grant-sub {
@@ -657,6 +657,28 @@ body.light-theme .theme-toggle {
   border-color:  #aaaaaa;
 }
 
+/* ── Theme transition (active only during the switch) ───────── */
+body.theme-changing,
+body.theme-changing .sidebar-inner,
+body.theme-changing .grant-inner,
+body.theme-changing .grant-title a,
+body.theme-changing .grant-meta,
+body.theme-changing .grant-sub,
+body.theme-changing .grant-cfda,
+body.theme-changing .new-badge,
+body.theme-changing .nav-item,
+body.theme-changing .site-title,
+body.theme-changing .site-updated,
+body.theme-changing .filter-label,
+body.theme-changing .filter-item label,
+body.theme-changing .sort-btn,
+body.theme-changing .sort-label,
+body.theme-changing .award-btn,
+body.theme-changing .grant-sub-item {
+  transition: background-color 0.35s ease, color 0.35s ease,
+              border-color 0.35s ease !important;
+}
+
 /* ── Light theme overrides ───────────────────────────────────── */
 body.light-theme {
   --background:       #ffffff;
@@ -708,6 +730,14 @@ body.light-theme .grant-item.is-saved:hover .grant-inner { background: #f2f2f2; 
   font-family: var(--f-family);
   transition:  color 0.1s, background 0.1s;
 }
+.sort-btn::after {
+  content:        '\00a0\00a0';
+  display:        inline-block;
+  width:          12px;
+  text-align:     center;
+}
+.sort-btn[data-dir="desc"]::after { content: ' ↓'; }
+.sort-btn[data-dir="asc"]::after  { content: ' ↑'; }
 .sort-btn:hover { color: var(--title); background: var(--background-hover); }
 .sort-btn.active {
   color:       var(--title);

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-13T07:46:17.292382+00:00",
+  "updated_at": "2026-03-13T14:46:09.412909+00:00",
   "count": 334,
   "data": [
     {
@@ -1252,7 +1252,19 @@
       "post_date": "2026-01-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AR-26-006"
+      "url": "https://simpler.grants.gov/search?query=RFA-AR-26-006",
+      "award_ceiling": null,
+      "num_awards": "8",
+      "contact_name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "contact_email": "NIAMS_PAIN@mail.nih.gov",
+      "abstract": "The National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS), in conjunction with other NIH Institutes and Centers (ICs) as a part of the congressionally mandated NIH Helping to End Addiction Long Term (HEAL) initiative intends to publish a Notice of Funding Opportunity (NOFO) to leverage and accelerate the progress achieved in the Restoring Joint Health and Function to Reduce Pain (RE-JOIN) Consortium. The NOFO aims to more fully refine and map the innervation of the different articular and peri-articular tissues that collectively form the joint (including bone, cartilage, synovium, joint capsule, ligament, tendon, fascia and muscle), by sensory neurons that mediate the sensation of pain. The NOFO seeks to expand initial and ongoing efforts by: Enhancing clinical pain phenotyping with multimodal profiling of new and expanded patient samples across life span and disease conditions (i.e., other musculoskeletal and/or rheumatic conditions associated with joint pain beyond knee and temporomandibular joint (TMJ)). Expanding to new preclinical and New Approach Methodologies (NAMs) in modeling joint disease. Preclinical testing of novel joint-targeted candidates identified in RE-JOIN 1.0. Focusing on peri-articular tissues in joint pain, such as vasculature, synovium, adipose, myofascial tissue, etc. Prioritizing secondary analysis of datasets and/or validation of methods and approaches in human samples. Improve data integration by developing/enhancing joint atlases that will enable integration of imaging and molecular datasets. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful multidisciplinary collaborations and responsive projects. Investigators with expertise and insights in neurobiology, pain science, data science, orthopedics, rheumatic disease, etc. are encouraged to consider applying for this NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.846",
+          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        }
+      ]
     },
     {
       "opportunity_id": "361187",
@@ -1456,7 +1468,19 @@
       "post_date": "2026-01-13",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-CA-25-035"
+      "url": "https://simpler.grants.gov/search?query=RFA-CA-25-035",
+      "award_ceiling": null,
+      "num_awards": "6",
+      "contact_name": "NCI DCTD CDP PIRB NOFO",
+      "contact_email": "NCICDPNOFO@mail.nih.gov",
+      "abstract": "Through this limited competition Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) solicits applications to support continuation of the two distinct biospecimen banking resources: The National Clinical Trials Network (NCTN) Biospecimen Banks (NCTN Biobanks) support the NCI-funded NCTN and the Community Oncology Research Program (NCORP), and The Early-Phase and Experimental Clinical Trials Biospecimen Bank (EET Biobank) support the Experimental Therapeutics Clinical Trials Network (ETCTN) and NCI-supported other early phase and experimental clinical trials. The objective is to maintain these robust national resources for continuing the collection, processing, storage, and distribution of high-quality, clinically annotated human biospecimens. The goal of these resources is to ensure availability of biospecimens from participants in NCI-funded clinical trials focused on treatment, prevention, and cancer control studies to enable translational cancer research. NCTN Biobanks support the biobanking operations of the NCTN funded through the Cancer Therapy Evaluation Program (CTEP) and NCORP funded through the Division of Cancer Prevention (DCP). The clinical trials conducted through NCTN and NCORP enroll thousands of patients with adult and childhood cancers each year. NCTN Biobank operations aim to facilitate hypothesis-driven biomarker development and validation, secondary research studies, and broader scientific discovery. Biospecimens collected through harmonized protocols and long-term follow-up across large multi-site clinical trials provide valuable resources for studying disease mechanisms, therapeutic response, and clinical outcomes in different types of cancers. This NOFO will also support the continuation of the EET Biobank, a dedicated resource with a primary focus on meeting the biospecimen banking needs of the ETCTN and other early-phase and experimental clinical trials involving investigational new drugs (INDs). Biospecimens collected from the early phase clinical trials enable validated biomarker assay development, pharmacokinetic and pharmacodynamic studies, investigation of drug action and resistance mechanisms, improved patient stratification, and broader scientific discovery. Unlike the NCTN Biobank, the EET Biobank bridges basic science and clinical applications that enable acceleration of NCI’s IND development efforts for effective cancer treatments. This is a forecast for a limited competition Notice of Funding Opportunity (NOFO) that will invite application(s) from eligible organizations to apply. Application(s) will be peer-reviewed and only funded if meritorious. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.394",
+          "title": "Cancer Detection and Diagnosis Research"
+        }
+      ]
     },
     {
       "opportunity_id": "361104",
@@ -3644,6 +3668,10 @@
           "number": "93.395",
           "title": "Cancer Treatment Research"
         }
+      ],
+      "participating_icos": [
+        "NCI",
+        "NIDCR"
       ]
     },
     {
@@ -3840,7 +3868,19 @@
       "post_date": "2025-09-08",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-CA-26-002"
+      "url": "https://simpler.grants.gov/search?query=RFA-CA-26-002",
+      "award_ceiling": null,
+      "num_awards": "9",
+      "contact_name": "Kelly Crotty, Ph.D.",
+      "contact_email": "Kelly.crotty@nih.gov",
+      "abstract": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) solicits grant applications proposing exploratory research projects focused on further development and validation of emerging technologies offering novel capabilities for targeting, probing, analyzing, handling, or performing quality control of biospecimens used for basic or clinical cancer research. This NOFO solicits R33 applications where major feasibility gaps for the technology or methodology have been overcome, as demonstrated with supportive preliminary data, but still requires further development and rigorous validation to encourage adoption by the research community. Well-suited applications must offer the potential to accelerate and/or enhance research in the areas of cancer biology, early detection and screening, clinical diagnosis, treatment, control, epidemiology, and/or address issues associated with cancer health disparities. Technologies proposed for development may be intended to have widespread applicability but must be focused in this proposal on cancer applications. Projects proposing application of existing technologies where the novelty resides in the biological or clinical target/question being pursued are not appropriate for this solicitation and will not be reviewed. This funding opportunity is part of a broader NCI-sponsored Innovative Molecular Analysis Technologies (IMAT) Program.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.394",
+          "title": "Cancer Detection and Diagnosis Research"
+        }
+      ]
     },
     {
       "opportunity_id": "360453",
@@ -6228,7 +6268,19 @@
       "post_date": "2025-06-17",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-MH-27-135"
+      "url": "https://simpler.grants.gov/search?query=RFA-MH-27-135",
+      "award_ceiling": null,
+      "num_awards": "5",
+      "contact_name": "Division of Translational Research",
+      "contact_email": "DTRcommunications@nih.gov",
+      "abstract": "The National Institute of Mental Health (NIMH) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research that addresses methodological challenges associated with clinical trials involving rapid-acting psychotropic interventional drugs (RAPIDs). RAPIDs, including 5-HT2A agonists such as psilocybin, dissociative anesthetics such as ketamine, and entactogens such as 3,4-methylenedioxymethamphetamine (MDMA), have demonstrated promising benefits for the relief of depression, anxiety and other mental health disorders. The goal of this NOFO is to improve the understanding of the key components underlying the therapeutic effects of RAPIDs and thereby increase confidence in the results from clinical trials with RAPID intervention(s). Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the R01 activity code. Investigators with expertise and insights into the therapeutic effects of RAPIDs are encouraged to consider applying for this new NOFO. In addition, collaborative research that integrates expertise in RAPID research and innovative trial design are encouraged. Applicants are encouraged to interact with the U.S. Food and Drug Administration (FDA) prior to application submission to ensure the proposed study will satisfy regulatory requirements.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.242",
+          "title": "Mental Health Research Grants"
+        }
+      ]
     },
     {
       "opportunity_id": "359726",
@@ -6316,7 +6368,19 @@
       "post_date": "2025-06-16",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-CA-25-077"
+      "url": "https://simpler.grants.gov/search?query=FOR-CA-25-077",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Naoko Ishibe Simonds, Sc.D. and Lisa Gallicchio, Ph.D.",
+      "contact_email": "naoko.simonds@nih.gov",
+      "abstract": "Through this notice of funding opportunity (NOFO), the National Cancer Institute (NCI) solicits applications to “Cancer Epidemiology Cohorts: Building the Next Generation of Research Cohorts” NOFO. This funding opportunity announcement supports the establishment of the next generation of cancer epidemiology cohorts to address specific knowledge gaps in cancer etiology and survivorship. The goal of this NOFO is to lay the foundational resources and research that will enable future prospective studies capable of identifying the environmental, molecular, genetic, lifestyle, clinical, and other drivers of cancer risk and outcomes.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.399",
+          "title": "Cancer Control"
+        }
+      ]
     },
     {
       "opportunity_id": "359091",
@@ -8024,7 +8088,19 @@
       "post_date": "2025-05-27",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=NOT-DE-26-008"
+      "url": "https://simpler.grants.gov/search?query=NOT-DE-26-008",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Lorena Baccaglini, DDS, MS, PhD",
+      "contact_email": "lorena.baccaglini@nih.gov",
+      "abstract": "The National Institute of Dental and Craniofacial Research (NIDCR) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for meritorious research projects that propose secondary analyses of existing dental, oral, craniofacial, and related databases, or develop needed analytical approaches including novel statistical or computational methods. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the R03 activity code. Investigators with expertise and insights in these areas are encouraged to begin to consider applying for this new NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.121",
+          "title": "Oral Diseases and Disorders Research"
+        }
+      ]
     },
     {
       "opportunity_id": "359126",
@@ -8780,7 +8856,19 @@
       "post_date": "2025-05-05",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=NOT-AA-25-010"
+      "url": "https://simpler.grants.gov/search?query=NOT-AA-25-010",
+      "award_ceiling": null,
+      "num_awards": "2",
+      "contact_name": "Mark Egli",
+      "contact_email": "mark.egli@nih.gov",
+      "abstract": "The purpose is to renew the NIAAA Integrative Neuroscience Initiative on Alcoholism (INIA). The INIA renewal will support two collaborative research consortia through an open competition to study brain-body homeostatic dysregulation that promotes and perpetuates excessive alcohol drinking and related Alcohol Use Disorder (AUD) phenotypes. We encourage hypothesis-centered research on interactions between alcohol and other relevant causal influences. Focus on trajectories from initial alcohol exposure to the development of pathological drinking by some individuals will identify translatable markers and mechanisms to support future prevention and intervention efforts that reduce the chronic conditions associated with alcohol misuse including but not limited to AUD. To promote innovation, investigators will adapt advanced tools and technologies from the BRAIN Initiative, NIH Common Fund, and other sources to examine brain structure and function at multiple spatial and temporal scales, from microcircuitry to whole brain networks, and reveal peripheral influences on brain function underlying excessive alcohol drinking. To promote rigor and reproducibility, a focus on standardization of neurofunctional measures and replication will be instituted across both consortia. In the context of the initiative, integration occurs with: (1) projects across multiple participating sites addressing objectives around a central hypothesis, (2) knowledge of actions and interactions at multiple biological scales of analysis, (3) shared resources and standardized experimental protocols, and (4) cross-species translation. The initiative renewal will support two collaborating multisite consortia though cooperative agreement mechanisms, each comprised of administrative and resource cores, and U01s for individual research projects. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the U24 activity code. Investigators with expertise and insights into this area of integrative neuroscience are encouraged to begin to consider applying for this new NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.273",
+          "title": "Alcohol Research Programs"
+        }
+      ]
     },
     {
       "opportunity_id": "358824",
