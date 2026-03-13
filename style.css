@@ -395,7 +395,7 @@ a:hover {
   background: #C6F9CC;
 }
 .grant-item.is-saved:hover .grant-inner {
-  background: #D8F6DA;
+  background: #E8FAE9;
 }
 
 /* ── Save icon ───────────────────────────────────────────────── */
@@ -472,12 +472,12 @@ a:hover {
   border-color: var(--title);
 }
 .saved-pill-danger {
-  color:        #b03030;
-  border-color: #e8c4c4;
+  color:        var(--tagline);
+  border-color: var(--border);
 }
 .saved-pill-danger:hover {
-  background:   #fdf0f0;
-  border-color: #b03030;
+  background:   var(--background-hover);
+  border-color: var(--tagline);
 }
 
 /* ── Entry parts ────────────────────────────────────────────── */
