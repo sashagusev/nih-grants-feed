@@ -1,11 +1,14 @@
 {
-  "updated_at": "2026-03-13T07:45:27.429650+00:00",
+  "updated_at": "2026-03-13T14:04:09.553172+00:00",
   "count": 35,
   "data": [
     {
       "id": 42,
       "title": "Research on Rare Cancers Across the Cancer Control Continuum",
       "lead_ico": "NCI",
+      "participating_icos": [
+        "NIDCR"
+      ],
       "posted_date": "2026-02-18",
       "expiration_date": "2027-02-20",
       "status": "published",
@@ -20,6 +23,9 @@
       "id": 50,
       "title": "Advancing Nanotechnology Research to Improve Diagnosis and Treatment Options",
       "lead_ico": "NEI",
+      "participating_icos": [
+        "NCI"
+      ],
       "posted_date": "2026-01-22",
       "expiration_date": "2027-03-10",
       "status": "published",
@@ -32,6 +38,11 @@
       "id": 51,
       "title": "Advancing Treatment Options using Targeted Degrader Technologies",
       "lead_ico": "NEI",
+      "participating_icos": [
+        "NCI",
+        "NIAID",
+        "NIDCR"
+      ],
       "posted_date": "2026-01-15",
       "expiration_date": "2027-03-10",
       "status": "published",
@@ -44,6 +55,11 @@
       "id": 58,
       "title": "Understanding Nutritional Influences on Neurodevelopmental Disorders in Children",
       "lead_ico": "ONR",
+      "participating_icos": [
+        "NIEHS",
+        "OAR",
+        "OBSSR"
+      ],
       "posted_date": "2026-01-12",
       "expiration_date": "2027-03-10",
       "status": "published",
@@ -58,6 +74,23 @@
       "id": 52,
       "title": "Strengthening Biomedical Research, Promoting Trust, and Improving Health through Bioethics Research",
       "lead_ico": "OSP",
+      "participating_icos": [
+        "NCI",
+        "NEI",
+        "NHGRI",
+        "NHLBI",
+        "NIA",
+        "NIAAA",
+        "NIAID",
+        "NIBIB",
+        "NIDA",
+        "NIDCR",
+        "NINDS",
+        "NINR",
+        "OBSSR",
+        "ODSS",
+        "NIMH"
+      ],
       "posted_date": "2025-12-15",
       "expiration_date": "2027-01-12",
       "status": "published",
@@ -70,6 +103,10 @@
       "id": 45,
       "title": "Optimal Interprofessional Teaming  and Care Coordination Strategies for Cancer Care Quality and Outcomes",
       "lead_ico": "NCI",
+      "participating_icos": [
+        "NIDCR",
+        "ODP"
+      ],
       "posted_date": "2025-11-19",
       "expiration_date": "2027-02-13",
       "status": "published",
@@ -84,6 +121,11 @@
       "id": 46,
       "title": "Drug Discovery for Nervous System Disorders",
       "lead_ico": "NIA",
+      "participating_icos": [
+        "NEI",
+        "NIDA",
+        "NIMH"
+      ],
       "posted_date": "2025-09-19",
       "expiration_date": "2027-01-28",
       "status": "published",
@@ -96,6 +138,26 @@
       "id": 43,
       "title": "Advancing Autoimmune Disease Research: Integrating Genetic, Environmental, and Immunological Factors to Improve Diagnosis and Treatment",
       "lead_ico": "ORWH",
+      "participating_icos": [
+        "NCI",
+        "NEI",
+        "NHGRI",
+        "NIA",
+        "NIAAA",
+        "NIAID",
+        "NIAMS",
+        "NIBIB",
+        "NICHD",
+        "NIDCD",
+        "NIDCR",
+        "NIDDK",
+        "NIEHS",
+        "NIMH",
+        "NIMHD",
+        "NINDS",
+        "NINR",
+        "NLM"
+      ],
       "posted_date": "2025-09-15",
       "expiration_date": "2027-02-12",
       "status": "published",
@@ -110,6 +172,9 @@
       "id": 34,
       "title": "Developing and Evaluating Evidence-Based Practice for Users of Augmentative and Alternative Communication (AAC)",
       "lead_ico": "NIDCD",
+      "participating_icos": [
+        "ORWH"
+      ],
       "posted_date": "2025-09-01",
       "expiration_date": "2027-01-26",
       "status": "published",
@@ -124,6 +189,9 @@
       "id": 35,
       "title": "Advancing the Use of 3D Technologies Using Human Auditory, Vestibular and Chemosensory Organoids to Create New Approach Models (NAMs) for Treatments",
       "lead_ico": "NIDCD",
+      "participating_icos": [
+        "ORWH"
+      ],
       "posted_date": "2025-09-01",
       "expiration_date": "2026-12-02",
       "status": "published",
@@ -139,6 +207,9 @@
       "id": 36,
       "title": "Advancing Meaningful Outcome Measures in Adult Hearing Care",
       "lead_ico": "NIDCD",
+      "participating_icos": [
+        "NIA"
+      ],
       "posted_date": "2025-09-01",
       "expiration_date": "2026-12-08",
       "status": "published",
@@ -153,6 +224,9 @@
       "id": 37,
       "title": "Fundamental Science Research on the Neural Circuits Underlying Sensory Processing",
       "lead_ico": "NIDCD",
+      "participating_icos": [
+        "NEI"
+      ],
       "posted_date": "2025-09-01",
       "expiration_date": "2027-01-22",
       "status": "published",
@@ -167,6 +241,13 @@
       "id": 12,
       "title": "Computational Approaches in Fundamental Neuroscience",
       "lead_ico": "NIMH",
+      "participating_icos": [
+        "NCCIH",
+        "NEI",
+        "NIA",
+        "NIDA",
+        "ORWH"
+      ],
       "posted_date": "2025-08-05",
       "expiration_date": "2027-01-27",
       "status": "published",
@@ -179,6 +260,22 @@
       "id": 20,
       "title": "Implementation Science to Optimize HIV Prevention and Treatment",
       "lead_ico": "OAR",
+      "participating_icos": [
+        "NCI",
+        "NIA",
+        "NIAAA",
+        "NIAID",
+        "NIAMS",
+        "NICHD",
+        "NIDA",
+        "NIDCR",
+        "NIDDK",
+        "NIMH",
+        "NINR",
+        "ODP",
+        "ORIP",
+        "ORWH"
+      ],
       "posted_date": "2025-07-30",
       "expiration_date": "2026-12-02",
       "status": "published",
@@ -194,6 +291,9 @@
       "id": 38,
       "title": "Leveraging New Approach Methodologies and Non-Animal Technologies to Accelerate Osteoarthritis Research",
       "lead_ico": "NIAMS",
+      "participating_icos": [
+        "NIA"
+      ],
       "posted_date": "2025-07-28",
       "expiration_date": "2026-08-29",
       "status": "published",
@@ -208,6 +308,10 @@
       "id": 31,
       "title": "Supporting Research Using the Resources from the Osteoarthritis Initiative (OAI)",
       "lead_ico": "NIAMS",
+      "participating_icos": [
+        "NIA",
+        "ORWH"
+      ],
       "posted_date": "2025-07-17",
       "expiration_date": "2027-01-26",
       "status": "published",
@@ -222,6 +326,14 @@
       "id": 27,
       "title": "Technology Development for Genomics",
       "lead_ico": "NHGRI",
+      "participating_icos": [
+        "NEI",
+        "NIAID",
+        "NIDA",
+        "NLM",
+        "ORWH",
+        "NCI"
+      ],
       "posted_date": "2025-07-14",
       "expiration_date": "2026-08-29",
       "status": "published",
@@ -236,6 +348,15 @@
       "id": 28,
       "title": "Advancing the Use of Genomic Information Into Clinical Care",
       "lead_ico": "NHGRI",
+      "participating_icos": [
+        "NIAID",
+        "NIDA",
+        "NINDS",
+        "NINR",
+        "ORWH",
+        "NIDCR",
+        "NCI"
+      ],
       "posted_date": "2025-07-14",
       "expiration_date": "2026-08-29",
       "status": "published",
@@ -250,6 +371,13 @@
       "id": 16,
       "title": "Priority Research Questions in Fundamental Cellular and Molecular Neuroscience",
       "lead_ico": "NINDS",
+      "participating_icos": [
+        "NIBIB",
+        "NIDA",
+        "NIMH",
+        "ORWH",
+        "NEI"
+      ],
       "posted_date": "2025-07-11",
       "expiration_date": "2026-09-15",
       "status": "published",
@@ -264,6 +392,17 @@
       "id": 18,
       "title": "BRAIN Initiative: Data Knowledgebase Ecosystem and NeuroAI Integration",
       "lead_ico": "NINDS",
+      "participating_icos": [
+        "NCCIH",
+        "NEI",
+        "NIA",
+        "NIAAA",
+        "NIBIB",
+        "NIDA",
+        "NIDCD",
+        "NIMH",
+        "ORWH"
+      ],
       "posted_date": "2025-07-11",
       "expiration_date": "2026-09-29",
       "status": "published",
@@ -278,6 +417,18 @@
       "id": 19,
       "title": "BRAIN Initiative: Advancing Human Neuroscience and Precision Molecular Therapies for Transformative Treatments",
       "lead_ico": "NINDS",
+      "participating_icos": [
+        "NCCIH",
+        "NEI",
+        "NIA",
+        "NIAAA",
+        "NIBIB",
+        "NIDA",
+        "NIDCD",
+        "NIMH",
+        "ORWH",
+        "OBSSR"
+      ],
       "posted_date": "2025-07-11",
       "expiration_date": "2027-01-22",
       "status": "published",
@@ -292,6 +443,14 @@
       "id": 21,
       "title": "Advancing Microbiome Science Through Multidisciplinary Mechanistic Investigations of the Human Microbiome in Health and Disease",
       "lead_ico": "NIAID",
+      "participating_icos": [
+        "NCCIH",
+        "NEI",
+        "NIA",
+        "NIDCR",
+        "ORWH",
+        "NCI"
+      ],
       "posted_date": "2025-07-11",
       "expiration_date": "2027-01-15",
       "status": "published",
@@ -306,6 +465,11 @@
       "id": 22,
       "title": "Research on Short-Lived and Long-Lived Plasma Cells in Humans",
       "lead_ico": "NIAID",
+      "participating_icos": [
+        "NIA",
+        "NIAMS",
+        "ORWH"
+      ],
       "posted_date": "2025-07-11",
       "expiration_date": "2026-09-10",
       "status": "published",
@@ -320,6 +484,12 @@
       "id": 23,
       "title": "Accelerating Research in Celiac Disease",
       "lead_ico": "NIAID",
+      "participating_icos": [
+        "NCI",
+        "NIAMS",
+        "NIDCR",
+        "ORWH"
+      ],
       "posted_date": "2025-07-11",
       "expiration_date": "2026-09-10",
       "status": "published",
@@ -334,6 +504,13 @@
       "id": 25,
       "title": "Neural Exposome Factors that Affect Brain Health and Neurological Disorders",
       "lead_ico": "NINDS",
+      "participating_icos": [
+        "NHLBI",
+        "NIDA",
+        "ORWH",
+        "NEI",
+        "NIA"
+      ],
       "posted_date": "2025-07-11",
       "expiration_date": "2026-12-02",
       "status": "published",
@@ -348,6 +525,9 @@
       "id": 9,
       "title": "Research on Drowning Prevention",
       "lead_ico": "NICHD",
+      "participating_icos": [
+        "ODP"
+      ],
       "posted_date": "2025-07-10",
       "expiration_date": "2026-08-29",
       "status": "published",
@@ -362,6 +542,9 @@
       "id": 10,
       "title": "Effects of Contraception as Treatment for Gynecologic Disorders",
       "lead_ico": "NICHD",
+      "participating_icos": [
+        "ORWH"
+      ],
       "posted_date": "2025-07-10",
       "expiration_date": "2026-08-29",
       "status": "published",
@@ -376,6 +559,14 @@
       "id": 11,
       "title": "School Mental and Behavioral Health: Expanding Access to Evidence-Based Interventions and Services",
       "lead_ico": "NIMH",
+      "participating_icos": [
+        "NIAMS",
+        "NIDA",
+        "NINR",
+        "ODP",
+        "ORWH",
+        "NIAAA"
+      ],
       "posted_date": "2025-07-10",
       "expiration_date": "2026-09-11",
       "status": "published",
@@ -388,6 +579,13 @@
       "id": 13,
       "title": "Understanding and Combating Chronic Disease Burden: The Role of Trauma",
       "lead_ico": "NIMH",
+      "participating_icos": [
+        "NIA",
+        "NIDA",
+        "ODP",
+        "ORWH",
+        "NIAAA"
+      ],
       "posted_date": "2025-07-10",
       "expiration_date": "2026-09-10",
       "status": "published",
@@ -400,6 +598,10 @@
       "id": 4,
       "title": "Understanding the Impact of Immune Function on Neurocognition and Substance Use Disorder Risk Across the Lifespan (IMMUNE-LIFESPAN)",
       "lead_ico": "NIDA",
+      "participating_icos": [
+        "NIAAA",
+        "ORWH"
+      ],
       "posted_date": "2025-07-09",
       "expiration_date": "2026-09-10",
       "status": "published",
@@ -412,6 +614,10 @@
       "id": 5,
       "title": "Sleep, Circadian Rhythms, and Substance Use Disorders",
       "lead_ico": "NIDA",
+      "participating_icos": [
+        "NIAAA",
+        "ORWH"
+      ],
       "posted_date": "2025-07-09",
       "expiration_date": "2026-09-10",
       "status": "published",
@@ -424,6 +630,10 @@
       "id": 6,
       "title": "Novel Targets, Methods, and Pharmacological Approaches to Treat Substance Use Disorder",
       "lead_ico": "NIDA",
+      "participating_icos": [
+        "NIAAA",
+        "ORWH"
+      ],
       "posted_date": "2025-07-09",
       "expiration_date": "2027-01-28",
       "status": "published",
@@ -436,6 +646,9 @@
       "id": 7,
       "title": "Novel Circuits and Mechanisms Modulating Sensory Integration and Addiction",
       "lead_ico": "NIDA",
+      "participating_icos": [
+        "ORWH"
+      ],
       "posted_date": "2025-07-09",
       "expiration_date": "2027-01-09",
       "status": "published",
@@ -448,6 +661,18 @@
       "id": 2,
       "title": "Research on the Transition from Pediatric to Adult Health Care",
       "lead_ico": "NICHD",
+      "participating_icos": [
+        "NHLBI",
+        "NIAAA",
+        "NIDA",
+        "NIDCR",
+        "NIDDK",
+        "NIMH",
+        "NINR",
+        "OBSSR",
+        "ODP",
+        "ORWH"
+      ],
       "posted_date": "2025-07-07",
       "expiration_date": "2026-08-29",
       "status": "published",
@@ -462,6 +687,12 @@
       "id": 3,
       "title": "Advancing Prevention and Treatment of Bacterial Sexually Transmitted Infections in HIV-Affected Populations",
       "lead_ico": "NICHD",
+      "participating_icos": [
+        "NIAID",
+        "NINR",
+        "ORWH",
+        "ODP"
+      ],
       "posted_date": "2025-07-07",
       "expiration_date": "2026-09-11",
       "status": "published",

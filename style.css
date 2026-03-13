@@ -637,7 +637,7 @@ a:hover {
 .theme-toggle {
   position:      fixed;
   top:           12px;
-  left:          12px;
+  right:         12px;
   width:         16px;
   height:        16px;
   border-radius: 3px;
@@ -678,3 +678,39 @@ body.light-theme .grant-item.is-new:hover .grant-inner { background: #e4e4e4; }
 
 body.light-theme .grant-item.is-saved .grant-inner      { background: #f2f2f2; }
 body.light-theme .grant-item.is-saved:hover .grant-inner { background: #f2f2f2; }
+
+/* ── Sort bar ────────────────────────────────────────────────── */
+.sort-bar {
+  display:     flex;
+  align-items: center;
+  gap:         4px;
+  padding:     4px 0 2px;
+  margin-bottom: 4px;
+  flex-wrap:   wrap;
+}
+.sort-label {
+  font-size:      11px;
+  font-weight:    600;
+  color:          var(--updated);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-right:   2px;
+}
+.sort-btn {
+  font-size:   12px;
+  font-weight: 500;
+  color:       var(--tagline);
+  background:  transparent;
+  border:      1px solid var(--border);
+  border-radius: 4px;
+  padding:     2px 7px;
+  cursor:      pointer;
+  font-family: var(--f-family);
+  transition:  color 0.1s, background 0.1s;
+}
+.sort-btn:hover { color: var(--title); background: var(--background-hover); }
+.sort-btn.active {
+  color:       var(--title);
+  background:  var(--background-alt);
+  font-weight: 600;
+}

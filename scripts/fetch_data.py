@@ -195,13 +195,17 @@ def fetch_highlighted_topics():
     topics = []
     for hit in raw.get("hits", {}).get("hits", []):
         src = hit.get("_source", {})
+        lead_ico = src.get("lead_ico", "")
+        all_icos = [spec["ico"] for spec in src.get("ico_specifics", []) if spec.get("ico")]
+        participating_icos = [ico for ico in all_icos if ico != lead_ico]
         topics.append({
-            "id":              src.get("id"),
-            "title":           _clean_text(src.get("title") or ""),
-            "lead_ico":        src.get("lead_ico", ""),
-            "posted_date":     (src.get("posted_date") or "")[:10],
-            "expiration_date": (src.get("expiration_date") or "")[:10],
-            "status":          src.get("status", ""),
+            "id":                 src.get("id"),
+            "title":              _clean_text(src.get("title") or ""),
+            "lead_ico":           lead_ico,
+            "participating_icos": participating_icos,
+            "posted_date":        (src.get("posted_date") or "")[:10],
+            "expiration_date":    (src.get("expiration_date") or "")[:10],
+            "status":             src.get("status", ""),
             "url": (
                 f"https://grants.nih.gov/funding/"
                 f"find-a-fit-for-your-research/highlighted-topics/{src.get('id', '')}"

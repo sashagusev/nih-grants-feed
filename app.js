@@ -14,7 +14,20 @@
   var filtersSection  = null; // section for which institute filter was built
   var awardRange      = null; // null=Any, 'lt250', '250-750', 'gt750'
   var lightTheme      = false;
+  var sortField       = 'post_date';
+  var sortDir         = 'desc';
   var hoverTimer      = null;
+
+  // Sort options available per section
+  var SORT_OPTIONS = {
+    posted:      [{key:'post_date',       label:'Posted'},
+                  {key:'opening_date',    label:'Opens'},
+                  {key:'close_date',      label:'Closes'}],
+    forecasted:  [{key:'post_date',       label:'Posted'}],
+    highlighted: [{key:'posted_date',     label:'Posted'},
+                  {key:'expiration_date', label:'Expires'}],
+    saved:       [],
+  };
 
   var savedGrants = {};
   try { savedGrants = JSON.parse(localStorage.getItem(SAVED_KEY) || '{}'); } catch (_) {}
@@ -65,6 +78,40 @@
         : new Date(dateStr);
       return posted > new Date(lastVisit);
     } catch (_) { return false; }
+  }
+
+  // ── Institute keys (lead + participating for highlighted topics) ─────────────
+  function getInstituteKeys(item) {
+    var inst = item.institute || item.lead_ico || 'NIH (general)';
+    var keys = [inst];
+    (item.participating_icos || []).forEach(function (ico) {
+      if (keys.indexOf(ico) === -1) keys.push(ico);
+    });
+    return keys;
+  }
+
+  // ── Sort helpers ─────────────────────────────────────────────────────────────
+  function sortItems(items) {
+    var opts = SORT_OPTIONS[currentSection] || [];
+    if (!opts.length) return items.slice();
+    return items.slice().sort(function (a, b) {
+      var va = a[sortField] || '';
+      var vb = b[sortField] || '';
+      var cmp = va < vb ? -1 : va > vb ? 1 : 0;
+      return sortDir === 'desc' ? -cmp : cmp;
+    });
+  }
+
+  function renderSortBar() {
+    var opts = SORT_OPTIONS[currentSection] || [];
+    if (!opts.length) return '';
+    var btns = opts.map(function (opt) {
+      var isActive = opt.key === sortField;
+      var arrow = isActive ? (sortDir === 'desc' ? ' ↓' : ' ↑') : '';
+      return '<button class="sort-btn' + (isActive ? ' active' : '') +
+             '" data-field="' + opt.key + '">' + opt.label + arrow + '</button>';
+    }).join('');
+    return '<div class="sort-bar"><span class="sort-label">Sort</span>' + btns + '</div>';
   }
 
   // ── Mechanism extraction ─────────────────────────────────────────────────────
@@ -356,10 +403,10 @@
         var itemMechs = getMechanism(item);
         if (!itemMechs.some(function (m) { return mechs[m]; })) return false;
       }
-      // Institute filter
+      // Institute filter (includes participating ICOs for highlighted topics)
       if (insts) {
-        var inst = item.institute || item.lead_ico || 'NIH (general)';
-        if (!insts[inst]) return false;
+        var instKeys = getInstituteKeys(item);
+        if (!instKeys.some(function (k) { return insts[k]; })) return false;
       }
       // CFDA filter: include if any of the item's CFDAs is selected
       if (cfdas) {
@@ -394,7 +441,12 @@
     // Sub line: institute · opens · award · num awards
     var subParts = [];
     var inst = item.institute || item.lead_ico || '';
-    if (inst) subParts.push({ cls: 'institute', text: inst });
+    var instDisplay = inst;
+    if (inst && item.participating_icos && item.participating_icos.length) {
+      var others = item.participating_icos.filter(function (ico) { return ico !== inst; });
+      if (others.length) instDisplay = inst + ' (' + others.join(', ') + ')';
+    }
+    if (instDisplay) subParts.push({ cls: 'institute', text: instDisplay });
     if (openDate)           subParts.push({ cls: '', text: 'opens\u00a0' + fmtDate(openDate) });
     if (item.award_ceiling) subParts.push({ cls: '', text: fmtAmount(item.award_ceiling) + '\u00a0max' });
     if (item.num_awards)    subParts.push({ cls: '', text: item.num_awards + '\u00a0award' +
@@ -458,8 +510,11 @@
       (filtered.length !== allItems.length ? ' of ' + allItems.length : '') +
       ' item' + (filtered.length !== 1 ? 's' : '') + '</p>';
 
-    contentEl.innerHTML = countLine +
-      '<ul class="grant-list">' + filtered.map(renderItem).join('') + '</ul>';
+    var sorted = sortItems(filtered);
+    currentItems = sorted;
+
+    contentEl.innerHTML = renderSortBar() + countLine +
+      '<ul class="grant-list">' + sorted.map(renderItem).join('') + '</ul>';
 
     setUrlState();
   }
@@ -502,6 +557,13 @@
     var hasCfda   = items.some(function (g) { return g.cfda_list && g.cfda_list.length; });
     var hasAward  = items.some(function (g) { return g.award_ceiling != null; });
 
+    // Reset sort to default when switching sections
+    if (section !== filtersSection) {
+      var defaultOpts = SORT_OPTIONS[section] || [];
+      sortField = defaultOpts.length ? defaultOpts[0].key : 'post_date';
+      sortDir   = 'desc';
+    }
+
     // Build filters only when switching sections
     if (section !== filtersSection && hasInst) {
       var hasMech = items.some(function (g) {
@@ -511,9 +573,7 @@
         buildChecklist(mechFilterList, mechAllLink, mechNoneLink,
           getMechanism, items);
       }
-      buildChecklist(instFilterList, instAllLink, instNoneLink,
-        function (item) { return [item.institute || item.lead_ico || 'NIH (general)']; },
-        items);
+      buildChecklist(instFilterList, instAllLink, instNoneLink, getInstituteKeys, items);
       if (hasCfda) {
         buildChecklist(cfdaFilterList, cfdaAllLink, cfdaNoneLink,
           function (item) { return (item.cfda_list || []).map(function (c) { return c.title || c.number; }).filter(Boolean); },
@@ -576,8 +636,22 @@
     hoverTimer = setTimeout(hideDetail, 200);
   });
 
-  // ── Click to save ────────────────────────────────────────────────────────────
+  // ── Click to save / sort ─────────────────────────────────────────────────────
   document.getElementById('content').addEventListener('click', function (e) {
+    // Sort button
+    var sortBtn = e.target.closest('.sort-btn');
+    if (sortBtn) {
+      var field = sortBtn.dataset.field;
+      if (field === sortField) {
+        sortDir = sortDir === 'desc' ? 'asc' : 'desc';
+      } else {
+        sortField = field;
+        sortDir = 'desc';
+      }
+      var items = (allData[currentSection] || {}).data || [];
+      renderContent(items);
+      return;
+    }
     if (e.target.closest('a')) return;        // let link clicks through
     var li = e.target.closest('.grant-item');
     if (!li) return;
@@ -600,7 +674,7 @@
     var pending = SECTIONS.length;
 
     SECTIONS.forEach(function (section) {
-      fetch('data/' + section + '.json')
+      fetch('data/' + section + '.json', { cache: 'no-cache' })
         .then(function (r) {
           if (!r.ok) throw new Error(r.status);
           return r.json();
