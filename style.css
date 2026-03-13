@@ -632,3 +632,49 @@ a:hover {
 .detail-contact a {
   font-size: 12px;
 }
+
+/* ── Theme toggle button ─────────────────────────────────────── */
+.theme-toggle {
+  position:      fixed;
+  top:           12px;
+  left:          12px;
+  width:         16px;
+  height:        16px;
+  border-radius: 3px;
+  border:        1px solid var(--border);
+  background:    #ffffff;
+  cursor:        pointer;
+  padding:       0;
+  z-index:       9999;
+  opacity:       0.7;
+  transition:    opacity 0.15s, background 0.15s, border-color 0.15s;
+}
+.theme-toggle:hover { opacity: 1; }
+
+/* In light theme, show a green square to hint "go back to green" */
+body.light-theme .theme-toggle {
+  background:    #D5F5D9;
+  border-color:  #aaaaaa;
+}
+
+/* ── Light theme overrides ───────────────────────────────────── */
+body.light-theme {
+  --background:       #ffffff;
+  --background-alt:   #f6f6f6;
+  --background-hover: #eeeeee;
+  --border:           #dddddd;
+  --text:             #1a1a1a;
+  --title:            #111111;
+  --tagline:          #555555;
+  --updated:          #888888;
+  --shadow:           rgba(0,0,0,0.06) 0px 10px 10px -10px;
+}
+
+body.light-theme .grant-item.is-new .grant-inner {
+  background:   #eeeeee;
+  border-left:  3px solid #bbbbbb;
+}
+body.light-theme .grant-item.is-new:hover .grant-inner { background: #e4e4e4; }
+
+body.light-theme .grant-item.is-saved .grant-inner      { background: #f2f2f2; }
+body.light-theme .grant-item.is-saved:hover .grant-inner { background: #f2f2f2; }

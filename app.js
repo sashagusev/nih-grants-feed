@@ -13,6 +13,7 @@
   var currentItems    = [];   // items currently displayed (post-filter)
   var filtersSection  = null; // section for which institute filter was built
   var awardRange      = null; // null=Any, 'lt250', '250-750', 'gt750'
+  var lightTheme      = false;
   var hoverTimer      = null;
 
   var savedGrants = {};
@@ -104,6 +105,7 @@
     if (iv) params.i = iv.join(',');
     if (cv) params.c = cv.join(',');
     if (awardRange) params.a = awardRange;
+    if (lightTheme) params.t = '1';
     var hash = Object.keys(params).map(function (k) {
       return encodeURIComponent(k) + '=' + encodeURIComponent(params[k]);
     }).join('&');
@@ -636,11 +638,23 @@
     });
   });
 
+  // ── Theme toggle ──────────────────────────────────────────────────────────────
+  function setTheme(light) {
+    lightTheme = light;
+    document.body.classList.toggle('light-theme', light);
+  }
+
+  document.getElementById('theme-toggle').addEventListener('click', function () {
+    setTheme(!lightTheme);
+    setUrlState();
+  });
+
   // ── Boot ─────────────────────────────────────────────────────────────────────
   (function () {
     var p = getUrlParams();
     var validSections = SECTIONS.concat(['saved']);
     if (p.s && validSections.indexOf(p.s) !== -1) currentSection = p.s;
+    if (p.t === '1') setTheme(true);
   }());
 
   window.addEventListener('hashchange', function () {
@@ -650,6 +664,7 @@
       currentSection = p.s;
       renderSection(currentSection);
     }
+    setTheme(p.t === '1');
   });
 
   loadAll();
