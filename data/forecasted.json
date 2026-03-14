@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-13T14:46:09.412909+00:00",
+  "updated_at": "2026-03-14T07:37:47.891458+00:00",
   "count": 334,
   "data": [
     {
@@ -151,6 +151,30 @@
       ]
     },
     {
+      "opportunity_id": "361439",
+      "number": "PAR-26-149",
+      "title": "Cancer Center Support Grants (CCSGs) for NCI-designated Cancer Centers (P30 Clinical Trial Optional)",
+      "agency_name": "National Institutes of Health",
+      "agency_code": "HHS-NIH11",
+      "institute": "NCI",
+      "post_date": "2026-03-10",
+      "close_date": "",
+      "status": "forecasted",
+      "url": "https://simpler.grants.gov/search?query=PAR-26-149",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Office of Cancer Centers, National Cancer Institute (NCI)",
+      "contact_email": "ncicenters-r@mail.nih.gov",
+      "abstract": "This Notice of Funding Opportunity (NOFO) invites applications for P30 Cancer Center Support Grants (CCSGs) to support NCI-Designated Cancer Centers. CCSGs support three types of Cancer Centers: 1) Comprehensive Cancer Centers, which demonstrate reasonable depth and breadth of research activities in each of three major areas: basic laboratory; clinical; and prevention, control and population-based research, and which have substantial transdisciplinary research that bridges these scientific areas; and 2) Clinical Cancer Centers, which are primarily focused on basic laboratory; clinical; and prevention, cancer control, and population-based research; or some combination of these areas, and 3) Basic Cancer Centers, which focus on basic laboratory research. The purpose of all types of NCI-Designated Cancer Centers is to capitalize on all institutional cancer research capabilities, integrating meritorious research into a single transdisciplinary research enterprise across all institutional boundaries. Cancer Centers supported through this NOFO are expected to serve as major sources of discovery of the nature of cancer and of development of more effective approaches to prevention, diagnosis, and therapy; to contribute significantly to the development of Shared Resources that support research; to collaborate and coordinate their research efforts with other NCI-funded programs and investigators; and to disseminate research findings for the benefit of the community.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.397",
+          "title": "Cancer Centers Support Grants"
+        }
+      ]
+    },
+    {
       "opportunity_id": "361431",
       "number": "RFA-RM-26-024",
       "title": "Pilot Projects to Enhance the Human Virome Program (R03, Clinical Trials Not Allowed)",
@@ -203,30 +227,6 @@
         {
           "number": "93.399",
           "title": "Cancer Control"
-        }
-      ]
-    },
-    {
-      "opportunity_id": "361439",
-      "number": "PAR-26-149",
-      "title": "Cancer Center Support Grants (CCSGs) for NCI-designated Cancer Centers (P30 Clinical Trial Optional)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NCI",
-      "post_date": "2026-03-10",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-149",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Office of Cancer Centers, National Cancer Institute (NCI)",
-      "contact_email": "ncicenters-r@mail.nih.gov",
-      "abstract": "This Notice of Funding Opportunity (NOFO) invites applications for P30 Cancer Center Support Grants (CCSGs) to support NCI-Designated Cancer Centers. CCSGs support three types of Cancer Centers: 1) Comprehensive Cancer Centers, which demonstrate reasonable depth and breadth of research activities in each of three major areas: basic laboratory; clinical; and prevention, control and population-based research, and which have substantial transdisciplinary research that bridges these scientific areas; and 2) Clinical Cancer Centers, which are primarily focused on basic laboratory; clinical; and prevention, cancer control, and population-based research; or some combination of these areas, and 3) Basic Cancer Centers, which focus on basic laboratory research. The purpose of all types of NCI-Designated Cancer Centers is to capitalize on all institutional cancer research capabilities, integrating meritorious research into a single transdisciplinary research enterprise across all institutional boundaries. Cancer Centers supported through this NOFO are expected to serve as major sources of discovery of the nature of cancer and of development of more effective approaches to prevention, diagnosis, and therapy; to contribute significantly to the development of Shared Resources that support research; to collaborate and coordinate their research efforts with other NCI-funded programs and investigators; and to disseminate research findings for the benefit of the community.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.397",
-          "title": "Cancer Centers Support Grants"
         }
       ]
     },
@@ -988,19 +988,7 @@
       "post_date": "2026-02-05",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-137",
-      "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "Division of Kidney, Urologic, and Hematologic Diseases",
-      "contact_email": "NIDDK_KUH@nih.gov",
-      "abstract": "The purpose of this funding opportunity is to advance the NIH mission by supporting the continuation of the Consortium to Study Chronic Kidney Disease of UnceRtain Etiology (CKDu) in Agricultural Communities (CURE). Chronic Kidney Disease of Uncertain Etiology (CKDu) causes kidney failure in rural areas of many Low and Middle Income Countries, resulting in a large death toll among the young working age population. Environmental factors are suspected to be causative, but family and geographic clustering add consideration of unrecognized genetic susceptibility. The risk factors identified in other countries are encountered by U.S. patients, so this research will offer valuable insights into the development and progression of tubulointerstitial renal diseases, with broad implications for understanding kidney health and disease in the U.S. NIDDK, NIEHS, and FIC have jointly funded a consortium that includes Field Epidemiology Sites, a Renal and Environmental Science Core, and a Data Coordinating Center to find causes and potential interventions for CKDu since 2021. This NOFO requests applications for the Renal and Environmental Science Core that will provide support and leadership in discovery science. Consortium members will continue to collaborate to maximize scientific opportunities and enable discovery science to understand the etiologies of CKDu, the exposures that initiate and affect progression of tubulointerstitial kidney disease, potential therapeutic targets, and future opportunities for public health interventions. The CURE Consortium will serve as a resource for ancillary studies. This is a forecast for a single source Notice of Funding Opportunity (NOFO) that will invite application(s) from eligible organizations to apply. Application(s) will be peer-reviewed and only funded if meritorious.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-137"
     },
     {
       "opportunity_id": "361235",
@@ -1748,19 +1736,7 @@
       "post_date": "2025-12-11",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-RM-26-004",
-      "award_ceiling": null,
-      "num_awards": "10",
-      "contact_name": "NIH Director's Early Independence Award Program",
-      "contact_email": "EarlyIndependence@od.nih.gov",
-      "abstract": "The NIH Director's Early Independence Award supports rigorous and promising investigators who wish to pursue independent research soon after completion of their terminal doctoral degree or post-graduate clinical training, thereby forgoing the traditional post-doctoral training period and accelerating their entry into an independent research career. Applications in any area within the biomedical sciences are welcome. The NIH Director's Early Independence Award is a component of the High-Risk, High-Reward Research program of the NIH Common Fund .",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-RM-26-004"
     },
     {
       "opportunity_id": "360946",
@@ -3392,19 +3368,7 @@
       "post_date": "2025-09-12",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-046",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Ashlee Van't Veer, Ph.D.",
-      "contact_email": "ashlee.vantveer@nih.gov",
-      "abstract": "The National Institute of Mental Health (NIMH) seeks to support innovative educational activities focused on proposed skill development courses for graduate/medical students, medical residents, postdoctoral scholars, and/or early-career investigators to advance its mission by continuing the NIMH Research Education Program. Applications should propose to develop, implement, and evaluate creative and innovative short courses that will provide education in state-of-the-art research skills (e.g., tools, techniques, and approaches). Applications are not being solicited at this time. This notice is being issued to provide potential applicants ample time to develop strong, responsive applications. Investigators with expertise and insights in the development, implementation, and evaluation of innovative and interactive short courses for scientists interested in learning state-of-the-art skills needed to conduct cutting-edge mental health research are encouraged to consider applying to the NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-26-046"
     },
     {
       "opportunity_id": "360571",
@@ -3868,19 +3832,7 @@
       "post_date": "2025-09-08",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-CA-26-002",
-      "award_ceiling": null,
-      "num_awards": "9",
-      "contact_name": "Kelly Crotty, Ph.D.",
-      "contact_email": "Kelly.crotty@nih.gov",
-      "abstract": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) solicits grant applications proposing exploratory research projects focused on further development and validation of emerging technologies offering novel capabilities for targeting, probing, analyzing, handling, or performing quality control of biospecimens used for basic or clinical cancer research. This NOFO solicits R33 applications where major feasibility gaps for the technology or methodology have been overcome, as demonstrated with supportive preliminary data, but still requires further development and rigorous validation to encourage adoption by the research community. Well-suited applications must offer the potential to accelerate and/or enhance research in the areas of cancer biology, early detection and screening, clinical diagnosis, treatment, control, epidemiology, and/or address issues associated with cancer health disparities. Technologies proposed for development may be intended to have widespread applicability but must be focused in this proposal on cancer applications. Projects proposing application of existing technologies where the novelty resides in the biological or clinical target/question being pursued are not appropriate for this solicitation and will not be reviewed. This funding opportunity is part of a broader NCI-sponsored Innovative Molecular Analysis Technologies (IMAT) Program.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-CA-26-002"
     },
     {
       "opportunity_id": "360453",
@@ -4156,19 +4108,7 @@
       "post_date": "2025-08-28",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DE-27-004",
-      "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "Dena Fischer, DDS, MSD, MS",
-      "contact_email": "dena.fischer@nih.gov",
-      "abstract": "The National Institute of Dental and Craniofacial Research (NIDCR) intends to publish a Notice of Funding Opportunity (NOFO) to promote practice-based research through a Dental Primary Care Practice-Based Research Network (PBRN). This NOFO will invite applications for a Coordinating Center, to support the infrastructure for the planning and implementation of multiple observational studies and clinical trials, together with an Administrative and Resource Center, described in a separate companion NOFO. Supported studies will focus on integrating oral health care into medical care (whole-person health). The Coordinating Center will be responsible for managing the network membership database and developing and maintaining centralized data management systems that utilize flexible and innovative technologies for electronic data capture, including collecting research participant data independent of in-office visits. Applications are not being solicited at this time. Notice is being provided to allow potential applicants time to develop meaningful collaborations and responsive projects. Investigators with expertise in data coordination/management and conducting clinical research in practice-based research settings are encouraged to apply. NIDCR is authorized to forecast this opportunity under the Public Health Service Act (42 U.S.C §§ 241 and 284) and federal regulations (42 CFR Part 52 and 2 CFR Part 200).",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DE-27-004"
     },
     {
       "opportunity_id": "360385",
@@ -4428,19 +4368,7 @@
       "post_date": "2025-08-28",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DA-26-058",
-      "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "Tam Nguyen, PhD",
-      "contact_email": "Tam.Nguyen@nih.gov",
-      "abstract": "The National Institute on Drug Abuse (NIDA) seeks to advance its mission by establishing a Center that educates and supports researchers in formal product development for new substance use disorder (SUD) pharmacotherapeutics. The Center will also help advance the best concepts through initial experiments via technical and financial support. Previous NIDA-supported initiatives in early translational research have shown that drug addiction researchers are eager to acquire formal product development skills and access technical expertise and support. Prospective applicants are encouraged to: develop plans for a product development curriculum to be taught to SUD researchers, outline outreach and networking initiatives to engage the research community and recruit researchers' concepts for development within the Center, and describe the infrastructure support that may be provided for initial experiments. Applications are not being solicited at this time. This Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive applications. Investigators with expertise in the areas of drug discovery and development and institutional capacities to support such a Center are encouraged to begin to consider applying for this NOFO.Grant authorities that allow NIH to forecast this opportunity are as follows Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 45 CFR Part 75 and 2 CFR Part 200].",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DA-26-058"
     },
     {
       "opportunity_id": "360364",
@@ -5204,19 +5132,7 @@
       "post_date": "2025-06-27",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-MD-25-009",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Larissa Avilés-Santa, MD, MPH",
-      "contact_email": "avilessantal@nih.gov",
-      "abstract": "The National Institute on Minority Health and Health Disparities (NIMHD) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the Coordinating Center for the EmbraceHealth Clinical Research Network. The overarching goals of the EmbraceHealth Network are to establish and maintain an efficient and nimble infrastructure to conduct research to address emerging, urgent, or chronic health needs among populations that experience health disparities. Each site within the Network will conduct research to develop, test, and implement clinical and behavioral interventions and services that address key public health needs and diseases with evidence of health disparities. Interventions will be designed and evaluated using robust scientific methods and must demonstrate feasibility, scalability, and reproducibility. The EmbraceHealth Network will serve the purpose of improving routine healthcare services as well as linking clinical practice and science within lower resourced healthcare settings. The Coordinating Center will support the Clinical Research Network sites by: Coordinating research activities, including the Steering Committee and workgroups. Identifying network personnel and clinicians for study teams. Developing operational manuals and standardized protocols for multi-site studies, including consent and IRB processes. Assisting CRN sites in implementing projects with technical and quality control support. Maintaining a data management system for study data, including guidance from NIMHD. Standardizing protocols for common data elements, including biospecimen and electronic health record (EHR) data collection. Providing biostatistical support for study design, implementation, and analyses. Advising on infrastructure development, including electronic data harmonization and data science expertise. Coordinating data-sharing plans among CRN sites. Ensuring secure storage and access to study-related materials. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. In addition, collaborative investigations combining expertise in multiple scientific and clinical disciplines will be encouraged. Activity Code : This NOFO will utilize the U24 (Research Program Grant Cooperative Agreements) activity code.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=FOR-MD-25-009"
     },
     {
       "opportunity_id": "359865",
@@ -5396,19 +5312,7 @@
       "post_date": "2025-06-27",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-CA-25-090",
-      "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "Lori A. Henderson, Ph.D.",
-      "contact_email": "NCIETCTNRFA@mail.nih.gov",
-      "abstract": "The National Cancer Institute (NCI) intends to publish a Notice of Funding Opportunity (NOFO) solicits applications from institutions/organizations that propose to maintain or establish a Pharmacokinetics Resource Laboratory (PK Laboratory) to support the Experimental Therapeutics Clinical Trials Network (ETCTN). The PK Laboratory will organize biospecimen collections and provide subsequent analyzes of pharmacokinetic endpoints, drug-drug interactions, cytochrome P450 (CYP) interactions, pharmacodynamics, and food effects in ETCTN studies of NCI Investigational New Drug (IND) agents. The overarching goal of the ETCTN PK Laboratory is to advance the clinical development of NCI IND agents by providing a comprehensive understanding of pharmacokinetic behavior of these agents under study in ETCTN trials. The ETCTN PK Laboratory will engage physicians, clinical pharmacologists, nurses, and scientists who have appropriate expertise in pharmacokinetic studies for early drug development and translational research. This NOFO seeks U24 applications from multidisciplinary institutions/organizations to conduct all pharmacokinetic studies for ETCTN early phase clinical trials filed to IND applications in the NCI Division of Cancer Treatment and Diagnosis (DCTD), Cancer Therapy Evaluation Program (CTEP). Applicants for this NOFO are expected to have in place a standing infrastructure to support PK studies for ETCTN clinical trials from trial initiation through clinical development of NCI-IND agents. The ETCTN Pharmacokinetics Resource Laboratory application must include the following 3 functional components: Technical Services Core - This functional component should provide the technical services for the full range of PK and associated assays and analyzes needed to support ETCTN clinical trials. Scientific Leadership and Project Development Core - This functional component should provide scientific leadership and expertise for a team-science approach to project development in support of PK activities for the ETCTN. Biospecimen Collection, Tracking, Processing and Data Reporting Core - This functional Component should provide an integrated system/service for the collection, tracking, and processing of biospecimens from the ETCTN Lead Academic Organizations and their participating sites for ETCTN clinical trials. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the U24 activity code. The NOFO is expected to be published in Summer 2025 with an anticipated application due date in Fall 2025.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=FOR-CA-25-090"
     },
     {
       "opportunity_id": "359860",
@@ -5444,19 +5348,7 @@
       "post_date": "2025-06-27",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-AI-27-007",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Cynthia de la Fuente, Ph.D.",
-      "contact_email": "cynthia.delafuente@nih.gov",
-      "abstract": "The National Institute of Allergy and Infectious Diseases (NIAID) seeks to advance its mission by continuing support for the NIAID Clinical Trial Implementation Cooperative Agreements. This program encourages cooperative agreement applications for implementation of investigator-initiated, milestone driven, high-risk clinical trials including mechanistic studies associated with these clinical trials. Due to this focus, the program encompasses both basic and clinical research. This program includes support for the conduct, completion, and analysis of the clinical trial. Additional activities supported are related to the conduct of the clinical trial including training of study personnel; enrollment and recruitment of study subjects; data collection, clinical data management and quality control; investigational product costs; laboratory work and data analyses; study management and oversight; post-trial activities; and regulatory activities and site monitoring. Grant authorities that allow NIAID to forecast this opportunity are as follows: Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=FOR-AI-27-007"
     },
     {
       "opportunity_id": "359857",
@@ -6268,19 +6160,7 @@
       "post_date": "2025-06-17",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-MH-27-135",
-      "award_ceiling": null,
-      "num_awards": "5",
-      "contact_name": "Division of Translational Research",
-      "contact_email": "DTRcommunications@nih.gov",
-      "abstract": "The National Institute of Mental Health (NIMH) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research that addresses methodological challenges associated with clinical trials involving rapid-acting psychotropic interventional drugs (RAPIDs). RAPIDs, including 5-HT2A agonists such as psilocybin, dissociative anesthetics such as ketamine, and entactogens such as 3,4-methylenedioxymethamphetamine (MDMA), have demonstrated promising benefits for the relief of depression, anxiety and other mental health disorders. The goal of this NOFO is to improve the understanding of the key components underlying the therapeutic effects of RAPIDs and thereby increase confidence in the results from clinical trials with RAPID intervention(s). Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the R01 activity code. Investigators with expertise and insights into the therapeutic effects of RAPIDs are encouraged to consider applying for this new NOFO. In addition, collaborative research that integrates expertise in RAPID research and innovative trial design are encouraged. Applicants are encouraged to interact with the U.S. Food and Drug Administration (FDA) prior to application submission to ensure the proposed study will satisfy regulatory requirements.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-MH-27-135"
     },
     {
       "opportunity_id": "359726",
@@ -8584,19 +8464,7 @@
       "post_date": "2025-05-12",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=NOT-DK-26-316",
-      "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "Thomas L Eggerman MD, PhD",
-      "contact_email": "eggermant@nih.gov",
-      "abstract": "The NIDDK, intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research on { distributing human islets and is announcing its intent to issue a single source cooperative agreement award to Beckman Research Institute/City of Hope for the currently funded Integrated Islet Distribution Program (IIDP) to renew the program and maintain support for its continuing mission to provide the scientific community with important islet resources for diabetes research. The IIDP facilitates the distribution of human islets to biomedical researchers by establishing partnerships with qualified islet isolation facilities to prepare and distribute human islets. The program manages an application process to establish investigator eligibility to receive islet shipments, informs investigators of islet availability, manages a cost recovery system through fees collected from islet recipients, and oversees standardized phenotypic and genotypic analyses of islet preparations distributed throughout the IIDP network. Human islets remain an essential resource for diabetes research to advance our understanding of human islet cell biology, and to promote the development of new therapies for the prevention and treatment of diabetes}. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the {U24 Resource-Related Research Projects—Cooperative Agreements} activity code. Investigators with expertise and insights into this area of {live cell distribution and human islet biology} are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in {coordinating center administration and islet biology} will be encouraged and these investigators should also begin considering applying for this application.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=NOT-DK-26-316"
     },
     {
       "opportunity_id": "358864",
