@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-20T07:46:57.179706+00:00",
-  "count": 35,
+  "updated_at": "2026-03-21T07:33:17.927214+00:00",
+  "count": 36,
   "data": [
     {
       "id": 42,
@@ -49,6 +49,34 @@
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/51",
       "contacts": [],
       "abstract": "<p>This topic encourages studies that develop and apply degrader technologies to target disease-associated factors across a range of pathologies.</p><p>A major emphasis is the development of therapeutics that selectively eliminate toxic proteins. Traditional strategies for diseases such proteinopathies aim to restore proteostasis by modulating protein synthesis, folding, aggregation, and degradation; however, these approaches have had limited success, and many dysregulated proteins remain difficult to target due to structural complexity. Emerging targeted protein degradation (TPD) platforms expand therapeutic opportunities by enabling the selective removal of pathogenic proteins. These approaches include proteolysis-targeting chimeras (PROTACs), molecular glues, and hydrophobic tag tethering degraders (HyTTDs) that engage the ubiquitin–proteasome system (UPS). Other strategies, such as lysosome-targeting chimeras (LYTACs) and antibody-based PROTACs (AbTACs), leverage lysosomal pathways including endocytosis, phagocytosis, and autophagy, further broaden the types of proteins and pathogenic factors that can be targeted for degradation. </p><p>Recognizing the versatility of nucleic acid–based approaches, RNA-targeted chimeras (RIBOTACs) and antisense-mediated degradation further expand the therapeutic toolkit for targeting diverse pathogenic processes.</p><p>This topic encourages studies that advance novel targeted degrader technologies, identify specific and druggable targets, and establish translatable preclinical biomarkers to monitor disease progression and predict therapeutic response. Complementary mechanistic studies investigating the cellular toxicity of factors amenable to degrader-based interventions are also within scope.</p><h2>Participating ICOs</h2><p>Several eye diseases are associated with misfolded protein aggregates, including various forms of retinitis pigmentosa, maculopathies, glaucoma, cataracts and corneal dystrophy. The NEI seeks research in scope including the use of organoids, computational models, microphysiological systems and other novel approach methodologies (NAMs) to advance our understanding of the mechanisms by which eye disease-associated proteins misfold and to develop treatments to improve vision. </p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 53,
+      "title": "Multidisciplinary Studies of HIV/AIDS and Aging",
+      "lead_ico": "NIA",
+      "participating_icos": [
+        "NCI",
+        "NHLBI",
+        "NIAAA",
+        "NIAID",
+        "NIAMS",
+        "NIDA",
+        "NIDCR",
+        "NIDDK",
+        "NIMH",
+        "NINR",
+        "OAR",
+        "OBSSR",
+        "ODP",
+        "ORWH"
+      ],
+      "posted_date": "2026-01-14",
+      "expiration_date": "2027-03-20",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/53",
+      "contacts": [],
+      "abstract": "<p><strong>Background</strong></p><p>Over 50% of American adults living with HIV are over the age of 50 and that percentage is projected to continue to increase over time. The number of older adults with HIV is expected to rise primarily because of the successes of modern antiretroviral therapy (ART), which has allowed individuals who acquired HIV at a younger age to live into older age. Additionally, the prevalence of HIV acquisition in older age is attributable to new diagnoses in later life, with approximately 16% of new cases in Americans occurring in adults age 50 and older.</p><p>With the advances in HIV treatment, the most frequent morbidities and causes of death for individuals undergoing treatment for HIV are similar to those seen in older adults without HIV. These conditions include cardiovascular disease, lung disease, infection-related and non-infection-related cancers, neurocognitive and neuropsychiatric disorders, osteopenia/osteoporosis, liver cirrhosis, and renal disease. People with HIV (PWH) may exhibit many of the clinical and socio-behavioral characteristics commonly observed in aging as people without HIV, such as multiple morbidities, polypharmacy, declining physical and cognitive function, alterations in body composition, social isolation, and increasing caregiver burden. PWH also exhibit molecular changes associated with aging, such as epigenetic alterations, mitochondrial impairment, and telomere shortening. However, while PWH appear to experience similar aging related co-morbidities and characteristics as people without HIV, accumulating evidence suggests that HIV and/or its treatment may lead to accelerated and/or accentuated aging compared to people without HIV. In addition, recent advances have led to greater adoption of pre-and post-exposure prophylaxis, but the impact of these measures on aging is unclear.</p><p>This topic supports research at the intersection of HIV and aging including the following objectives:</p><ul><li>Improve the understanding of biological, clinical, socio-behavioral, and system-level aspects of aging in the context of HIV and its treatment</li><li>Improve approaches for testing, preventing, treating and implementing evidence-based interventions for HIV, and managing HIV-related comorbidities, co-infections, and complications in different populations and settings by applying current aging science approaches.</li></ul></p>",
       "abstract_is_html": true
     },
     {
@@ -327,12 +355,12 @@
       "title": "Technology Development for Genomics",
       "lead_ico": "NHGRI",
       "participating_icos": [
+        "NCI",
         "NEI",
         "NIAID",
         "NIDA",
         "NLM",
-        "ORWH",
-        "NCI"
+        "ORWH"
       ],
       "posted_date": "2025-07-14",
       "expiration_date": "2026-08-29",
