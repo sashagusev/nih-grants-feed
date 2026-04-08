@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T08:16:01.778629+00:00",
+  "updated_at": "2026-04-08T08:17:51.735920+00:00",
   "count": 394,
   "data": [
     {
@@ -797,6 +797,18 @@
       "close_date": "2028-05-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-439",
+      "award_ceiling": 500000,
+      "num_awards": "",
+      "contact_name": "Karen A. Kehl, PhD, RN",
+      "contact_email": "karen.kehl@nih.gov",
+      "abstract": "The purpose of this initiative is to support the development of innovative research centers to foster nursing-led programs that promote community-partnered research to address persistent health challenges. Center applications developed in response to this RFA should propose strategies to strengthen the research infrastructure by establishing or expanding centralized research resources in School or College of Nursing (SON/CON), developing and enhancing nurse-led interdisciplinary teams, and building expertise in community-partnered research through conducting pilot research that applies NINR's research lenses. Center strategies should be informed by NINRs mission and should meaningfully engage the community throughout all activities.",
+      "opening_date": "2025-12-16",
+      "cfda_list": [
+        {
+          "number": "93.361",
+          "title": "Nursing Research"
+        }
+      ],
       "participating_icos": [
         "NINR"
       ]
@@ -4715,6 +4727,122 @@
       "close_date": "2028-01-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PA-25-306",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "The NIH Exploratory/Developmental Grant supports exploratory and developmental research projects by providing support for the early and conceptual stages of these projects. These studies may involve considerable risk but may lead to a breakthrough in a particular area, or to the development of novel techniques, agents, methodologies, models, or applications that could have a major impact on a field of biomedical, behavioral, or clinical research. This Parent Notice of Funding Opportunity requires that at least 1 clinical trial be proposed. The proposed project must be related to the programmatic interests of one or more of the participating NIH Institutes and Centers (ICs) based on their scientific missions.Applicants should note that some ICs (see Related Notices) only accept applications proposing mechanistic studies that meet NIH's definition of a clinical trial through this funding opportunity announcement.",
+      "opening_date": "2025-01-16",
+      "cfda_list": [
+        {
+          "number": "93.113",
+          "title": "Environmental Health"
+        },
+        {
+          "number": "93.143",
+          "title": "NIEHS Superfund Hazardous Substances_Basic Research and Education"
+        },
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        },
+        {
+          "number": "93.173",
+          "title": "Research Related to Deafness and Communication Disorders"
+        },
+        {
+          "number": "93.213",
+          "title": "Research and Training in Complementary and Integrative Health"
+        },
+        {
+          "number": "93.233",
+          "title": "National Center on Sleep Disorders Research"
+        },
+        {
+          "number": "93.242",
+          "title": "Mental Health Research Grants"
+        },
+        {
+          "number": "93.273",
+          "title": "Alcohol Research Programs"
+        },
+        {
+          "number": "93.279",
+          "title": "Drug Use and Addiction Research Programs"
+        },
+        {
+          "number": "93.286",
+          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+        },
+        {
+          "number": "93.307",
+          "title": "Minority Health and Health Disparities Research"
+        },
+        {
+          "number": "93.361",
+          "title": "Nursing Research"
+        },
+        {
+          "number": "93.393",
+          "title": "Cancer Cause and Prevention Research"
+        },
+        {
+          "number": "93.394",
+          "title": "Cancer Detection and Diagnosis Research"
+        },
+        {
+          "number": "93.395",
+          "title": "Cancer Treatment Research"
+        },
+        {
+          "number": "93.396",
+          "title": "Cancer Biology Research"
+        },
+        {
+          "number": "93.399",
+          "title": "Cancer Control"
+        },
+        {
+          "number": "93.837",
+          "title": "Cardiovascular Diseases Research"
+        },
+        {
+          "number": "93.838",
+          "title": "Lung Diseases Research"
+        },
+        {
+          "number": "93.839",
+          "title": "Blood Diseases and Resources Research"
+        },
+        {
+          "number": "93.840",
+          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
+        },
+        {
+          "number": "93.846",
+          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        },
+        {
+          "number": "93.855",
+          "title": "Allergy and Infectious Diseases Research"
+        },
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        },
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        },
+        {
+          "number": "93.867",
+          "title": "Vision Research"
+        },
+        {
+          "number": "93.879",
+          "title": "Medical Library Assistance"
+        }
+      ],
       "participating_icos": [
         "NEI",
         "NHGRI",
@@ -4800,7 +4928,19 @@
       "post_date": "2024-12-16",
       "close_date": "2027-02-26",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-HG-25-009"
+      "url": "https://simpler.grants.gov/search?query=RFA-HG-25-009",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "This Funding Opportunity Announcement is intended to identify and support research projects by exceptionally promising Early Stage Investigators with a long-term career interest in pursuing innovative research in genomics. This opportunity is open to research in all areas relevant to the mission of NHGRI, including genomic sciences, genomic medicine, genomic data science, and ethical, legal, and social implications of genomics.",
+      "opening_date": "2025-01-28",
+      "cfda_list": [
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        }
+      ]
     },
     {
       "opportunity_id": "357742",
@@ -4837,6 +4977,18 @@
       "close_date": "2027-09-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAS-25-236",
+      "award_ceiling": 100000,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "Data science is an important cross-cutting research approach in the 2022 - 2026 NIDA Strategic Plan and increasing the capacity of experts in addiction related data science is critical. The purpose of this Notice is to facilitate the entry of investigators to the area of addiction-related data science, including newly independent data scientists or established investigators seeking to incorporate novel and cutting-edge data science methodologies into their research programs for the first time. Through this opportunity, investigators will propose to apply emerging data science methods to answer critical questions requiring advanced data analytic strategies. Projects should be small in scale and answer specific research questions or provide preliminary data for a larger scale project. Applicants are encouraged to use existing datasets, follow FAIR principles, and, when applicable, attend to ethical concerns in the conduct of research involving human subjects. Ultimately, the aim is to expedite the development of robust research programs focused on the convergence of innovative data science techniques and addiction research, with initial projects serving as precursors for subsequent, more expansive research projects.",
+      "opening_date": "2025-01-16",
+      "cfda_list": [
+        {
+          "number": "93.279",
+          "title": "Drug Use and Addiction Research Programs"
+        }
+      ],
       "participating_icos": [
         "NIDA"
       ]
@@ -5869,23 +6021,7 @@
       "post_date": "2024-12-05",
       "close_date": "2027-12-03",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DA-26-055",
-      "award_ceiling": null,
-      "num_awards": "3",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The purpose of this Notice of Opportunity Announcement (NOFO) is to invite applications proposing the innovative analysis of existing social science, behavioral, administrative, and neuroimaging data to study the etiology and epidemiology of drug using behaviors (defined as alcohol, tobacco, prescription and other drug) and related disorders, prevention of drug use and HIV, and health service utilization. This FOA encourages the analyses of public use and other extant community-based or clinical datasets to their full potential in order to increase our knowledge of etiology, trajectories of drug using behaviors and their consequences including morbidity and mortality, risk and resilience in the development of psychopathology, strategies to guide the development, testing, implementation, and delivery of high quality, effective and efficient services for the prevention and treatment of drug abuse and HIV.",
-      "opening_date": "2025-06-17",
-      "cfda_list": [
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DA-26-055"
     },
     {
       "opportunity_id": "357545",
@@ -5897,7 +6033,23 @@
       "post_date": "2024-12-05",
       "close_date": "2027-12-03",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DA-26-056"
+      "url": "https://simpler.grants.gov/search?query=RFA-DA-26-056",
+      "award_ceiling": null,
+      "num_awards": "3",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "The purpose of this notice of funding opportunity (NOFO) is to invite applications proposing the innovative analysis of existing social science, behavioral, administrative, and neuroimaging data to study the etiology and epidemiology of drug using behaviors (defined as alcohol, tobacco, prescription and other drug) and related disorders, prevention of drug use and HIV, and health service utilization. This FOA encourages the analyses of public use and other extant community-based or clinical datasets to their full potential in order to increase our knowledge of etiology, trajectories of drug using behaviors and their consequences including morbidity and mortality, risk and resilience in the development of psychopathology, strategies to guide the development, testing, implementation, and delivery of high quality, effective and efficient services for the prevention and treatment of drug abuse and HIV.",
+      "opening_date": "2025-06-17",
+      "cfda_list": [
+        {
+          "number": "93.273",
+          "title": "Alcohol Research Programs"
+        },
+        {
+          "number": "93.279",
+          "title": "Drug Use and Addiction Research Programs"
+        }
+      ]
     },
     {
       "opportunity_id": "357529",
@@ -5991,6 +6143,18 @@
       "close_date": "2027-11-16",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-265",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "This FOA encourages research relevant to the development of novel screening approaches and/or therapeutic interventions for potentially fatal or disabling conditions that have been identified through newborn screening, as well as for \"high priority\" genetic conditions where screening may be possible in the near future.Having an accurate screening test, as well as demonstrating the benefits of early intervention or treatment, are important criteria for including a condition on a newborn screening panel. This FOA defines a \"high priority\" condition as one where screening is not currently recommended, but infants with the condition would significantly benefit from early identification and treatment.",
+      "opening_date": "2025-01-05",
+      "cfda_list": [
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        }
+      ],
       "participating_icos": [
         "NICHD"
       ]
@@ -9265,30 +9429,6 @@
       "close_date": "2027-01-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-081",
-      "award_ceiling": 499999,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "Through this Notice of Funding Opportunity, the National Cancer Institute (NCI) seeks research projects that implement early phase (Phase 0, I, and II) investigator-initiated clinical trials focused on cancer-targeted diagnostic and therapeutic interventions of direct relevance to the research mission of DCTD and OHAM. The proposed project must involve at least 1 clinical trial related to the scientific interests of one or more of the following research programs: Cancer Therapy Evaluation Program, Cancer Imaging Program, Cancer Diagnosis Program, Radiation Research Program, Complementary and Alternative Medicine Program and/or the HIV and AIDS Malignancies Research Programs. Applicants may propose to conduct an early phase trial by itself, or in combination with another research aim(s) as appropriate.",
-      "opening_date": "2025-01-05",
-      "cfda_list": [
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.399",
-          "title": "Cancer Control"
-        }
-      ],
       "participating_icos": [
         "NCI"
       ]
@@ -14131,6 +14271,66 @@
       "close_date": "2027-05-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PA-24-177",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "The purpose of the NIH Mentored Research Scientist Development Award (K01) is to provide support and protected time (three to five years) for an intensive, supervised career development experience in the biomedical, behavioral, or clinical sciences leading to research independence. Although all of the participating NIH Institutes and Centers (ICs) use this support mechanism to support career development experiences that lead to research independence, some ICs use the K01 award for individuals who propose to train in a new field or for individuals who have had a hiatus in their research career because of illness or pressing family circumstances. Other ICs use the K01 to support career development in specific fields.",
+      "opening_date": "2024-11-06",
+      "cfda_list": [
+        {
+          "number": "93.113",
+          "title": "Environmental Health"
+        },
+        {
+          "number": "93.121",
+          "title": "Oral Diseases and Disorders Research"
+        },
+        {
+          "number": "93.173",
+          "title": "Research Related to Deafness and Communication Disorders"
+        },
+        {
+          "number": "93.213",
+          "title": "Research and Training in Complementary and Integrative Health"
+        },
+        {
+          "number": "93.242",
+          "title": "Mental Health Research Grants"
+        },
+        {
+          "number": "93.273",
+          "title": "Alcohol Research Programs"
+        },
+        {
+          "number": "93.279",
+          "title": "Drug Abuse and Addiction Research Programs"
+        },
+        {
+          "number": "93.310",
+          "title": "Trans-NIH Research Support"
+        },
+        {
+          "number": "93.313",
+          "title": "NIH Office of Research on Women's Health"
+        },
+        {
+          "number": "93.361",
+          "title": "Nursing Research"
+        },
+        {
+          "number": "93.398",
+          "title": "Cancer Research Manpower"
+        },
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        },
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        }
+      ],
       "participating_icos": [
         "NIA",
         "NIAAA",
@@ -14984,6 +15184,106 @@
       "close_date": "2027-05-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PA-24-191",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "The purpose of the Mentored Quantitative Research Career Development Award (K25) is to attract to NIH-relevant research those investigators whose quantitative science and engineering research has thus far not been focused primarily on questions of health and disease. The K25 award will provide support and \"protected time\" for a period of supervised study and research for productive professionals with quantitative (e.g., mathematics, statistics, economics, computer science, imaging science, informatics, physics, chemistry) and engineering backgrounds to integrate their expertise with NIH-relevant research.This Funding Opportunity Announcement (FOA) is designed specifically for applicants proposing research that does not involve leading an independent clinical trial, a clinical trial feasibility study, or an ancillary clinical trial. Applicants to this FOA are permitted to propose research experience in a clinical trial led by a mentor or co-mentor. Applicants proposing a clinical trial or an ancillary clinical trial as lead investigator, should apply to the companion FOA ().",
+      "opening_date": "2024-11-06",
+      "cfda_list": [
+        {
+          "number": "93.113",
+          "title": "Environmental Health"
+        },
+        {
+          "number": "93.121",
+          "title": "Oral Diseases and Disorders Research"
+        },
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        },
+        {
+          "number": "93.173",
+          "title": "Research Related to Deafness and Communication Disorders"
+        },
+        {
+          "number": "93.233",
+          "title": "National Center on Sleep Disorders Research"
+        },
+        {
+          "number": "93.273",
+          "title": "Alcohol Research Programs"
+        },
+        {
+          "number": "93.279",
+          "title": "Drug Use and Addiction Research Programs"
+        },
+        {
+          "number": "93.286",
+          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+        },
+        {
+          "number": "93.310",
+          "title": "Trans-NIH Research Support"
+        },
+        {
+          "number": "93.313",
+          "title": "NIH Office of Research on Women's Health"
+        },
+        {
+          "number": "93.398",
+          "title": "Cancer Research Manpower"
+        },
+        {
+          "number": "93.837",
+          "title": "Cardiovascular Diseases Research"
+        },
+        {
+          "number": "93.838",
+          "title": "Lung Diseases Research"
+        },
+        {
+          "number": "93.839",
+          "title": "Blood Diseases and Resources Research"
+        },
+        {
+          "number": "93.840",
+          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
+        },
+        {
+          "number": "93.846",
+          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        },
+        {
+          "number": "93.847",
+          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+        },
+        {
+          "number": "93.855",
+          "title": "Allergy and Infectious Diseases Research"
+        },
+        {
+          "number": "93.859",
+          "title": "Biomedical Research and Research Training"
+        },
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        },
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        },
+        {
+          "number": "93.867",
+          "title": "Vision Research"
+        },
+        {
+          "number": "93.879",
+          "title": "Medical Library Assistance"
+        }
+      ],
       "participating_icos": [
         "NEI",
         "NHLBI",
@@ -15968,7 +16268,27 @@
       "post_date": "2024-02-22",
       "close_date": "2026-07-01",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-OD-24-007"
+      "url": "https://simpler.grants.gov/search?query=RFA-OD-24-007",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "The purpose of the INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE (INCLUDE) Predoctoral to postdoctoral Fellow Transition award (F99/K00) is to recruit exceptional graduate students from a variety of research fields to pursue postdoctoral training focused on Down syndrome related research. Talented graduate students from disciplines including, but not limited to, genetics, biochemistry, data science, imaging, engineering and neurobiology are invited to apply to this opportunity. Prospective applicants are strongly encouraged to contact the INCLUDE Program Staff prior to initiating plans for application submission.",
+      "opening_date": "2024-12-03",
+      "cfda_list": [
+        {
+          "number": "93.121",
+          "title": "Oral Diseases and Disorders Research"
+        },
+        {
+          "number": "93.846",
+          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        },
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        }
+      ]
     },
     {
       "opportunity_id": "352511",
@@ -16176,22 +16496,6 @@
       "close_date": "2026-09-25",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-24-129",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The purpose of this Notice of Funding Opportunity (NOFO) is to provide continuing support for specific pathogen-free (SPF) macaque colonies previously funded under the auspices of PAR-21-089 and PAR-18-669 that support Human Immunodeficiency Virus (HIV)/Acquired Immunodeficiency Syndrome (AIDS) research. Breeding colonies are essential to sustain appropriate SPF macaques for research related to HIV/AIDS. Pedigree SPF macaques are free of certain viruses, which may confound the results of HIV/AIDS-related investigations or present a risk to the personnel who care for the animals. The SPF macaques are genetically characterized for major histocompatibility complex (MHC) class I types, because MHC class I genotypes have large effects on macaque immune responses to Simian Immunodeficiency Virus (SIV) that can induce AIDS in nonhuman primates (NHPs) and on human immune responses to HIV.",
-      "opening_date": "2024-12-02",
-      "cfda_list": [
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        },
-        {
-          "number": "93.351",
-          "title": "Research Infrastructure Programs"
-        }
-      ],
       "participating_icos": [
         "ORIP"
       ]
@@ -16206,7 +16510,19 @@
       "post_date": "2024-01-17",
       "close_date": "2027-03-05",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DA-25-060"
+      "url": "https://simpler.grants.gov/search?query=RFA-DA-25-060",
+      "award_ceiling": 1500000,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "The purpose of this Funding Opportunity Announcement (FOA) is to support high priority research at the intersection of HIV and substance use. This FOA invites innovative research projects with the potential to open new areas of HIV/AIDS research and/or lead to new avenues for prevention, treatment and cure of HIV among people who use drugs (PWUD). Applications submitted under this FOA are required to have a detailed research plan, preliminary data, and a clear description of the nexus with substance use. This FOA is open to both individual researchers and research teams and includes all areas of research from basic science to clinical and implementation research. All studies must focus on NIH HIV/AIDS Research Priorities: NOT-OD-20-018: UPDATE: NIH HIV/AIDS Research Priorities and Guidelines for Determining HIV/AIDS Funding.",
+      "opening_date": "2024-11-26",
+      "cfda_list": [
+        {
+          "number": "93.279",
+          "title": "Drug Abuse and Addiction Research Programs"
+        }
+      ]
     },
     {
       "opportunity_id": "351679",
