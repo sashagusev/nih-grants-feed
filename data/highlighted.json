@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-14T08:27:11.141056+00:00",
-  "count": 44,
+  "updated_at": "2026-04-15T08:27:24.032419+00:00",
+  "count": 45,
   "data": [
     {
       "id": 85,
@@ -235,6 +235,7 @@
       "title": "Strengthening Biomedical Research, Promoting Trust, and Improving Health through Bioethics Research",
       "lead_ico": "OSP",
       "participating_icos": [
+        "BRAIN",
         "NCI",
         "NEI",
         "NHGRI",
@@ -245,12 +246,11 @@
         "NIBIB",
         "NIDA",
         "NIDCR",
+        "NIMH",
         "NINDS",
         "NINR",
         "OBSSR",
-        "ODSS",
-        "NIMH",
-        "BRAIN"
+        "ODSS"
       ],
       "posted_date": "2025-12-15",
       "expiration_date": "2027-01-12",
@@ -354,6 +354,33 @@
         "oadrinfo@nih.gov"
       ],
       "abstract": "<p><strong>Background </strong></p><p>Autoimmune diseases include more than 140 different diseases and conditions and are among the most common chronic diseases in the U.S., impacting 23.5–50 million people. A common feature of many autoimmune diseases is a period of asymptomatic autoimmunity known as the prodrome, often manifested by the development of autoantibodies and other markers of immune activation. People living with one autoimmune disease have a high likelihood of developing additional autoimmune diseases, suggesting commonalities in disease pathogenesis and shared risk factors that predispose to autoimmunity. Although many autoimmune diseases occur in genetically susceptible individuals, genetics alone cannot explain the rapidly increasing incidence and prevalence of autoimmune diseases. </p><p>The exposome, which encompasses the many exposures experienced by humans throughout their lives, is thought to contribute to the risk of autoimmunity, but the study of exposures is challenging because of exposure latency and spatiotemporal variability. Additionally, exposures may have different influences depending on the life stage of the individual. </p><p>Accelerating scientific understanding of autoimmune disease development, progression, and impact across all aspects of daily life is essential to advancing this field. Integrating exposome research into longitudinal and cross-sectional studies, from before disease becomes manifest through the course of disease, will be vital to understand the role of the immunome in the matrix connecting exposures and genetic risk in autoimmunity. </p><p>The purpose of this topic is to advance scientific understanding of autoimmune disease development, progression, and impact, and to improve health outcomes for those affected. </p><p>We are seeking research projects that: </p><ol><li>Harness computational tools and collaborative networks to investigate protective and driving factors of pre-clinical autoimmunity, disease inception, and flares in human cohorts. This may include studying the interplay of genetics, immunome, and the exposome across the lifespan.</li><li>Advance diagnostic testing, biomarkers, predictive models, and technologies (e.g., point-of-care testing, imaging, sensors, wearables) for autoimmune diseases.</li><li>Develop novel research models, including New Approach Methodologies (NAMs), that help explore shared mechanisms across co-occurring and discrete autoimmune disorders and the prodromal phase of autoimmunity.</li></ol></p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 33,
+      "title": "Training and Career Development in Dissemination and Implementation Science",
+      "lead_ico": "NIDCD",
+      "participating_icos": [
+        "NCCIH",
+        "NHGRI",
+        "NIAID",
+        "NIAMS",
+        "NICHD",
+        "NIDA",
+        "NIDDK",
+        "NIMH",
+        "NINDS",
+        "NINR",
+        "ODP"
+      ],
+      "posted_date": "2025-09-01",
+      "expiration_date": "2027-04-14",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/33",
+      "contacts": [
+        "holly.storkel@nih.gov"
+      ],
+      "abstract": "<p>Much research is devoted to developing evidence-based innovations (EBIs), such as practices, programs, policies, or approaches, that improve the health and quality of life of the US population. To impact people’s lives, EBIs need to be adopted in clinical practice and everyday life. <em>Dissemination (D)</em> research is defined as the scientific study of the targeted distribution of information and materials about EBIs to a specific audience (e.g., practitioners, patients, communities). <em>Implementation (I)</em> research is defined as the scientific study of strategies used to adopt and integrate EBIs into clinical and community settings to improve individual outcomes and benefit population health. D&amp;I research is an emerging area in many health specialties requiring fields to build capacity for high-quality D&amp;I research. </p><p>The purpose of this highlighted topic is to encourage research training in D&amp;I science via appropriate NIH funding categories, including those for Fellowships, Career Development Awards, Institutional Research Training Grants, and Education Projects. D&amp;I research training areas can be integrated with other research training objectives tailored to the career stage and goals of trainees and investigators. The overarching objective is to facilitate career success as well as the ability to conduct high-quality independent or collaborative D&amp;I research.</p><p>D&amp;I research training areas of interest include but are not limited to the following:</p><ul><li>D&amp;I theories, models and frameworks (e.g., process models that describe the process of translating research into practice; theories or frameworks that guide understanding of the multi-level contextual factors that influence dissemination and implementation)</li><li>D&amp;I strategies (i.e., methods or techniques used to enhance the dissemination, adoption, implementation, and sustainability of a clinical or community-based program or practice)</li><li>D&amp;I outcomes and outcome measures (e.g., acceptability, appropriateness, cost, feasibility, adoption, fidelity, reach/penetration, maintenance/sustainment/sustainability) as well as health service outcomes and outcome measures (e.g., quality, effectiveness)</li><li>Community engaged research approaches (e.g., community advisory boards, co-design approaches, and community-based participatory research)</li><li>Qualitative and mixed methods</li><li>Human centered design or design thinking methods</li><li>Analytical methods for D&amp;I research (e.g., rapid qualitative analysis, rapid literature review, statistical methods for Multiphase Optimization Strategy, including the initial testing and screening phase)</li><li>Pragmatic clinical trial designs for D&amp;I research, including hybrid effectiveness-implementation approaches</li><li>Planning, tracking, and measuring adaptations to EBI and/or implementation strategies</li><li>Theories and methods to understand and reduce health disparities, improving effectiveness in care and outcomes</li></ul></p>",
       "abstract_is_html": true
     },
     {
@@ -462,7 +489,8 @@
         "NINR",
         "ODP",
         "ORIP",
-        "ORWH"
+        "ORWH",
+        "NLM"
       ],
       "posted_date": "2025-07-30",
       "expiration_date": "2026-12-02",
@@ -860,7 +888,8 @@
         "NINR",
         "OBSSR",
         "ODP",
-        "ORWH"
+        "ORWH",
+        "NCI"
       ],
       "posted_date": "2025-07-07",
       "expiration_date": "2026-08-29",
