@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-15T08:27:24.032419+00:00",
-  "count": 45,
+  "updated_at": "2026-04-16T08:26:45.656528+00:00",
+  "count": 47,
   "data": [
     {
       "id": 85,
@@ -15,6 +15,44 @@
         "nahida.chakhtoura@nih.gov"
       ],
       "abstract": "<p>The Maternal Health Research Centers of Excellence were established as part of the Implementing a Maternal Health and Pregnancy Outcomes Vision for Everyone (IMPROVE) Initiative.  The Centers and Hubs provide a platform to further research to reduce maternal morbidity and mortality. Current IMPROVE-funded Center and Hub grantees should consider how supplemental funding might allow their projects to increase progress towards their overall goals, especially by expanding research into new geographic regions with high rates of maternal morbidity and mortality.</p><i></i>This topic is being issued as part of the Make America Healthy Again initiative, which is expanding NIH and agency research into specific areas.</p><h2>Participating ICOs</h2><p>NICHD will be giving special consideration to meritorious supplement applications that propose one or more of the following approaches:</p><ul><li>Expanding to new geographic regions/states with high maternal morbidity and mortality, such as maternity care deserts;</li><li>Expanding collaborations within the Centers and Hubs; </li><li>Incorporating cutting-edge technologies, especially those developed by the RADx maternal health challenge, for ongoing projects in the parent award</li></ul>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 68,
+      "title": "Advancing Childhood and Adolescent & Young Adult (AYA) Cancer Research",
+      "lead_ico": "NCI",
+      "participating_icos": [
+        "NIDCR",
+        "ODP"
+      ],
+      "posted_date": "2026-02-27",
+      "expiration_date": "2027-04-15",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/68",
+      "contacts": [],
+      "abstract": "<p>The National Institutes of Health (NIH) aims to accelerate progress in preventing, diagnosing, and treating pediatric and AYA patients diagnosed with cancer by supporting innovation and discovery across the full continuum of cancer research and care. This continuum spans molecular characterization, mechanisms of oncogenesis and cancer progression, genetic epidemiology, functional genomics, therapeutic development, preclinical testing, clinical trials, population-based surveillance, and survivorship studies.</p><p>research is sought on the use and development of artificial intelligence (AI) and other machine learning (ML) approaches to analyze and integrate existing and new pediatric cancer data, address small sample sizes, and enable privacy-preserving data sharing. It also encourages the creation of tools that make these data AI-ready and accessible, with the goal of accelerating discovery and improving outcomes for children and AYAs with cancer.</p><p><strong>Background</strong></p><p>Pediatric, adolescent, and young adult (AYA) cancers present unique challenges due to small patient numbers, diverse and often rare disease subtypes, and biologic features that differ from adult cancers. Current standard-of-care therapy for these cancers can result in acute and long-term toxicities (e.g., secondary malignancies, chronic health conditions) that affect survival and quality of life. Lack of robust preclinical models, limited availability of well-annotated biospecimens, and data silos all constrain the pace of translational research. Disparities in access to care, molecular testing, and clinical trials further compound these challenges, particularly for geographically remote populations. More research is needed to better understand the molecular mechanisms driving these cancers and related adverse outcomes and to ultimately inform prevention, early diagnosis, as well as novel targeted approaches for risk assessments to reduce mortality and morbidity. </p><p>As the volume and complexity of pediatric and AYA cancer data continue to grow, there is potential to use advanced computational methods to facilitate pediatric cancer research and optimize care. Examples of these data types include multi-omics data, epidemiologic/risk factor data, imaging, pathology, electronic health records, clinical trial data, real-world evidence, and long-term follow-up and survivorship cohort studies. Computational tools, including artificial intelligence (AI) and machine learning (ML), can rapidly integrate diverse data streams, reveal patterns, and generate testable hypotheses about disease biology, treatment response, toxicity, and late effects.</p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 70,
+      "title": "Research on Chatbots and their Usage",
+      "lead_ico": "NIA",
+      "participating_icos": [
+        "NCCIH",
+        "NCI",
+        "NIDA",
+        "NIDCR",
+        "NIMH",
+        "NLM",
+        "OBSSR",
+        "ODSS"
+      ],
+      "posted_date": "2026-02-26",
+      "expiration_date": "2027-04-15",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/70",
+      "contacts": [],
+      "abstract": "<p><strong>Background</strong></p><p>Conversational chatbots are increasingly integrated into daily life, including use in health-related information seeking, decision support, social interaction, and informal caregiving contexts. These systems are now used by individuals to interpret symptoms, manage chronic conditions, make financial and health decisions, and mitigate social isolation, often without professional oversight.</p><p>Use of chatbot technologies is expanding rapidly, and patterns of adoption, benefit, and risk are likely to differ across populations, contexts, and system designs. At present, there is insufficient evidence regarding the benefits and harms of chatbot use for health and well-being or to characterize unintended consequences such as misinformation, over-reliance, altered decision-making, or delayed engagement with professional care.</p><p>Rigorous research is needed to understand how chatbot design (including potential built-in safeguards), chatbot use (including but not limited to context and frequency of use), and user characteristics interact to shape health-relevant outcomes. Efforts should inform safeguards, standards, and evidence-based guidance.</p><p>This topic encourages multidisciplinary research that identifies, measures, and explains the benefits and harms associated with chatbot use (both chatbot-based interventions or treatments as well as routine chatbot use) across a variety of populations, use cases, and settings. Of interest are studies that move beyond proof-of-concept to characterize mechanisms, safety, and impacts on behavior, decision-making, and health outcomes.</p><p> Of particular interest are studies that:</p><ul><li><strong>Identify risk mechanisms:</strong> including automation bias, persuasive effects, misinformation exposure, behavioral dependency, and substitution for professional care, and document adverse outcomes across different chatbot designs, and health or wellbeing-related purposes.</li><li><strong>Compare safety and performance across chatbot models: </strong>including adaptive versus static designs and varying degrees of personalization, information retrieval, or relational engagement.</li><li><strong>Examine impacts on decision-making and autonomy:</strong> including how chatbot use influences judgment, independence, help-seeking behavior, and relationships with family, caregivers, and clinicians.</li><li><strong>Characterize health and functional outcomes associated with patterns of use:</strong> including frequency, duration, and longitudinal engagement, with attention to cognitive, emotional, social, and behavioral consequences.</li><li><strong>Develop and test safeguards:</strong> including monitoring strategies and design features that promote safe, ethical, secure, and beneficial use, particularly for populations at elevated risk of harm.</li></ul><p>Ideally, studies will focus on advancing understanding of causal mechanisms driving observed or hypothesized effects and emphasize methodological rigor, appropriate comparators, and real-world relevance.</p>",
       "abstract_is_html": true
     },
     {
@@ -371,7 +409,9 @@
         "NIMH",
         "NINDS",
         "NINR",
-        "ODP"
+        "ODP",
+        "OAR",
+        "OBSSR"
       ],
       "posted_date": "2025-09-01",
       "expiration_date": "2027-04-14",
