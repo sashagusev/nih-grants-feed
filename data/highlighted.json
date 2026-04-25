@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-24T09:00:04.712380+00:00",
-  "count": 50,
+  "updated_at": "2026-04-25T08:04:57.297905+00:00",
+  "count": 51,
   "data": [
     {
       "id": 85,
@@ -163,6 +163,33 @@
       "abstract_is_html": true
     },
     {
+      "id": 60,
+      "title": "GLP-1s: Implications for Nutritional Status and Metabolic Health Outcomes",
+      "lead_ico": "ODS",
+      "participating_icos": [
+        "NCI",
+        "NEI",
+        "NHLBI",
+        "NIA",
+        "NIAMS",
+        "NIDCR",
+        "NIDDK",
+        "NINR",
+        "OBSSR",
+        "ODP",
+        "ONR"
+      ],
+      "posted_date": "2026-01-30",
+      "expiration_date": "2027-04-24",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/60",
+      "contacts": [
+        "edwina.wambogo@nih.gov"
+      ],
+      "abstract": "<p><strong>Background</strong><br></br>Glucagon-like peptide-1 receptor agonist (GLP-1) have expanded rapidly in use; it is estimated that about 1 in 8 U.S. adults have taken a GLP-1. Users often receive higher doses, which may increase gastrointestinal side effects and alter dietary intake, digestion, and nutrient absorption. As use grows, concerns about users’ nutritional status and the role of nutrient-containing dietary supplements in addressing potential nutrition gaps are increasingly important. At the same time, the rise of “GLP-1-mimicking” dietary supplements, often containing understudied ingredients and lacking evidence of safety or efficacy raise significant public health and regulatory considerations. </p><p><strong>Purpose</strong><br></br>This topic encourages research on the interaction of GLP-1s and nutrient metabolism and status, and population health . Research is also encouraged on roles of dietary supplements in addressing nutrient gaps that may arise with GLP-1 use, as well as on the composition, safety, and usage patterns, and biological mechanisms of supplements marketed to mimic GLP-1 activity.</p><p>Areas of research interest include but are not limited to:</p><ul><li><strong>Nutrition indicators to inform clinical decision-making on initiation and discontinuation of GLP-1 therapies</strong><ul><li>Identifying priority baseline biomarkers of metabolic health, biomarkers of nutrient status, and body measures (e.g., lean mass) to inform initiation of GLP-1 therapies, and characterizing dose–response relationships between GLP-1 therapy and these measures across diverse populations.</li></ul></li><li><strong>Evidence on mechanisms influencing weight loss and long-term outcomes</strong><ul><li>Investigating biological and behavioral mechanisms associated with GLP-1 use, including appetite regulation, dietary intake and satiety signaling, taste and reward pathways, gastrointestinal motility and gastric emptying, digestion and nutrient absorption, nutritional status and nutrient gaps, energy balance and gut microbiome alterations.</li></ul></li><li><strong>Evaluating nutrition-related outcomes across the treatment lifecycle</strong><ul><li>Evaluating real-world, longitudinal nutrition-related outcomes, including cumulative nutritional status, metabolic risk, and weight-related trajectories during GLP-1 treatment and following discontinuation, across life stages, chronic disease profiles, and underlying nutritional vulnerabilities, and assessing how these outcomes are influenced by treatment duration and adherence.</li></ul></li><li><strong>Advancing formulating and bioavailability science for weight loss dietary supplements</strong><ul><li>Investigating use, product content, dissolution and disintegration, as well as safety and effectiveness of dietary supplements marketed as “GLP-1 mimetics”, including their potential interactions with prescribed GLP-1 medications.</li></ul></li></ul></p>",
+      "abstract_is_html": true
+    },
+    {
       "id": 50,
       "title": "Advancing Nanotechnology Research to Improve Diagnosis and Treatment Options",
       "lead_ico": "NEI",
@@ -320,7 +347,8 @@
         "NINDS",
         "NINR",
         "OBSSR",
-        "ODSS"
+        "ODSS",
+        "OAR"
       ],
       "posted_date": "2025-12-15",
       "expiration_date": "2027-01-12",
