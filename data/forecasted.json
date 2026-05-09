@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-05-08T08:22:32.715622+00:00",
-  "count": 329,
+  "updated_at": "2026-05-09T08:28:59.523412+00:00",
+  "count": 326,
   "data": [
+    {
+      "opportunity_id": "362315",
+      "number": "PAR-28-016",
+      "title": "Intervention Research to Improve Native American Health",
+      "agency_name": "National Institutes of Health",
+      "agency_code": "HHS-NIH11",
+      "institute": "",
+      "post_date": "2026-05-07",
+      "close_date": "",
+      "status": "forecasted",
+      "url": "https://simpler.grants.gov/search?query=PAR-28-016",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "IRINAH Program Staff",
+      "contact_email": "irinah@mail.nih.gov",
+      "abstract": "The National Institute on Drug Abuse, along with other National Health Institutes, Centers, and Offices, seeks to advance its mission through the Intervention Research to Improve Native American Health (IRINAH), which aims to support: Research on the causes of health problems to inform the creation or refinement of interventions Studies that develop, adapt, or test interventions for health promotion, disease prevention, treatment, or recovery Research on the dissemination and implementation of strategies to overcome barriers to adopting, integrating, scaling up, and sustaining effective interventions. This initiative seeks interventions and related research that builds on community knowledge, strengths, and resilience to identify and rigorously test solutions to reduce morbidity and mortality in Native populations. Proposed interventions should be sustainable and flexible, so they can be adapted, shared, and expanded to other communities as appropriate. Grant authorities that allow NIDA to forecast this opportunity are as follows: 42 U.S.C 241 and 284",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.279",
+          "title": "Drug Use and Addiction Research Programs"
+        }
+      ]
+    },
     {
       "opportunity_id": "362313",
       "number": "RFA-DA-27-012",
@@ -51,45 +75,21 @@
       ]
     },
     {
-      "opportunity_id": "362315",
-      "number": "PAR-28-016",
-      "title": "Intervention Research to Improve Native American Health",
+      "opportunity_id": "362277",
+      "number": "PAR-27-089",
+      "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
-      "post_date": "2026-05-07",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-016",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "IRINAH Program Staff",
-      "contact_email": "irinah@mail.nih.gov",
-      "abstract": "The National Institute on Drug Abuse, along with other National Health Institutes, Centers, and Offices, seeks to advance its mission through the Intervention Research to Improve Native American Health (IRINAH), which aims to support: Research on the causes of health problems to inform the creation or refinement of interventions Studies that develop, adapt, or test interventions for health promotion, disease prevention, treatment, or recovery Research on the dissemination and implementation of strategies to overcome barriers to adopting, integrating, scaling up, and sustaining effective interventions. This initiative seeks interventions and related research that builds on community knowledge, strengths, and resilience to identify and rigorously test solutions to reduce morbidity and mortality in Native populations. Proposed interventions should be sustainable and flexible, so they can be adapted, shared, and expanded to other communities as appropriate. Grant authorities that allow NIDA to forecast this opportunity are as follows: 42 U.S.C 241 and 284",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        }
-      ]
-    },
-    {
-      "opportunity_id": "362276",
-      "number": "PAR-27-088",
-      "title": "NCI Research Specialist Award for Core and Laboratory-based Scientists (R50 Clinical Trial Not Allowed)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "NCI",
       "post_date": "2026-05-06",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-088",
+      "url": "https://simpler.grants.gov/search?query=PAR-27-089",
       "award_ceiling": null,
       "num_awards": "18",
-      "contact_name": "R50 Mailbox",
-      "contact_email": "NCIR50@mail.nih.gov",
-      "abstract": "This notice of funding opportunity (NOFO) will invite applications for the Research Specialist Award (R50), which provides salary support for exceptional, non-tenure track scientists working in research laboratories and core facilities who make essential contributions to cancer research. The R50 is intended to support stable, long-term research careers for highly skilled scientists who contribute to NCI-funded research programs but do not serve as independent investigators. Research specialists are highly trained, highly productive scientists who are committed to a research career at the bench or dry lab. Working within laboratories, core facilities, and shared resources, they provide critical expertise, technical leadership, and continuity that strengthen the research infrastructure and enhance the productivity of cancer research across basic, translational, clinical, and population sciences. Eligible applicants must have an advanced degree, have contributed to their cancer research program for at least two years, and devote at least half their time to NCI-funded research. Applicants must not have sought independent investigator funding in the last five years. The R50 offers salary support and travel funds to provide both recognition and stability for research specialists whose contributions are essential to the cancer research enterprise. It is anticipated that only outstanding scientists who are committed to a research career within the context of an existing NCI-funded research program, but not serve as independent investigators, will be competitive for this award.",
+      "contact_name": "Coordinating Center for Clinical Trials, National Cancer Institute (NCI)",
+      "contact_email": "ncir50@mail.nih.gov",
+      "abstract": "This notice of funding opportunity (NOFO) invites grant applications for the Research Specialist Award (R50) specifically for clinician scientists supporting NCI-funded clinical trials research. The Research Specialist Award is designed to encourage the development of stable research career opportunities for exceptional clinician scientists who want to continue to participate in the NCI clinical trials networks through leadership in the 1) development of national clinical trials, 2) implementation of NCI clinical trials in their institutions, and 3) national service to the NCI clinical trials networks through participation in the scientific review committees, monitoring committees and other activities, but not serve as principal investigators of research project grants. These clinician scientists are vital to sustaining the NCI-funded clinical trials enterprise. The Research Specialist Award is intended to provide salary support and sufficient autonomy so that individuals are not solely dependent on NCI grants held by others or other sources of support for cancer research career continuity.",
       "opening_date": "",
       "cfda_list": [
         {
@@ -123,21 +123,21 @@
       ]
     },
     {
-      "opportunity_id": "362277",
-      "number": "PAR-27-089",
-      "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
+      "opportunity_id": "362276",
+      "number": "PAR-27-088",
+      "title": "NCI Research Specialist Award for Core and Laboratory-based Scientists (R50 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2026-05-06",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-089",
+      "url": "https://simpler.grants.gov/search?query=PAR-27-088",
       "award_ceiling": null,
       "num_awards": "18",
-      "contact_name": "Coordinating Center for Clinical Trials, National Cancer Institute (NCI)",
-      "contact_email": "ncir50@mail.nih.gov",
-      "abstract": "This notice of funding opportunity (NOFO) invites grant applications for the Research Specialist Award (R50) specifically for clinician scientists supporting NCI-funded clinical trials research. The Research Specialist Award is designed to encourage the development of stable research career opportunities for exceptional clinician scientists who want to continue to participate in the NCI clinical trials networks through leadership in the 1) development of national clinical trials, 2) implementation of NCI clinical trials in their institutions, and 3) national service to the NCI clinical trials networks through participation in the scientific review committees, monitoring committees and other activities, but not serve as principal investigators of research project grants. These clinician scientists are vital to sustaining the NCI-funded clinical trials enterprise. The Research Specialist Award is intended to provide salary support and sufficient autonomy so that individuals are not solely dependent on NCI grants held by others or other sources of support for cancer research career continuity.",
+      "contact_name": "R50 Mailbox",
+      "contact_email": "NCIR50@mail.nih.gov",
+      "abstract": "This notice of funding opportunity (NOFO) will invite applications for the Research Specialist Award (R50), which provides salary support for exceptional, non-tenure track scientists working in research laboratories and core facilities who make essential contributions to cancer research. The R50 is intended to support stable, long-term research careers for highly skilled scientists who contribute to NCI-funded research programs but do not serve as independent investigators. Research specialists are highly trained, highly productive scientists who are committed to a research career at the bench or dry lab. Working within laboratories, core facilities, and shared resources, they provide critical expertise, technical leadership, and continuity that strengthen the research infrastructure and enhance the productivity of cancer research across basic, translational, clinical, and population sciences. Eligible applicants must have an advanced degree, have contributed to their cancer research program for at least two years, and devote at least half their time to NCI-funded research. Applicants must not have sought independent investigator funding in the last five years. The R50 offers salary support and travel funds to provide both recognition and stability for research specialists whose contributions are essential to the cancer research enterprise. It is anticipated that only outstanding scientists who are committed to a research career within the context of an existing NCI-funded research program, but not serve as independent investigators, will be competitive for this award.",
       "opening_date": "",
       "cfda_list": [
         {
@@ -816,7 +816,19 @@
       "post_date": "2026-03-11",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-NS-26-031"
+      "url": "https://simpler.grants.gov/search?query=RFA-NS-26-031",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NINDS Office of Neural Exposome and Toxicology and NINDS Office of Global Health and Health Disparities",
+      "contact_email": "NINDSONETOX@ninds.nih.gov",
+      "abstract": "The National Institute of Neurological Disorders and Stroke (NINDS) is interested in supporting research projects that investigate how specific neural exposome factors contribute mechanistically to Alzheimer’s disease-related dementias (ADRD) pathology and resilience. For the purposes of this program, exposome factors of interest include, but are not limited to, environmental toxins, sleep and circadian rhythms, stress, and the real-world conditions that modulate them (e.g., light, noise, heat). Applications will be expected to propose research on the synergistic action between multiple exposome factors, and the composite effects of mixtures of exposome factors on neural mechanisms relevant to ADRD. Applicants are encouraged to focus on mechanistic pathways (e.g., microbiome–brain interactions, neuroimmune signaling, epigenetic modifications) that link exposures to ADRD risk, progression, and resilience. Applicants are further encouraged to consider studies that cover the lifespan, including work that investigates critical or sensitive periods of exposure or factors that may lead to neurological health disparities. Applicants may propose mechanistic, translational, and/or human subjects research, drawing on clinical data, human samples, and observational or interventional studies. However, NIH-defined clinical trials will not be supported under this program. Applications are not currently being solicited. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. Investigative teams with expertise in exposomics and environmental neuroscience, community engagement, ADRD mechanisms, and non-medical factors that may lead to health disparities are encouraged to apply.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.853",
+          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        }
+      ]
     },
     {
       "opportunity_id": "361450",
@@ -976,27 +988,7 @@
       "post_date": "2026-03-10",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-150",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Epidemiology and Genomics Research Program",
-      "contact_email": "ncidccpsegrpnofos@mail.nih.gov",
-      "abstract": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) invites applications that investigate the etiology of sporadic non-hereditary early-onset cancers (EOCs: ages 18 to 49 years) and the underlying biological mechanisms that play a role in these cancers to inform prevention and control strategies. The proposed research is expected to advance the understanding of the unexplained rise of cancers in young adults. More specifically, studies should address one or more of the following: i) what modifiable exposures are driving the increase in the incidence of non-hereditary EOCs, and how do these factors vary by patient demographics? (ii) what biological mechanisms and host responses underly the increase in EOCs? and (iii) how can those at increased risk for developing EOCs be identified more effectively? This NOFO consolidates exploratory/developmental and research project funding mechanisms to streamline the application process and sustain momentum in this critical research area. Applicants have the option of submitting either an exploratory/developmental research project with a project period of up to 2 years or a research project with a project period of 4 to 5 years.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.396",
-          "title": "Cancer Biology Research"
-        },
-        {
-          "number": "93.399",
-          "title": "Cancer Control"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-26-150"
     },
     {
       "opportunity_id": "361426",
@@ -1152,23 +1144,7 @@
       "post_date": "2026-02-27",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-EB-26-004",
-      "award_ceiling": null,
-      "num_awards": "4",
-      "contact_name": "NIBIB Program Officers for RFA-EB-26-004",
-      "contact_email": "NIBIB_Devices@NIH.gov",
-      "abstract": "This Notice of Funding Opportunity (NOFO) is to encourage applications from investigators to advance the development and translation of next-generation technologies to prevent, monitor, diagnose, and treat disorders within the missions of the NIH Brain Research through Advancing Innovative Neurotechnologies (BRAIN) and The Helping to End Addiction Long-term (HEAL) Initiatives. Awarded activities will facilitate the translation of new devices up to the stage of readiness for first in human (FIH) clinical trials by overcoming key challenges identified during preliminary proof-of-concept studies. The scope of the program includes technology development and optimization, and studies to prepare for approvals for human use.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.286",
-          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-EB-26-004"
     },
     {
       "opportunity_id": "361370",
@@ -1444,19 +1420,7 @@
       "post_date": "2026-02-11",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-LM-26-002",
-      "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "NLM Extramural Programs",
-      "contact_email": "NLMProgram@nih.gov",
-      "abstract": "The National Library of Medicine (NLM) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for a Training Center of the Network of the National Library of Medicine (NNLM). Established in 1965 and organized geographically across the United States and its territories, the NNLM promotes and supports the initiatives, products, and services of the NLM and the National Institutes of Health (NIH). Over the years, the network has expanded its impact through strategic partnerships with a broad array of member organizations, including health sciences, hospital, academic, and public libraries; health professionals; data organizations; and community-based groups. The NNLM’s core mission is to enable the effective use of—and contribution to—health information and data made available by the NLM and NIH. The network achieves this by providing professional development for librarians and information specialists, and by supporting access to health information and outreach through libraries and community organizations. A central emphasis of the NNLM is increasing awareness of and engagement with NIH programs and resources. While the NNLM has traditionally focused on promoting NLM-specific products, it is now poised to expand its reach across the broader NIH community. The network will play a vital role in disseminating research findings, fostering community engagement and partnerships, and supporting participation in local clinical research. In doing so, the NNLM will enhance public understanding of NIH’s contributions and increase the use of NIH-supported information and data resources. The NNLM consists of three major components: 1) the Network Coordinating Center (NCC), 2) Regional Medical Libraries (RMLs), and 3) the Network Training Center (NTC). This announcement specifically pertains to the NTC, with companion NOFOs forthcoming for the NCC and RMLs. The NTC will focus on supporting training across the NNLM, including developing curricula, materials, and executing synchronous and asynchronous training sessions. The NTC will work with the RMLs and NCC to continually identify training needs for a variety of audiences and design innovative and engaging learning methods. The NTC will work closely with the NCC to develop and deliver evaluation measures to ensure learner satisfaction and that learning objectives are being met. The NTC should have strong competencies in instructional design and technology management, as well as subject-matter expertise in biomedical information and data. Grant authority that allows NLM to forecast this opportunity is as follows: Medical Library Assistance Act of 1965 (MLAA, P.L. 89-291).",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.879",
-          "title": "Medical Library Assistance"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-LM-26-002"
     },
     {
       "opportunity_id": "361279",
@@ -1588,19 +1552,7 @@
       "post_date": "2026-02-10",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-001",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NARCH Program",
-      "contact_email": "nigms_narch_program@mail.nih.gov",
-      "abstract": "The Native American Research Centers for Health (NARCH) program funds federally-recognized American Indian/Alaska Native (AI/AN) Tribes and Tribal colleges or universities, Tribal health programs, or Tribal organizations (collectively, federally-recognized Tribes and Tribal Entities) to support health-related research, research career enhancement, and research infrastructure enhancement activities. This is a Forecast for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Eligibility Section for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-27-001"
     },
     {
       "opportunity_id": "361263",
@@ -1863,30 +1815,6 @@
         {
           "number": "93.847",
           "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        }
-      ]
-    },
-    {
-      "opportunity_id": "361215",
-      "number": "PAR-26-066",
-      "title": "NIA Research and Entrepreneurial Development Immersion (REDI): Entrepreneurship Enhancement Award",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NIA",
-      "post_date": "2026-01-29",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-066",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIA Scientific Contact",
-      "contact_email": "NIA-NOFO-Scientific@nih.gov",
-      "abstract": "The National Institute on Aging (NIA) intends to publish a Notice of Funding Opportunity (NOFO) to continue its Research and Entrepreneurial Development Immersion (REDI) Award program. The REDI program promotes the development of entrepreneurial education programs that are designed to broaden the skillset of graduate students and postdoctoral researchers, as well as early-career master's, Ph.D., and Dr.P.H. scientists, in fields relevant to the mission of NIA, including aging and Alzheimer's disease (AD) research. The goal of the program is to prepare trainees for a wide-range of career paths, including those that are outside the traditional research environment. As such, NIA is seeking applications proposing innovation-focused programs that are geared towards imparting a broad set of skills and knowledge required for a career in translational sciences and entrepreneurship in order to boost the number of Ph.D.-trained scientists prepared and ready for a multitude of available career options. This skillset and knowledge base include scientific communication; an understanding of the intellectual property process and landscape; regulatory and reimbursement pathway knowledge; the ability to identify unmet needs within markets and define value propositions; and a clear understanding of the biomedical development path, financing sources, and challenges. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO intends to utilize the R25 activity code.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.866",
-          "title": "Aging Research"
         }
       ]
     },
@@ -2468,19 +2396,7 @@
       "post_date": "2025-12-11",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-RM-26-002",
-      "award_ceiling": null,
-      "num_awards": "30",
-      "contact_name": "NIH Director's New Innovator Award Program",
-      "contact_email": "NewInnovatorAwards@mail.nih.gov",
-      "abstract": "The NIH Director’s New Innovator Award supports early stage investigators of exceptional creativity who propose bold and highly innovative research projects with the potential to produce a major impact on broad, important areas relevant to the mission of NIH. Applications in any area within the biomedical sciences are welcome. The NIH Director's New Innovator Award complements other ongoing efforts by NIH and its Institutes and Centers to fund early-stage investigators. The NIH Director’s New Innovator Award is a component of the High-Risk, High-Reward Research (HRHR) Program of the NIH Common Fund .",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-RM-26-002"
     },
     {
       "opportunity_id": "360988",
@@ -3676,19 +3592,7 @@
       "post_date": "2025-09-18",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-116",
-      "award_ceiling": null,
-      "num_awards": "9",
-      "contact_name": "Ludmila Pawlikowska Ph.D.",
-      "contact_email": "Ludmila.pawlikowska@nih.gov",
-      "abstract": "The National Institute of Diabetes and Digestive Diseases and Nutrition (NIDDK) seeks to advance its mission by continuing the NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC). The IBDGC has led collaborative efforts resulting in the identification of >300 genetic risk loci for different IBD subtypes across patient populations and characterization of underlying biological mechanisms. Despite advances in biological understanding and the development of a range of biologic therapies, IBD remains a chronic, severe and heterogenous disease with no cure requiring multiple interventions over the life course. Diagnostic biomarkers and accurate predictors of critical outcomes including disease remission, recurrence, and response to specific therapies are lacking. The IBDGC will leverage patient cohorts, biospecimens and advances in data science to characterize the interactions of genetic, clinical and environmental factors in disease development and progression, and to develop new predictors of disease outcomes, with the goal of improving medical management and advancing precision medicine for IBD patients. The IBDGC may include up to 7 Genomic Research Centers with varying research emphases, which will serve as sites for participant enrollment, molecular analysis of biospecimens and bioinformatics and computational analyses.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-116"
     },
     {
       "opportunity_id": "360629",
@@ -3748,7 +3652,19 @@
       "post_date": "2025-09-18",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-108"
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-108",
+      "award_ceiling": null,
+      "num_awards": "8",
+      "contact_name": "Chandima Nishadi De Abrew Rajapakse, PhD, MHS",
+      "contact_email": "Chandima.rajapakse@nih.gov",
+      "abstract": "The National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), in collaboration with the National Heart, Lung, and Blood Institute, intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for discovery and mechanistic research to advance the understanding of cardiovascular disease in type 1 diabetes through a continuation of the CARE-T1D consortium. A consortium of six research teams was formed in 2024 through RFA-DK-23-021 to conduct hypothesis-driven research on the pathogenesis of cardiac disease in T1D using multi-omics and molecular approaches, leveraging the CARE-T1D resources. This NOFO will utilize the U mechanism activity code U01 mechanism for the investigative teams. Investigators with expertise and insights into this area of cardiovascular disease in T1D are encouraged to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in T2D, atherosclerosis, Inflammation, and cutting-edge omics techniques will be encouraged, and these investigators should also consider applying for this NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.847",
+          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+        }
+      ]
     },
     {
       "opportunity_id": "360627",
@@ -3908,19 +3824,7 @@
       "post_date": "2025-09-15",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-HD-27-005",
-      "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "Randolph Capps",
-      "contact_email": "Randy.Capps@NIH.gov",
-      "abstract": "This initiative will continue supporting a repository for datasets produced through support from the Population Dynamics Branch (PDB) and other components of NICHD’s Division of Extramural Research. DSDR is widely used by NICHD grantees; complies with NIH data sharing requirements; is listed in the NLM Open Domain-Specific Data Sharing Repositories; and holds more than 3,000 datasets containing over 1.5 million variables. It provides archiving, curation, and dissemination services that are not available through other repositories used by NICHD-funded researchers, such as the NICHD Data and Specimen Hub (DASH), and offers data archiving and dissemination services beyond the those required by NIH data sharing policy. This repository houses unique data from qualitative studies, unstructured data sources, and studies of sensitive topics. The grantee will be expected to provide resources to researchers on best practices for archiving data, including information about sharing qualitative and other sensitive data. Annually, DSDR will be required to process 20-40 new and updated datasets; disseminate 135 datasets and their documentation; review and oversee 30 data use agreements; facilitate 700,000 or more downloads of data, documentation, and other resources; maintain a guide to NICHD PDB archived data including data archived elsewhere; and provide technical assistance to 1,500-2,000 users.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-HD-27-005"
     },
     {
       "opportunity_id": "360583",
@@ -4464,7 +4368,19 @@
       "post_date": "2025-09-08",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-070"
+      "url": "https://simpler.grants.gov/search?query=PAR-26-070",
+      "award_ceiling": null,
+      "num_awards": "102",
+      "contact_name": "Xiang-Ning Li, MD, PhD",
+      "contact_email": "xiang-ning.li@nih.gov",
+      "abstract": "This Notice of Funding Opportunity (NOFO) announces the restructured Shared Instrumentation Grant (SIG) Program that consolidates three existing shared-use instrumentation programs, i.e., the Shared Instrumentation Grant program, the High-End Instrumentation Grant program, and the Basic Instrumentation Grant program. The NOFO invites applications from groups of NIH-supported investigators to purchase or upgrade a single item of state-of-the-art commercially available instrument or an integrated instrumentation system. The instruments purchased through the SIG Program require to be optimally shared among the users to ensure efficient and cost-effective research operations, enable rigorous and reproducible measurements, and encourage collaborative research and benefit broad research communities at large. The minimum award is $300,000. There is no cap on total cost of the instrument; however, the maximum award is $5,000,000. Cost sharing is required for premium instruments or special use instruments.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.351",
+          "title": "Research Infrastructure Programs"
+        }
+      ]
     },
     {
       "opportunity_id": "360534",
@@ -5983,30 +5899,6 @@
       ]
     },
     {
-      "opportunity_id": "359854",
-      "number": "RFA-CA-27-017",
-      "title": "Forecast to Publish a Notice of Funding Opportunity for The Experimental Therapeutics Clinical Trials Network (ETCTN) Pharmacokinetic Resource Laboratory (U24 Clinical Trial Not Allowed)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NCI",
-      "post_date": "2025-06-27",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-CA-27-017",
-      "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "Lori A. Henderson, Ph.D.",
-      "contact_email": "NCIETCTNRFA@mail.nih.gov",
-      "abstract": "The National Cancer Institute (NCI) intends to publish a Notice of Funding Opportunity (NOFO) solicits applications from institutions/organizations that propose to maintain or establish a Pharmacokinetics Resource Laboratory (PK Laboratory) to support the Experimental Therapeutics Clinical Trials Network (ETCTN). The PK Laboratory will organize biospecimen collections and provide subsequent analyzes of pharmacokinetic endpoints, drug-drug interactions, cytochrome P450 (CYP) interactions, pharmacodynamics, and food effects in ETCTN studies of NCI Investigational New Drug (IND) agents. The overarching goal of the ETCTN PK Laboratory is to advance the clinical development of NCI IND agents by providing a comprehensive understanding of pharmacokinetic behavior of these agents under study in ETCTN trials. The ETCTN PK Laboratory will engage physicians, clinical pharmacologists, nurses, and scientists who have appropriate expertise in pharmacokinetic studies for early drug development and translational research. This NOFO seeks U24 applications from multidisciplinary institutions/organizations to conduct all pharmacokinetic studies for ETCTN early phase clinical trials filed to IND applications in the NCI Division of Cancer Treatment and Diagnosis (DCTD), Cancer Therapy Evaluation Program (CTEP). Applicants for this NOFO are expected to have in place a standing infrastructure to support PK studies for ETCTN clinical trials from trial initiation through clinical development of NCI-IND agents. The ETCTN Pharmacokinetics Resource Laboratory application must include the following 3 functional components: Technical Services Core - This functional component should provide the technical services for the full range of PK and associated assays and analyzes needed to support ETCTN clinical trials. Scientific Leadership and Project Development Core - This functional component should provide scientific leadership and expertise for a team-science approach to project development in support of PK activities for the ETCTN. Biospecimen Collection, Tracking, Processing and Data Reporting Core - This functional Component should provide an integrated system/service for the collection, tracking, and processing of biospecimens from the ETCTN Lead Academic Organizations and their participating sites for ETCTN clinical trials. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the U24 activity code. The NOFO is expected to be published in Summer 2025 with an anticipated application due date in Fall 2025.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        }
-      ]
-    },
-    {
       "opportunity_id": "359820",
       "number": "TEMP-31698",
       "title": "Resource and Capacity Building to Advance the Science of Aggression across Species and Disciplines (R24 Clinical Trial Optional)",
@@ -6792,7 +6684,19 @@
       "post_date": "2025-06-11",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=TEMP-31521"
+      "url": "https://simpler.grants.gov/search?query=TEMP-31521",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Division of Biomedical Research Workforce",
+      "contact_email": "nihtrain@mail.nih.gov",
+      "abstract": "The National Institutes of Health (NIH) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the Predoctoral to Postdoctoral Transition Award (Parent F99/K00) award. The goal of this award is to support and retain promising graduate students as they complete their doctoral research training and transition into mentored postdoctoral career development opportunities in research areas relevant to the missions of participating NIH Institutes and Centers. Notice is being provided to allow potential applicants sufficient time to develop responsive projects.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.077",
+          "title": "Family Smoking Prevention and Tobacco Control Act Regulatory Research"
+        }
+      ]
     },
     {
       "opportunity_id": "359703",
@@ -7839,30 +7743,6 @@
         {
           "number": "93.279",
           "title": "Drug Use and Addiction Research Programs"
-        }
-      ]
-    },
-    {
-      "opportunity_id": "359133",
-      "number": "FOR-CA-25-089",
-      "title": "Forecast to Publish a Notice of Funding Opportunity for The Experimental Therapeutics Clinical Trials Network (ETCTN) Lead Academic Organizations (UM1 Clinical Trial Required)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NCI",
-      "post_date": "2025-05-27",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-CA-25-089",
-      "award_ceiling": null,
-      "num_awards": "6",
-      "contact_name": "Lori A. Henderson, Ph.D.",
-      "contact_email": "NCIETCTNRFA@mail.nih.gov",
-      "abstract": "The National Cancer Institute (NCI) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications from institutions/organizations that propose to maintain or establish Lead Academic Organizations (LAOs) as part of the NCI Experimental Therapeutics Clinical Trials Network (ETCTN). ETCTN LAOs will design, develop, monitor, conduct, and analyze early phase clinical trials (e.g., phase 0, phase 1, phase 2, pilot, and other experimental therapeutic clinical trials) involving agents under regulatory sponsorship for New Investigational Drug (IND) applications held by NCI's Division of Cancer Treatment and Diagnosis (DCTD), Cancer Therapy Evaluation Program (CTEP). Each ETCTN LAO will participate in clinical trials it leads as well as clinical trials led by other LAOs in the network. The ETCTN LAOs will provide oversight for all scientific, programmatic, financial, and administrative matters related to the sites participating in ETCTN trials as part of their LAOs. ETCTN LAOs are also expected to provide mentorship for investigators who are in the early stages of their research careers with a focus on clinical trials. All ETCTN LAOs will be required to use the ETCTN Pharmacokinetic (PK) Resource Laboratory as a central resource to incorporate PK studies within their early phase clinical trials, when appropriate, to analyze pharmacokinetic endpoints, drug-drug interactions, cytochromes P450 (CYP) interactions, pharmacodynamics, and food effects associated with IND agents being evaluated in ETCTN trials. This PK Laboratory will conduct all pharmacokinetic studies for ETCTN clinical trials involving Investigational New Drug (IND) agents under the regulatory sponsorship of NCI’s Division of Cancer Treatment and Diagnosis (DCTD), Cancer Therapy Evaluation Program (CTEP) . The ETCTN Pharmacokinetic Resource Laboratory is funded through a separate NOFO (RFA-CA-25-027). Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the UM1 activity code. The NOFO is expected to be published in Summer 2025 with an anticipated application due date in Fall 2025.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
         }
       ]
     },
