@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-22T10:23:53.108350+00:00",
-  "count": 57,
+  "updated_at": "2026-05-23T09:01:26.554841+00:00",
+  "count": 59,
   "data": [
     {
       "id": 66,
@@ -51,6 +51,19 @@
       "abstract_is_html": true
     },
     {
+      "id": 86,
+      "title": "Biomarker Discovery and Validation for Alcohol-Related Cardiovascular Diseases",
+      "lead_ico": "NIAAA",
+      "participating_icos": [],
+      "posted_date": "2026-03-17",
+      "expiration_date": "2028-05-22",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/86",
+      "contacts": [],
+      "abstract": "<p>Alcohol intake is a dose-dependent risk factor for cardiovascular and cerebrovascular disease. Heavy consumption substantially increases risk, and even low levels of intake are associated with measurable elevations in disease risk. Alcohol increases the risk for ischemic heart disease and ischemic stroke through both direct and indirect mechanisms. In this context, cardiovascular disease (CVD) is used as an umbrella term that includes cerebrovascular disease. Alcohol contributes to multiple cardiovascular conditions, including:</p><ul><li>Hypertension</li><li>Atrial fibrillation</li><li>Alcoholic cardiomyopathy</li><li>Hemorrhagic stroke</li></ul><p>Although CVD biomarkers are routinely used for diagnosis, prognosis, and treatment monitoring, they do not reliably distinguish alcohol-related pathophysiology from non-alcohol-related or mixed etiologies. As a result, alcohol-related CVD is often underrecognized or misattributed. Standard clinical assessments, including self-reported alcohol use, commonly used biomarkers, and routine cardiac testing and imaging, generally lack specificity for alcohol exposure and may detect injury only after substantial damage has occurred. This underestimation limits opportunities for early diagnosis, individualized treatment, effective primary and secondary prevention, and accurate population- and sex-specific estimates of disease burden.</p><p><strong>Purpose</strong><br></br>Through this topic NIH encourages the following research to:</p><ul><li>Leverage existing cohorts, prospective and longitudinal studies, and large-scale datasets, including electronic health records (EHRs), to identify, validate, and apply biomarkers or biomarker panels for alcohol-related CVD.</li><li>Use causal-inference approaches, such as Mendelian randomization and natural experiments, to strengthen etiological interpretation.</li><li>Emphasize biomarkers that link alcohol exposure to intermediate biological processes and downstream cardiovascular or cerebrovascular outcomes, including sex-specific differences in susceptibility, disease progression, and prognosis.</li><li>Integrate molecular, imaging, physiological, and/or digital biomarkers to improve phenotyping and clinical translation.</li></ul></p>",
+      "abstract_is_html": true
+    },
+    {
       "id": 88,
       "title": "Unexplained Anemia in Older Persons: Elucidating Etiologies, Improving Diagnoses, and Identifying and Testing Potential Treatment Strategies",
       "lead_ico": "NIA",
@@ -63,6 +76,25 @@
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/88",
       "contacts": [],
       "abstract": "<p>This topic is highlighted to encourage research to improve understanding of clinical, mechanistic, etiologic, diagnostic, and therapeutic considerations regarding the substantial proportion of anemic older persons whose anemia is currently not explained by existing diagnostic categories. This understanding may lead to more effective treatments for these individuals, which could reduce anemia-related morbidities and improve functional abilities and quality of life.   </p><p><strong>Background and Scientific Context</strong></p><p>Anemia is common in the older population. Roughly 17% of people aged 65 and over are anemic, and anemia is cited as a contributing cause of death in about 10% of U.S. death certificates. Yet in 30–50% of older adults with anemia, the cause remains undetermined, a condition referred to as unexplained anemia of aging (UAA). Thus, UAA constitutes an important unmet clinical problem in gerontology and hematology. To address this, the National Institute on Aging convened a 2024 workshop to synthesize knowledge about UAA and identify future research directions, in which experts in aging, hematology, and related fields reviewed epidemiology, biological mechanisms, clinical implications, and research opportunities to improve understanding of UAA. A workshop summary has been published (El Kassar N et al. A proposed path to explaining the unexplained anemia of aging. J Gerontol, Series A: Biol Sci Med Sci 2026, 81(1) doi.org/10.1093/gerona/glaf251).</p><p>Elucidating the etiologies that contribute to currently unexplained anemia in older persons may enhance diagnostic methods, selection of appropriate interventions, and development of new interventions to target these etiologies.  Several causal factors have been proposed, including effects of age-related changes in inflammatory factors, cellular senescence, age-related changes in level and activity of sex hormones, age-related changes in the microbiome, and clonal hematopoiesis, as well as interactive effects of known and novel risk factors that can occur in the presence of multimorbidity, which is very prevalent among older persons. </p><p>A variety of research strategies may contribute to elucidation, diagnosis, and treatment of specific causes of currently unexplained anemia in older persons. Epidemiologic and clinical studies may identify subgroups of currently unexplained anemia differing in natural history, risk factors, and profiles of multimorbidity, and identify high-risk groups for specific types of anemia. Pathophysiologic studies, including use of <em>in vitro </em>novel alternative methods, may identify specific cellular, tissue, and systemic mechanisms, and provide a basis for better diagnostic characterization of currently unexplained anemias, and selection or design of targeted interventions. Controlled intervention studies may both clarify mechanisms of these anemias and assess the efficacy and safety of novel targeted treatments. </p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 84,
+      "title": "Postnatal Human Developmental Stages and Transitions: Relationships to Aging Changes and Outcomes over the Life Course",
+      "lead_ico": "NIA",
+      "participating_icos": [
+        "ECHO",
+        "NCCIH",
+        "NCI",
+        "OBSSR",
+        "ONR"
+      ],
+      "posted_date": "2026-03-13",
+      "expiration_date": "2028-05-22",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/84",
+      "contacts": [],
+      "abstract": "<p>NIH encourages research to understand how biological and biobehavioral processes during distinct postnatal developmental stages influence health, resilience, functional capacity, and aging across the life course. This topic focuses on:</p><ul><li>Developmental stages as sensitive periods when protective traits, stress responses, regenerative capacity, and regulatory mechanisms are active but may decline, change, or be lost with maturation </li><li>How the timing, pace, and length of developmental stages affect adult traits, disease risk, and aging patterns </li></ul><p>Understanding these processes may help identify pathways and therapeutic targets that could be sustained, reactivated, or mimicked to extend health span and delay aging-related decline.</p><p><strong>Background</strong></p><p>Humans progress through coordinated postnatal developmental stages and transitions prior to adulthood, including cessation of rapid brain growth, adrenarche, sexual maturation, thymic involution, and termination of longitudinal bone growth. These transitions reflect integrated shifts in endocrine regulation, metabolism, growth velocity, body composition, immune function, tissue remodeling, and neurobehavioral maturation. Juvenile and adolescent stages differ from each other and from adulthood in physiological, metabolic, immune, regenerative, and tissue-repair capacities.</p><p>Available evidence suggests that certain stress responses (e.g., fracture healing) and metabolic characteristics (e.g., regulation of atherogenic risk factors and insulin sensitivity) may be more favorable during specific juvenile stages than in adulthood or later life. However, mechanisms underlying these stage-specific differences remain poorly defined. Systematic research is needed to identify protective phenotypes across postnatal stages and clarify mechanisms distinguishing juvenile stages from adulthood. Such insights could reveal processes that might be sustained, reactivated, or mimicked later in life to prevent or delay aging-related functional decline and chronic disease.</p><p>Further research is needed to determine how physiological and biobehavioral processes during specific maturational stages—and variation in their timing, sequencing, and duration—shape adult phenotypes and long-term health trajectories. For example, later age at sexual maturation has been associated with longer life span and reduced risk of several cancers, whereas early life adversity has been linked to disruption of biobehavioral and homeostatic regulatory profiles and altered pace of biological aging. Understanding developmental plasticity during these stages, including effects on bone strength, immune repertoire, neuromuscular function, cognition, and brain health, may inform strategies to optimize youth health and promote healthy aging. Insights into sex differences may further clarify differences in disease susceptibility and aging outcomes.</p>",
       "abstract_is_html": true
     },
     {
