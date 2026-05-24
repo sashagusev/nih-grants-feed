@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T09:02:55.230492+00:00",
+  "updated_at": "2026-05-24T09:23:57.524998+00:00",
   "count": 306,
   "data": [
     {
@@ -8,11 +8,23 @@
       "title": "Integrated Specific Pathogen Free Research Models and Human New Approach Methodologies to Advance HIV/AIDS Research (U42 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "ORIP",
       "post_date": "2026-05-20",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-019"
+      "url": "https://simpler.grants.gov/search?query=PAR-28-019",
+      "award_ceiling": null,
+      "num_awards": "4",
+      "contact_name": "Division of Comparative Medicine, Office of Research Infrastructure Programs (ORIP)",
+      "contact_email": "ORIPDCM@mail.nih.gov",
+      "abstract": "This NOFO is issued during a period of accelerating development, validation, and adoption of human new approach methodologies (NAMs). Accordingly, it has two integrated priorities for NIH-funded HIV/AIDS research: (1) implementation of a NAMs-enabled stewardship framework, including optional HIV-relevant human in vitro testing support and pilot benchmarking activities, to reduce or replace specific pathogen free (SPF) in vivo model use where scientifically appropriate without compromising rigor, reproducibility, or translational relevance; and (2) support for high-quality SPF colony resources for studies in which well-characterized in vivo models remain scientifically necessary. Under the NAMs-enabled component, required elements include: (1) integration of a NAMs triage and consultation service within request intake and allocation workflows to identify NAM-feasible studies and document reductions or replacements in in vivo use; and (2) establishment of a formal referral pathway to NAM centers as well as human tissue and other human science based resources to facilitate collaborative HIV-relevant human NAM development, benchmarking, and refinement. Applicants may also propose optional NAMs-enabled HIV human in vitro testing support (research use only), including standardized operating procedures, quality control frameworks, and user guidance for viral load quantification, drug resistance assessment, and ex vivo susceptibility assays, as well as optional pilot benchmarking projects to define performance metrics, quality control benchmarks, and context-of-use statements for HIV-relevant human NAMs. Under the SPF resource component, the award will support core colony operations, including colony management and husbandry; transparent, merit-based request intake and allocation; comprehensive virologic surveillance and rapid mitigation to preserve SPF status; and high-resolution immunogenetic characterization (e.g., MHC typing) to enable rigorous, genotype-informed study design and efficient stewardship of limited in vivo resources.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.351",
+          "title": "Research Infrastructure Programs"
+        }
+      ]
     },
     {
       "opportunity_id": "362454",
@@ -1444,7 +1456,19 @@
       "post_date": "2026-02-18",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-LM-26-004"
+      "url": "https://simpler.grants.gov/search?query=RFA-LM-26-004",
+      "award_ceiling": null,
+      "num_awards": "25",
+      "contact_name": "NLM Extramural Programs",
+      "contact_email": "NLMProgram@nih.gov",
+      "abstract": "The National Library of Medicine (NLM) invites applications for innovative predoctoral and postdoctoral training programs that prepare the next generation of researchers in biomedical informatics, data science, and artificial intelligence/machine learning (AI/ML). NLM emphasizes cutting-edge, forward-looking training experiences that equip trainees to address complex health and biomedical challenges through advanced computational approaches. Applications may propose the creation of new training programs or the renewal of existing NLM-supported programs. These programs are designed to meet the growing demand for researchers with deep expertise in biomedical computing, data science, and AI/ML, with clear relevance to health and biomedical research. Recognizing the inherently interdisciplinary nature of these fields, NLM seeks programs that integrate methods and perspectives across disciplines to advance biomedical informatics, data science, and AI/ML.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.879",
+          "title": "Medical Library Assistance"
+        }
+      ]
     },
     {
       "opportunity_id": "361304",
@@ -2668,23 +2692,11 @@
       "title": "Paul B. Beeson Emerging Leaders Career Development Award in Aging",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIA",
+      "institute": "",
       "post_date": "2025-11-24",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-104",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIA Training and Career Development",
-      "contact_email": "NIAtraining@mail.nih.gov",
-      "abstract": "The National Institute on Aging (NIA) intends to publish a Notice of Funding Opportunity (NOFO) that uses the NIH Emerging Leaders Career Development Award to administer the Paul B. Beeson Emerging Leaders Career Development Award in Aging program. This NOFO invites early-stage physicians and other health professional investigators with a commitment to aging and/or aging-related diseases to apply for this award with the goal of advancing their research and leadership skills in their specialty and in the broader field of aging and geriatrics research. NIA is pursuing this initiative to recruit early-stage investigators who have successfully competed for a research grant and begun to establish research programs and who, through this award, will be ready to assume leadership roles in their field of expertise and be poised to change theory, practice, and health outcomes related to the health of older individuals. Unlike other mentored K awards, candidates for this award must have received competitively awarded research support as a Program Director/Primary Investigator (PD/PI) at the faculty level or have otherwise leveraged faculty-level research support to develop an independent line of research. They must show evidence of leadership in the clinical or research domain. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO intends to utilize the K76 activity code. Investigators with expertise and insights into this area of aging research are encouraged to begin to consider applying for this new NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-26-104"
     },
     {
       "opportunity_id": "360911",
@@ -3400,7 +3412,19 @@
       "post_date": "2025-09-23",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-NS-26-002"
+      "url": "https://simpler.grants.gov/search?query=RFA-NS-26-002",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Brian Klein, PhD",
+      "contact_email": "brian.klein@nih.gov",
+      "abstract": "The National Institute of Neurological Disorders and Stroke (NINDS) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications to investigate novel therapeutic interventions and testing strategies for neurological disorders including to treat, modify, and prevent epilepsy. This research should include various intervention modalities and testing strategies. Investigators should consider testing strategies for the development and validation of human-focused testing approaches. Investigators with expertise and insights into preclinical therapy testing and model development are encouraged to consider applying for this new NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.853",
+          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        }
+      ]
     },
     {
       "opportunity_id": "360645",
@@ -3484,7 +3508,19 @@
       "post_date": "2025-09-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-026"
+      "url": "https://simpler.grants.gov/search?query=PAR-26-026",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Jessica M. Faupel-Badger, Ph.D., MPH",
+      "contact_email": "badgerje@mail.nih.gov",
+      "abstract": "The Institutional Development Award program develops biomedical research capacity in states that have historically received low levels of NIH funding (IDeA states). The IDeA Networks of Biomedical Research Excellence (INBRE) Notice of Funding Opportunity will support statewide networks in IDeA states made up of one or more research intensive institution and multiple primarily undergraduate institutions. INBREs build biomedical research capacity through supporting faculty research and research mentoring, student participation in research, and enhancement of institutional research infrastructure with an emphasis on developing pathways for undergraduate students in these states to move into biomedical research careers. The INBREs promote collaboration among institutions in IDeA states, create economies of scale, and develop research support capabilities at the primarily undergraduate institutions.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.859",
+          "title": "Biomedical Research and Research Training"
+        }
+      ]
     },
     {
       "opportunity_id": "360637",
@@ -3592,7 +3628,19 @@
       "post_date": "2025-09-18",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-124"
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-124",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Ludmila Pawlikowska Ph.D.",
+      "contact_email": "Ludmila.pawlikowska@nih.gov",
+      "abstract": "The National Institute of Diabetes and Digestive Diseases and Nutrition (NIDDK) seeks to advance its mission by continuing the NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC). The IBDGC has led collaborative efforts resulting in the identification of >300 genetic risk loci for different IBD subtypes across patient populations and characterization of underlying biological mechanisms. Despite advances in biological understanding and the development of a range of biologic therapies, IBD remains a chronic, severe and heterogenous disease with no cure requiring multiple interventions over the life course. Diagnostic biomarkers and accurate predictors of critical outcomes including disease remission, recurrence, and response to specific therapies are lacking. The IBDGC will leverage patient cohorts, biospecimens and advances in data science to characterize the interactions of genetic, clinical and environmental factors in disease development and progression, and to develop new predictors of disease outcomes, with the goal of improving medical management and advancing precision medicine for IBD patients. The Data Coordinating Center (DCC) of the IBDGC will coordinate collaboration among IBDGC Genetic Research Centers (described in the companion notice), external scientific collaborations and pilot projects, participant enrollment, biospecimen collections and processing, and manage the submission of data and samples to central databases and repositories.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.847",
+          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+        }
+      ]
     },
     {
       "opportunity_id": "360621",
@@ -4200,19 +4248,7 @@
       "post_date": "2025-09-09",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-073",
-      "award_ceiling": null,
-      "num_awards": "5",
-      "contact_name": "Tony Gover, Ph.D.",
-      "contact_email": "tony.gover@nih.gov",
-      "abstract": "The purpose of NEI’s Translational Research program is the rapid and efficient translation of innovative laboratory research findings into therapeutics for use by clinicians to treat visual system diseases or disorders. The TRP will support the product development of biological, pharmaceutical, medical device, and/or combination therapies for any disease or disorder of the visual system. The TRP will utilize a bi-phasic, milestone-driven mechanism of award. The R61 phase can be up to two years and will support research that has demonstrated significant preliminary data but has not advanced to the level of clinical translation. The R33 phase can be up to three years and will support research that is in the final states of preclinical development with potential for near-term clinical development. The R33 is to focus on advancing a single therapeutic candidate through Investigational New Drug or Investigational Device Exemption (IND/IDE) enabling studies, filing an IND/IDE package with the FDA, and designing future clinical trials. R33 recipients must submit or obtain an IND/IDE application to FDA, or must transition the product to clinical practice, within the period of performance. The specific activities appropriate for the R33 phase will depend on the product under study and available preliminary data on the product. Delineation of milestones by the applicant for the R61 and R33 phases is a key characteristic of this program. A milestone is defined as a scheduled event in the project timeline that signifies the completion of a major project stage or activity. This program will support applications that propose a series of milestones including manufacturing and product development goals. Applications that address contingency plans to proactively confront potential delays in meeting the milestones are strongly encouraged. Milestones are required for both phases. Milestones must be specific, measurable, achievable, relevant, and time-bound (SMART). Mature efforts that do not require the R61 phase resources may apply directly to the R33 phase. However, evidence of a pre-IND/IDE meeting with the FDA is required to submit an R33 application directly.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-26-073"
     },
     {
       "opportunity_id": "360547",
@@ -4416,7 +4452,19 @@
       "post_date": "2025-09-02",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-NS-26-012"
+      "url": "https://simpler.grants.gov/search?query=RFA-NS-26-012",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Francesca Bosetti",
+      "contact_email": "frances@mail.nih.gov",
+      "abstract": "The National Institute of Neurological Disorders and Stroke intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the Coordinating Center and Testing Sites of the Stroke Preclinical Assessment Network (SPAN), a preclinical network to support translational studies for cerebroprotection in experimental models of acute ischemic stroke . Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize Cooperative Agreements (U01). Investigators with expertise and insights into this area of multi-center translational studies for acute cerebroprotection in experimental models of acute ischemic stroke are encouraged to begin to consider applying for this NOFO. SPAN 3.0 will be a collaborative network for the preclinical testing of stroke treatments comprised of up to 6 peer-reviewed data collection sites that emphasize rigor with built-in replication and a Coordinating Center (CC) that will oversee administration, coordination, and data sharing of the network.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.853",
+          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        }
+      ]
     },
     {
       "opportunity_id": "360436",
@@ -5420,23 +5468,11 @@
       "title": "Biomarkers of Cognitive Decline and Dementias of Aging in Individuals within the Autism Spectrum",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIA",
+      "institute": "",
       "post_date": "2025-06-27",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-TEMP-25653",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Alessandra Rovescalli, Ph.D.",
-      "contact_email": "rovescaa@mail.nih.gov",
-      "abstract": "The National Institute on Aging (NIA) intends to publish a Notice of Funding Opportunity (NOFO) to invite applications to conduct observational studies in individuals living with Autism Spectrum Disorders (ASD) along the lifespan. The overarching goal is to determine the occurrence of age-related neurodegeneration across the heterogeneities of the ASD spectrum, characterize the physiopathology and manifestation of Alzheimer's disease (AD) and AD-related dementias (ADRD) in ASD, and, ultimately, develop precision-medicine strategies tailored to this understudied population. It is expected that proposed studies pursue deep phenotyping of aging individuals across the ASD spectrum, along with the characterization/validation of existing biomarkers of age-related cognitive decline and/or dementia in this population, and/or the discovery of novel ones. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO intends to utilize the U01 activity code. This NOFO encourages collaborations between investigators with expertise in autism and those with expertise in aging and dementia, fostering interactions between established centers for neurodevelopmental research and centers studying age-related cognitive decline.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=FOR-TEMP-25653"
     },
     {
       "opportunity_id": "359850",
@@ -6116,19 +6152,7 @@
       "post_date": "2025-06-17",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-MH-26-160",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Stephen O'Connor, Ph.D.",
-      "contact_email": "stephen.oconnor@nih.gov",
-      "abstract": "The National Institute of Mental Health (NIMH) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research on the preliminary effectiveness of peer support intervention strategies for reducing suicide risk in clinical and community practice settings. In this pilot phase of effectiveness research, the trial should be designed to (1) evaluate the feasibility, tolerability, acceptability, safety, and potential effectiveness of the approach; (2) to address whether the intervention engages the factors presumed to underlie the intervention effects; and (3) to obtain preliminary data needed as a pre-requisite to a larger-scale effectiveness trial designed to definitively test the effectiveness of the intervention. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the R01 activity code. Investigators with expertise and insights into developing and testing scalable and sustainable peer support interventions in clinical and community practice settings focused on suicide risk reduction are encouraged to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in peer support models for suicide prevention, intervention development and clinical trials research methodology, and implementation science related to developing and testing suicide prevention strategies will be encouraged, and investigators with expertise in these areas should consider applying for this NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=FOR-MH-26-160"
     },
     {
       "opportunity_id": "359201",
@@ -6708,19 +6732,7 @@
       "post_date": "2025-06-06",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-HG-25-020",
-      "award_ceiling": null,
-      "num_awards": "5",
-      "contact_name": "Mike Pazin",
-      "contact_email": "michael.pazin@nih.gov",
-      "abstract": "The National Human Genome Research Institute (NHGRI) intends to promote a new initiative by publishing a Notice of Funding Opportunity (NOFO) to solicit applications to study the effects of genetic or environmental interactions on genomic variant impact. To accomplish this, centers funded through this initiative will propose a research framework to investigate whether interactions, with effects beyond additive, are important modifiers of the impact of variants. Centers will apply their framework to experimentally test combinations for interactions. The rationale for this research is the identification of a structure within the interaction landscape might result in better predictions of the most important interactions to test, leading to more effective variant testing, better understanding of Genome-wide Association Studies (GWAS), and improved polygenic scores. As IGVF Consortium members, centers will work together to ensure all consortium resources are accessible to a wide variety of potential users. Centers are also expected to collaborate with other consortium components to coordinate assays, variants, and cell types, and to develop shared analysis strategies to meet consortium goals. This Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. The NOFO is expected to be published in 2025 with an expected application due date in 2025. This NOFO will utilize the UM1 activity code.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=FOR-HG-25-020"
     },
     {
       "opportunity_id": "359279",
@@ -7732,19 +7744,7 @@
       "post_date": "2025-05-12",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-HG-25-018",
-      "award_ceiling": null,
-      "num_awards": "5",
-      "contact_name": "Stephanie A. Morris, Ph.D.",
-      "contact_email": "morriss2@mail.nih.gov",
-      "abstract": "The National Human Genome Research Institute (NHGRI) intends to promote a new initiative by publishing a Notice of Funding Opportunity (NOFO) to solicit applications for research to characterize genomic variation to assess the impact of individual variants on genome function. This will be accomplished by systematically perturbing variants or elements using one or more high-throughput methods; collecting data on the effects of variants in DNA, RNA, or protein-coding elements on molecular, cellular, or organismal phenotypes; and developing robust, reproducible, and portable data processing pipelines. Centers funded through this initiative will become a part of the Impact of Genomic Variation on Function (IGVF) Consortium. As consortium members, centers will work together to ensure all consortium resources are accessible to a wide variety of potential users. Centers are also expected to collaborate with other consortium components to coordinate assays, variants, and cell types, and to develop shared analysis strategies to meet consortium goals. This Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. The NOFO is expected to be published in 2025 with an expected application due date in 2025. This NOFO will utilize the UM1 activity code. Details of the planned NOFO are provided below.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=FOR-HG-25-018"
     },
     {
       "opportunity_id": "358870",
