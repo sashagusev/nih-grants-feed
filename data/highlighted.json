@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-25T11:11:02.117729+00:00",
-  "count": 59,
+  "updated_at": "2026-05-27T10:55:33.699824+00:00",
+  "count": 60,
   "data": [
     {
       "id": 66,
@@ -156,7 +156,8 @@
         "NIMH",
         "NLM",
         "OBSSR",
-        "ODSS"
+        "ODSS",
+        "ODP"
       ],
       "posted_date": "2026-02-26",
       "expiration_date": "2028-04-15",
@@ -295,7 +296,8 @@
         "NHLBI",
         "NIA",
         "NIDDK",
-        "ONR"
+        "ONR",
+        "NCI"
       ],
       "posted_date": "2026-02-13",
       "expiration_date": "2028-05-20",
@@ -322,6 +324,23 @@
         "afrouz.anderson@nih.gov"
       ],
       "abstract": "<p>Low-intensity electromagnetic radiation (EMR) is encountered both in therapeutic settings and from environmental sources such as cell phones and ultraviolet light. Therapeutically, EMR in the form of optical, electric, and magnetic fields has been used to treat a wide range of conditions, including bone, joint, and tissue injuries, mental illness, chronic pain, edema, and cancer. Growing evidence suggests that low dose and intensity EMR frequencies can modulate a wide range of biological processes, such as inflammation, cell repair and regeneration, blood flow, perfusion, and mitochondrial function contributing to therapeutic efficacy. At the same time, understanding of EMR-related health impact must also account for potential adverse effects, including unintended interactions with normal tissue function, variability in individual response, cumulative exposures, and possible long-term safety concerns.  To understand these EMR-driven health effects, new methods and technologies including quantum and AI approaches, are needed for quantitatively measuring and controlling EMR transport in tissue. Advances in EMR sensing, imaging, and delivery technologies promise to revolutionize personalized therapies by optimizing EMR dosimetry throughout the body while also improving the ability to assess safety, detect unintended biological effects, and quantitively measure the beneficial vs. potentially harmful exposure. This will ensure safety and efficacy of innovative EMR therapies, while generating new insights into potential off-target and background effects of low intensity electromagnetic radiation.</p><h2>Participating ICOs</h2><p>NIBIB’s interests include the discovery of design principles and modeling approaches to characterize the interaction of EMR and biology toward the development of technologies and their integration into bioengineering, sensing, imaging, and computational frameworks to understand dose-response, improve human health, and advance medical care. NIBIB supports the development of EMR-based technologies that are expected to be applicable to a broad spectrum of disorders and diseases. Projects that use a single tissue, organ, disease, or physiological condition as a model system to enable the development of broadly applicable EMR-based technologies are within the NIBIB mission.</p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 59,
+      "title": "Accelerating Otitis Media Research and Workforce Development",
+      "lead_ico": "NIDCD",
+      "participating_icos": [
+        "NIAID"
+      ],
+      "posted_date": "2026-02-11",
+      "expiration_date": "2028-05-26",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/59",
+      "contacts": [
+        "jaclyn.schurman@nih.gov"
+      ],
+      "abstract": "<p>Otitis media (OM) is one of the most common childhood illnesses and a leading cause for antibiotic prescriptions in children. More than 80% of children experience at least one episode of OM by three years of age. In children with recurrent or chronic disease, the impact on development can be substantial, including prolonged conductive hearing loss and delays in speech, language, and learning. OM has a significant disease burden, including care-giver strain and health care costs. In the United States alone, annual health care costs associated with OM are estimated at over $4.5 billion. Current prevention strategies consist primarily of the pneumococcal conjugate vaccine, which has had modest effects on OM incidence due to pathogen replacement. Furthermore, the factors that make some children susceptible to OM while others remain resistant are not well understood. Research into the factors that contribute to OM-resistance may be critical to developing prevention strategies. Finally, expanded and innovative treatment options, beyond antibiotics and pressure equalization tubes, are needed to address this public health challenge.</p><p>Taken together, OM imposes a substantial disease burden that demands expanded research capacity and innovation. NIH is committed to accelerating basic, clinical, and translational OM research and cultivating the next generation of investigators.</p><p>Capacity building areas of interest include, but are not limited to, the following:</p><ul><li>Mentored research training experiences for pre- and post-doctoral trainees in projects focused on OM.</li><li>Early-stage researchers in the initial stages of building a research program in OM.</li><li>Investigators at all career stages that are interested in connecting or redirecting their current scientific programs (e.g., biofilm, metabolomics, genomics, pathogenesis, immunity, pharmacology, infectious disease, epidemiology, bioinformatics, etc.) to research directly related to OM.</li></ul><p>Scientific topics of interest include, but are not limited to, epidemiology, etiology, pathophysiology, diagnosis, prevention, and treatment of OM.</p>",
       "abstract_is_html": true
     },
     {
