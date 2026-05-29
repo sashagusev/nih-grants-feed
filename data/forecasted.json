@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-05-28T10:57:57.990795+00:00",
-  "count": 308,
+  "updated_at": "2026-05-29T10:48:40.416276+00:00",
+  "count": 299,
   "data": [
+    {
+      "opportunity_id": "362597",
+      "number": "PAR-28-013",
+      "title": "NIDCD Research Fellowship for Audiologists",
+      "agency_name": "National Institutes of Health",
+      "agency_code": "HHS-NIH11",
+      "institute": "NIDCD",
+      "post_date": "2026-05-28",
+      "close_date": "",
+      "status": "forecasted",
+      "url": "https://simpler.grants.gov/search?query=PAR-28-013",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIDCD Training",
+      "contact_email": "nidcd.training@mail.nih.gov",
+      "abstract": "The National Institute on Deafness and Other Communication Disorders (NIDCD) intends to publish a Notice of Funding Opportunity (NOFO) for clinical audiologists currently enrolled in Ph.D. programs. NIDCD encourages audiologists with strong research potential to integrate clinical and translational research into their career paths. A strong research foundation is essential for advancing hearing health care and the field of audiology. The NIDCD Research Fellowship for Audiologists program aims to support this effort by providing clinical audiologists with the opportunity to engage in comprehensive and rigorous research training leading to a research doctorate (i.e., Ph.D.) in the biomedical, behavioral, or clinical sciences. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.173",
+          "title": "Research Related to Deafness and Communication Disorders"
+        }
+      ]
+    },
     {
       "opportunity_id": "362574",
       "number": "PAR-28-024",
@@ -600,11 +624,27 @@
       "title": "NIH Pragmatic Trials Conducted in Health Care Systems",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "NCCIH",
       "post_date": "2026-04-29",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-010"
+      "url": "https://simpler.grants.gov/search?query=PAR-28-010",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NCCIH Division of Extramural Research Program Officer",
+      "contact_email": "NCCIHDERFunding@nih.gov",
+      "abstract": "The National Institutes of Health intends to publish a Notice of Funding Opportunity (NOFO), Pragmatic and Implementation Trials Conducted in Health Care Settings This funding opportunity will support large-scale pragmatic trials that test intervention effectiveness in routine clinical care and/or implementation trials that evaluate strategies for delivering interventions within health care settings. These trials are intended to directly inform decision-makers (e.g., patients, clinicians, administrators, policymakers, and payers) about the comparative benefits, burdens, and risks of biomedical or behavioral interventions. To enhance real-world relevance and generalizability, applicants are encouraged to: 1) Select care settings where the target condition is commonly seen (e.g., emergency departments, primary care, public health clinics). 2) Include multiple health system types (e.g., academic centers, federally qualified health centers, integrated networks, VA Medical Centers). 3) Assess adaptation across systems and regions to ensure intervention effectiveness and implementation feasibility. Interventions under study should be embedded in routine care. Trials may integrate one or more interventions with established efficacy into appropriate health care settings or implement system-level changes to improve health outcomes. This phased award will use a milestone-driven cooperative agreement mechanism, supporting a planning phase and a phase for full trial execution. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. Investigators with expertise and insights into this area are encouraged to begin to consider applying for this NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.213",
+          "title": "Research and Training in Complementary and Integrative Health"
+        },
+        {
+          "number": "93.473",
+          "title": "Complementary and Integrative Health - Research Projects"
+        }
+      ]
     },
     {
       "opportunity_id": "362101",
@@ -692,7 +732,19 @@
       "post_date": "2026-04-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-009"
+      "url": "https://simpler.grants.gov/search?query=PAR-28-009",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Division of Extramural Research (DER) Program Officer",
+      "contact_email": "NCCIHDERFunding@nih.gov",
+      "abstract": "The National Center for Complementary and Integrative Health (NCCIH) intends to publish a Notice of Funding Opportunity (NOFO) to support collaborative interdisciplinary research that advances foundational understanding of non-addictive natural products for chronic pain management through a holistic, system-oriented approach. This initiative aligns with the NIH Helping to End Addiction Long-term (HEAL) Initiative by promoting safe, non-addictive, and prevention-oriented strategies for pain relief. Chronic pain affects tens of millions of adults in the United States, contributing to disability, diminished quality of life, and significant healthcare costs. Despite widespread public use of natural products, such as botanicals, dietary supplements, and other naturally derived compounds for pain relief, scientific evidence has not kept pace with demand. Existing research often focuses on single molecular targets or isolated pathways, which fail to capture the complex, multisystem actions of these products. The scope of natural products under this NOFO includes those commonly used by the public as well as those with emerging usage or therapeutic potential. Research is expected to take a holistic approach that examines how these products influence pain through coordinated biological pathways across the multiple organ systems, such as digestive, immune, vascular, musculoskeletal, lymphatic, metabolic/adipose tissues, and nervous system. Studies should also explore dose optimization based on the principle of hormesis, where low doses may elicit beneficial or adaptive effects while higher doses could be ineffective or harmful. In addition, investigators are encouraged to identify optimal intervention timing that aligns with the dynamic phases of pain and inflammation, thereby maximizing therapeutic outcomes and supporting physiological recovery. This program emphasizes rigorous mechanistic studies that generate foundational insights to inform future translational research and guide the development of safe, evidence-based, non-addictive strategies for pain management.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.473",
+          "title": "Complementary and Integrative Health - Research Projects"
+        }
+      ]
     },
     {
       "opportunity_id": "361833",
@@ -1068,19 +1120,7 @@
       "post_date": "2026-03-16",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-008",
-      "award_ceiling": null,
-      "num_awards": "2",
-      "contact_name": "Division of Services and Intervention Research",
-      "contact_email": "NIMH.DSIR.inquiries@nih.gov",
-      "abstract": "The National Institute of Mental Health (NIMH) intends to publish a notice of funding opportunity (NOFO) to solicit research applications for practice-based research centers to support interdisciplinary teams of mental health researchers to engage in high-impact studies that will significantly advance clinical practice and generate knowledge to fuel the transformation of mental health care in the United States. Advanced Laboratories for Accelerating the Reach and Impact of Treatments for Youth and Adults with Mental Illness (ALACRITY) Research Centers support research projects aimed at the rapid development, testing, and refinement of novel and integrative approaches for (1) optimizing the effectiveness of therapeutic or preventive interventions for mental disorders; (2) developing and testing empirically informed patient-, provider- and system-level interventions to improve mental health care access, engagement, continuity, efficiency, and quality; and (3) continuously improving the quality, impact, and durability of optimized interventions and health for individuals with or at risk for mental health problems, including those with serious mental illness. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive research projects. This NOFO will utilize the P50 activity code. Applications must propose research that maximizes synergies across various components of the mental health research ecosystem, including new discoveries in clinical research, transformative health care technologies, advances in information science, and new federal and state mechanisms for organizing mental health care. Applicants with interdisciplinary expertise, such as behavioral science, health information and data science, health systems engineering, decision science, implementation science, and related fields, whose practice-based research needs cannot be met through standard research project grant mechanisms, should consider applying to this NOFO. Applications are also expected to include research activities that facilitate the widespread sharing of data, methods, and resources to accelerate clinical research and to provide opportunities for graduate students, postdoctoral researchers, and early-career investigators to participate in interdisciplinary research-to-practice translational mental health research.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-27-008"
     },
     {
       "opportunity_id": "361519",
@@ -1588,19 +1628,7 @@
       "post_date": "2026-02-25",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-058",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NINDS_IGNITE@nih.gov",
-      "contact_email": "NINDS_IGNITE@nih.gov",
-      "abstract": "The National Institute of Neurological Disorders and Stroke, National Institute of Aging, the NIH Helping to End Addiction Long Term (HEAL) initiative , and other participating NIH Institutes/Centers (ICs) seek to support applications to develop in vitro, ex vivo or in vivo assays and conduct screening efforts with the goal of identifying and characterizing potential therapeutic agents for disorders or diseases supported by participating ICs, or for non-opioid analgesic therapeutics with little or no addiction liability as a part of the NIH Helping to End Addiction Long Term (HEAL) initiative . Therapeutic agents include small molecules and biologics. Assays utilizing New Approach Methodologies (NAMs) may be used when appropriate. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-26-058"
     },
     {
       "opportunity_id": "361348",
@@ -2068,19 +2096,7 @@
       "post_date": "2026-02-06",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PA-26-078",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "DBRW",
-      "contact_email": "researchtraining@nih.gov",
-      "abstract": "The purpose of this program is to support institutional career development awards designed to prepare newly trained clinicians who have made a commitment to independent research careers, and to facilitate their transition to more advanced support mechanisms, e.g., K08 and K23. The awards are made to institutions that select and then appoint scholars to the program.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PA-26-078"
     },
     {
       "opportunity_id": "361242",
@@ -2548,19 +2564,7 @@
       "post_date": "2026-01-15",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PA-26-083",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Division of Biomedical Research Workforce (DBRW)",
-      "contact_email": "NIHTrain@mail.nih.gov",
-      "abstract": "The National Institutes of Health (NIH) Research Education Program supports research education activities in the mission areas of the NIH. The overarching goal of this research education program is to support educational activities that complement and/or enhance the training of a workforce to meet the nation’s biomedical, behavioral and clinical research needs; help recruit individuals with backgrounds in specific specialties or disciplines to research careers in biomedical, behavioral and clinical sciences; and foster a deeper understanding of biomedical, behavioral, and clinical research and its implications. To accomplish this far-reaching goal, this opportunity will primarily support Mentoring Activities, including networks and programs, designed to enhance the quality of mentorship. Programs focused on mentoring activities may incorporate elements such as research, courses, outreach, curriculum and methods to prepare participants for careers that will have a significant impact on the health-related research needs of the nation. Grant authorities that allow NIH to forecast this opportunity are as follows: Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PA-26-083"
     },
     {
       "opportunity_id": "361159",
@@ -3532,19 +3536,7 @@
       "post_date": "2025-09-25",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-26-314",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Xujing Wang, Ph.D.",
-      "contact_email": "xujing.wang@nih.gov",
-      "abstract": "Diabetes has become a major public health challenge due to its high prevalence and chronic nature, with many individuals managing the condition for decades. One major challenge in diabetes is the enormous heterogeneity associated with the disease, which necessitates personalized approaches to its prevention, diagnosis, treatment, and prognosis. To address this, the research field has generated a large amount of complex data, and has accumulated vast prior knowledge about the disease. These data and prior knowledge contain critical, but mostly hidden, information relevant to solving this challenge. However, major hurdles exist in integrating them and extracting predictive signals, including a lack of data science expertise in the diabetes research field and the absence of diabetes-specific data science and AI expert systems, models, and tools. This initiative proposes to address these issues by establishing a pilot funding program that leverages the emerging opportunities from recent data science and AI advances. It will recruit multidisciplinary teams that include both diabetes and data science experts, to (1) develop AI foundation models for diabetes; (2) validate the models with top research questions in diabetes heterogeneity; (3) disseminate the models and engagement the community for further development, validation and application, and; (4) develop use cases that demonstrate models’ potential in accelerating the tempo of research. The expected outcomes include the integration of new AI experts into the diabetes research workforce, the creation of AI models that the average diabetes researcher can use, and informative use cases demonstrating the models' potential. All applications will be peer-reviewed and only meritorious applications will be considered for funding.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-26-314"
     },
     {
       "opportunity_id": "360641",
@@ -3580,19 +3572,7 @@
       "post_date": "2025-09-23",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-036",
-      "award_ceiling": null,
-      "num_awards": "2",
-      "contact_name": "Stephanie A. Morris",
-      "contact_email": "morriss2@mail.nih.gov",
-      "abstract": "The National Human Genome Research Institute (NHGRI) intends to promote an initiative by publishing a Notice of Funding Opportunity (NOFO) to solicit applications for the Centers of Excellence in Genomic Science (CEGS) program. The purpose of the CEGS program is to bring together interdisciplinary teams of investigators to form tightly focused, well-integrated projects that address challenging biomedical questions from a genomics perspective. CEGS are expected to develop highly innovative novel concepts, methods, approaches, tools, and technologies to address these questions and achieve a transformative advance not likely developed by standard R01s or other projects over the same timeframe. Importantly, each CEGS will address a critical issue in genomic science, genomic medicine, computational genomics, or an issue that cuts across more than one of these areas. Given these goals, each center is required to have outstanding scientific plans and management strategies that balance a high level of risk with the potential for high payoff. Additional goals of the CEGS program include broadening the pool of researchers able to work in or use genomics, and dissemination of CEGS developed methods and tools to the broader research community. In February 2024 a mixed-methods evaluation ( see evaluation report ) was completed to assess the outcomes of this flagship NHGRI program. The evaluation highlighted several strengths such as the high-risk, high-reward nature of the CEGS funding mechanism, a focus on technology development linked to biological questions, and the funding of several breakthrough resources and approaches that have surpassed genomics to stimulate many research areas. Suggestions for improvements, such as widening the focus and increasing outreach opportunities, will be addressed in this renewal.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-26-036"
     },
     {
       "opportunity_id": "360643",
@@ -3748,7 +3728,19 @@
       "post_date": "2025-09-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-025"
+      "url": "https://simpler.grants.gov/search?query=PAR-26-025",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Tina Gatlin, Ph.D.",
+      "contact_email": "gatlincl@nih.gov",
+      "abstract": "The Bioengineering Research, Innovation and Technology Education (BRITE) Program is designed to foster the development of undergraduate freshmen and sophomores to pursue further studies and careers in bioengineering, biomedical imaging or other STEM fields relevant to NIBIB’s scientific mission. Applications are encouraged to propose integrated educational activities that include three elements: 1) a summer bridge program for incoming freshmen, and 2) in the freshman and sophomore years, educational activities during the academic year, and 3) summer research experiences. The BRITE program is intended to expose students to bioengineering and biomedical imaging and provide research, innovation and entrepreneurship training early in their college careers by incorporating didactic, experiential, mentoring and career development opportunities. Student participants will receive support for the first two years of their undergraduate training. To enhance capacity for rigorous bioengineering training, this Notice of Funding Opportunity (NOFO) will support programs at baccalaureate degree granting institutions with modest levels of NIH research project grant funding. The ultimate goal is for participants to pursue a doctoral degree or a subsequent research career in bioengineering, biomedical imaging or other NIBIB-relevant field that will in turn have a significant impact on the health-related research needs of the Nation.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.286",
+          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+        }
+      ]
     },
     {
       "opportunity_id": "360633",
@@ -3832,7 +3824,19 @@
       "post_date": "2025-09-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-TW-25-002"
+      "url": "https://simpler.grants.gov/search?query=RFA-TW-25-002",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "UnJa Hayes",
+      "contact_email": "unja.hayes@nih.gov",
+      "abstract": "The LAUNCH program supports the training of future global health researchers by providing early career researchers in the U.S. an opportunity for immersion in the wide-ranging health conditions and challenges experienced in international low-resource settings and to partner with local health researchers. Consortia consisting of four U.S. research institutions and at least six collaborating research intensive institutions and/or sites in low- and middle-income countries (LMICs) will develop one-year mentored research training programs for pre- and post-doctoral trainees that focus thematically on areas of biomedical or behavioral science relevant to the research priorities of the participating NIH institutes, centers and offices. These programs will provide research mentorship, rigorous technical and professional skills training, research partnerships with matched LMIC peers, career guidance, networking opportunities, and a collaborative research training environment to support the trainees’ potential to develop into independent researchers. By leveraging the unique scientific contexts of LMICs and existing NIH research grants led by program mentors, LAUNCH enhances the potential of future research by trainees to address health needs in the U.S. and globally.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.989",
+          "title": "International Research and Research Training"
+        }
+      ]
     },
     {
       "opportunity_id": "360623",
@@ -3964,7 +3968,19 @@
       "post_date": "2025-09-18",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-108"
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-108",
+      "award_ceiling": null,
+      "num_awards": "8",
+      "contact_name": "Chandima Nishadi De Abrew Rajapakse, PhD, MHS",
+      "contact_email": "Chandima.rajapakse@nih.gov",
+      "abstract": "The National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), in collaboration with the National Heart, Lung, and Blood Institute, intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for discovery and mechanistic research to advance the understanding of cardiovascular disease in type 1 diabetes through a continuation of the CARE-T1D consortium. A consortium of six research teams was formed in 2024 through RFA-DK-23-021 to conduct hypothesis-driven research on the pathogenesis of cardiac disease in T1D using multi-omics and molecular approaches, leveraging the CARE-T1D resources. This NOFO will utilize the U mechanism activity code U01 mechanism for the investigative teams. Investigators with expertise and insights into this area of cardiovascular disease in T1D are encouraged to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in T2D, atherosclerosis, Inflammation, and cutting-edge omics techniques will be encouraged, and these investigators should also consider applying for this NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.847",
+          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+        }
+      ]
     },
     {
       "opportunity_id": "360627",
@@ -4437,6 +4453,18 @@
       "close_date": "",
       "status": "forecasted",
       "url": "https://simpler.grants.gov/search?query=PAR-26-064",
+      "award_ceiling": null,
+      "num_awards": "12",
+      "contact_name": "Bradley T. Scroggins",
+      "contact_email": "bradley.scroggins@nih.gov",
+      "abstract": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) invites applications for P50 Research Center Grants for Specialized Programs of Research Excellence (SPORE). This is a re-issuance of PAR-23-284 . The program will fund P50 SPORE grants to support state-of-the-art investigator-initiated translational research that will contribute to improved prevention, early detection, diagnosis, and treatment of an organ-specific cancer or a highly related group of cancers. For the purpose of this NOFO, a group of highly related cancers are those that are derived from the same organ system, such as gastrointestinal, neuroendocrine, head and neck, and other cancers. Other programmatically appropriate groups of cancers may include those centered around a common biological mechanism critical for promoting tumorigenesis and/or cancer progression in organ sites that belong to different organ systems. For example, a SPORE may focus on cancers caused by the same infectious agent or cancers promoted and sustained by dysregulation of a common signaling pathway. In addition, a SPORE may focus on cross-cutting themes such as pediatric cancers or epigenetics. The research supported through this program must be translational and must stem from research on human biology using cellular, molecular, structural, biochemical, and/or genetic experimental approaches. SPORE projects must have the goal of reaching a translational human endpoint within the project period of the grant.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.395",
+          "title": "Cancer Treatment Research"
+        }
+      ],
       "participating_icos": [
         "NCI",
         "NIDCR"
@@ -5489,7 +5517,7 @@
     {
       "opportunity_id": "359869",
       "number": "NOT-CA-25-103",
-      "title": "Notice to Publish a Funding Opportunity Announcement for the Academic Career Excellence (ACE) Award (K32 - Independent Clinical Trial Not Allowed)",
+      "title": "Academic Career Excellence (ACE) Award (K32 Independent Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
       "institute": "NCI",
@@ -5895,434 +5923,6 @@
       ]
     },
     {
-      "opportunity_id": "359671",
-      "number": "PA-27-100",
-      "title": "NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "",
-      "post_date": "2025-06-18",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PA-27-100",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH SEED (Small business Education and Entrepreneurial Development)",
-      "contact_email": "SEEDinfo@nih.gov",
-      "abstract": "The National Institutes of Health (NIH), including the following NIH Institutes and Centers (ICs): NEI, NHLBI, NHGRI, NIA, NIAAA, NIAID, NIAMS, NIBIB, NICHD, NIDCD, NIDCR, NIDDK, NIDA, NIEHS, NIGMS, NIMH, NINDS, NINR, NIMHD, NLM, NCCIH, NCATS, ORIP, NCI and ORWH, along with the Centers for Disease Control (CDC), and the Food and Drug Administration (FDA), intends to publish a Notice of Funding Opportunity (NOFO) to invite eligible United States small business concerns (SBCs) to submit Small Business Innovation Research (SBIR) Phase I, Phase II, Direct to Phase II (NIH Only), and Fast-Track (NIH only) grant applications. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the R43/R44 activity code. United States small businesses that have the research capabilities and technological expertise to contribute to the R&D mission(s) of the NIH, CDC, and FDA awarding components identified in this NOFO are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise will be encouraged, and these investigators should also begin considering applying for this application.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.068",
-          "title": "Chronic Diseases:  Research, Control, and Prevention"
-        },
-        {
-          "number": "93.070",
-          "title": "Environmental Public Health and Emergency Response"
-        },
-        {
-          "number": "93.073",
-          "title": "Birth Defects and Developmental Disabilities - Prevention and Surveillance"
-        },
-        {
-          "number": "93.083",
-          "title": "Prevention of Disease, Disability, and Death through Immunization and Control of Respiratory and Related Diseases"
-        },
-        {
-          "number": "93.084",
-          "title": "Prevention of Disease, Disability, and Death by Infectious Diseases"
-        },
-        {
-          "number": "93.103",
-          "title": "Food and Drug Administration Research"
-        },
-        {
-          "number": "93.113",
-          "title": "Environmental Health"
-        },
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.136",
-          "title": "Injury Prevention and Control Research and State and Community Based Programs"
-        },
-        {
-          "number": "93.143",
-          "title": "NIEHS Superfund Hazardous Substances_Basic Research and Education"
-        },
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        },
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        },
-        {
-          "number": "93.213",
-          "title": "Research and Training in Complementary and Integrative Health"
-        },
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        },
-        {
-          "number": "93.286",
-          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
-        },
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        },
-        {
-          "number": "93.313",
-          "title": "NIH Office of Research on Women's Health"
-        },
-        {
-          "number": "93.326",
-          "title": "Strengthening Public Health through Surveillance, Epidemiologic Research, Disease Detection and Prevention"
-        },
-        {
-          "number": "93.350",
-          "title": "National Center for Advancing Translational Sciences"
-        },
-        {
-          "number": "93.351",
-          "title": "Research Infrastructure Programs"
-        },
-        {
-          "number": "93.361",
-          "title": "Nursing Research"
-        },
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.846",
-          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
-        },
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        },
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        },
-        {
-          "number": "93.879",
-          "title": "Medical Library Assistance"
-        }
-      ]
-    },
-    {
-      "opportunity_id": "359758",
-      "number": "PA-27-101",
-      "title": "NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "",
-      "post_date": "2025-06-18",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PA-27-101",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH SEED (Small business Education and Entrepreneurial Development)",
-      "contact_email": "SEEDinfo@nih.gov",
-      "abstract": "The National Institutes of Health (NIH), including the following NIH Institutes and Centers (ICs): NCI, NEI, NHLBI, NIA, NIAAA, NIAID, NICHD, NIDDK, NIGMS, NIMH, NIMHD, NINDS, NCATS, ORIP, and ORWH, intends to publish a Notice of Funding Opportunity (NOFO) to invite eligible United States small business concerns (SBCs) to submit Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough grant applications. The main objective of a SBIR/STTR Phase II award is to continue R&D efforts to advance a technology toward commercialization. If the technology is not available for sale or use by the end of the SBIR/STTR Phase II award, the SBC must use non-SBIR/STTR funds to reach market access. This funding gap, between the end of the SBIR/STTR Phase II award and customer access, which affects most medical biotechnology products, is known as the “Valley of Death.” The NIH Phase IIB Strategic Breakthrough award provides additional support to mitigate this funding gap for projects that require extraordinary time and effort, including those requiring regulatory approval or are developing complex instrumentation, clinical research tools, or behavioral interventions. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the R44 activity code. United States small businesses that have the research capabilities and technological expertise to contribute to the R&D mission(s) of the NIH awarding components identified in this NOFO are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise will be encouraged and these investigators should also begin considering applying for this application. Prospective applicants should keep in mind that they must demonstrate not less than 100 percent matching funds to be considered for a Phase IIB Strategic Breakthrough award.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        },
-        {
-          "number": "93.313",
-          "title": "NIH Office of Research on Women's Health"
-        },
-        {
-          "number": "93.350",
-          "title": "National Center for Advancing Translational Sciences"
-        },
-        {
-          "number": "93.351",
-          "title": "Research Infrastructure Programs"
-        },
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        },
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        }
-      ]
-    },
-    {
-      "opportunity_id": "359757",
-      "number": "PA-27-102",
-      "title": "NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "",
-      "post_date": "2025-06-18",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PA-27-102",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH SEED (Small business Education and Entrepreneurial Development)",
-      "contact_email": "SEEDinfo@nih.gov",
-      "abstract": "The National Institutes of Health (NIH), including the following NIH Institutes and Centers (ICs): NEI, NHLBI, NHGRI, NIA, NIAAA, NIAID, NIAMS, NIBIB, NICHD, NIDCD, NIDCR, NIDDK, NIDA, NIEHS, NIGMS, NIMH, NINDS, NINR, NIMHD, NLM, NCCIH, NCATS, ORIP, NCI and ORWH, intends to publish a Notice of Funding Opportunity (NOFO) to invite eligible United States small business concerns (SBCs) to submit Small Business Technology Transfer (STTR) Phase I, Phase II, Direct to Phase II (NIH only) and Fast-Track (NIH only) applications. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the R41/R42 activity code. United States small businesses that have the research capabilities and technological expertise to contribute to the R&D mission(s) of the NIH awarding components identified in this NOFO are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise will be encouraged and these investigators should also begin considering applying for this application.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.113",
-          "title": "Environmental Health"
-        },
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        },
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        },
-        {
-          "number": "93.213",
-          "title": "Research and Training in Complementary and Integrative Health"
-        },
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        },
-        {
-          "number": "93.286",
-          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
-        },
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        },
-        {
-          "number": "93.313",
-          "title": "NIH Office of Research on Women's Health"
-        },
-        {
-          "number": "93.350",
-          "title": "National Center for Advancing Translational Sciences"
-        },
-        {
-          "number": "93.351",
-          "title": "Research Infrastructure Programs"
-        },
-        {
-          "number": "93.361",
-          "title": "Nursing Research"
-        },
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.846",
-          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
-        },
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        },
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        },
-        {
-          "number": "93.879",
-          "title": "Medical Library Assistance"
-        }
-      ]
-    },
-    {
       "opportunity_id": "359019",
       "number": "FOR-MH-26-145",
       "title": "Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care",
@@ -6362,30 +5962,6 @@
       "contact_name": "Stephen O'Connor, Ph.D.",
       "contact_email": "stephen.oconnor@nih.gov",
       "abstract": "The National Institute of Mental Health (NIMH) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research on the preliminary effectiveness of peer support intervention strategies for reducing suicide risk in clinical and community practice settings. In this pilot phase of effectiveness research, the trial should be designed to (1) evaluate the feasibility, tolerability, acceptability, safety, and potential effectiveness of the approach; (2) to address whether the intervention engages the factors presumed to underlie the intervention effects; and (3) to obtain preliminary data needed as a pre-requisite to a larger-scale effectiveness trial designed to definitively test the effectiveness of the intervention. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the R01 activity code. Investigators with expertise and insights into developing and testing scalable and sustainable peer support interventions in clinical and community practice settings focused on suicide risk reduction are encouraged to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in peer support models for suicide prevention, intervention development and clinical trials research methodology, and implementation science related to developing and testing suicide prevention strategies will be encouraged, and investigators with expertise in these areas should consider applying for this NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        }
-      ]
-    },
-    {
-      "opportunity_id": "359201",
-      "number": "RFA-MH-27-180",
-      "title": "Advancing Research on Empirically-Supported Interventions for Older Adults Living with Serious Mental Illness (SMI)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
-      "post_date": "2025-06-17",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-MH-27-180",
-      "award_ceiling": null,
-      "num_awards": "5",
-      "contact_name": "National Institute of Mental Health (NIMH)",
-      "contact_email": "NIMHinitiatives@mail.nih.gov",
-      "abstract": "The National Institute of Mental Health intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research focused on the optimization, delivery, sustainability, and effectiveness of empirically-supported interventions for addressing the mental health needs of older adults with serious mental illness (SMI). Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the R01 activity code. Investigators with expertise and insights into research related to adapting, optimizing, and implementing efficacious treatment of SMI and strategies to improve clinical and functional outcomes, to include the reduction of co-occurring chronic health conditions among aging populations are encouraged to consider applying for this new NOFO. In addition, collaborative research combining multidisciplinary expertise to address SMI and improve access to evidence-based interventions in later life, such as interventions that facilitate care transitions and continuity across settings, and research on strategies to improve care linkages and coordination across health systems are also encouraged to apply.",
       "opening_date": "",
       "cfda_list": [
         {
@@ -6484,11 +6060,23 @@
       "title": "Research Enhancement Award Program (REAP) for Health Professional Schools and Graduate Schools",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "NIA",
       "post_date": "2025-06-16",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-078"
+      "url": "https://simpler.grants.gov/search?query=PAR-27-078",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Jean Yuan, Ph.D.",
+      "contact_email": "jean.yuan@nih.gov",
+      "abstract": "The National Institute on Aging (NIA), with the National Eye Institute (NEI); National Heart, Lung, and Blood Institute (NHLBI); National Human Genome Research Institute (NHGRI); National Institute on Alcohol Abuse and Alcoholism (NIAAA); Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD); National Institute on Deafness and Other Communication Disorders (NIDCD); National Institute on Drug Abuse (NIDA); National Institute of Mental Health (NIMH); National Institute of Nursing Research (NINR); National Institute on Minority Health and Health Disparities (NIMHD); and National Cancer Institute (NCI), intend to publish a Notice of Funding Opportunity (NOFO) as part of the Research Enhancement Award Program (REAP) for Health Professional Schools and Graduate Schools. The participating institutions invite applications that support investigator-initiated mechanistic and/or minimal risk clinical trials addressing the mission and research interests of the participating NIH institutes. For the purposes of this NOFO, minimal risk clinical trials are defined as those that do not require FDA oversight, do not intend to formally establish efficacy, and have low risks to potentially cause physical or psychological harm. The purpose of the REAP for Health Professional Schools and Graduate Schools is to support small scale research grants at institutions that do not receive substantial funding from the NIH, with an emphasis on providing biomedical research experiences primarily for health professional, undergraduate and graduate students and enhancing the research environment at applicant institutions. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO intends to utilize the R15 activity code. Investigators with expertise and insights into this area of aging research are encouraged to begin to consider applying for this new NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        }
+      ]
     },
     {
       "opportunity_id": "359073",
@@ -6552,19 +6140,7 @@
       "post_date": "2025-06-11",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=TEMP-31521",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Division of Biomedical Research Workforce",
-      "contact_email": "nihtrain@mail.nih.gov",
-      "abstract": "The National Institutes of Health (NIH) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the Predoctoral to Postdoctoral Transition Award (Parent F99/K00) award. The goal of this award is to support and retain promising graduate students as they complete their doctoral research training and transition into mentored postdoctoral career development opportunities in research areas relevant to the missions of participating NIH Institutes and Centers. Notice is being provided to allow potential applicants sufficient time to develop responsive projects.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.077",
-          "title": "Family Smoking Prevention and Tobacco Control Act Regulatory Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=TEMP-31521"
     },
     {
       "opportunity_id": "359703",
@@ -6743,138 +6319,6 @@
         {
           "number": "93.310",
           "title": "Trans-NIH Research Support"
-        }
-      ]
-    },
-    {
-      "opportunity_id": "359669",
-      "number": "PAR-27-098",
-      "title": "SBIR/STTR Commercialization Readiness Pilot (CRP) Program (Parent SB1 Clinical Trial Optional)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "",
-      "post_date": "2025-06-10",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-098",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH SEED (Small business Education and Entrepreneurial Development)",
-      "contact_email": "SEEDinfo@nih.gov",
-      "abstract": "The National Institutes of Health (NIH), including the following NIH Institutes and Centers (ICs): OD, NEI, NHLBI, NHGRI, NIAAA, NIAID, NIAMS, NIBIB, NICHD, NIDCD, NIDCR, NIDDK, NIEHS, NIGMS, NIMH, NINDS, NCATS, NCI, NIA, intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications from small business concerns (SBCs) to the Commercialization Readiness Pilot (CRP) program. The NOFO aims to facilitate the transition of previously or currently funded SBIR and STTR Phase II and Phase IIB projects to the commercialization stage by providing additional support for technical assistance and later stage research and development (R&D) not typically supported through Phase II or Phase IIB grants or contracts. This may include independent replication of key studies, Investigational New Drug (IND)-enabling studies, clinical studies, manufacturing costs, regulatory assistance, or a combination of services. Although a significant amount of the work in a CRP award may be subcontracted to other institutions, the Small Business Concern (SBC) is expected to maintain oversight and management of the R&D throughout the award. Applications are not being solicited at this time. Publication of this solicitation is contingent upon reauthorization and extension of the SBIR program. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the SB1 activity code. Recipients with Phase II or IIB SBIR/STTR awards that have been active within the last 36 months, including those that will be active at the requested start date, within the missions of the NIH awarding components identified in this NOFO are encouraged to begin to consider applying for this new NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.113",
-          "title": "Environmental Health"
-        },
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.143",
-          "title": "NIEHS Superfund Hazardous Substances_Basic Research and Education"
-        },
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        },
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        },
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.286",
-          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
-        },
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        },
-        {
-          "number": "93.313",
-          "title": "NIH Office of Research on Women's Health"
-        },
-        {
-          "number": "93.350",
-          "title": "National Center for Advancing Translational Sciences"
-        },
-        {
-          "number": "93.351",
-          "title": "Research Infrastructure Programs"
-        },
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.846",
-          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
-        },
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        },
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
         }
       ]
     },
@@ -7495,30 +6939,6 @@
       ]
     },
     {
-      "opportunity_id": "359159",
-      "number": "RFA-MH-27-140",
-      "title": "Optimizing Behavioral Sleep Interventions for Adolescents and Young Adults",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
-      "post_date": "2025-05-28",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-MH-27-140",
-      "award_ceiling": null,
-      "num_awards": "6",
-      "contact_name": "Mary Rooney, Ph.D.",
-      "contact_email": "mary.rooney@nih.gov",
-      "abstract": "The National Institute of Mental Health intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for pilot research to adapt, optimize, and test behavioral interventions that address common sleep problems in adolescents and young adults with or at risk for a mental health disorder. This NOFO supports pilot clinical trials designed to evaluate the feasibility, tolerability, acceptability, safety, and potential effectiveness of the approach in real world settings. Applications should also aim to conduct a preliminary test of the intervention’s impact on sleep and mental health outcomes, as well as an examination of the mechanisms that underlie the intervention's effectiveness, and to obtain preliminary data needed as a prerequisite for larger-scale effectiveness trials. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the R34 activity code. Investigators with expertise and insights in research of common sleep problems in adolescents and young adults are encouraged to consider applying for this NOFO. In addition, interdisciplinary, collaborative teams of investigators from the fields of mental health, sleep medicine, developmental science, clinical trials research methods, behavioral economics, implementation science, data science, and human computer interaction are encouraged, and these investigators should also consider applying for this NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        }
-      ]
-    },
-    {
       "opportunity_id": "359140",
       "number": "FOR-MD-25-005",
       "title": "Forecast to Renew the Funding Opportunity Announcement for Multiple Chronic Disease Research Centers Coordinating Center (U24 Clinical Trial Not Required)",
@@ -7635,54 +7055,6 @@
         {
           "number": "93.853",
           "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        }
-      ]
-    },
-    {
-      "opportunity_id": "359150",
-      "number": "RFA-OD-27-008",
-      "title": "For Funding Opportunity for Maximizing the Scientific Value of Data Generated by the Environmental Influences on Child Health Outcomes (ECHO) Program: Ruth L. Kirschstein NRSA Individual Postdoctoral Fellowship (F32)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "OD",
-      "post_date": "2025-05-27",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-OD-27-008",
-      "award_ceiling": null,
-      "num_awards": "8",
-      "contact_name": "Clayton Mash, Ph.D.",
-      "contact_email": "clay.mash@nih.gov",
-      "abstract": "The Environmental influences on Child Health Outcomes Program (ECHO) intends to promote an ongoing initiative by publishing a Notice of Funding Opportunity (NOFO) to solicit applications for awards to advance research and training in high-priority areas of child health using ECHO Cohort data by postdoctoral fellows from relevant scientific communities. This RFA will provide opportunities for fellows to study early environmental exposures and child health outcomes through the analysis of ECHO’s large longitudinal data set within the NICHD Data and Specimen Hub (DASH) repository. ECHO’s DASH dataset integrates de-identified longitudinal data from more than 71,000 maternal and child participants across the U.S. The data include prenatal and child environmental exposures of many kinds, and five primary pediatric outcome areas: pre-, peri-, and postnatal outcomes; upper and lower airway outcomes; obesity and its consequences; neurodevelopment; and positive health. This award will facilitate the entry of promising new investigators into the field of early environmental exposures and child health research, enhancing the pool of highly talented researchers. Any postdoctoral fellowship candidate studying in the areas identified is invited to work with their organization to develop an application for support.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        }
-      ]
-    },
-    {
-      "opportunity_id": "359149",
-      "number": "RFA-OD-27-006",
-      "title": "For Funding Opportunity for Maximizing the Scientific Value of Data Generated by the Environmental influences on Child Health Outcomes (ECHO) Program: Dissertation Grant (R36)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "OD",
-      "post_date": "2025-05-27",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-OD-27-006",
-      "award_ceiling": null,
-      "num_awards": "8",
-      "contact_name": "Clayton Mash, Ph.D.",
-      "contact_email": "clay.mash@nih.gov",
-      "abstract": "The Environmental influences on Child Health Outcomes Program (ECHO) intends to promote an ongoing initiative by publishing a Notice of Funding Opportunity (NOFO) to solicit applications for support of doctoral candidates studying high-priority areas of maternal and child health in the completion of their doctoral dissertation research. This NOFO seeks to advance research in maternal and child health by stimulating the use of ECHO Cohort data by doctoral students in relevant scientific areas. This RFA will provide opportunities for dissertation students to study early environmental exposures and child health outcomes through the analysis of ECHO’s large longitudinal data set within the NICHD Data and Specimen Hub (DASH) repository. ECHO’s DASH dataset integrates de-identified longitudinal data from more than 71,000 maternal and child participants across the U.S. The data include prenatal and child environmental exposures of many kinds, and five primary pediatric outcome areas: pre-, peri-, and postnatal outcomes; upper and lower airway outcomes; obesity and its consequences; neurodevelopment; and positive health. This award will facilitate the entry of promising new investigators into the field of early environmental exposures and child health research, enhancing the pool of highly talented researchers. Any doctoral candidate studying in the high-priority areas identified is invited to work with their organization to develop an application for support.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
         }
       ]
     },
@@ -8239,30 +7611,6 @@
       ]
     },
     {
-      "opportunity_id": "358824",
-      "number": "PAR-27-074",
-      "title": "Limited Competition: Small Grant Program for NIAMS K01, K08, K23, and K25 Recipients (R03) (Clinical Trials Not Allowed)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "",
-      "post_date": "2025-05-05",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-074",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Su-Yau Mao, Ph.D.",
-      "contact_email": "su-yau.mao@nih.gov",
-      "abstract": "The National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for a program that provides NIAMS-supported K01, K08, K23, and K25 recipients and recipients of career development awards from organizations that support research in NIAMS' mission areas the opportunity to apply for Small Grant (R03) support at an appropriate point during the second to fourth year of their K award. This is a limited competition. Through the use of this mechanism, the NIAMS is seeking to enhance the capability of its scientists to conduct research as they complete their transition to fully independent investigator status. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the R03 activity code. The R03 grant mechanism supports different types of projects, including pilot and feasibility studies; secondary analysis of existing data; small, self-contained research projects; development of research methodology; and development of new research technology. The R03 is intended to support research projects that can be carried out in a short period of time with limited resources and that provide support, in addition to the career development award, for a subsequent R01, or equivalent, application. Clinical trials of any phase will not be supported by this NOFO. Eligible investigators are encouraged to begin to consider applying for this new NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.846",
-          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
-        }
-      ]
-    },
-    {
       "opportunity_id": "356204",
       "number": "NOT-NS-24-061",
       "title": "Notice of Intent to Publish a Funding Opportunity Announcement for Morris K. Udall Discovery Centers without Walls (DCWoW) for Parkinson's Disease Research (RM1 - Clinical Trial Optional)",
@@ -8278,30 +7626,6 @@
       "contact_name": "Beth Anne Sieber, PhD",
       "contact_email": "Beth-Anne.Sieber@nih.gov",
       "abstract": "The National Institute of Neurological Disorders and Stroke (NINDS) intends to promote team science research to discover the causes of Parkinson's Disease by publishing a Notice of Funding Opportunity (NOFO) to solicit applications for Morris K. Udall Discovery Centers without Walls (DCWoW) for Parkinson's Disease Research.Parkinson’s disease (PD) is a chronic, progressive movement disorder that affects the lives of at least half a million people across the United States (US), as well as having significant impact on the relatives and friends who care for them. The average onset of characteristic motor symptoms, which are initially subtle and increasingly impact purposeful movement, most often occurs in the sixth decade of life; onset at much younger ages is also possible. Persons with PD also experience a broad range of non-motor symptoms including autonomic dysfunction (e.g. constipation, urinary incontinence, orthostatic hypotension, sexual dysfunction), sleep disturbances, pain, changes in mood, and cognitive dysfunction potentially leading to dementia. Available pharmacological and surgical treatments provide limited relief from some motor symptoms but fail to address non-motor symptoms or attenuate the ultimate progression of the disease. A clear cause and definitive cure have remained elusive despite important biomedical research advances, such as the identification of environmental and genetic risk factors. As our population ages, the number of persons with PD is projected to increase significantly; mounting evidence suggests that global burden, including disability and mortality due to PD, are increasing at a more rapid rate compared with other neurological diseases.In recognition of the impact of PD on our society, and to advance innovative research into the causes of PD, this initiative will promote biomedical discovery through an integrated team science approach. Established in 1998 via the Morris K. Udall Parkinson's Disease Research Act (P.L. 105-78), the NINDS Udall Centers of Excellence for PD Research program is a central component of NINDS-supported PD research. This new initiative will extend the Udall Centers program in novel directions and enable applicants to focus on discovery research not possible via other grant mechanisms. This Notice encourages investigators with expertise, insights, and innovative approaches in the area of Parkinson's disease and related synucleinopathies to begin to consider applying for this new NOFO. This Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. Applications are not being solicited at this time.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        }
-      ]
-    },
-    {
-      "opportunity_id": "356205",
-      "number": "RFA-NS-27-015",
-      "title": "Forecast for BRAIN Initiative Connectivity across Scales (BRAIN CONNECTS): Specialized Projects for Scalable Technologies (U01 Clinical Trial Not Allowed)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NINDS",
-      "post_date": "2024-08-26",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-NS-27-015",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Kari Johnson, PhD",
-      "contact_email": "BRAIN-CONNECTS-Inquiries@nih.gov",
-      "abstract": "The Brain Research through Advancing Innovative Neurotechnologies (BRAIN) Initiative (https://braininitiative.nih.gov/) intends to reissue Notice of Funding Opportunity (NOFO) RFA-NS-22-049, BRAIN Initiative Connectivity across Scales (BRAIN CONNECTS): Specialized Projects for Scalable Technologies (U01 Clinical Trial Not Allowed). This Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive applications. The NOFO is expected to be published in June 2025, with an anticipated application receipt date in September 2025. This NOFO is a reissue of RFA-NS-22-049 (https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-22-049.html), which supported U01 Specialized Projects developing scalable technologies with a goal of brainwide mapping of neural connectivity. The previous NOFO was issued together with two companion NOFOs (now expired) supporting UM1 Comprehensive Centers to map neuronal projections in human and non-human primate (RFA-NS-22-047) and synaptic connections in mouse (RFA-NS-22-048). Applications for the upcoming reissued U01 Specialized Projects NOFO are especially encouraged to offer distinct capabilities and competencies complementing existing BRAIN CONNECTS awards, and potential applicants are encouraged to use NIH RePORTER (https://reporter.nih.gov/) to retrieve information on awards from each of the three previous NOFOs. This NOFO will solicit projects developing scalable methods for mapping brain connectivity, applied to any aspect of the pipeline, from tissue processing to imaging, alignment, segmentation and annotation, error correction, and integration into the larger neuroscience data environment. Although human, non-human primate and mouse are the focus of the BRAIN CONNECTS program, Specialized Projects may use other species for validation if well justified. Awards from this NOFO will be integrated into the BRAIN CONNECTS Network, a coordinated effort of awards from the previous three NOFOs aimed at developing the research capacity and technical capabilities to generate wiring diagrams that can span entire brains across multiple scales. The overarching objective of the first five years of the program is to develop these capabilities through innovation and iterative engineering of technologies including tissue processing, imaging, data analysis, dissemination, and application to fundamental questions of nervous system function.",
       "opening_date": "",
       "cfda_list": [
         {
