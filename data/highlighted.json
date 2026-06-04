@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-06-03T11:56:13.446870+00:00",
-  "count": 61,
+  "updated_at": "2026-06-04T10:38:38.482867+00:00",
+  "count": 64,
   "data": [
+    {
+      "id": 107,
+      "title": "Using Clinical Studies and Human-Based Models to Understand Vaccine Mechanisms Impacting Efficacy and Safety",
+      "lead_ico": "NCATS",
+      "participating_icos": [
+        "NIAID",
+        "NIAMS",
+        "NIEHS"
+      ],
+      "posted_date": "2026-05-11",
+      "expiration_date": "2028-06-03",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/107",
+      "contacts": [
+        "NCATS_OSI_VACCINE_MECHANISMS@nih.gov"
+      ],
+      "abstract": "<p>Vaccines are important public health interventions to reduce infectious disease incidence, severity and mortality. Understanding the biological mechanisms underlying vaccine efficacy, safety, non-target effects, and susceptibility to adverse events remains a central challenge. Traditional animal models are limited in their ability to capture human-specific pathways, susceptibility factors, long-term health effects, and immunological and developmental context. In addition, existing post-market surveillance systems face significant limitations in mechanistic understanding, as they generally capture disease outcomes without exploring biomarkers that may illuminate mechanistic pathways. <br></br> </p><p>Both experimental approaches using human-based systems and observational studies in human participants can be used to explore the mechanistic pathways between vaccines and beneficial and adverse outcomes across the general population or specific subgroups.  </p><p>Recent advances in New Approach Methodologies (NAMs), including human cell-based systems, organoids, microphysiological systems, biomarkers, and computational models, offer unprecedented opportunities to generate subpopulation-specific safety profiles and mechanistic data. These approaches enable direct interrogation of immune activation pathways, neuroimmune interactions, and maternal-fetal biology, as well as identification of susceptibility factors (e.g., genetic background, sex, developmental stage). Importantly, NAMs are well-suited to evaluate biological plausibility, dose-response relationships, and mechanistic coherence across systems, and can also be integrated with clinical and epidemiological data to understand patient- and population-level outcomes.<br></br> </p><p>Despite these advances, NAMs have not been systematically applied to study how vaccine products, adjuvants or other component exposures and schedules may influence immune responses, neurodevelopmental processes, or affect other organ systems (non-target effects). Additionally, NAMs have not been applied to identify factors that may inform longer-term health trajectories. Integrating NAMs into a coordinated research framework is essential to move beyond descriptive associations toward causal, mechanistic understanding. Finally, biomarkers are critical tools for linking mechanistic insights from NAMs to clinical and population-level outcomes.<br></br> </p><p>NIH seeks to encourage investigator-initiated research in the following areas:<br></br>•    Validation, reproducibility, and regulatory alignment<br></br>•    Elucidating immune activation pathways and reactogenicity mechanisms<br></br>•    Modeling neuroimmune and neurodevelopmental mechanisms<br></br>•    Characterizing maternal-fetal and early-life interfaces<br></br>•    Evaluating cumulative and schedule-related effects<br></br>•    Identifying susceptible subgroups and response modifiers</p><i></i>This topic is being issued as part of the Make America Healthy Again initiative, which is expanding NIH and agency research into specific areas.<p>It aligns with:</p><ul><li>New Approach Methodologies (NAMs) : The expanded use of NAMs can enable earlier, more predictive insights into chronic disease mechanisms using human-relevant models such as organoids, computational simulations, and real-world data integration. This improves prevention, diagnosis, and personalized treatment strategies while reducing reliance on animal studies that often fail to replicate complex human conditions. The Environmental Protection Agency (EPA), Food and Drug Administration (FDA), and NIH have all committed to using NAMs moving forward, when appropriate.</li><li>Vaccine Injury : HHS, in collaboration with NIH, will investigate vaccine injuries with improved data collection and analysis, including through a new vaccine injury research program at the NIH Clinical Center that may expand to centers around the country.</li></ul></p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 116,
+      "title": "Epidemiological Studies of Vaccination and Health Outcomes Across the Lifespan",
+      "lead_ico": "NIAID",
+      "participating_icos": [
+        "NIEHS"
+      ],
+      "posted_date": "2026-05-07",
+      "expiration_date": "2028-06-03",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/116",
+      "contacts": [
+        "VIHTAL_HT_NIAID@mail.nih.gov"
+      ],
+      "abstract": "<p>Vaccines have long been effective tools for preventing infectious disease, yet comprehensive evaluation of their relationships with both positive and negative long-term health outcomes across the lifespan remains limited. Most prior studies on adverse events have focused on short-term outcomes. Further refining our understanding of long-term health outcomes requires newer data sources, comprehensive health outcome information, more robust study designs, and improved analytic approaches. </p><p>Moreover, as concluded by the 2013 Institute of Medicine report <em>The Childhood Immunization Schedule and Safety</em>, and by the White Paper from CDC’s Vaccine Safety Datalink (Glanz et al., <em>Vaccine, </em>2016), there is a need to evaluate various aspects of the childhood vaccination schedule. Prior analyses have also highlighted methodological and data-related challenges, including limited ability to capacity to compare schedule variations, consideration of common and novel vaccine product components, insufficient integration of clinical outcomes with biological and environmental data, and insufficient consideration of population heterogeneity – factors that could support personalized risk-benefit decisions and the development of  precision vaccination strategies for specific vulnerable subpopulations. </p><p>Advances in real-world data (RWD), large-scale longitudinal cohorts, biospecimen linkages, biomarker identification, and data integration platforms now provide new opportunities to address these gaps, through comprehensive, population-level analyses of vaccination exposures and long-term health outcomes. When combined with biomarker and mechanistic data, these approaches can support causal inference and identification of effect modifiers across diverse populations, although careful attention to confounding biases and multiple comparisons is essential. To ensure rigor and interpretability, studies should prioritize standardized measurements, bias mitigation, appropriate statistical methods, large sample sizes, and replication across independent populations.</p><p>NIH seeks to encourage investigator-initiated research in the following areas:</p><ul><li>Large-scale epidemiological studies</li><li>Long-term health outcomes</li><li>Vaccine exposures </li><li>Multi-omics and subpopulations</li><li>Transparency and reproducibility</li></ul><i></i>This topic is being issued as part of the Make America Healthy Again initiative, which is expanding NIH and agency research into specific areas.<p>It aligns with:</p><ul><li>Vaccine Injury : HHS, in collaboration with NIH, will investigate vaccine injuries with improved data collection and analysis, including through a new vaccine injury research program at the NIH Clinical Center that may expand to centers around the country.</li></ul></p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 78,
+      "title": "Food Is Medicine",
+      "lead_ico": "ONR",
+      "participating_icos": [
+        "NCCIH",
+        "NCI",
+        "NHLBI",
+        "NIAMS",
+        "NIDCR",
+        "NIMH",
+        "NIMHD",
+        "NINR",
+        "OAR",
+        "OBSSR",
+        "ODP",
+        "ORWH"
+      ],
+      "posted_date": "2026-03-26",
+      "expiration_date": "2028-06-03",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/78",
+      "contacts": [
+        "nicholas.jury@nih.gov"
+      ],
+      "abstract": "<p>Food is Medicine (FIM) approaches are expanding across the U.S. and show promise in positively impacting diet quality and food security, but their impact on clinical and health outcomes remains limited, due to inconsistent results or a lack significant magnitude. Robust studies are needed to evaluate the effectiveness of FIM approaches. </p><p>The purpose of this topic is to encourage innovative multidisciplinary, multidomain research to advance FIM programs to prevent and address diet-related chronic diseases (DRCD) and associated health disparities across the lifespan, including cardiovascular disease, diabetes, obesity, some cancers, and mental health disorders. We seek innovative research ideas that advance the knowledge base of FIM interventions through high-quality rigorous research focused on the measurement of clinical and health outcomes within well-designed programs.</p><p>High priority research topics include but are not limited to: </p><ul><li>Clinical trials examining FIM approaches with other multi-domain interventions (clinical services, food environment) to improve diet-quality and address DRCD in all populations, including those with disabilities</li><li>Behavioral, pragmatic, and implementation trials focused on the efficacy of FIM-based health care economics, services, and approaches to prevent chronic diseases</li><li>Study designs that include innovative multicomponent and multilevel interventions </li><li>Studies that aim to develop and validate biomarkers of physiological responses to dietary intake and relationship to disease risk within the context of FIM programs</li><li>Studies that assess the economic impact, return on investment, cost, and cost-effectiveness of different FIM interventions and programs</li><li>Studies examining the role of FIM services in facilitating food access, diet-related malnutrition, and certain chronic conditions</li><li>Studies that identify and validate evaluation metrics that can effectively measure the effects of FIM interventions on different health outcomes and conditions </li><li>Studies using FIM programs to improve quality of life, behavioral and mental health, and community resilience supported by data on intervention effectiveness beyond clinical endpoints, including measures of quality of life and behavioral or mental health outcomes</li><li>Training programs and fellowships for health care professionals that expand evidence-based culinary medicine and teaching kitchen programs</li><li>Assessments to identify high risk populations and interventions to provide FIM services, including medically tailored meals or groceries, nutritious food recommendations, and produce prescriptions</li><li>Studies assessing interactions between the physical environment and food systems in the context of FIM interventions </li><li>Studies that partner, engage, and communicate with communities to improve health and prevent/reduce diet-related diseases</li><li>Secondary analyses that leverage existing datasets and databases to evaluate the impact of FIM interventions on health outcomes and health care utilization costs </li></ul><i></i>This topic is being issued as part of the Make America Healthy Again initiative, which is expanding NIH and agency research into specific areas.<p>It aligns with:</p><ul><li>NIH MAHA Chronic Disease Initiative : The National Institutes of Health (NIH) will launch an Initiative on Chronic Disease to leverage and align existing NIH research projects, improve NIH coordination on chronic disease research, and generate actionable results for diseases arising in childhood and adulthood.</li><li>NIH MAHA Chronic Disease Initiative : The NIH will launch a new Whole-Person-Health approach to chronic disease prevention research and leverage collective expertise across the agency to catalyze transformative discovery science and intervention strategies that promote wellness, resilience, and optimal health, including metabolic health, at all stages of life.</li><li>Real World Data Platform (RWDP) : The NIH will link multiple datasets, such as claims information, electronic health records, and wearables data, into a single integrated dataset for researchers studying the causes of, and developing treatments for, the chronic disease crisis. The RWDP will eliminate redundancies from data collection, linkage, and compute infrastructures (including artificial intelligence (AI)/machine learning and high-throughput analytics) while maintaining rigorous privacy protections and consent protections. It will also dramatically reduce administrative overhead by relying on a unified set of data use and governance agreements.</li><li>Food for Health : HHS, the Department of Veterans Affairs (VA), and USDA will study the impact of programs that implement food and lifestyle interventions to improve health outcomes and decrease costs. The NIH Office of Nutrition will coordinate research initiatives to improve rigorous studies and maximize impact, including through large-scale randomized control trials.</li><li>Nutrition : NIH will partner with FDA, USDA, and the Administration for a Healthy America (AHA) to conduct high-quality nutrition research and ingredient assessments. As part of this effort, NIH will expand research on dietary patterns that support metabolic health. NIH and HHS will take steps to fully utilize the newly created FDA and NIH Joint Nutrition Regulatory Science Program. USDA will prioritize precision nutrition research, which identifies how dietary exposures impact individuals, leading to more targeted nutritional recommendations. HHS will add questions to the National Survey of Children’s Health that focus on nutrition.</li><li>Rural and Tribal Health : NIH will convene a review of its research on health improvement in rural and tribal health for chronic childhood disease to ensure scientific rigor.</li></ul></p>",
+      "abstract_is_html": true
+    },
     {
       "id": 66,
       "title": "Enhancing Scientific Rigor, Transparency and Replicability",
