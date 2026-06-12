@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-06-11T11:22:21.654434+00:00",
-  "count": 65,
+  "updated_at": "2026-06-12T11:01:21.126337+00:00",
+  "count": 66,
   "data": [
+    {
+      "id": 124,
+      "title": "Environmental Contributors to Infertility",
+      "lead_ico": "NIEHS",
+      "participating_icos": [
+        "NIGMS",
+        "ORWH",
+        "THRO"
+      ],
+      "posted_date": "2026-05-19",
+      "expiration_date": "2028-06-11",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/124",
+      "contacts": [],
+      "abstract": "<p>Environmental exposures have been linked to infertility in males and females, including longer time to conception and pregnancy loss. Environment is defined as exposure to hazardous physical, chemical, and biological agents and stressors that adversely affect human health and reproductive function. This topic investigates the impact of these exposures on fertility and reproductive health and supports the development of tools to identify and mitigate risk.</p><p>Exposures have also been associated with declining male fertility by impairing sperm count, quality, hormonal balance, and genetic integrity. Endometriosis, polyendocrine metabolic ovarian syndrome (PMOS) [formerly known as polycystic ovary syndrome (PCOS)], and uterine fibroids are common female-specific conditions linked to environmental and endocrine-disrupting exposures. Together, these conditions impair fertility through effects on germ cell quality, implantation, and reproductive tract function, and should be explicitly considered in mechanistic and exposure-based studies.</p><p><strong>Fundamental Mechanisms of Environmental Influence on Reproduction</strong></p><ul><li>Identify core molecular and cellular pathways by which exposures disrupt reproductive function</li><li>Elucidate signaling networks regulating gametogenesis, fertilization, and early development</li><li>Investigate endocrine disruption in estrogenic, androgenic, thyroid, and steroidogenic pathways</li><li>Define roles of mitochondrial function, metabolism, oxidative stress, inflammation, and DNA damage in reproductive tissues</li></ul><p><strong>Epigenetics and Small RNAs</strong></p><ul><li>Define how exposures alter DNA methylation, histone modifications, chromatin structure, meiosis, and nuclear architecture</li><li>Investigate roles of small non-coding RNAs (e.g., microRNAs, piRNAs, tRNA fragments, lncRNAs) in regulating germ cell development</li><li>Examine mechanisms of epigenetic inheritance</li><li>Develop and apply single-cell, spatial, and multi-omic approaches</li></ul><p><strong>New Approach Methodologies (NAMs) and Complementary Approaches</strong></p><ul><li>Develop organoids and organ-on-chip systems</li><li>Apply artificial intelligence/machine learning and computational toxicology</li><li>Integrate in vitro to in vivo extrapolation and systems models</li><li>Combine experimental, computational, and epidemiological data</li></ul><p><strong>Exposure Science and Population Studies</strong></p><ul><li>Improve measurement of chemical exposures relevant to fertility</li><li>Integrate exposomics and biomonitoring</li><li>Identify molecular signatures of exposure and reproductive effect</li></ul><p><strong>Extracellular Vesicles (EV) and Cellular Communication</strong></p><ul><li>Investigate roles of EV and EV cargo in reproductive tract tissue communication</li><li>Examine EV signaling in sperm maturation and oocyte quality, and embryo development</li></ul><p><strong>Assisted Reproductive Technologies (ART)</strong></p><ul><li>Evaluate embryo susceptibility to environmental stressors in vitro</li><li>Identify molecular signatures predicting ART success in exposed population</li></ul><p><strong>Life course approaches in people without known subfertility </strong></p><ul><li>Examine windows of susceptibility impacting fertility, time to conception, and multigenerational effects</li></ul></p>",
+      "abstract_is_html": true
+    },
     {
       "id": 107,
       "title": "Using Clinical Studies and Human-Based Models to Understand Vaccine Mechanisms Impacting Efficacy and Safety",
@@ -895,12 +912,12 @@
         "NIDCR",
         "NIDDK",
         "NIMH",
+        "NIMHD",
         "NINR",
+        "NLM",
         "ODP",
         "ORIP",
-        "ORWH",
-        "NLM",
-        "NIMHD"
+        "ORWH"
       ],
       "posted_date": "2025-07-30",
       "expiration_date": "2027-12-02",
