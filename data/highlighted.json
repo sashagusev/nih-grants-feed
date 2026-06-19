@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-06-18T11:08:25.680501+00:00",
-  "count": 66,
+  "updated_at": "2026-06-19T11:23:03.346130+00:00",
+  "count": 67,
   "data": [
     {
       "id": 124,
       "title": "Environmental Contributors to Infertility",
       "lead_ico": "NIEHS",
       "participating_icos": [
+        "NICHD",
         "NIGMS",
         "ORWH",
-        "THRO",
-        "NICHD"
+        "THRO"
       ],
       "posted_date": "2026-05-19",
       "expiration_date": "2028-06-11",
@@ -45,7 +45,8 @@
       "title": "Epidemiological Studies of Vaccination and Health Outcomes Across the Lifespan",
       "lead_ico": "NIAID",
       "participating_icos": [
-        "NIEHS"
+        "NIEHS",
+        "NICHD"
       ],
       "posted_date": "2026-05-07",
       "expiration_date": "2028-06-03",
@@ -103,6 +104,21 @@
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/74",
       "contacts": [],
       "abstract": "<p><strong>Background and Scientific Context</strong></p><p>Oral diseases represent a substantial public health burden in the United States. Oral health is increasingly recognized as an important component of overall health across the lifespan, with implications for aging-related systemic and chronic diseases. Oral diseases are highly prevalent in adults and increase in frequency and severity with age. Evidence demonstrates associations between poor oral health and oral diseases and a wide range of systemic and chronic diseases, including cardiovascular, metabolic, respiratory, musculoskeletal, and neurological conditions.</p><p>The oral cavity serves as a key interface between the external environment and the body. Oral bacteria and their byproducts can enter the circulation during routine activities, potentially reaching distant organs and tissues. Chronic oral inflammation, microbial translocation, and host immune responses have been proposed as pathways influencing systemic inflammation, vascular and metabolic function, and cellular aging, although the extent to which these processes play a direct causal role in human disease remains incompletely understood. Together, these pathways highlight oral health as a potentially modifiable risk factor for aging-related systemic and chronic diseases.</p><p>Despite well-documented associations, important scientific gaps remain, including incomplete understanding of causal and bidirectional relationships between oral health and systemic disease, limited longitudinal data integrating oral health with aging and systemic outcomes, and lack of harmonized oral health assessments across studies. </p><p><strong>Areas of Interest (Examples)</strong></p><p>Illustrative areas of inquiry include, but are not limited to:</p><ul><li>Relationships between oral health across the life course, including early-life exposures, and the development of aging-related systemic and chronic diseases.</li><li>Biological, behavioral, and physiological pathways linking oral health with aging over time, including the role of the oral microbiome and inflammation in systemic health</li><li>Social, behavioral, and healthcare-related factors influencing oral health and aging-related outcomes across the life course</li><li>Integration of oral health measures into aging, chronic disease, and population-based research that captures life-course patterns</li><li>Approaches to prevention and treatment of oral diseases with relevance to aging and systemic health</li></ul></p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 90,
+      "title": "Integrating Environmental Science and Engineering with Biomedical Research for Effective Exposure Prevention and Disease Intervention",
+      "lead_ico": "NIEHS",
+      "participating_icos": [
+        "ORWH"
+      ],
+      "posted_date": "2026-03-25",
+      "expiration_date": "2028-06-18",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/90",
+      "contacts": [],
+      "abstract": "<p>Environmental exposures contribute to declining health in the United States (<em>The MAHA Report Assessment</em>). Humans are exposed to mixtures of chemicals, such as heavy metals, per- and polyfluoroalkyl substances (PFAS), pesticides, and phthalates, through the air they breathe, water they drink, food they eat and products they use. These harmful exposures pose risks to a range of health effects throughout one’s lifetime.</p><p>NIH is encouraging interdisciplinary, team science to develop effective technologies to reduce these harmful exposures. Environmental science and engineering (ESE) can design solutions to remove harmful agents before they reach a human by targeting and destroying harmful substances in water, air and soils. In addition, sensor devices for environmental monitoring, including personal exposure monitoring, can be used to inform individual and community prevention activities. However, these ESE efforts are often developed independently of biomedical research teams, who can measure and predict toxicity, helping to ensure the solutions effectively reduce exposures. </p><p>This topic encourages multidisciplinary, science-driven team research where ESE technology innovators work with biomedical researchers to develop new tools that promote solutions that can help prevent harmful exposures and reduce disease burden.  For example, ESE researchers could develop technologies that reduce the amount and toxicity of contaminants in environmental media (water, soil, etc.), while biomedical researchers evaluate the effectiveness of that technology through validated models. Or, a team of scientists might use novel research methods such as rapid screening tools to check the success of established/validated remediation approaches to reduce toxic responses. Communities impacted by hazardous substances could team with biomonitoring teams and novel sensor developers to refine technologies to more accurately measure environmental exposures. These collaborations provide an opportunity to encourage innovative technology development that, if successful, may lead to new solutions for public health.</p>",
       "abstract_is_html": true
     },
     {

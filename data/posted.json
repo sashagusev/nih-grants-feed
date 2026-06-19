@@ -1,7 +1,134 @@
 {
-  "updated_at": "2026-06-18T11:09:34.651207+00:00",
-  "count": 424,
+  "updated_at": "2026-06-19T11:24:12.081173+00:00",
+  "count": 425,
   "data": [
+    {
+      "opportunity_id": "360613",
+      "number": "PAR-27-055",
+      "title": "Limited Competition: Centers of Biomedical Research Excellence: Expansion/Sustainability Phases (COBRE-E/S) (P30 - Clinical Trial Not Allowed)",
+      "agency_name": "National Institutes of Health",
+      "agency_code": "HHS-NIH11",
+      "institute": "NIGMS",
+      "post_date": "2026-06-18",
+      "close_date": "2029-05-25",
+      "status": "posted",
+      "url": "https://simpler.grants.gov/search?query=PAR-27-055",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Federico Bernal, Ph.D.",
+      "contact_email": "federico.bernal@nih.gov",
+      "abstract": "The Institutional Development Award (IDeA) program supports biomedical research capacity building in states that have historically received low levels of NIH funding. The Centers of Biomedical Research Excellence: Expansion/Sustainability Phases (COBRE-E/S) Notice of Funding Opportunity (NOFO) supports the expansion and sustainability of biomedical research centers in IDeA-eligible institutions. These centers will focus on building research capacity in broad scientific areas of strategic importance for the institutions. The goal of COBRE-E is to expand research capacity by growing the institutional faculty base and supporting research projects and core facilities in the new area. The objective of COBRE-S is to sustain the infrastructure by continuing the growth of the faculty base and consolidating research cores. This is a Notice of Funding Opportunity (NOFO) for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered.",
+      "opening_date": "2026-08-25",
+      "cfda_list": [
+        {
+          "number": "93.859",
+          "title": "Biomedical Research and Research Training"
+        }
+      ],
+      "participating_icos": [
+        "NIGMS"
+      ]
+    },
+    {
+      "opportunity_id": "359280",
+      "number": "RFA-HG-27-012",
+      "title": "GREGoRi Technology Integration Center (U01, Clinical Trials Optional)",
+      "agency_name": "National Institutes of Health",
+      "agency_code": "HHS-NIH11",
+      "institute": "NHGRI",
+      "post_date": "2026-06-18",
+      "close_date": "2026-10-30",
+      "status": "posted",
+      "url": "https://simpler.grants.gov/search?query=RFA-HG-27-012",
+      "award_ceiling": 2250000,
+      "num_awards": "1",
+      "contact_name": "Lisa H. Chadwick",
+      "contact_email": "lisa.chadwick@nih.gov",
+      "abstract": "The Genomics Research to Elucidate the Genetics of Rare Diseases:innovation (GREGoRi) initiative seeks to accelerate a paradigm shift in rare disease diagnosis by reimagining the tools, molecular technologies and analytical approaches used to identify the causal gene(s) and/or variant(s) underlying rare genetic disorders. The purpose of this Notice of Funding Opportunity is to establish the GREGoRi Technology Integration Center, which will enable the development of standards and best practices for applying new and emerging molecular methods in rare disease diagnosis. A major deliverable of the Center will be a multidimensional dataset that can be used for the development and benchmarking of novel tools and strategies that facilitate rare disease diagnosis.",
+      "opening_date": "2026-09-30",
+      "cfda_list": [
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        }
+      ]
+    },
+    {
+      "opportunity_id": "361164",
+      "number": "PAR-27-071",
+      "title": "Discovery of the Genetic Basis of Childhood Cancers and of Congenital Anomalies: Gabriella Miller Kids First Pediatric Research Program (X01 Clinical Trial Not Allowed)",
+      "agency_name": "National Institutes of Health",
+      "agency_code": "HHS-NIH11",
+      "institute": "",
+      "post_date": "2026-06-18",
+      "close_date": "2027-01-11",
+      "status": "posted",
+      "url": "https://simpler.grants.gov/search?query=PAR-27-071",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Gabriella Miller Kids First Program",
+      "contact_email": "kidsfirst@od.nih.gov",
+      "abstract": "As part of the Gabriella Miller Kids First Pediatric Research Program (Kids First Program), the NIH invites applications to submit samples from pediatric cohorts for whole genome sequencing at a Kids First Program supported genomic data generating centers. Applicants are encouraged to propose sequencing of existing pediatric cancer or congenital anomaly cohorts to elucidate the genetic contribution (somatic and/or germline) to childhood cancers, to investigate the genetic etiology of congenital anomalies, to study the molecular basis of the associations between congenital anomalies and increased cancer risk, or to expand the range of pediatric disorders included within the Kids First Data Resource. The program will accept applications that propose whole genome, exome, and transcriptome sequencing, as well as clinical-grade sequencing, long-read sequencing, proteomics, and epigenomic assays of tumor or affected tissue, when justified. Applicants are encouraged to propose cohorts to increase representation of existing Kids First Program projects. These data, and associated clinical and phenotypic data, will become part of the Kids First Data Resource Center for sharing with the research community.",
+      "opening_date": "2026-12-11",
+      "cfda_list": [
+        {
+          "number": "93.310",
+          "title": "Trans-NIH Research Support"
+        }
+      ],
+      "participating_icos": [
+        "NCI",
+        "NICHD"
+      ]
+    },
+    {
+      "opportunity_id": "359644",
+      "number": "RFA-HG-27-013",
+      "title": "GREGoRi Innovation Projects (U01 Clinical Trial Optional)",
+      "agency_name": "National Institutes of Health",
+      "agency_code": "HHS-NIH11",
+      "institute": "NHGRI",
+      "post_date": "2026-06-18",
+      "close_date": "2026-10-30",
+      "status": "posted",
+      "url": "https://simpler.grants.gov/search?query=RFA-HG-27-013",
+      "award_ceiling": 500000,
+      "num_awards": "10",
+      "contact_name": "Lisa H. Chadwick",
+      "contact_email": "lisa.chadwick@nih.gov",
+      "abstract": "The Genomics Research to Elucidate the Genetics of Rare Diseases:innovation (GREGoRi) initiative seeks to accelerate a paradigm shift in rare disease diagnosis by reimagining the tools, molecular technologies and analytical approaches used to identify the causal gene(s) and/or variant(s) underlying rare genetic disorders. This Notice of Funding Opportunity is intended to stimulate the development and testing of highly innovative experimental or computational approaches for rare disease diagnosis, that have the potential to make transformative improvements to the current state of the art.",
+      "opening_date": "2026-09-30",
+      "cfda_list": [
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        }
+      ]
+    },
+    {
+      "opportunity_id": "359279",
+      "number": "RFA-HG-27-011",
+      "title": "GREGoRi Data Coordination and Outreach Center (U01, Clinical Trials Not Allowed)",
+      "agency_name": "National Institutes of Health",
+      "agency_code": "HHS-NIH11",
+      "institute": "NHGRI",
+      "post_date": "2026-06-18",
+      "close_date": "2026-10-30",
+      "status": "posted",
+      "url": "https://simpler.grants.gov/search?query=RFA-HG-27-011",
+      "award_ceiling": 1250000,
+      "num_awards": "1",
+      "contact_name": "Lisa H. Chadwick",
+      "contact_email": "lisa.chadwick@nih.gov",
+      "abstract": "The Genomics Research to Elucidate the Genetics of Rare Diseases:innovation (GREGoRi) initiative seeks to accelerate a paradigm shift in rare disease diagnosis by reimagining the tools, molecular technologies and analytical approaches used to identify the causal gene(s) and/or variant(s) underlying rare genetic disorders. The purpose of this Notice of Funding Opportunity is to establish the GREGoRi Data Coordination and Outreach Center. The Data Coordination and Outreach Center will act as the central point of coordination for the GREGoRi Research Program, and will be responsible for ensuring that the protocols, data, metadata, computational tools and other resources developed as part of GREGoRi are made available to the broader research community.",
+      "opening_date": "2026-09-30",
+      "cfda_list": [
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        }
+      ]
+    },
     {
       "opportunity_id": "360436",
       "number": "RFA-DK-27-119",
@@ -273,7 +400,59 @@
       "post_date": "2026-06-10",
       "close_date": "2026-07-10",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DA-27-014"
+      "url": "https://simpler.grants.gov/search?query=RFA-DA-27-014",
+      "award_ceiling": null,
+      "num_awards": "2",
+      "contact_name": "Janani Prabhakar, PhD",
+      "contact_email": "janani.prabhakar@nih.gov",
+      "abstract": "This is a Notice of Funding Opportunity (NOFO) is for a Limited Competition that will invite applications from eligible organizations to apply. Please see Section III. Eligibility, for additional information. In accordance with NIH standard peer-review processes, the applications will be peer-reviewed, and only meritorious applications will be considered for funding. This NOFO will renew the HEALthy Brain and Child Development (HBCD) Consortium Administrative Core (HCAC) and Data Coordinating Center (HDCC).The HBCD Study is a nationwide, multi-site, longitudinal study that follows children from birth through childhood. The study examines brain and behavioral development, with a focus on how prenatal substance exposure affects health outcomes.The HBCD Consortium consists of three highly integrated components: (1) a set of linked Research Project Sites, (2) a single overall HCAC; and (3) a single central HDCC. As such, this NOFO runs in parallel with a companion NOFO that solicits applications for linked research sites (RFA-DA-27-013). It is expected that investigators, upon funding, will work jointly with NIH scientific staff to assist, guide, coordinate, or participate in project activities.",
+      "opening_date": "2026-06-10",
+      "cfda_list": [
+        {
+          "number": "93.113",
+          "title": "Environmental Health"
+        },
+        {
+          "number": "93.121",
+          "title": "Oral Diseases and Disorders Research"
+        },
+        {
+          "number": "93.242",
+          "title": "Mental Health Research Grants"
+        },
+        {
+          "number": "93.273",
+          "title": "Alcohol Research Programs"
+        },
+        {
+          "number": "93.279",
+          "title": "Drug Use and Addiction Research Programs"
+        },
+        {
+          "number": "93.286",
+          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+        },
+        {
+          "number": "93.307",
+          "title": "Minority Health and Health Disparities Research"
+        },
+        {
+          "number": "93.313",
+          "title": "NIH Office of Research on Women's Health"
+        },
+        {
+          "number": "93.853",
+          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        },
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        },
+        {
+          "number": "93.867",
+          "title": "Vision Research"
+        }
+      ]
     },
     {
       "opportunity_id": "358822",
@@ -861,7 +1040,31 @@
       "post_date": "2026-06-08",
       "close_date": "2026-07-09",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DA-27-003"
+      "url": "https://simpler.grants.gov/search?query=RFA-DA-27-003",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "ABCD Program Staff",
+      "contact_email": "NIDA-27-003@mail.nih.gov",
+      "abstract": "This is a notice of funding opportunity (NOFO) for a Limited Competition that will invite applications from eligible organizations to apply. Please see Section III. Eligibility for additional information. In accordance with the National Institutes of Health (NIH) standard peer-review processes, the applications will be peer-reviewed, and only meritorious applications will be considered for funding. Only current award recipients will be eligible to apply. This NOFO seeks two separate U24 applications to renew the Adolescent Brian Cognitive Development (ABCD) Research Coordinating Center (CC) and the Data Analysis Informatics and Resource Center (DAIRC) to extend study visits into young adulthood. This renewal called Adolescent Brain Cognitive Development – Extended (ABCD-E) study is critical to be able to follow these youth through their emerging adulthood, when many of the outcomes of interest (e.g., substance use disorders, mental health disorders, chronic diseases, and other health conditions) will manifest. The structure of the ABCD-E study Consortium shall consist of three highly integrated components: (1) a set of linked Research Project Sites, (2) a single central Data Analysis, Informatics, and Resource Center, and (3) a single overall Coordinating Center. As such, this NOFO runs in parallel with a companion NOFO that solicits applications for research project sites (RFA-DA-27-002). It is expected that investigators, upon funding, will work jointly with NIH scientific staff to assist, guide, coordinate, or participate in project activities.",
+      "opening_date": "2026-06-09",
+      "cfda_list": [
+        {
+          "number": "93.273",
+          "title": "Alcohol Research Programs"
+        },
+        {
+          "number": "93.279",
+          "title": "Drug Use and Addiction Research Programs"
+        },
+        {
+          "number": "93.399",
+          "title": "Cancer Control"
+        },
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        }
+      ]
     },
     {
       "opportunity_id": "360441",
@@ -873,19 +1076,7 @@
       "post_date": "2026-06-08",
       "close_date": "2026-10-09",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-136",
-      "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "Stavroula K. Osganian, MD, ScD, MPH",
-      "contact_email": "voula.osganian@nih.gov",
-      "abstract": "This Notice of Funding Opportunity (NOFO) invites applications for a Research Coordinating Center (RCC) to participate in a consortium of clinical centers that will test anti-obesity medication (AOM) treatment strategies for youth with obesity that maximize benefits and minimize risks of AOM use. Such intervention strategies should support the promotion of healthy growth and development; adequate nutritional status/intake, healthy eating and physical activity behaviors; mental health and well-being (e.g., body image, self-esteem, mood, etc.), and quality of life and be feasible to implement in clinical care settings. Priority areas include testing strategies to determine optimal developmental stage for AOM initiation, rate and amount of weight loss, AOM class, dose, frequency, and duration, and content and intensity of adjunct lifestyle therapies that may be imperative to ensure normal psychological and physical development and to potentially avoid lifelong dependence on AOMs. Investigators should also evaluate potential predictors of response/ nonresponse to various treatment strategies under evaluation. The clinical centers may conduct independent or multicenter trials but will collaborate on the development of protocols, use of common measures and data elements, use of a central laboratory and standardized procedures to collect data and biospecimens, and data analyses and manuscriptsThe RCC will lead, manage, and harmonize efforts for the Consortium including 1) providing management and administrative support; 2) providing leadership and expertise on statistical design and analysis, 3) providing research coordination with a central laboratory, 4) harmonizing data collection methods and use of common data elements, 5) developing the database; 6) conducting data management and data analyses for Consortium studies; and 7) fostering research collaborations. This NOFO uses a cooperative agreement mechanism (U24) and runs in parallel with a companion NOFO (RFA-DK-27-121).",
-      "opening_date": "2026-09-09",
-      "cfda_list": [
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-136"
     },
     {
       "opportunity_id": "358885",
@@ -909,7 +1100,31 @@
       "post_date": "2026-06-04",
       "close_date": "2029-02-09",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DA-27-016"
+      "url": "https://simpler.grants.gov/search?query=RFA-DA-27-016",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIDA-26-063@nih.gov",
+      "contact_email": "NIDA-26-063@nih.gov",
+      "abstract": "The goal of this notice of funding opportunity (NOFO) is to address the opioid crisis and/or overdose events by supporting action-oriented research, accelerating the translation of addiction epidemiology, prevention, treatment services, and recovery research to practice. Proposed studies may target the individual, provider, organizational, community, or system level. This initiative prioritizes replicable and scalable approaches for accelerating the routine use of effective, evidence-based prevention, treatment and recovery interventions and services. The translation of research to practice and research relevant to chronic pain comorbid with substance use is also a priority. Research may deploy a variety of methods and approaches, including but not limited to identifying and characterizing malleable factors, developing and testing interventions and implementation strategies, deploying and testing collaborative data science approaches, and/or developing and testing approaches that integrate the collaboration of researchers and decision-makers at any levels (e.g., clinical-, health system-, public health- or policy-level).",
+      "opening_date": "2026-06-10",
+      "cfda_list": [
+        {
+          "number": "93.213",
+          "title": "Research and Training in Complementary and Integrative Health"
+        },
+        {
+          "number": "93.273",
+          "title": "Alcohol Research Programs"
+        },
+        {
+          "number": "93.279",
+          "title": "Drug Use and Addiction Research Programs"
+        },
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        }
+      ]
     },
     {
       "opportunity_id": "360881",
@@ -921,19 +1136,7 @@
       "post_date": "2026-06-04",
       "close_date": "2026-09-25",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-CA-27-012",
-      "award_ceiling": 1300000,
-      "num_awards": "4",
-      "contact_name": "Joanna M. Watson, Ph.D.",
-      "contact_email": "Email: watsonjo@mail.nih.gov",
-      "abstract": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) solicits applications for research on developing a comprehensive and cohesive understanding of cancer metastasis. Towards this goal, the NCI will support U54 Specialized Centers that together will continue to serve as the hub of the Metastasis Research Network (MetNet). Each MetNet Center should propose an overarching scientific theme that will be pursued through two or three scientific inter- and multidisciplinary basic research projects. The projects should use integrative system level approaches to elucidate and integrate a mechanistic understanding of the non-linear, dynamic, and emergent processes in metastasis. Overarching themes should encompass the interplay between at least two central elements in the metastatic process such as early dissemination, cellular, soluble and/or physical microenvironment crosstalk, dormancy, or mechanisms of responses by metastatic cells to therapies. Studies on all types of cancer are welcome, including rare and pediatric metastatic cancers.Research proposed by MetNet Centers is expected to advance our understanding towards a more comprehensive appreciation of metastasis as a whole body, systems-level problem.",
-      "opening_date": "2026-08-25",
-      "cfda_list": [
-        {
-          "number": "93.396",
-          "title": "Cancer Biology Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-CA-27-012"
     },
     {
       "opportunity_id": "360626",
@@ -945,7 +1148,39 @@
       "post_date": "2026-06-04",
       "close_date": "2027-03-10",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-108"
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-108",
+      "award_ceiling": 500000,
+      "num_awards": "8",
+      "contact_name": "Chandima Nishadi De Abrew Rajapakse, PhD, MHS",
+      "contact_email": "Chandima.rajapakse@nih.gov",
+      "abstract": "The NIH Cardiovascular Repository for Type 1 Diabetes (CaRe-T1D) was created to improve research on type 1 diabetes (T1D) and cardiovascular disease (CVD). Cardiovascular complications remain the top cause of death among people with T1D and greatly shorten lifespan. The mechanisms underlying atherosclerosis, cardiomyopathy, endothelial dysfunction, and cardiac autonomic neuropathy in T1D remain poorly understood. While managing traditional risk factors—such as high blood glucose, high blood pressure, and elevated cholesterol lower cardiovascular risk, a significant residual risk remains even with optimal control. In addition to atherosclerosis, both diastolic and systolic diabetic cardiomyopathy play a major role in morbidity and mortality among these patients. Currently, no therapies are specifically approved to prevent or treat these common and severe cardiovascular issues in T1D. The purpose of this NOFO is to promote collaborative and interdisciplinary research aimed at enhancing the understanding of the development of CVD in individuals with T1D and the differences with CVD in T1D by continuing the efforts of the CaRe-T1D consortium.This NOFO is associated with the Special Diabetes Program (https://www.niddk.nih.gov/about-niddk/research-areas/diabetes/type-1-diabetes-special-statutory-funding-program/about-special-diabetes-program) which funds research on the prevention, treatment, and cure of type 1 diabetes and its complications, including unique, innovative, and collaborative research consortia and clinical trials networks.",
+      "opening_date": "2026-09-09",
+      "cfda_list": [
+        {
+          "number": "93.233",
+          "title": "National Center on Sleep Disorders Research"
+        },
+        {
+          "number": "93.837",
+          "title": "Cardiovascular Diseases Research"
+        },
+        {
+          "number": "93.838",
+          "title": "Lung Diseases Research"
+        },
+        {
+          "number": "93.839",
+          "title": "Blood Diseases and Resources Research"
+        },
+        {
+          "number": "93.840",
+          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
+        },
+        {
+          "number": "93.847",
+          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+        }
+      ]
     },
     {
       "opportunity_id": "361035",
@@ -1656,6 +1891,178 @@
       "close_date": "2027-04-05",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PA-27-100",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH SEED (Small business Education and Entrepreneurial Development)",
+      "contact_email": "SEEDinfo@nih.gov",
+      "abstract": "The Small Business Innovation Research (SBIR) program helps United States small business concerns (SBCs) bring scientific innovations to the marketplace. The SBIR program supports feasibility studies to later research and development (R&D) needed to develop a commercial product.",
+      "opening_date": "2026-08-05",
+      "cfda_list": [
+        {
+          "number": "93.068",
+          "title": "Chronic Diseases:  Research, Control, and Prevention"
+        },
+        {
+          "number": "93.070",
+          "title": "Environmental Public Health and Emergency Response"
+        },
+        {
+          "number": "93.073",
+          "title": "Birth Defects and Developmental Disabilities - Prevention and Surveillance"
+        },
+        {
+          "number": "93.083",
+          "title": "Prevention of Disease, Disability, and Death through Immunization and Control of Respiratory and Related Diseases"
+        },
+        {
+          "number": "93.084",
+          "title": "Prevention of Disease, Disability, and Death by Infectious Diseases"
+        },
+        {
+          "number": "93.103",
+          "title": "Food and Drug Administration Research"
+        },
+        {
+          "number": "93.113",
+          "title": "Environmental Health"
+        },
+        {
+          "number": "93.121",
+          "title": "Oral Diseases and Disorders Research"
+        },
+        {
+          "number": "93.136",
+          "title": "Injury Prevention and Control Research and State and Community Based Programs"
+        },
+        {
+          "number": "93.142",
+          "title": "NIEHS Hazardous Waste Worker Health and Safety Training"
+        },
+        {
+          "number": "93.143",
+          "title": "NIEHS Superfund Hazardous Substances_Basic Research and Education"
+        },
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        },
+        {
+          "number": "93.173",
+          "title": "Research Related to Deafness and Communication Disorders"
+        },
+        {
+          "number": "93.213",
+          "title": "Research and Training in Complementary and Integrative Health"
+        },
+        {
+          "number": "93.233",
+          "title": "National Center on Sleep Disorders Research"
+        },
+        {
+          "number": "93.242",
+          "title": "Mental Health Research Grants"
+        },
+        {
+          "number": "93.273",
+          "title": "Alcohol Research Programs"
+        },
+        {
+          "number": "93.279",
+          "title": "Drug Use and Addiction Research Programs"
+        },
+        {
+          "number": "93.286",
+          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+        },
+        {
+          "number": "93.307",
+          "title": "Minority Health and Health Disparities Research"
+        },
+        {
+          "number": "93.313",
+          "title": "NIH Office of Research on Women's Health"
+        },
+        {
+          "number": "93.326",
+          "title": "Strengthening Public Health through Surveillance, Epidemiologic Research, Disease Detection and Prevention"
+        },
+        {
+          "number": "93.350",
+          "title": "National Center for Advancing Translational Sciences"
+        },
+        {
+          "number": "93.351",
+          "title": "Research Infrastructure Programs"
+        },
+        {
+          "number": "93.361",
+          "title": "Nursing Research"
+        },
+        {
+          "number": "93.393",
+          "title": "Cancer Cause and Prevention Research"
+        },
+        {
+          "number": "93.394",
+          "title": "Cancer Detection and Diagnosis Research"
+        },
+        {
+          "number": "93.395",
+          "title": "Cancer Treatment Research"
+        },
+        {
+          "number": "93.837",
+          "title": "Cardiovascular Diseases Research"
+        },
+        {
+          "number": "93.838",
+          "title": "Lung Diseases Research"
+        },
+        {
+          "number": "93.839",
+          "title": "Blood Diseases and Resources Research"
+        },
+        {
+          "number": "93.840",
+          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
+        },
+        {
+          "number": "93.846",
+          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        },
+        {
+          "number": "93.847",
+          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+        },
+        {
+          "number": "93.853",
+          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        },
+        {
+          "number": "93.855",
+          "title": "Allergy and Infectious Diseases Research"
+        },
+        {
+          "number": "93.859",
+          "title": "Biomedical Research and Research Training"
+        },
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        },
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        },
+        {
+          "number": "93.867",
+          "title": "Vision Research"
+        },
+        {
+          "number": "93.879",
+          "title": "Medical Library Assistance"
+        }
+      ],
       "participating_icos": [
         "NEI",
         "NHLBI",
@@ -2342,24 +2749,12 @@
       "post_date": "2026-05-21",
       "close_date": "2026-09-18",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-CA-27-008"
-    },
-    {
-      "opportunity_id": "358964",
-      "number": "RFA-CA-27-007",
-      "title": "NCI Community Oncology Research Program (NCORP) Community Sites (UG1 Clinical Trial Not Allowed)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NCI",
-      "post_date": "2026-05-21",
-      "close_date": "2026-09-18",
-      "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-CA-27-007",
+      "url": "https://simpler.grants.gov/search?query=RFA-CA-27-008",
       "award_ceiling": null,
       "num_awards": "50",
       "contact_name": "Brandy Heckman-Stoddard, Ph.D., M.P.H.",
       "contact_email": "heckmanbm@mail.nih.gov",
-      "abstract": "This Notice of Funding Opportunity (NOFO) is one of three NOFOs for the National Cancer Institute (NCI) Community Oncology Research Program (NCORP). NCORP is designed to enhance generalizability and dissemination of clinical trial and other human subject research study results through accrual in a variety of community settings. The purpose of NCORP is to engage cancer patient populations, those at risk of cancer, and organizations in rigorous studies focused on cancer control, prevention, treatment and care delivery.NCORP is a community-based research network that:Designs and conducts clinical trials and other human subject studies for adults and children in cancer control, prevention, screening, and care delivery, as well as quality-of-life studies embedded within treatment trials;Enhances patient and provider access to treatment and imaging trials conducted under the National Clinical Trials Network (NCTN)NCORP will support the following components that will be individually awarded through the respective Request for Applications (RFAs) indicated below:NCORP Research Bases (UG1 Clinical Trials Required);NCORP Community Sites (UG1 Clinical Trials Not Allowed)(covered by this NOFO); andNCORP Academic Community Sites (UG1 Clinical Trials Not Allowed).The NCORP Community Sites is a healthcare system, a consortium of healthcare systems, or a consortia of community hospitals and/or oncology practices, public hospitals, and/or health care centers that can enhance the representativeness of participants accrued to cancer control, prevention, treatment and care delivery clinical trials and other human subjects research conducted through NCORP and NCTN.",
+      "abstract": "This Notice of Funding Opportunity (NOFO) is one of three NOFOs for the National Cancer Institute (NCI) Community Oncology Research Program (NCORP). NCORP is designed to enhance generalizability and dissemination of clinical trial and other human subject research study results through accrual in a variety of community settings. The purpose of NCORP is to engage cancer patient populations, those at risk of cancer, and organizations in rigorous studies focused on cancer control, prevention, treatment and care delivery.NCORP is a community-based research network that:Designs and conducts clinical trials and other human subject studies for adults and children in cancer control, prevention, screening, and care delivery, as well as quality-of-life studies embedded within treatment trials;Enhances patient and provider access to treatment and imaging trials conducted under the National Clinical Trials Network (NCTN);NCORP will support the following components that will be individually awarded through the respective Request for Applications (RFAs) indicated below:NCORP Research Bases (UG1 Clinical Trials Required);NCORP Community Sites (UG1 Clinical Trials Not Allowed); andNCORP Academic Community Sites (UG1 Clinical Trials Not Allowed)(covered by this NOFO)NCORP Academic Community Sites are a consortium led by an academic center with a network of community hospitals and/or oncology practices, public hospitals, and/ or other healthcare centers that serve a patient population that can enhance the representativeness of participants accrued to cancer control, prevention, treatment and care delivery clinical trials and other human subjects research. The academic medical center should have a robust infrastructure to support the accrual of participants across their affiliate organizations.",
       "opening_date": "2026-08-18",
       "cfda_list": [
         {
@@ -2375,6 +2770,18 @@
           "title": "Cancer Control"
         }
       ]
+    },
+    {
+      "opportunity_id": "358964",
+      "number": "RFA-CA-27-007",
+      "title": "NCI Community Oncology Research Program (NCORP) Community Sites (UG1 Clinical Trial Not Allowed)",
+      "agency_name": "National Institutes of Health",
+      "agency_code": "HHS-NIH11",
+      "institute": "NCI",
+      "post_date": "2026-05-21",
+      "close_date": "2026-09-18",
+      "status": "posted",
+      "url": "https://simpler.grants.gov/search?query=RFA-CA-27-007"
     },
     {
       "opportunity_id": "360681",
@@ -2478,7 +2885,19 @@
       "post_date": "2026-05-19",
       "close_date": "2028-09-25",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-ES-27-004"
+      "url": "https://simpler.grants.gov/search?query=RFA-ES-27-004",
+      "award_ceiling": 1750000,
+      "num_awards": "10",
+      "contact_name": "Danielle Carlin, PhD, DABT",
+      "contact_email": "danielle.carlin@nih.gov",
+      "abstract": "The National Institute of Environmental Health Sciences (NIEHS) is announcing the continuation of the Superfund Hazardous Substance Research and Training Program, referred to as Superfund Research Program (SRP) Centers. SRP Center grants will support problem-based, solution-oriented research Centers that consist of multiple, integrated projects representing both the biomedical and environmental science and engineering disciplines; as well as cores tasked with administrative (which includes Center leadership, data management, and training); translational research and engagement; and research support functions. The scope of the SRP Centers is taken directly from the Superfund Amendments and Reauthorization Act of 1986, which limits competition for this program to accredited institutes of higher education.Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+      "opening_date": "2026-06-01",
+      "cfda_list": [
+        {
+          "number": "93.143",
+          "title": "NIEHS Superfund Hazardous Substances_Basic Research and Education"
+        }
+      ]
     },
     {
       "opportunity_id": "361104",
@@ -2610,67 +3029,7 @@
       "post_date": "2026-05-13",
       "close_date": "2028-06-15",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-OD-27-005",
-      "award_ceiling": null,
-      "num_awards": "4",
-      "contact_name": "Laurie Ryan, PhD",
-      "contact_email": "ryanl@nih.gov",
-      "abstract": "The NIH INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE (INCLUDE) Project seeks to improve health and quality-of-life for individuals with Down syndrome. The purpose of this Notice of Funding Opportunity (NOFO) encourages Exploratory/Developmental Phased Innovation (R61/R33) grant applications to support development of clinical trials to treat critical and co-occurring health conditions in individuals with Down syndrome. The proposed research aims should be milestone-driven. The total project period for an application submitted in response to this NOFO may not exceed five years. This NOFO provides support for up to two years (R61 phase) for preliminary/developmental/planning studies, followed by possible transition to clinical trial support (R33) of up to three years, although the total duration of the award may not exceed five years. This NOFO requires measurable R61 milestones.",
-      "opening_date": "2026-09-15",
-      "cfda_list": [
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        },
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        },
-        {
-          "number": "93.350",
-          "title": "National Center for Advancing Translational Sciences"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.846",
-          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
-        },
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-OD-27-005"
     },
     {
       "opportunity_id": "360593",
@@ -2950,7 +3309,19 @@
       "post_date": "2026-05-08",
       "close_date": "2026-06-30",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-CA-27-016"
+      "url": "https://simpler.grants.gov/search?query=RFA-CA-27-016",
+      "award_ceiling": null,
+      "num_awards": "6",
+      "contact_name": "Lori A. Henderson, Ph.D.",
+      "contact_email": "NCIETCTNRFA@mail.nih.gov",
+      "abstract": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) solicits applications from institutions/organizations that propose to maintain or establish Lead Academic Organizations (LAOs) as part of the NCI Experimental Therapeutics Clinical Trials Network (ETCTN). ETCTN LAOs will design, develop, monitor, conduct, and analyze early phase clinical trials (e.g., phase 0, phase 1, phase 2, pilot, and other experimental therapeutic clinical trials) involving agents under regulatory sponsorship for New Investigational Drug (IND) applications held by NCI's Division of Cancer Treatment and Diagnosis (DCTD), Cancer Therapy Evaluation Program (CTEP). Each ETCTN LAO will participate in clinical trials it leads as well as clinical trials led by other LAOs in the network.",
+      "opening_date": "2026-05-30",
+      "cfda_list": [
+        {
+          "number": "93.395",
+          "title": "Cancer Treatment Research"
+        }
+      ]
     },
     {
       "opportunity_id": "359732",
@@ -3224,7 +3595,27 @@
       "post_date": "2026-05-04",
       "close_date": "2026-07-10",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DE-27-002"
+      "url": "https://simpler.grants.gov/search?query=RFA-DE-27-002",
+      "award_ceiling": 4000000,
+      "num_awards": "",
+      "contact_name": "Scott Verbridge, PhD",
+      "contact_email": "scott.verbridge@nih.gov",
+      "abstract": "This Notice of Funding Opportunity (NOFO) solicits cooperative agreement research applications to support a multidisciplinary program titled \"Accelerating Product Excellence in Innovation and for Clinical Adoption\" (APEx), that will facilitate advancement of promising strategies and products for tissue engineering and regenerative medicine (TE/RM). APEx will be composed of Resource Centers (RCs) and associated Interdisciplinary Translational Projects (ITPs) in the area of therapeutics (including adult stem cell-based treatments), sensors, and diagnostics. RCs will capitalize on their available clinical, scientific, industrial, regulatory and commercialization expertise, to deliver technical support, research capacity, administrative infrastructure and regulatory and commercialization support to the ITPs and guide them to complete pre-clinical studies toward initiation of clinical trials. During this funding cycle, APEx will complete validation, manufacturing, and preclinical testing of the most promising products, which may include, but are not limited to products for detecting or treating tissue damage caused by congenital defect, traumatic injury, or chronic disease. Products that support early detection of chronic pathologies, monitoring of validated biomarkers of health or disease, as well as approaches to reduce or prevent resulting damage, are especially encouraged. The outcome of APEx will be TE/RM products with their regulatory approvals in place for first-in-human studies, along with associated clinical study protocols, and synthesis and manufacturing protocols ready for initiation of clinical trials.",
+      "opening_date": "2026-06-10",
+      "cfda_list": [
+        {
+          "number": "93.121",
+          "title": "Oral Diseases and Disorders Research"
+        },
+        {
+          "number": "93.846",
+          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        },
+        {
+          "number": "93.867",
+          "title": "Vision Research"
+        }
+      ]
     },
     {
       "opportunity_id": "359649",
@@ -3510,33 +3901,8 @@
       "close_date": "2028-11-02",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-27-012",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Yves Rosenberg, MD, MPH",
-      "contact_email": "rosenbey@nhlbi.nih.gov",
-      "abstract": "This Notice of Funding Opportunity (NOFO) supports applications to develop and conduct a Clinical Coordinating Center (CCC) for investigator-initiated multi-site clinical trials including efficacy, comparative effectiveness, pragmatic and/or dissemination and implementation science clinical trials. Trials using innovative designs such as platform trials, adaptive, and Bayesian designs are encouraged. These trials may include ones that test different therapeutic, behavioral, dissemination and implementation science clinical trials and/or prevention strategies.Trials for which this NOFO applies must be relevant to the research mission of the NHLBI and meet the NIH definition of a clinical trial (see NOT-OD-15-015). For additional information about the mission, strategic vision, and research priorities of the NHLBI, applicants are encouraged to consult the NHLBI website.This NOFO will utilize a bi-phasic, milestone-driven cooperative agreement mechanism of award and runs in parallel with a companion NOFO for a collaborating Data Coordinating Center (PAR-27-013). The objective of the CCC application is to present the scientific rationale for the clinical trial and a comprehensive scientific and operational plan that describes it. The application should address project management, subject recruitment and retention, performance milestones, scientific conduct of the trial, and dissemination of results. The application should also describe its approaches to increasing community engagement from conceptual design of the intervention through implementation and sustainability and close gaps in health outcomes within the US population and increase health for all.Both a CCC application and a collaborating Data Coordinating Center (DCC) application must be submitted on the same application due date for consideration by NHLBI. Applicants are strongly encouraged to contact the appropriate Scientific/Research contact prior to submitting an application.",
-      "opening_date": "2026-05-02",
-      "cfda_list": [
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        }
+      "participating_icos": [
+        "NHLBI"
       ]
     },
     {
@@ -3593,8 +3959,21 @@
       "close_date": "2028-01-25",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-26-106",
-      "participating_icos": [
-        "ORIP"
+      "award_ceiling": 8000000,
+      "num_awards": "12",
+      "contact_name": "Xiang-Ning Li, MD, PhD",
+      "contact_email": "xiang-ning.li@nih.gov",
+      "abstract": "This Notice of Funding Opportunity (NOFO) solicits applications to develop shared-use research facilities or research-supporting facilities that enable collaborative research and benefit broad research communities at large. The NOFO supports two existing construction programs: the Biomedical Research Facilities (BRF) program and the HIV/AIDS Research Facilities (HRF) program.The BRF program supports the construction or modernization of biomedical research facilities that advance basic, translational, clinical, or behavioral science research in all areas. Intended facilities include shared research spaces, core facilities, biorepositories, or other shared-use resource facilities that serve a broad scientific community with a significant, long-term impact on biomedical research.The HRF program funds the development of HIV/AIDS research or research-supporting resources that the empowered research activities must align with the NIH Office of AIDS Research (OAR) priorities, as outlined at OAR HIV/AIDS Research Priorities, including research focusing on the long-term health consequences of HIV infection.NIH encourages applications from institutions across all geographic regions of the country, including Institutions of Emerging Excellence (IEE) in biomedical research, to strengthen the nation\"s research capacity.",
+      "opening_date": "2026-03-06",
+      "cfda_list": [
+        {
+          "number": "93.310",
+          "title": "Trans-NIH Research Support"
+        },
+        {
+          "number": "93.352",
+          "title": "Construction Support"
+        }
       ]
     },
     {
@@ -4012,6 +4391,170 @@
       "close_date": "2028-11-30",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PA-26-001",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Division of Grants Policy (DGP), Office of Policy for Extramural Research Administration (OPERA)",
+      "contact_email": "GrantsPolicy@od.nih.gov",
+      "abstract": "Current recipients of specific types of NIH research grants may apply for administrative supplements, using this Notice of Funding Opportunity (NOFO), to provide additional funding to a currently funded grant to meet increased costs that are within the scope of the peer-reviewed and approved project, but that were unforeseen when the new or competing renewal application was awarded. Applications for administrative supplements are considered prior approval requests (as described in Section 8.1.2.11 of the NIH Grants Policy Statement) and will be routed directly to the Grants Management Officer of the parent award. There is no guarantee that funds are available from the awarding IC or for any specific grant. Therefore, prior to submission, applicants must discuss potential requests with the awarding ICO grants and program officials.",
+      "opening_date": "2025-12-01",
+      "cfda_list": [
+        {
+          "number": "93.113",
+          "title": "Environmental Health"
+        },
+        {
+          "number": "93.121",
+          "title": "Oral Diseases and Disorders Research"
+        },
+        {
+          "number": "93.142",
+          "title": "NIEHS Hazardous Waste Worker Health and Safety Training"
+        },
+        {
+          "number": "93.143",
+          "title": "NIEHS Superfund Hazardous Substances_Basic Research and Education"
+        },
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        },
+        {
+          "number": "93.173",
+          "title": "Research Related to Deafness and Communication Disorders"
+        },
+        {
+          "number": "93.213",
+          "title": "Research and Training in Complementary and Integrative Health"
+        },
+        {
+          "number": "93.233",
+          "title": "National Center on Sleep Disorders Research"
+        },
+        {
+          "number": "93.242",
+          "title": "Mental Health Research Grants"
+        },
+        {
+          "number": "93.273",
+          "title": "Alcohol Research Programs"
+        },
+        {
+          "number": "93.279",
+          "title": "Drug Use and Addiction Research Programs"
+        },
+        {
+          "number": "93.286",
+          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+        },
+        {
+          "number": "93.307",
+          "title": "Minority Health and Health Disparities Research"
+        },
+        {
+          "number": "93.310",
+          "title": "Trans-NIH Research Support"
+        },
+        {
+          "number": "93.313",
+          "title": "NIH Office of Research on Women's Health"
+        },
+        {
+          "number": "93.350",
+          "title": "National Center for Advancing Translational Sciences"
+        },
+        {
+          "number": "93.351",
+          "title": "Research Infrastructure Programs"
+        },
+        {
+          "number": "93.361",
+          "title": "Nursing Research"
+        },
+        {
+          "number": "93.372",
+          "title": "21st Century Cures Act -\tBrain Research through Advancing Innovative Neurotechnologies"
+        },
+        {
+          "number": "93.393",
+          "title": "Cancer Cause and Prevention Research"
+        },
+        {
+          "number": "93.394",
+          "title": "Cancer Detection and Diagnosis Research"
+        },
+        {
+          "number": "93.395",
+          "title": "Cancer Treatment Research"
+        },
+        {
+          "number": "93.396",
+          "title": "Cancer Biology Research"
+        },
+        {
+          "number": "93.399",
+          "title": "Cancer Control"
+        },
+        {
+          "number": "93.837",
+          "title": "Cardiovascular Diseases Research"
+        },
+        {
+          "number": "93.838",
+          "title": "Lung Diseases Research"
+        },
+        {
+          "number": "93.839",
+          "title": "Blood Diseases and Resources Research"
+        },
+        {
+          "number": "93.840",
+          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
+        },
+        {
+          "number": "93.846",
+          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        },
+        {
+          "number": "93.847",
+          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+        },
+        {
+          "number": "93.853",
+          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        },
+        {
+          "number": "93.855",
+          "title": "Allergy and Infectious Diseases Research"
+        },
+        {
+          "number": "93.859",
+          "title": "Biomedical Research and Research Training"
+        },
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        },
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        },
+        {
+          "number": "93.867",
+          "title": "Vision Research"
+        },
+        {
+          "number": "93.879",
+          "title": "Medical Library Assistance"
+        },
+        {
+          "number": "93.989",
+          "title": "International Research and Research Training"
+        },
+        {
+          "number": "93.ECH",
+          "title": "Environmental influences on Child Health Outcomes (ECHO) Program"
+        }
+      ],
       "participating_icos": [
         "NEI",
         "NHLBI",
@@ -4248,8 +4791,17 @@
       "close_date": "2026-10-03",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-445",
-      "participating_icos": [
-        "NIDCD"
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Holly Storkel, Ph.D.",
+      "contact_email": "holly.storkel@nih.gov",
+      "abstract": "The National Institute on Deafness and Other Communication Disorders (NIDCD) invites applications for Clinical Research Center Grants designed to advance the diagnosis, prevention, treatment, and amelioration of human sensory and communication disorders. For this announcement, Clinical Research is defined as research involving individuals with a sensory and/or communication disorder, or data/tissues from individuals with a sensory and/or communication disorder. Examples of such research include but are not limited to, studies of the prevention, pathogenesis, pathophysiology, diagnosis, treatment, management or epidemiology of a disease or disorder of hearing, balance, smell, taste, voice, speech, or language. Although the intent is that all the research will involve individuals with sensory and/or communication disorders or data/tissues from individuals with sensory and/or communication disorders, when the clinical research goal(s) warrant(s) limited departures from this intent, alternatives (e.g., non-human research, human subjects without a sensory or communication disorder, human at risk for a sensory and/or communication disorder) are possible with appropriate and strong scientific justification and in consultation with NIDCD staff. Applications may propose a low-risk clinical trial but are not required to (optional).Non-responsive applications will not be reviewed. Prospective applicants are strongly encouraged to read this funding opportunity carefully and communicate with the scientific/research contact listed at the end of this award as early as possible to discuss their application plans.",
+      "opening_date": "2025-10-04",
+      "cfda_list": [
+        {
+          "number": "93.173",
+          "title": "Research Related to Deafness and Communication Disorders"
+        }
       ]
     },
     {
@@ -4395,118 +4947,6 @@
       "close_date": "2028-08-25",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-322",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Division of Biomedical Research Workforce",
-      "contact_email": "nihtrain@mail.nih.gov",
-      "abstract": "The Stephen I. Katz Early Stage Investigator Research Project Grant supports an innovative project that represents a change in research direction for an early stage investigator (ESI) and for which no preliminary data exist. Applications submitted to this Notice of Funding Opportunity (NOFO) must not include preliminary data. Applications must include a separate attachment describing the change in research direction.",
-      "opening_date": "2025-08-25",
-      "cfda_list": [
-        {
-          "number": "93.113",
-          "title": "Environmental Health"
-        },
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        },
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        },
-        {
-          "number": "93.213",
-          "title": "Research and Training in Complementary and Integrative Health"
-        },
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.286",
-          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
-        },
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        },
-        {
-          "number": "93.313",
-          "title": "NIH Office of Research on Women's Health"
-        },
-        {
-          "number": "93.351",
-          "title": "Research Infrastructure Programs"
-        },
-        {
-          "number": "93.361",
-          "title": "Nursing Research"
-        },
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.398",
-          "title": "Cancer Research Manpower"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.846",
-          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
-        },
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        },
-        {
-          "number": "93.879",
-          "title": "Medical Library Assistance"
-        }
-      ],
       "participating_icos": [
         "OD",
         "NEI",
@@ -4584,54 +5024,6 @@
       "close_date": "2028-01-28",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-383",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Nicholas Langhals, PhD",
-      "contact_email": "Blueprint-MedTech@nih.gov",
-      "abstract": "The purpose of this announcement is to encourage investigators to pursue translational activities and clinical feasibility studies to advance the development of therapeutic, and diagnostic devices for disorders that affect the nervous or neuromuscular systems. Activities supported in this program include implementation of clinical prototype devices, non-clinical safety and efficacy testing, design verification and validation activities, obtaining an Investigational Device Exemption (IDE) for a Significant Risk (SR) study or Institutional Review Board (IRB) approval for a Non-Significant Risk (NSR) study, as well as a subsequent clinical feasibility study. The clinical study is expected to provide information about the device function or final design that cannot be practically obtained through additional non-clinical assessments (e.g., bench top or animal studies) due to the novelty of the device or its intended use. This FOA is a milestone-driven cooperative agreement program and will involve participation of NIH program staff in negotiating the final project plan before award and monitoring of research progress. Participants in Blueprint MedTech receive funding for all activities to be conducted in their own laboratories. In addition, applicants will collaborate with NIH-funded consultants to receive assistance with specialty areas including regulatory, reimbursement, intellectual property, commercialization, and strategic partnerships. Participants can also augment their project with NIH contract research organizations that specialize in large animal testing, sterilization testing, biocompatibility assessment, manufacturing, and medical monitoring. Individuals, institutions, or businesses developing their own devices or that already have established collaborations with device manufacturers are welcome to apply directly to this NOFO or any of the companion opportunities. For more information see BP MedTech website.",
-      "opening_date": "2025-08-29",
-      "cfda_list": [
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.213",
-          "title": "Research and Training in Complementary and Integrative Health"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        },
-        {
-          "number": "93.286",
-          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
-        },
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        }
-      ],
       "participating_icos": [
         "NINDS",
         "NEI",
@@ -4730,98 +5122,27 @@
       "title": "Support for Research Excellence  First Independent Research (SuRE-First) Award (R16 - Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIGMS",
+      "institute": "",
       "post_date": "2025-06-13",
       "close_date": "2028-09-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-415",
-      "award_ceiling": 125000,
-      "num_awards": "",
-      "contact_name": "Pauline Cupit, Ph.D.",
-      "contact_email": "pauline.cupit@nih.gov",
-      "abstract": "The SuRE program supports research capacity building at eligible higher education institutions through funding investigator-initiated biomedical research inbasic, social, clinical, behavioral, or translational science that falls in the mission areas of the NIH. The purpose of SuRE-First awards is to provide support for investigator-initiated research at resource-limited institutions by full-time faculty who have not had any prior independent, peer-reviewed, external research grants, to furnish students with high-quality undergraduate and/or graduate research experiences, and to enhance the institutional scientific research culture.",
-      "opening_date": "2025-08-29",
-      "cfda_list": [
-        {
-          "number": "93.113",
-          "title": "Environmental Health"
-        },
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        },
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        },
-        {
-          "number": "93.286",
-          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
-        },
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        },
-        {
-          "number": "93.361",
-          "title": "Nursing Research"
-        },
-        {
-          "number": "93.398",
-          "title": "Cancer Research Manpower"
-        },
-        {
-          "number": "93.846",
-          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
-        },
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        },
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        },
-        {
-          "number": "93.879",
-          "title": "Medical Library Assistance"
-        }
+      "participating_icos": [
+        "NIGMS",
+        "NEI",
+        "NHGRI",
+        "NIA",
+        "NIAAA",
+        "NIAID",
+        "NIAMS",
+        "NIBIB",
+        "NICHD",
+        "NIDCD",
+        "NIDCR",
+        "NIDDK",
+        "NIDA",
+        "NIEHS",
+        "NIMH"
       ]
     },
     {
@@ -5836,6 +6157,18 @@
       "close_date": "2027-10-25",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-353",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "Reissue of PAR-20-119. This FOA encourages applications to advance the discovery, preclinical development, and proof of concept (PoC) testing of new, rationally based candidate agents and neurostimulation approaches to treat mental disorders, substance use disorders (SUDs) or alcohol use disorder (AUD), and to develop novel ligands and circuit-engagement devices as tools to further characterize existing or to validate new drug/device targets. Partnerships between academia and industry are strongly encouraged. This FOA supports a research program of multiple projects directed toward a specific major objective, basic theme or program goal, requiring a broadly based, multidisciplinary and often long-term approach. Projects seeking support for a discrete, specified, circumscribed project to be performed by the named investigator(s) in an area representing his or her specific interest and competencies should consider the companion U01 FOA.",
+      "opening_date": "2025-01-25",
+      "cfda_list": [
+        {
+          "number": "93.242",
+          "title": "Mental Health Research Grants"
+        }
+      ],
       "participating_icos": [
         "NIMH"
       ]
@@ -5851,18 +6184,6 @@
       "close_date": "2027-10-25",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-352",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "Reissue of PAR-20-118. This Notice of Funding Opportunity (NOFO) encourages applications to advance the discovery, preclinical development, and proof of concept (PoC) testing of new, rationally based candidate agents and neurostimulation approaches to treat mental disorders, substance use disorders (SUDs) or alcohol use disorder (AUD), and to develop novel ligands and circuit-engagement devices as tools to further characterize existing or to validate new drug/device targets. Partnerships between academia and industry are strongly encouraged. This NOFO using the U01 mechanism supports a discrete, specified, circumscribed project to be performed by the named investigator(s) in an area representing his or her specific interest and competencies Projects seeking support for a research program of multiple projects directed toward a specific major objective, basic theme or program goal, requiring a broadly based, multidisciplinary and often long-term approach should consider the companion U19 FOA.",
-      "opening_date": "2025-01-25",
-      "cfda_list": [
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        }
-      ],
       "participating_icos": [
         "NIMH"
       ]
@@ -5905,62 +6226,6 @@
       "close_date": "2026-11-16",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-370",
-      "award_ceiling": 50000,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The purpose of this Notice of Funding Opportunity (NOFO) is to invite Small Research Grant (R21) applications that propose to study the ethical, legal, and social implications (ELSI) of human genetics and genomics. Applications may propose studies using either single or mixed methods. Direct involvement of key stakeholders where appropriate is encouraged. These applications should be for small research projects, such as those that involve single investigators. Of particular interest are projects that propose normative or conceptual analyses, including focused legal, economic, philosophical, anthropological, or historical analyses of new or emerging issues. This mechanism can also be used for the collection of preliminary data and the secondary analysis of existing data.",
-      "opening_date": "2025-01-17",
-      "cfda_list": [
-        {
-          "number": "93.113",
-          "title": "Environmental Health"
-        },
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        },
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        },
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        },
-        {
-          "number": "93.313",
-          "title": "NIH Office of Research on Women's Health"
-        },
-        {
-          "number": "93.399",
-          "title": "Cancer Control"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.989",
-          "title": "International Research and Research Training"
-        }
-      ],
       "participating_icos": [
         "NHGRI",
         "NIAID",
@@ -5985,6 +6250,66 @@
       "close_date": "2026-11-18",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-371",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "The purpose of this NOFO is to invite Research Project (R01) applications that propose to study the ethical, legal, and social implications (ELSI) of human genetics and genomics. Applications may propose studies using either single or mixed methods. Approaches may include but are not limited to empirical qualitative and quantitative methods, as well as conceptual, legal, and normative analyses. Direct involvement of key stakeholders where appropriate is encouraged. This Notice of Funding Opportunity (NOFO) requires a Plan for Enhancing Diverse Perspectives (PEDP) as part of the application. Applications without a PEDP will not be reviewed.",
+      "opening_date": "2025-01-20",
+      "cfda_list": [
+        {
+          "number": "93.113",
+          "title": "Environmental Health"
+        },
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        },
+        {
+          "number": "93.173",
+          "title": "Research Related to Deafness and Communication Disorders"
+        },
+        {
+          "number": "93.242",
+          "title": "Mental Health Research Grants"
+        },
+        {
+          "number": "93.279",
+          "title": "Drug Use and Addiction Research Programs"
+        },
+        {
+          "number": "93.307",
+          "title": "Minority Health and Health Disparities Research"
+        },
+        {
+          "number": "93.310",
+          "title": "Trans-NIH Research Support"
+        },
+        {
+          "number": "93.313",
+          "title": "NIH Office of Research on Women's Health"
+        },
+        {
+          "number": "93.399",
+          "title": "Cancer Control"
+        },
+        {
+          "number": "93.853",
+          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        },
+        {
+          "number": "93.855",
+          "title": "Allergy and Infectious Diseases Research"
+        },
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        },
+        {
+          "number": "93.867",
+          "title": "Vision Research"
+        }
+      ],
       "participating_icos": [
         "NHGRI",
         "NEI",
@@ -6154,18 +6479,6 @@
       "close_date": "2028-01-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-250",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The purpose of the NIDCD Research Dissertation Fellowship for Au.D. Audiologists (F32) program is to support a comprehensive, rigorous biomedical research training, and dissertation research leading to a research doctorate (i.e., Ph.D.) in the biomedical, behavioral, or clinical sciences.",
-      "opening_date": "2025-03-08",
-      "cfda_list": [
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        }
-      ],
       "participating_icos": [
         "NIDCD"
       ]
@@ -6219,33 +6532,6 @@
       ]
     },
     {
-      "opportunity_id": "358080",
-      "number": "PAR-25-318",
-      "title": "Advancing HIV/AIDS Research within the Mission of the NIDCD (R21 Clinical Trial Optional)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NIDCD",
-      "post_date": "2025-01-08",
-      "close_date": "2027-11-16",
-      "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-25-318",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The purpose of this Notice of Funding Opportunity (NOFO) is to stimulate HIV/AIDS research within the scientific mission areas of the National Institute on Deafness and Other Communications Disorders (NIDCD). Applications should address high priority HIV/AIDS research outlined by the NIH Office of AIDS Research (OAR) (https://www.oar.nih.gov/hiv-policy-and-research/research-priorities) in the areas of hearing, balance, taste, smell, voice, speech, and language.For applications proposing a clinical trial, only low risk clinical trials will be supported.",
-      "opening_date": "2025-04-07",
-      "cfda_list": [
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        }
-      ],
-      "participating_icos": [
-        "NIDCD"
-      ]
-    },
-    {
       "opportunity_id": "358086",
       "number": "PAS-25-073",
       "title": "Priority HIV/AIDS Research within the Mission of NIDDK (R01 Clinical Trial Optional)",
@@ -6283,18 +6569,6 @@
       "close_date": "2027-11-16",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-068",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "This Notice of Funding Opportunity (NOFO) invites applications for innovative basic and translational pilot research projects within the mission of the NIDDK that are aligned with NIH HIV/AIDS research priorities. These priorities were most recently outlined by the NIH Office of AIDS Research (OAR) in NOT-20-018, UPDATE: NIH HIV/AIDS Research Priorities and Guidelines for Determining HIV/AIDS Funding, scientific priorities. Potential topics could address multiple overarching priorities. These include elucidation of unique pathophysiological mechanisms contributing to HIV comorbidities, coinfections, and complications (CCCs) affecting organs, tissues, and processes within the mission of the NIDDK. Likewise, interrogations into biological mechanisms underlying HIV reservoirs in NIDDK-relevant tissues are important for developing strategies for long-term viral suppression or eradication. Finally, health-impeding social determinants of health may affect CCCs or viral reservoirs within NIDDK's mission through multiple pathways.",
-      "opening_date": "2025-04-07",
-      "cfda_list": [
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        }
-      ],
       "participating_icos": [
         "NIDDK"
       ]
@@ -6310,18 +6584,6 @@
       "close_date": "2027-03-16",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-24-329",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "This notice of funding opportunity (NOFO) encourages formative research, intervention development, and pilot-testing of interventions. Primary scientific areas of focus include the feasibility, tolerability, acceptability and safety of novel or adapted interventions that target HIV prevention, treatment or services research for people who use drugs. For the purposes of this NOFO, \"intervention\" may include behavioral, social, or structural approaches, as well as combination biomedical and behavioral approaches that prevent the acquisition and transmission of HIV infection, or improve clinical outcomes for persons living with HIV.",
-      "opening_date": "2025-04-07",
-      "cfda_list": [
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        }
-      ],
       "participating_icos": [
         "NIDA"
       ]
@@ -6349,6 +6611,21 @@
           "title": "Research Related to Deafness and Communication Disorders"
         }
       ],
+      "participating_icos": [
+        "NIDCD"
+      ]
+    },
+    {
+      "opportunity_id": "358080",
+      "number": "PAR-25-318",
+      "title": "Advancing HIV/AIDS Research within the Mission of the NIDCD (R21 Clinical Trial Optional)",
+      "agency_name": "National Institutes of Health",
+      "agency_code": "HHS-NIH11",
+      "institute": "NIDCD",
+      "post_date": "2025-01-08",
+      "close_date": "2026-07-16",
+      "status": "posted",
+      "url": "https://simpler.grants.gov/search?query=PAR-25-318",
       "participating_icos": [
         "NIDCD"
       ]
@@ -6643,34 +6920,6 @@
       "close_date": "2028-01-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-338",
-      "award_ceiling": 499000,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) intends to stimulate efforts to translate scientific discoveries and engineering developments into methods or tools that address problems in basic research to understand disease, or in applied research to assess risk, detect, prevent, diagnose, treat, and/or manage disease. The rationale is to deliver new capabilities to meet evolving requirements for technologies and methods relevant to the advance of research and delivery of care in pre-clinical, clinical and non-clinical settings, domestic or foreign, for conditions and diseases within the missions of participating institutes.",
-      "opening_date": "2025-01-05",
-      "cfda_list": [
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.313",
-          "title": "NIH Office of Research on Women's Health"
-        },
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        }
-      ],
       "participating_icos": [
         "NCI",
         "NEI",
@@ -6796,18 +7045,6 @@
       "close_date": "2028-11-05",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-362",
-      "award_ceiling": 400000,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The purpose of this Notice of Funding Opportunity (NOFO) is tofurther elucidate the mechanisms of early immune development in utero, during the early post-natal period and during early childhood in neonates, infants, and children and adolescents with or without in-utero exposure to HIV or Anti-Retroviral Therapeutics (ART).This initiative aims to understand intricate mechanisms of immune cells at the maternal-fetal interface, T and B cell development and maturation in offspring, and local immune responses and the role of systemic immunity.",
-      "opening_date": "2025-04-07",
-      "cfda_list": [
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        }
-      ],
       "participating_icos": [
         "NICHD"
       ]
@@ -6983,34 +7220,6 @@
       "close_date": "2027-01-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-032",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "This Notice of Funding Opportunity Announcement (NOFO) intends to supports studies that are both necessary and sufficient to inform the planning of a Phase II-IV clinical trial within NHLBI's mission. The NHLBI expects that applications to this NOFO will describe the planned clinical trial and in so doing demonstrate that the proposed (R34) research is scientifically necessary to design or plan the subsequent trial. Furthermore, this NOFO will support research projects that are designed to provide results that will be sufficient to inform the future trial without further studies. The planned Phase II, III, or IV trial must be primarily intended to test the efficacy, safety, clinical management, or implementation of intervention(s) in the prevention and/or treatment of heart, lung, blood, and sleep disorders. In contrast to the study start up or preparation phase of NHLBI funding opportunities for clinical trials (as described at https://www.nhlbi.nih.gov/grants-and-training/funding-opportunities-and-contacts/clinical-trials-optimization), the R34 mechanism is intended to provide new information that answers a scientific or operational question(s) which may be pragmatic in nature and, therefore, informs the final development of a Phase II-IV clinical trial. Regardless of the results of the R34, support of the proposed future clinical trial will require a new application.",
-      "opening_date": "2025-01-16",
-      "cfda_list": [
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        }
-      ],
       "participating_icos": [
         "NHLBI"
       ]
@@ -7709,7 +7918,19 @@
       "post_date": "2024-12-16",
       "close_date": "2027-02-26",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-HG-25-009"
+      "url": "https://simpler.grants.gov/search?query=RFA-HG-25-009",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "This Funding Opportunity Announcement is intended to identify and support research projects by exceptionally promising Early Stage Investigators with a long-term career interest in pursuing innovative research in genomics. This opportunity is open to research in all areas relevant to the mission of NHGRI, including genomic sciences, genomic medicine, genomic data science, and ethical, legal, and social implications of genomics.",
+      "opening_date": "2025-01-28",
+      "cfda_list": [
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        }
+      ]
     },
     {
       "opportunity_id": "357742",
@@ -8101,33 +8322,6 @@
       ]
     },
     {
-      "opportunity_id": "357625",
-      "number": "PAR-25-157",
-      "title": "Awards Supporting Cutting-Edge Technologies for Translational Science (ASCETTS) (R21 Clinical Trials Not Allowed)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NCATS",
-      "post_date": "2024-12-10",
-      "close_date": "2026-06-18",
-      "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-25-157",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The National Center for Advancing Translational Sciences (NCATS) invites applications for the Awards Supporting Cutting-Edge Technologies for Translational Science (ASCETTS) Notice of Funding Opportunity (NOFO) to foster investigator-initiated development of highly innovative technologies to address barriers, limitations, or bottlenecks in translational science particularly for therapeutic development. This program will support the early-stage proof of concept, high-risk and potentially high-reward studies for feasibility and exploratory technology development, which can transform or significantly improve the efficiency of therapeutic development to achieve NCATS ultimate goals - more treatments to all people more quickly. The research proposed should be for the development of technology that can break new ground or extend present technology toward new directions or novel applications. With this initiative, we expect to support the development and/or prototyping of new technologies that will lead to improved efficiency in the therapeutic development pipeline.",
-      "opening_date": "2025-05-19",
-      "cfda_list": [
-        {
-          "number": "93.350",
-          "title": "National Center for Advancing Translational Sciences"
-        }
-      ],
-      "participating_icos": [
-        "NCATS"
-      ]
-    },
-    {
       "opportunity_id": "357632",
       "number": "PAR-25-196",
       "title": "Limited Competition: Mentored Research Career Development Program Award in Clinical and Translational Science Awards (CTSA) Program (K12 Clinical Trial Optional)",
@@ -8262,6 +8456,18 @@
       "close_date": "2026-11-02",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-24-280",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "This Clinical Observational (CO) Studies in Musculoskeletal, Rheumatic, and Skin Diseases (R01 Clinical Trial Not Allowed) PAR, was re-issued as a result of the Simplifying Review of Research Project Grant Applications [link: https://grants.nih.gov/policy-and-compliance/policy-topics/peer-review/simplifying-review].\nThe Simplified Review changes in Section V are the only changes that have been made. All other aspects of this funding opportunity remain the same.",
+      "opening_date": "2025-02-04",
+      "cfda_list": [
+        {
+          "number": "93.846",
+          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        }
+      ],
       "participating_icos": [
         "NIAMS"
       ]
@@ -8304,6 +8510,122 @@
       "close_date": "2028-01-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-298",
+      "award_ceiling": 375000,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "The purpose of the Research Enhancement Award Program (REAP) for Health Professional Schools and Graduate Schools is to stimulate basic and clinical research in educational institutions that provide baccalaureate or advanced degrees for a significant number of the Nation's research scientists, but that have not been major recipients of NIH support. REAP grants create opportunities for scientists and institutions otherwise unlikely to participate extensively in NIH research programs to contribute to the Nation's biomedical and behavioral research effort. REAP grants are intended to support small-scale research projects proposed by faculty members of eligible, domestic institutions, to expose undergraduate and/or graduate students at health professional schools or graduate schools to meritorious research projects, and to strengthen the research environment of the applicant institution.Eligible institutions must award NIH-relevant baccalaureate or advanced degrees in health professions and have received less than $6 million per year of NIH support (total costs) in 4 of the last 7 fiscal years. In this NOFO, a college is a stand-alone entity and not a component of a university system.",
+      "opening_date": "2025-01-08",
+      "cfda_list": [
+        {
+          "number": "93.113",
+          "title": "Environmental Health"
+        },
+        {
+          "number": "93.121",
+          "title": "Oral Diseases and Disorders Research"
+        },
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        },
+        {
+          "number": "93.173",
+          "title": "Research Related to Deafness and Communication Disorders"
+        },
+        {
+          "number": "93.213",
+          "title": "Research and Training in Complementary and Integrative Health"
+        },
+        {
+          "number": "93.233",
+          "title": "National Center on Sleep Disorders Research"
+        },
+        {
+          "number": "93.242",
+          "title": "Mental Health Research Grants"
+        },
+        {
+          "number": "93.273",
+          "title": "Alcohol Research Programs"
+        },
+        {
+          "number": "93.279",
+          "title": "Drug Use and Addiction Research Programs"
+        },
+        {
+          "number": "93.286",
+          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+        },
+        {
+          "number": "93.351",
+          "title": "Research Infrastructure Programs"
+        },
+        {
+          "number": "93.361",
+          "title": "Nursing Research"
+        },
+        {
+          "number": "93.393",
+          "title": "Cancer Cause and Prevention Research"
+        },
+        {
+          "number": "93.394",
+          "title": "Cancer Detection and Diagnosis Research"
+        },
+        {
+          "number": "93.395",
+          "title": "Cancer Treatment Research"
+        },
+        {
+          "number": "93.396",
+          "title": "Cancer Biology Research"
+        },
+        {
+          "number": "93.399",
+          "title": "Cancer Control"
+        },
+        {
+          "number": "93.837",
+          "title": "Cardiovascular Diseases Research"
+        },
+        {
+          "number": "93.838",
+          "title": "Lung Diseases Research"
+        },
+        {
+          "number": "93.839",
+          "title": "Blood Diseases and Resources Research"
+        },
+        {
+          "number": "93.840",
+          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
+        },
+        {
+          "number": "93.846",
+          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        },
+        {
+          "number": "93.853",
+          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        },
+        {
+          "number": "93.855",
+          "title": "Allergy and Infectious Diseases Research"
+        },
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        },
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        },
+        {
+          "number": "93.867",
+          "title": "Vision Research"
+        }
+      ],
       "participating_icos": [
         "NIDCR",
         "NEI",
@@ -8659,18 +8981,6 @@
       "close_date": "2028-01-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-251",
-      "award_ceiling": 150000,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The purpose of the NIAID Career Transition Award program is to assist postdoctoral fellows' transition to positions of assistant professor or equivalent and initiate a successful biomedical career as an independent research scientist.",
-      "opening_date": "2025-01-12",
-      "cfda_list": [
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        }
-      ],
       "participating_icos": [
         "NIAID"
       ]
@@ -9167,18 +9477,6 @@
       "close_date": "2026-09-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-193",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The National Institute on Alcohol Abuse and Alcoholism solicits applications for an R34 Clinical Trial Optional mechanism focusing on alcohol health services. This NOFO will broadly focus on closing the treatment gap for individuals with alcohol use disorder (AUD); within this focus, there are five major areas of emphasis: (1) increasing access to treatment for AUD, (2) making treatment for AUD more appealing, (3) examining cost structures and insurance systems, (4) conducting studies on dissemination and implementation of existing evidence-based approaches to treating AUD, and (5) reducing health disparities as a means of addressing the treatment gap in AUD for health disparity populations.",
-      "opening_date": "2025-01-16",
-      "cfda_list": [
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        }
-      ],
       "participating_icos": [
         "NIAAA"
       ]
@@ -9809,18 +10107,6 @@
       "close_date": "2028-01-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-290",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The purpose of this Notice of Funding Opportunity (NOFO) is to encourage applications to pursue invasive neural recording studies focused on mental health-relevant questions. Invasive neural recordings provide an unparalleled window into the human brain to explore the neural circuitry and neural dynamics underlying complex moods, emotions, cognitive functions, and behaviors with high spatial and temporal resolution. Additionally, the ability to stimulate, via the same electrodes, allows for direct causal tests by modulating network dynamics. This funding opportunity aims to target a gap in the scientific knowledge of neural circuit function related to mental health disorders. Researchers should target specific questions suited to invasive recording modalities that have high translational potential. Development of new technologies and therapies are outside the scope of this NOFO.",
-      "opening_date": "2025-01-05",
-      "cfda_list": [
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        }
-      ],
       "participating_icos": [
         "NIMH"
       ]
@@ -10147,18 +10433,6 @@
       "close_date": "2026-11-17",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-267",
-      "award_ceiling": 350000,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "This notice of funding opportunity (NOFO) invites applications for investigator-initiated clinical trials of complementary and integrative health approaches with physical and/or psychological therapeutic inputs (often called mind and body interventions) in NCCIH-designated areas of high research priority. Applications submitted under this NOFO are expected to propose a multisite feasibility clinical trial that will provide new information that is scientifically necessary for the planning and conduct of a subsequent clinical efficacy or effectiveness study, pragmatic trial, or dissemination and implementation trial within NCCIHs mission. NCCIH expects that applications to this NOFO will describe the planned future clinical trial and in so doing demonstrate that the proposed (R01) research is scientifically necessary to design or plan the subsequent fully powered, full-scale clinical trial. Under this R01, the data collected should be used to fill gaps in scientific knowledge, including, but not limited to the following: assessing whether the intervention can be delivered with fidelity across sites; demonstrating feasibility of recruitment, accrual, and randomization of participants across sites; demonstrating participant adherence to the intervention, as well as retention of participants throughout the study across sites; refining and assessing the feasibility of protocolized multimodal interventions, and/or demonstrating feasibility of data collection across sites in preparation for a future fully powered, multisite efficacy or effectiveness trial. The need for multisite feasibility trials is expected to be justified by sufficient preliminary data from previous single site feasibility or acceptability trial(s) or the published literature. The data collected should be used to fill gaps in scientific knowledge and be necessary to develop a competitive fully powered multisite clinical trial that has the potential to make a significant impact on public health.",
-      "opening_date": "2025-01-20",
-      "cfda_list": [
-        {
-          "number": "93.213",
-          "title": "Research and Training in Complementary and Integrative Health"
-        }
-      ],
       "participating_icos": [
         "NCCIH"
       ]
@@ -11486,26 +11760,6 @@
       "close_date": "2026-11-05",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-255",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The goal of this NOFO is to support applications for novel theory and methods development that enable better understanding of how genetic and non-genetic factors contribute to complex trait variation across individuals, families, and populations. Approaches should be interdisciplinary drawing from the natural and social sciences, account for interdependencies across scales of biological, social, and ecological organization, and make extensive use of theory, modeling, and validation with available large-scale datasets.",
-      "opening_date": "2025-01-05",
-      "cfda_list": [
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.399",
-          "title": "Cancer Control"
-        }
-      ],
       "participating_icos": [
         "NHGRI",
         "NIMH",
@@ -12156,22 +12410,6 @@
       "close_date": "2027-01-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-079",
-      "award_ceiling": 500000,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) intends to stimulate translation of scientific discoveries and engineering developments in imaging, data science and/or spectroscopic technologies into methods or tools that address contemporary problems in understanding the fundamental biology, potential risk of development, diagnosis, treatment, and/or disease status for cancer or other disease.",
-      "opening_date": "2025-01-05",
-      "cfda_list": [
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        }
-      ],
       "participating_icos": [
         "NCI"
       ]
@@ -12897,6 +13135,106 @@
       "close_date": "2028-01-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-144",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "The purpose of this Notice of Funding Opportunity (NOFO) is to support studies that will identify, develop, and/or test strategies for overcoming barriers to the adoption, adaptation, integration, sustainability, scale-up, and spread of evidence-based interventions, practices, programs, tools, treatments, guidelines, and policies (hereafter referred to as evidence-based interventions). Conversely, there is a benefit in understanding circumstances that create a need to stop or reduce (de-implement) the use of practices that are ineffective, unproven, low-value, or harmful. In addition, studies to advance dissemination and implementation research methods and measures are encouraged. Applications that focus on re-implementation of evidence-based health services that may be disrupted amidst disasters (e.g., pandemics) remain relevant. All applications must be within the scope of the mission of one of the Institutes/Centers listed above.",
+      "opening_date": "2025-01-05",
+      "cfda_list": [
+        {
+          "number": "93.113",
+          "title": "Environmental Health"
+        },
+        {
+          "number": "93.121",
+          "title": "Oral Diseases and Disorders Research"
+        },
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        },
+        {
+          "number": "93.213",
+          "title": "Research and Training in Complementary and Integrative Health"
+        },
+        {
+          "number": "93.233",
+          "title": "National Center on Sleep Disorders Research"
+        },
+        {
+          "number": "93.242",
+          "title": "Mental Health Research Grants"
+        },
+        {
+          "number": "93.273",
+          "title": "Alcohol Research Programs"
+        },
+        {
+          "number": "93.279",
+          "title": "Drug Abuse and Addiction Research Programs"
+        },
+        {
+          "number": "93.307",
+          "title": "Minority Health and Health Disparities Research"
+        },
+        {
+          "number": "93.310",
+          "title": "Trans-NIH Research Support"
+        },
+        {
+          "number": "93.361",
+          "title": "Nursing Research"
+        },
+        {
+          "number": "93.399",
+          "title": "Cancer Control"
+        },
+        {
+          "number": "93.837",
+          "title": "Cardiovascular Diseases Research"
+        },
+        {
+          "number": "93.838",
+          "title": "Lung Diseases Research"
+        },
+        {
+          "number": "93.839",
+          "title": "Blood Diseases and Resources Research"
+        },
+        {
+          "number": "93.840",
+          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
+        },
+        {
+          "number": "93.846",
+          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        },
+        {
+          "number": "93.847",
+          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+        },
+        {
+          "number": "93.853",
+          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        },
+        {
+          "number": "93.855",
+          "title": "Allergy and Infectious Diseases Research"
+        },
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        },
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        },
+        {
+          "number": "93.867",
+          "title": "Vision Research"
+        }
+      ],
       "participating_icos": [
         "NCI",
         "NEI",
@@ -17435,18 +17773,6 @@
       "close_date": "2027-01-25",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-24-128",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The goal of the Medical Scientist Training Program (MSTP) is to develop a broad pool of highly trained physician-scientist leaders available to meet the needs of the Nations biomedical research agenda. Specifically, this Notice of Funding Opportunity (NOFO) provides support to eligible domestic institutions to develop and implement effective, evidence-based approaches to integrated dual-degree training leading to the award of both professional medical doctorate degrees and research doctorate degrees (Ph.D. or equivalent). With the dual qualification of rigorous scientific research and clinical practice, graduates will be equipped with the skills to develop research programs that accelerate the translation of research advances to the understanding, detection, treatment and prevention of human disease, and to lead the advancement of biomedical research. Areas of particular importance to NIGMS are the iterative optimization of MSTP training efficacy and efficiency, and fostering the persistence of MSTP alumni in research careers. NIGMS expects that the proposed research training programs will incorporate didactic, research, mentoring and career development elements to prepare trainees for careers that will have a significant impact on the health-related research needs of the Nation.",
-      "opening_date": "2025-03-24",
-      "cfda_list": [
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        }
-      ],
       "participating_icos": [
         "NIGMS"
       ]
@@ -17909,34 +18235,6 @@
       "close_date": "2026-09-25",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-24-065",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The National Heart, Lung, and Blood Institute (NHLBI) Program Project Grant (P01) supports research related to fundamental processes and diseases of the heart, blood and lymphatic vessels, lungs, and blood, including transfusion medicine, blood resources, and sleep disorders other programs including implementation science, health disparities, and translation research that address the mission of the Institute. This FOA requires a minimum of three interrelated research projects that investigate a complex biomedical theme or research question. The projects may be supported by core units, if justified, to facilitate economy of effort, space, and equipment. The NHLBI provides support for Program Project Grants (PPGs) in the belief that collaborative research efforts can accelerate the acquisition of knowledge more effectively than a simple aggregate of research projects that have no interaction or thematic integration. NHLBI is particularly interested in encouraging new scientific directions in PPGs. Use of the P01 activity code is viewed as an opportunity to attract scientists who have not traditionally been supported by the NHLBI. Further, the PPG environment presents an opportunity for emerging scientific leaders to gain insight into how to lead a successful scientific Program, and applicants will have the opportunity to include a project led by an Early Stage Investigator (ESI). All projects in the Program must be interrelated and have objectives that address a central theme within the scientific mandate of the NHLBI.",
-      "opening_date": "2024-12-02",
-      "cfda_list": [
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        }
-      ],
       "participating_icos": [
         "NHLBI"
       ]
@@ -18023,33 +18321,6 @@
       ]
     },
     {
-      "opportunity_id": "350415",
-      "number": "PAR-23-276",
-      "title": "Cancer Research Education Grants Program - Courses for Skills Development (R25 Clinical Trial Not Allowed)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NCI",
-      "post_date": "2023-09-29",
-      "close_date": "2027-01-07",
-      "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-23-276",
-      "award_ceiling": 300000,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The over-arching goal of this NCI R25 program is to support educational activities that complement and/or enhance the training of a workforce to meet the nations biomedical, behavioral and clinical research needs.\nTo accomplish the stated over-arching goal, this Notice of Funding Opportunity (NOFO) will support creative educational activities with a primary focus on Courses for Skills Development. Applications are encouraged that propose innovative, state-of-the-art programs that address the cause, diagnosis, prevention, or treatment of cancer, rehabilitation from cancer, or the continuing care of cancer patients and the families of cancer patients.",
-      "opening_date": "2024-11-25",
-      "cfda_list": [
-        {
-          "number": "93.398",
-          "title": "Cancer Research Manpower"
-        }
-      ],
-      "participating_icos": [
-        "NCI"
-      ]
-    },
-    {
       "opportunity_id": "350299",
       "number": "PAR-23-284",
       "title": "Specialized Programs of Research Excellence (SPOREs) in Human Cancers for Years 2024, 2025, and 2026 (P50 Clinical Trial Required)",
@@ -18079,60 +18350,6 @@
       "participating_icos": [
         "NCI",
         "NIDCR"
-      ]
-    },
-    {
-      "opportunity_id": "350279",
-      "number": "PAR-23-277",
-      "title": "Cancer Research Education Grants Program - Research Experiences (R25 Clinical Trial Not Allowed)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NCI",
-      "post_date": "2023-09-21",
-      "close_date": "2027-01-07",
-      "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-23-277",
-      "award_ceiling": 300000,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The over-arching goal of this NCI R25 program is to support educational activities that complement and/or enhance the training of a workforce to meet the nations biomedical, behavioral and clinical research needs.\nTo accomplish the stated over-arching goal, this Notice of Funding Opportunity (NOFO) will support creative educational activities with a primary focus on Research Experiences. Applications are encouraged that propose innovative, state-of-the-art programs that address the cause, diagnosis, prevention, or treatment of cancer, rehabilitation from cancer, or the continuing care of cancer patients and the families of cancer patients.",
-      "opening_date": "2024-11-25",
-      "cfda_list": [
-        {
-          "number": "93.398",
-          "title": "Cancer Research Manpower"
-        }
-      ],
-      "participating_icos": [
-        "NCI"
-      ]
-    },
-    {
-      "opportunity_id": "350280",
-      "number": "PAR-23-278",
-      "title": "Cancer Research Education Grants Program - Curriculum or Methods Development (R25 Clinical Trial Not Allowed)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NCI",
-      "post_date": "2023-09-21",
-      "close_date": "2027-01-07",
-      "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-23-278",
-      "award_ceiling": 150000,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The over-arching goal of this NCI R25 program is to support educational activities that complement and/or enhance the training of a workforce to meet the nations biomedical, behavioral and clinical research needs.\nTo accomplish the stated over-arching goal, this Notice of Funding Opportunity (NOFO) will support creative educational activities with a primary focus on Curriculum or Methods Development. Applications are encouraged that propose innovative, state-of-the-art programs that address the cause, diagnosis, prevention, or treatment of cancer, rehabilitation from cancer, or the continuing care of cancer patients and the families of cancer patients.",
-      "opening_date": "2024-11-25",
-      "cfda_list": [
-        {
-          "number": "93.398",
-          "title": "Cancer Research Manpower"
-        }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
