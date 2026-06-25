@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-24T10:22:44.183194+00:00",
-  "count": 67,
+  "updated_at": "2026-06-25T10:14:45.969417+00:00",
+  "count": 69,
   "data": [
     {
       "id": 124,
@@ -56,6 +56,23 @@
         "VIHTAL_HT_NIAID@mail.nih.gov"
       ],
       "abstract": "<p>Vaccines have long been effective tools for preventing infectious disease, yet comprehensive evaluation of their relationships with both positive and negative long-term health outcomes across the lifespan remains limited. Most prior studies on adverse events have focused on short-term outcomes. Further refining our understanding of long-term health outcomes requires newer data sources, comprehensive health outcome information, more robust study designs, and improved analytic approaches. </p><p>Moreover, as concluded by the 2013 Institute of Medicine report <em>The Childhood Immunization Schedule and Safety</em>, and by the White Paper from CDC’s Vaccine Safety Datalink (Glanz et al., <em>Vaccine, </em>2016), there is a need to evaluate various aspects of the childhood vaccination schedule. Prior analyses have also highlighted methodological and data-related challenges, including limited ability to capacity to compare schedule variations, consideration of common and novel vaccine product components, insufficient integration of clinical outcomes with biological and environmental data, and insufficient consideration of population heterogeneity – factors that could support personalized risk-benefit decisions and the development of  precision vaccination strategies for specific vulnerable subpopulations. </p><p>Advances in real-world data (RWD), large-scale longitudinal cohorts, biospecimen linkages, biomarker identification, and data integration platforms now provide new opportunities to address these gaps, through comprehensive, population-level analyses of vaccination exposures and long-term health outcomes. When combined with biomarker and mechanistic data, these approaches can support causal inference and identification of effect modifiers across diverse populations, although careful attention to confounding biases and multiple comparisons is essential. To ensure rigor and interpretability, studies should prioritize standardized measurements, bias mitigation, appropriate statistical methods, large sample sizes, and replication across independent populations.</p><p>NIH seeks to encourage investigator-initiated research in the following areas:</p><ul><li>Large-scale epidemiological studies</li><li>Long-term health outcomes</li><li>Vaccine exposures </li><li>Multi-omics and subpopulations</li><li>Transparency and reproducibility</li></ul><i></i>This topic is being issued as part of the Make America Healthy Again initiative, which is expanding NIH and agency research into specific areas.<p>It aligns with:</p><ul><li>Vaccine Injury : HHS, in collaboration with NIH, will investigate vaccine injuries with improved data collection and analysis, including through a new vaccine injury research program at the NIH Clinical Center that may expand to centers around the country.</li></ul></p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 73,
+      "title": "Behavioral and Cognitive Signals of Aging in Real-World Contexts",
+      "lead_ico": "NIA",
+      "participating_icos": [
+        "NCI",
+        "NIMH",
+        "OBSSR"
+      ],
+      "posted_date": "2026-03-26",
+      "expiration_date": "2028-06-24",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/73",
+      "contacts": [],
+      "abstract": "<p>Recent advances in computational approaches for human-based behavioral analysis highlight the value of identifying reproducible, interpretable units of behavior that generalize across contexts. These approaches emphasize temporally structured patterns of human behavior—such as recurring sequences, transitions, or rhythms of activity—rather than isolated events or aggregate summary measures. Pattern-based representations of behavior have demonstrated utility in capturing complex functional processes while supporting reproducibility and cross-study comparison.</p><p>In parallel, growing interest in continuous, real-world cognitive assessment has motivated the development of cognitive vital signs: longitudinal indicators derived from everyday behavior, speech, interaction patterns, or brief tasks that reflect underlying cognitive and functional processes. Such indicators offer the potential to characterize change over time in ways that complement traditional clinic-based assessments.</p><p>Together, these developments create an opportunity to translate insights from computational models of human behavior into human life span developmental and aging research. Realizing this opportunity requires rigorous methods to ensure that behavioral and cognitive signals are interpretable, robust, and valid across a myriad of real-world settings, populations, and contexts.</p><p><strong>Areas of Scientific Interest (Examples)</strong></p><p>Illustrative areas of interest may include, but are not limited to:</p><ul><li>Characterization of recurring behavioral patterns in daily life—such as regularity of sleep–wake cycles, sequences of goal-directed activities, navigation routines, social interaction rhythms, or transitions between activities—as indicators of functional change with life span development and aging.</li><li>Development and validation of cognitive vital signs derived from real-world data streams, including patterns in speech and language use, response timing, error correction, multitasking behavior, or performance on brief, repeated cognitive tasks embedded in daily life.</li><li>Computational methods to extract, represent, and compare temporally structured behavioral and cognitive patterns (e.g., sequences, bouts, transitions, or variability over time) rather than relying solely on aggregate or cross-sectional measures.</li><li>Approaches to improve the reproducibility, transferability, and comparability of behavioral and cognitive signals across studies, platforms, populations, and contexts.</li><li>Studies examining sources of variability in behavioral and cognitive signal extraction, including differences arising from context, interpretation, or measurement approaches, and strategies to account for this variability in analysis and validation.</li><li>Methods that link computationally derived behavioral or cognitive representations to interpretable functional constructs, supporting transparent validation and appropriate use in aging research.</li></ul></p>",
       "abstract_is_html": true
     },
     {
@@ -119,6 +136,34 @@
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/90",
       "contacts": [],
       "abstract": "<p>Environmental exposures contribute to declining health in the United States (<em>The MAHA Report Assessment</em>). Humans are exposed to mixtures of chemicals, such as heavy metals, per- and polyfluoroalkyl substances (PFAS), pesticides, and phthalates, through the air they breathe, water they drink, food they eat and products they use. These harmful exposures pose risks to a range of health effects throughout one’s lifetime.</p><p>NIH is encouraging interdisciplinary, team science to develop effective technologies to reduce these harmful exposures. Environmental science and engineering (ESE) can design solutions to remove harmful agents before they reach a human by targeting and destroying harmful substances in water, air and soils. In addition, sensor devices for environmental monitoring, including personal exposure monitoring, can be used to inform individual and community prevention activities. However, these ESE efforts are often developed independently of biomedical research teams, who can measure and predict toxicity, helping to ensure the solutions effectively reduce exposures. </p><p>This topic encourages multidisciplinary, science-driven team research where ESE technology innovators work with biomedical researchers to develop new tools that promote solutions that can help prevent harmful exposures and reduce disease burden.  For example, ESE researchers could develop technologies that reduce the amount and toxicity of contaminants in environmental media (water, soil, etc.), while biomedical researchers evaluate the effectiveness of that technology through validated models. Or, a team of scientists might use novel research methods such as rapid screening tools to check the success of established/validated remediation approaches to reduce toxic responses. Communities impacted by hazardous substances could team with biomonitoring teams and novel sensor developers to refine technologies to more accurately measure environmental exposures. These collaborations provide an opportunity to encourage innovative technology development that, if successful, may lead to new solutions for public health.</p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 79,
+      "title": "Enhancing Data Usage and Utility to Advance Biomedical Research",
+      "lead_ico": "NCI",
+      "participating_icos": [
+        "NCCIH",
+        "NEI",
+        "NHGRI",
+        "NIA",
+        "NIAAA",
+        "NIAMS",
+        "NIDA",
+        "NIDCR",
+        "NIDDK",
+        "NIEHS",
+        "NIMH",
+        "NLM",
+        "ODSS",
+        "ORWH"
+      ],
+      "posted_date": "2026-03-23",
+      "expiration_date": "2028-06-24",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/79",
+      "contacts": [],
+      "abstract": "<p><strong>Background</strong></p><p>NIH aims to maximize the return on research and clinical care through investments in data generation, data infrastructure, cloud resources, FAIR Principles-guided data management and sharing, and data science. Additionally, there is growing need for novel statistical and computational methods to address unique designs and complex data types. Multiple NIH ICOs have independently invested in efforts that demonstrate the value of data sharing and use. However, more strategic alignment and coordination across NIH ICOs are needed to address data underutilization and empower the research community to generate data-driven insights, validate findings, and accelerate translation to improved health outcomes.</p><p>This Highlighted Topic encourages rigorous, innovative research in utilizing publicly accessible, high-quality datasets. It aims to enhance reproducibility, enable data-driven hypothesis generation, accelerate scientific discovery, and ultimately improve disease prevention, diagnosis, treatment, and patient outcomes.</p><p>Exemplary areas of interest include:</p><ul><li>Developing and applying advanced computational methods (including AI/ML) to enable data discovery, reuse, and access across distributed ecosystems, standardized data extraction, interoperability, and integration across diverse biomedical, clinical, environmental, behavioral, and population-level datasets.</li><li>Developing novel biostatistical methods to address complex study designs and analytic challenges and applying them to relevant health data.</li><li>Enhancing rigor, reproducibility, and data quality through replication, validation, cross-cohort analyses, and development of metrics to assess completeness, bias, and utility.</li><li>Designing, evaluating and implementing privacy-preserving strategies (e.g., federated learning, differential privacy) to enable responsible data sharing and use.</li><li>Advancing predictive, translational, and intervention research by modeling health and disease trajectories across the lifespan, identifying and validating biomarkers or other measurable indicators, and enabling innovative, adaptive, and pragmatic study designs.</li><li>Enabling secondary data analysis to improve population health and health systems by informing prevention, clinical care, and implementation strategies.</li></ul></p>",
       "abstract_is_html": true
     },
     {
