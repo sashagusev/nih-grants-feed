@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T09:58:56.613771+00:00",
+  "updated_at": "2026-06-29T12:01:09.810783+00:00",
   "count": 279,
   "data": [
     {
@@ -2440,19 +2440,7 @@
       "post_date": "2026-02-11",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-LM-26-001",
-      "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "NLM Extramural Programs",
-      "contact_email": "NLMProgram@nih.gov",
-      "abstract": "The National Library of Medicine (NLM) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for a Coordinating Center of the Network of the National Library of Medicine (NNLM). Established in 1965 and organized geographically across the United States and its territories, the NNLM promotes and supports the initiatives, products, and services of the NLM and the National Institutes of Health (NIH). Over the years, the network has expanded its impact through strategic partnerships with a broad array of member organizations, including health sciences, hospital, academic, and public libraries; health professionals; data organizations; and community-based groups. The NNLM’s core mission is to enable the effective use of—and contribution to—health information and data made available by the NLM and NIH. The network achieves this by providing professional development for librarians and information specialists, and by supporting access to health information and outreach through libraries and community organizations. A central emphasis of the NNLM is increasing awareness of and engagement with NIH programs and resources. While the NNLM has traditionally focused on promoting NLM-specific products, it is now poised to expand its reach across the broader NIH community. The network will play a vital role in disseminating research findings, fostering community engagement and partnerships, and supporting participation in local clinical research. In doing so, the NNLM will enhance public understanding of NIH’s contributions and increase the use of NIH-supported information and data resources. The NNLM consists of three major components: 1) the Network Coordinating Center (NCC), 2) Regional Medical Libraries (RMLs), and 3) the Network Training Center (NTC). This announcement specifically pertains to the NCC, with companion NOFOs forthcoming for RMLs and the NTC. The NCC will be responsible for the administration, evaluation, communication, and coordination of the Network, working closely with the NTC and the RMLs. The NCC will design and implement efficient, transparent systems for coordination and oversight. It will manage network-wide evaluation activities, including the development of tools and systems for data collection and analysis, and will lead the common metrics initiative and related reporting. In addition, the NCC will oversee internal communication tools that support coordination and knowledge management, as well as public-facing platforms such as the NNLM website. The NCC should have strong competencies in network management and evaluation, as well as evidence of creating strong partnerships with NIH and other organizations. Grant authority that allows NLM to forecast this opportunity is as follows: Medical Library Assistance Act of 1965 (MLAA, P.L. 89-291).",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.879",
-          "title": "Medical Library Assistance"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-LM-26-001"
     },
     {
       "opportunity_id": "361281",
@@ -3296,7 +3284,19 @@
       "post_date": "2025-12-11",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-RM-26-001"
+      "url": "https://simpler.grants.gov/search?query=RFA-RM-26-001",
+      "award_ceiling": null,
+      "num_awards": "8",
+      "contact_name": "NIH Director's Pioneer Award Program",
+      "contact_email": "PioneerAwards@mail.nih.gov",
+      "abstract": "The NIH Director’s Pioneer Award supports individual scientists of exceptional creativity who propose bold and highly innovative research projects with the potential to produce a major impact on broad, important areas relevant to the mission of NIH. To be considered pioneering, the proposed research must reflect substantially different scientific directions from those already being pursued in the investigator’s research program or elsewhere. Applications in any area within the biomedical sciences are welcome. The NIH Director’s Pioneer Award is a component of the High-Risk, High-Reward Research (HRHR) Program of the NIH Common Fund .",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.310",
+          "title": "Trans-NIH Research Support"
+        }
+      ]
     },
     {
       "opportunity_id": "360946",
@@ -3756,22 +3756,18 @@
       "title": "Palliative Care Research Across the Lifespan: Leveraging the Palliative Care Consortium",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIA",
+      "institute": "",
       "post_date": "2025-09-29",
       "close_date": "",
       "status": "forecasted",
       "url": "https://simpler.grants.gov/search?query=PAR-26-097",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIA Palliative Care Research",
-      "contact_email": "NIAPalliativeCareResearch@nih.gov",
-      "abstract": "The National Institute on Aging (NIA), with other members of the NIH Palliative Care Research Working Group, intends to publish a Notice of Funding Opportunity (NOFO) to invite applications proposing research on palliative care across the lifespan for persons with serious illnesses and/or their caregivers relevant to the missions of participating NIH Institutes, Centers, and Offices (ICOs), including projects focused on characterizing or mitigating disparities in palliative care access, quality, and use. Applications may propose palliative care efficacy, effectiveness, and/or implementation and dissemination clinical trials in alignment with the NIH Stage Model . Applications may also propose non-clinical trial palliative care research, such as health services research, natural experiments, health or behavioral economics, or observational studies. Awardees will become members of the research community facilitated by the NIH-funded Consortium for Palliative Care Research Across the Lifespan . Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        }
+      "participating_icos": [
+        "NIA",
+        "NICHD",
+        "NIMH",
+        "NINDS",
+        "NINR",
+        "NCI"
       ]
     },
     {
@@ -3904,7 +3900,19 @@
       "post_date": "2025-09-25",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-26-314"
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-26-314",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Xujing Wang, Ph.D.",
+      "contact_email": "xujing.wang@nih.gov",
+      "abstract": "Diabetes has become a major public health challenge due to its high prevalence and chronic nature, with many individuals managing the condition for decades. One major challenge in diabetes is the enormous heterogeneity associated with the disease, which necessitates personalized approaches to its prevention, diagnosis, treatment, and prognosis. To address this, the research field has generated a large amount of complex data, and has accumulated vast prior knowledge about the disease. These data and prior knowledge contain critical, but mostly hidden, information relevant to solving this challenge. However, major hurdles exist in integrating them and extracting predictive signals, including a lack of data science expertise in the diabetes research field and the absence of diabetes-specific data science and AI expert systems, models, and tools. This initiative proposes to address these issues by establishing a pilot funding program that leverages the emerging opportunities from recent data science and AI advances. It will recruit multidisciplinary teams that include both diabetes and data science experts, to (1) develop AI foundation models for diabetes; (2) validate the models with top research questions in diabetes heterogeneity; (3) disseminate the models and engagement the community for further development, validation and application, and; (4) develop use cases that demonstrate models’ potential in accelerating the tempo of research. The expected outcomes include the integration of new AI experts into the diabetes research workforce, the creation of AI models that the average diabetes researcher can use, and informative use cases demonstrating the models' potential. All applications will be peer-reviewed and only meritorious applications will be considered for funding.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.847",
+          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+        }
+      ]
     },
     {
       "opportunity_id": "360641",
@@ -4372,23 +4380,7 @@
       "post_date": "2025-09-17",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-CA-25-033",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Suzanne Forry, Ph.D.",
-      "contact_email": "forryscs@mail.nih.gov",
-      "abstract": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) solicits applications for research on novel therapies for adult glioblastoma (GBM). The goal is to improve the treatment of adult GBM by developing novel effective agents that can cross the blood brain barrier (BBB) and testing them clinically. Successful early-stage trials of new drugs from this NOFO would transition seamlessly to later stage trials using well-established NCI clinical trial mechanisms. To implement this concept, a highly collaborative GBM Therapeutics Network (GTN) of cross-cutting teams will be established, each team capable of driving therapeutic agent(s) from pre-clinical development, through IND studies, into pilot clinical studies in humans. Appropriate therapeutic agents include: (1) novel agents or (2) agents or combinations approved for other indications and repurposed for treatment of GBM following appropriate preclinical studies. The scope of the NOFO, from late pre-clinical through early (Phase 0/1) clinical studies, uniquely spans a gap in the GBM drug development process.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-CA-25-033"
     },
     {
       "opportunity_id": "360611",
@@ -5132,31 +5124,7 @@
       "post_date": "2025-07-28",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AG-26-005",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Scientific/Research Contact(s)",
-      "contact_email": "NIA-NOFO-Scientific@nih.gov",
-      "abstract": "This is a Forecast for a Limited Competition Notice of Funding Opportunity (NOFO) that will invite application(s) from eligible organization(s) to apply. Please see the Eligibility Section for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding. It is anticipated that the NOFO will enable the Social, Behavioral, and Economic Coordinating Center (SBE-CC) to build on its previous work of informing a future pandemic response that serves all Americans. To achieve this objective, the CC will focus on the following activities: (1) Developing annual strategic directions, (2) Fostering cross-talk, collaboration, and strategy across the SBE research community, and (3) Providing and disseminating resources for SBE research communities. Applications are not being solicited at this time.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        },
-        {
-          "number": "93.361",
-          "title": "Nursing Research"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-AG-26-005"
     },
     {
       "opportunity_id": "359020",
@@ -5384,7 +5352,35 @@
       "post_date": "2025-07-01",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-HL-25-025"
+      "url": "https://simpler.grants.gov/search?query=FOR-HL-25-025",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "David Schopfer, M.D.",
+      "contact_email": "david.schopfer@nih.gov",
+      "abstract": "The NHLBI intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the Stimulating Access to Research in Residency Transition Scholar (StARRTS) Career Development program. The goal of the StARRTS program is to help ensure that highly trained scientists are available in appropriate scientific disciplines to address the Nation's biomedical, behavioral, and clinical research needs. NIH Institutes and Centers (ICs) support a variety of mentored and non-mentored career development award programs designed to foster the transition of new investigators to research independence and to support established investigators in achieving specific objectives. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. Investigators with expertise and insights into this area are encouraged to begin to consider applying for this NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.233",
+          "title": "National Center on Sleep Disorders Research"
+        },
+        {
+          "number": "93.837",
+          "title": "Cardiovascular Diseases Research"
+        },
+        {
+          "number": "93.838",
+          "title": "Lung Diseases Research"
+        },
+        {
+          "number": "93.839",
+          "title": "Blood Diseases and Resources Research"
+        },
+        {
+          "number": "93.840",
+          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
+        }
+      ]
     },
     {
       "opportunity_id": "359894",
@@ -6204,19 +6200,7 @@
       "post_date": "2025-06-06",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-RM-26-011",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Sahana N. Kukke, PhD",
-      "contact_email": "ODPRIMED-AI@od.nih.gov",
-      "abstract": "The NIH Common Fund, with other NIH Institutes and Centers (ICs), intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the Precision Medicine with Artificial Intelligence - Integrating Imaging with Multimodal Data (PRIMED-AI) program, which seeks to develop innovative, reliable, and cost-effective AI-based tools that integrate clinical imaging with other health data types to enhance personalized medicine for patients with chronic and other health conditions. The program’s Playbook initiative will fund the development and initial testing of discrete projects that deliver “playbooks” of frameworks for responsible use of PRIMED-AI models, error mitigation and technical management of data and algorithms, data ontology/linkage, and preparation for regulatory approval​ (e.g., FDA). Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the UG3 activity code. Investigators with expertise and insights into AI-driven integration of clinical imaging with other complex and multiscale health data are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in harmonization processes for appropriate development and validation of multimodal AI tools to develop AI-based technologies leveraging multimodal data will be encouraged and these investigators should also begin considering applying for this application.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-RM-26-011"
     },
     {
       "opportunity_id": "359156",
@@ -6512,7 +6496,19 @@
       "post_date": "2025-05-27",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-MD-25-005"
+      "url": "https://simpler.grants.gov/search?query=FOR-MD-25-005",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Anuradha Patel, MD",
+      "contact_email": "Anuradha.patel@nih.gov",
+      "abstract": "This forecast is to renew the Notice of Funding Opportunity (NOFO) for the Multiple Chronic Diseases Research Coordinating Center (MCD-RCC; RFA-MD-21-008). This research coordinating center supports regional P50 comprehensive research centers studying the timely prevention, diagnosis, treatment, and management of co-existing chronic diseases to reduce health disparities as authorized by Public Law 116-260, the Consolidated Appropriations Act of 2021. The MDC-RCC will coordinate activities, including data collection and management, promoting collaboration and communication, promoting skills development among early-stage investigators, building a community of practice, and facilitating community and healthcare setting/system engagement. The MCD-RCC will serve as a national resource to help the centers achieve their primary goals to develop, test, and evaluate novel models or strategies, and/or implement effective interventions in various settings such as community or healthcare settings/systems. The MCD-RCC will lead a community of practice and activities to facilitate in four core domains: (1) consortium organization, management, and communication, (2) research coordination and data standardization, sharing, harmonization, analysis, (3) research skills development, and (4) community and healthcare setting/system engagement. The overarching goal is to support the objectives of the multiple chronic disease research initiative. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the P50 activity code. Investigators with expertise and insights into the proposed scientific areas are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in clinical care, health services, data science, and community engaged research, will be encouraged and such interdisciplinary research teams should also consider applying for this NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.307",
+          "title": "Minority Health and Health Disparities Research"
+        }
+      ]
     },
     {
       "opportunity_id": "359142",
