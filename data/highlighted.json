@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-01T10:41:59.024044+00:00",
-  "count": 72,
+  "updated_at": "2026-07-02T10:09:40.068482+00:00",
+  "count": 73,
   "data": [
     {
       "id": 124,
@@ -129,6 +129,21 @@
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/76",
       "contacts": [],
       "abstract": "<p>This topic encourages research to examine the mechanistic roles of understudied post-translation modifications (PTMs) and PTM crosstalk in the biology of human health and disease, such as cancer.</p><p><strong>Background</strong></p><p>PTMs are crucial to biological processes, enabling cells to respond and adapt to extrinsic and intrinsic stimuli, and perform a central regulatory mechanism in normal cellular function, organismal development, tissue maintenance, and stress response. PTMs exert their various functions by impacting different aspects of protein behavior, including enzymatic activity, stability, interactions with other molecules, and subcellular localization. </p><p>To date, more than 400 different kinds of PTMs have been detected, about one fourth of which have been linked to human diseases. Among these, phosphorylation, acetylation, methylation and ubiquitination account for the largest number of known disease-associated modifications. Others, such as glycosylation, lactylation, serotonylation, sumoylation, myristoylation and succinylation, etc., remain understudied. It remains poorly understood how varied PTMs crosstalk synergistically or antagonistically to influence protein function and localization, and overall cellular state. This knowledge gap raises important questions regarding the true extent of disease-associated PTMs and what other roles and functions of PTMs have been overlooked due to the focus on a narrowly defined set of modifications. Adding to the challenges, current PTM research (including crosstalk) mostly concentrates on a few proteins such as histones, transcription factors (TFs) and signaling molecules. Broadening the repertoire of PTMs and their substrates will enable a broader understanding of their complex interplay and biological significance in human health and disease.</p><p>Recent technological breakthroughs in PTM identification and characterization offers an untapped potential to study diverse PTMs, their crosstalk, and coordinated roles in health and disease. These include computational methodologies, mass spectrometry enrichment techniques, adoption of unnatural amino acids and mimetics, bio-orthogonal chemistry, single-cell omics technologies, and utilization of AlphaFold protein structure databases. Furthermore, advancements in targeted protein degradation and the development of chemical inducers of proximity offer pioneering approaches to interrogate disease-relevant protein-PTMs.</p><p>This topic encourages applications that promote:</p><ul><li>mechanistic research on novel functions of understudied and lesser known PTMs; PTM substrates besides histones, TFs and signaling molecules; PTM crosstalk; and spatiotemporal dynamics of PTMs in human health and disease</li><li>leveraging and development of advanced technologies for PTM discovery and mechanistic characterization </li><li>interdisciplinary collaboration between PTM experts, cell biologists, data scientists, computational modelers, chemists, and biophysicists to examine understudied PTMs and their crosstalk</li></ul></p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 89,
+      "title": "Cellular Quiescence, Senescence, and Cell Death in Aging and Disease",
+      "lead_ico": "NIA",
+      "participating_icos": [
+        "NCI"
+      ],
+      "posted_date": "2026-04-02",
+      "expiration_date": "2028-07-01",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/89",
+      "contacts": [],
+      "abstract": "<p>The purpose of this topic is to gain a deeper understanding of the mechanistic and functional interrelationships among quiescence, senescence, regulated cell death, and other cell-fate decisions. Moving beyond classification, this initiative seeks to uncover the molecular logic governing cell fate under stress and during aging -- knowledge essential for the rational design of next-generation therapeutics targeting aging and age-related diseases (ARD).</p><p><strong>Background</strong></p><p>Despite remarkable progress in cellular senescence research, much of the past decade has focused on defining the extraordinary heterogeneity of senescent cells, shaped by inducing stressors, tissue of origin, and organismal age, leading to the concept of distinct “senotypes.” While this groundbreaking work has transformed the field, fundamental mechanistic questions remain unresolved.</p><p>A central premise of this initiative is that quiescence, senescence, and apoptosis represent interconnected, yet distinct, states of cell-cycle withdrawal. Whether these states constitute separate endpoints, exist along a continuum, or reflect probabilistic outcomes of cell-cycle re-entry remains unknown. Furthermore, how aging reshapes these decision pathways, and whether they can be therapeutically redirected remains a major gap in aging and disease. </p><p>By elucidating how stressed cells choose between repair, quiescence, senescence, or death, and how these processes are altered by aging, this topic aims to establish a mechanistic foundation for precision therapeutics. Ultimately, these efforts will accelerate strategies to prevent or delay ARD and extend healthspan.</p><h2>Participating ICOs</h2><p>Research Areas of Interest may include, but are not limited to, the following:</p><ul><li>Determining whether quiescence and senescence represent discrete cell fates or exist on a continuum of cell-cycle withdrawal, and whether these states are reversible or probabilistic.</li><li>Defining molecular factors that determine whether stressed cells undergo senescence versus apoptosis.</li><li>Identifying cell fate decisions that can be selectively promoted or redirected during aging and ARD, including potential consequences of manipulating these processes.</li><li>Investigating how aging and the hallmarks of aging influence cell fate determination.</li><li>Examining cell fate decisions in brain aging, including mechanisms in post-mitotic neurons and glial populations (astrocytes, microglia, oligodendrocytes, endothelial cells) and their roles in vulnerability and resilience.</li><li>Evaluating how senolytics affect quiescent and reprogramming cell populations, and whether these mechanisms differ from canonical elimination of senescent cells.</li></ul>",
       "abstract_is_html": true
     },
     {
@@ -710,7 +725,8 @@
         "NIEHS",
         "OAR",
         "OBSSR",
-        "NIAAA"
+        "NIAAA",
+        "NICHD"
       ],
       "posted_date": "2026-01-12",
       "expiration_date": "2028-03-10",
