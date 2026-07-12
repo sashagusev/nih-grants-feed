@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T08:48:56.828326+00:00",
+  "updated_at": "2026-07-12T09:03:32.485089+00:00",
   "count": 278,
   "data": [
     {
@@ -268,7 +268,19 @@
       "post_date": "2026-06-29",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-ES-27-003"
+      "url": "https://simpler.grants.gov/search?query=RFA-ES-27-003",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "NOFO.Information@niehs.nih.gov",
+      "contact_email": "NOFO.Information@niehs.nih.gov",
+      "abstract": "The goal of the Micro/Nanoplastics (M/NPs) Research and Resource Coordination Center initiative is to establish a robust center that will coordinate and advance multidisciplinary efforts among biomedical and material science researchers to gain a comprehensive understanding of the health effects of M/NPs. This coordination center will accelerate the development and dissemination of sampling and analytical standardization, data harmonization, and distribution of experimental standards across the field of M/NPs research. The established coordination center will provide leadership and guidance that fosters collaboration across the M/NPs research community and promotes best practices that enhance the reliability and validity of research findings in this area. NIEHS will provide support (U24) to an eligible institution to launch a new coordination center to address the above-mentioned goals.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.113",
+          "title": "Environmental Health"
+        }
+      ]
     },
     {
       "opportunity_id": "362978",
@@ -352,19 +364,7 @@
       "post_date": "2026-06-25",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-OD-27-009",
-      "award_ceiling": null,
-      "num_awards": "5",
-      "contact_name": "NIH SEED (Small business Education and Entrepreneurial Development) Office",
-      "contact_email": "nihreach@nih.gov",
-      "abstract": "The National Institutes of Health (NIH), including all of its Institutes and Centers, plans to publish a Notice of Funding Opportunity inviting eligible colleges, universities, and nonprofit organizations to apply for the NIH Research Evaluation and Commercialization Hub (REACH) program. The REACH program helps move promising biomedical discoveries from academic research into real-world products that can improve patient care and public health. Through this opportunity, NIH plans to fund five new academic entrepreneurship hubs. These hubs will support researchers by providing early-stage funding, technical and business resources, and mentorship in product development and commercialization. The hubs will focus on high-priority technologies that align with NIH's mission. Together, the funded hubs will form a technology development consortium that will help: Identify the most promising academic biomedical technologies; Fund early product-development work, such as feasibility studies, prototypes, and proof-of-concept studies; Provide access to expertise in science, regulation, reimbursement, business, law, and project management; and Offer entrepreneurship training and hands-on commercialization experience. Public-private partnerships and non-federal matching funding will be important to the program's success. The five awardees will build on lessons learned from previous REACH hubs and support the goals of the Phase 0 Proof of Concept Partnership pilot program, as authorized by the 2011 SBIR/STTR Reauthorization Act (P.L. 112-81 Section 5127) and extended through fiscal year 2031 under the Small Business Innovation and Economic Security Act (P.L. 119-83). The REACH program also supports federal research and development priorities, including preparing the 21st-century workforce, moving technologies from the lab to the marketplace, strengthening partnerships among government, industry, and academia, and addressing local health needs, particularly in medically underserved and/or rural areas. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-OD-27-009"
     },
     {
       "opportunity_id": "362957",
@@ -860,23 +860,11 @@
       "title": "NIDCD Research Fellowship for Audiologists",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCD",
+      "institute": "",
       "post_date": "2026-05-28",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-013",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIDCD Training",
-      "contact_email": "nidcd.training@mail.nih.gov",
-      "abstract": "The National Institute on Deafness and Other Communication Disorders (NIDCD) intends to publish a Notice of Funding Opportunity (NOFO) for clinical audiologists currently enrolled in Ph.D. programs. NIDCD encourages audiologists with strong research potential to integrate clinical and translational research into their career paths. A strong research foundation is essential for advancing hearing health care and the field of audiology. The NIDCD Research Fellowship for Audiologists program aims to support this effort by providing clinical audiologists with the opportunity to engage in comprehensive and rigorous research training leading to a research doctorate (i.e., Ph.D.) in the biomedical, behavioral, or clinical sciences. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-28-013"
     },
     {
       "opportunity_id": "362574",
@@ -2828,87 +2816,7 @@
       "post_date": "2026-02-11",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PA-27-061",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Referral Officer",
-      "contact_email": "Email: ncirefof@dea.nci.nih.gov",
-      "abstract": "Through this Notice of Funding Opportunity (NOFO), the participating NIH Institutes, Centers, and offices (ICOs) invite applications for investigator-initiated Program Project (P01). A P01 supports a broadly based, multidisciplinary research program with a specific major scientific objective or theme. The proposed Program Project must be related to the programmatic interests of one or more of the participating ICs based on their scientific missions. Each application submitted in response to this NOFO must consist of at least two research projects and an Administrative Core. A P01 may include scientific cores, if needed for the proposed research. Applicants are strongly encouraged to reach out to awarding ICOs to discuss ICO-specific scientific core requirements at least 60 days prior to the receipt date: https://grants.nih.gov/funding/find-a-fit-for-your-research/nih-institutes-centers-offices . The projects included within the Program must share a common central scientific theme, focus, and/or an overall objective.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.113",
-          "title": "Environmental Health"
-        },
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        },
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        },
-        {
-          "number": "93.313",
-          "title": "NIH Office of Research on Women's Health"
-        },
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.396",
-          "title": "Cancer Biology Research"
-        },
-        {
-          "number": "93.399",
-          "title": "Cancer Control"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.879",
-          "title": "Medical Library Assistance"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PA-27-061"
     },
     {
       "opportunity_id": "361271",
@@ -3280,19 +3188,7 @@
       "post_date": "2026-01-26",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DA-27-011",
-      "award_ceiling": null,
-      "num_awards": "10",
-      "contact_name": "The Brain Research Through Advancing Innovative Neurotechnologies® (BRAIN) Initiative",
-      "contact_email": "BRAINBBQS@od.nih.gov",
-      "abstract": "The Brain Research Through Advancing Innovative Neurotechnologies® (BRAIN) Initiative, a collaboration of Federal and non-Federal partners led by NIH, seeks to accelerate development and dissemination of new neurotechnologies, transdisciplinary approaches, and scientific databases to study brain function with unprecedented resolution and scope. The BRAIN Initiative’s Brain Behavior Quantification and Synchronization (BBQS) Program furthers this mission by supporting the development of tools for high-resolution, multimodal tracking of complex behaviors synchronously with neural activity and advancement of theoretical frameworks and computational models for understanding neurobehavioral function in real-world settings. This BRAIN Initiative-funded BBQS opportunity will support transdisciplinary research involving human subjects and/or other species aiming to advance methods to capture and model complex behavior at the organismal level in dynamic environments. Required objectives include advancing sensing technologies and approaches for minimally intrusive, high-resolution, synchronous measurement of multiple biobehavioral functions (e.g. movements, peripheral physiology and neural activity) with simultaneous, multi-level tracking of environmental variables; and developing analytic and computational approaches that will lead to new, testable models of neurobehavioral function as a complex dynamic system shaped by the organism’s environment. Participation in consortium activities will be required. This forecast is authorized under 42 U.S.C. 241&284 and 114 U.S.C. 255.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.372",
-          "title": "21st Century Cures Act -\tBrain Research through Advancing Innovative Neurotechnologies"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DA-27-011"
     },
     {
       "opportunity_id": "361185",
@@ -3632,19 +3528,7 @@
       "post_date": "2025-12-02",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-ES-26-004",
-      "award_ceiling": null,
-      "num_awards": "3",
-      "contact_name": "Liam O'Fallon",
-      "contact_email": "ofallon@niehs.nih.gov",
-      "abstract": "The goal of the Pediatric and Reproductive Environmental Health Scholars (PREHS) program is to create a strong network of healthcare professionals who possess the skills and knowledge to address the complexities of pediatric and reproductive environmental health. The PREHS program will introduce new pediatric healthcare providers, obstetricians and gynecologists, and other healthcare professionals with state of the art environmental health training that blends academic research and practice-based applications in real-world settings. Furthermore, it provides scholars with experience in translating environmental health research for health professionals and community members. This Notice of Funding Opportunity (NOFO) does not allow appointed Scholars to lead an independent clinical trial but does allow them to obtain research experience in a clinical trial led by a mentor or co-mentor.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.113",
-          "title": "Environmental Health"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-ES-26-004"
     },
     {
       "opportunity_id": "360909",
@@ -3976,19 +3860,7 @@
       "post_date": "2025-09-30",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-130",
-      "award_ceiling": null,
-      "num_awards": "5",
-      "contact_name": "Susan Mendley",
-      "contact_email": "susan.mendley@nih.gov",
-      "abstract": "The purpose of this funding opportunity is to advance the NIH mission by supporting the continuation of the Consortium to Study Chronic Kidney Disease of UnceRtain Etiology (CKDu) in Agricultural Communities (CURE). Chronic Kidney Disease of Uncertain Etiology (CKDu) causes kidney failure in rural areas of many Low and Middle Income Countries, resulting in a large death toll among the young working age population. Environmental factors are suspected to be causative, but family and geographic clustering add consideration of unrecognized genetic susceptibility. The risk factors identified in other countries are encountered by U.S. patients, so this research will offer valuable insights into the development and progression of tubulointerstitial renal diseases, with broad implications for understanding kidney health and disease in the U.S. NIDDK, NIEHS, and FIC have jointly funded a consortium that includes Field Epidemiology Sites, a Renal and Environmental Science Core, and a Data Coordinating Center to find causes and potential interventions for CKDu since 2021. This NOFO requests renewal applications for the Field Epidemiology Sites that will continue to identify, recruit, and retain participants in CKDu endemic areas, conduct study visits, and collect biological and environmental samples. Consortium members will continue to collaborate to maximize scientific opportunities and enable discovery science to understand the etiologies of CKDu, the exposures that initiate and affect progression of tubulointerstitial kidney disease, potential therapeutic targets, and future opportunities for public health interventions. The CURE Consortium will serve as a resource for ancillary studies. This is a forecast for a limited competition Notice of Funding Opportunity (NOFO) that will invite application(s) from eligible organizations to apply. Application(s) will be peer-reviewed and only funded if meritorious.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-130"
     },
     {
       "opportunity_id": "360672",
@@ -4216,19 +4088,7 @@
       "post_date": "2025-09-23",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-036",
-      "award_ceiling": null,
-      "num_awards": "2",
-      "contact_name": "Stephanie A. Morris",
-      "contact_email": "morriss2@mail.nih.gov",
-      "abstract": "The National Human Genome Research Institute (NHGRI) intends to promote an initiative by publishing a Notice of Funding Opportunity (NOFO) to solicit applications for the Centers of Excellence in Genomic Science (CEGS) program. The purpose of the CEGS program is to bring together interdisciplinary teams of investigators to form tightly focused, well-integrated projects that address challenging biomedical questions from a genomics perspective. CEGS are expected to develop highly innovative novel concepts, methods, approaches, tools, and technologies to address these questions and achieve a transformative advance not likely developed by standard R01s or other projects over the same timeframe. Importantly, each CEGS will address a critical issue in genomic science, genomic medicine, computational genomics, or an issue that cuts across more than one of these areas. Given these goals, each center is required to have outstanding scientific plans and management strategies that balance a high level of risk with the potential for high payoff. Additional goals of the CEGS program include broadening the pool of researchers able to work in or use genomics, and dissemination of CEGS developed methods and tools to the broader research community. In February 2024 a mixed-methods evaluation ( see evaluation report ) was completed to assess the outcomes of this flagship NHGRI program. The evaluation highlighted several strengths such as the high-risk, high-reward nature of the CEGS funding mechanism, a focus on technology development linked to biological questions, and the funding of several breakthrough resources and approaches that have surpassed genomics to stimulate many research areas. Suggestions for improvements, such as widening the focus and increasing outreach opportunities, will be addressed in this renewal.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-26-036"
     },
     {
       "opportunity_id": "360643",
@@ -5136,7 +4996,19 @@
       "post_date": "2025-08-28",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DE-27-004"
+      "url": "https://simpler.grants.gov/search?query=RFA-DE-27-004",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Dena Fischer, DDS, MSD, MS",
+      "contact_email": "dena.fischer@nih.gov",
+      "abstract": "The National Institute of Dental and Craniofacial Research (NIDCR) intends to publish a Notice of Funding Opportunity (NOFO) to promote practice-based research through a Dental Primary Care Practice-Based Research Network (PBRN). This NOFO will invite applications for a Coordinating Center, to support the infrastructure for the planning and implementation of multiple observational studies and clinical trials, together with an Administrative and Resource Center, described in a separate companion NOFO. Supported studies will focus on integrating oral health care into medical care (whole-person health). The Coordinating Center will be responsible for managing the network membership database and developing and maintaining centralized data management systems that utilize flexible and innovative technologies for electronic data capture, including collecting research participant data independent of in-office visits. Applications are not being solicited at this time. Notice is being provided to allow potential applicants time to develop meaningful collaborations and responsive projects. Investigators with expertise in data coordination/management and conducting clinical research in practice-based research settings are encouraged to apply. NIDCR is authorized to forecast this opportunity under the Public Health Service Act (42 U.S.C §§ 241 and 284) and federal regulations (42 CFR Part 52 and 2 CFR Part 200).",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.121",
+          "title": "Oral Diseases and Disorders Research"
+        }
+      ]
     },
     {
       "opportunity_id": "360385",
@@ -6852,19 +6724,7 @@
       "post_date": "2025-05-21",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=TEMP-30794",
-      "award_ceiling": null,
-      "num_awards": "6",
-      "contact_name": "Sharon D. Beard",
-      "contact_email": "beard1@niehs.nih.gov",
-      "abstract": "The National Institute of Environmental Health Sciences ( NIEHS ) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the NIEHS Worker Training Program’s SBIR E-Learning for HAZMAT and Emergency Response (R43/R44 Clinical Trial Not Allowed). Purpose This Notice of Funding Opportunity Announcement (NOFO) encourages Small Business Innovation Research (SBIR) grant applications from small business concerns (SBCs) that propose to further the development of Technology-Enhanced Training Products for the health and safety training of hazardous materials (HAZMAT) workers; waste treatment personnel; skilled support personnel associated with an emergency/disaster; emergency responders in biological hazard response, infectious disease response, and medical waste cleanup; emergency responders in disasters; and worker resiliency training. Technology-Enhanced Training Products as defined by the Worker Training Program (WTP) include, but are not limited to, supporting training through various venues such as online training, mobile device training, augmented reality (AR), virtual reality (VR), and serious gaming. These advanced technologies complement all phases of training that can enhance, supplement, improve, and provide health and safety training for hazardous materials workers. These products must complement the goals and objectives of the WTP . The major objective of the NIEHS WTP is to prevent work related harm by training workers in how best to protect themselves and their communities from exposure to hazardous materials. The financial support for this initiative is provided by the NIEHS Worker Education and Training Branch SBIR funds. Initiative Details The Superfund Amendments and Reauthorization Act of 1986 (SARA), Section126(g), authorizes an assistance program for training and education of workers engaged in activities related to hazardous waste generation, removal, containment or emergency response and hazardous materials transportation and emergency response. The United States Congress assigned responsibility for administering this program to the NIEHS, an Institute of the National Institutes of Health (NIH) under the US Department of Health and Human Services (US DHHS). This funding opportunity will solicit R43/R44 SBIR grant applications to provide support for the development of Technology-Enhanced Training Products for the health and safety training of workers exposed to hazardous materials. This consists of classroom, online, and practical health and safety training technologies for workers and their supervisors, who are engaged in activities related to hazardous materials, hazardous waste generation, treatment, storage, disposal, removal, containment, transportation, or emergency response. To assist organizations in the development of institutional competency to provide appropriate training and education to hazardous waste workers.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.142",
-          "title": "NIEHS Hazardous Waste Worker Health and Safety Training"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=TEMP-30794"
     },
     {
       "opportunity_id": "358959",
@@ -7044,19 +6904,7 @@
       "post_date": "2025-05-12",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-MD-25-002",
-      "award_ceiling": null,
-      "num_awards": "11",
-      "contact_name": "Dolly Penn, MD, MSCR",
-      "contact_email": "Dolly.penn@nih.gov",
-      "abstract": "This forecast is to renew the Notice of Funding Opportunity (NOFO) for the Multiple Chronic Disease Research Centers (RFA-MD-21-007). This initiative will support existing and new regional comprehensive research centers to optimize prevention, diagnosis, treatment and management of multiple chronic diseases (MCDs) and to improve health outcomes among pediatric and adult populations experiencing health disparities. The centers will focus on innovative research that: (1) develops, tests, and evaluates novel models or strategies, and/or (2) implements effective interventions in various settings such as community or healthcare settings/systems. Chronic diseases, such as cardiovascular diseases, cancer, diabetes, and chronic lower respiratory diseases, are among the leading causes of morbidity and mortality in the U.S. The prevalence of chronic health conditions among U.S. children and adolescents (especially cardiometabolic diseases) is also increasing. The effective integration and implementation of evidence-based interventions for both adults and children with comorbid chronic conditions remains understudied and is a priority. Each Center must address two or more chronic conditions that commonly co-occur and/or share common social context, etiological pathways, or risk factors and management strategies. Research projects that advance the Make America Healthy Again Commission goals , with a focus on addressing disparities in the prevention or effective diagnosis, treatment and management of chronic conditions will be prioritized. In addition, research design and methodologies that are replicable, reproducible and generalizable are priorities. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the P50 (Critical Trial Required) activity code. Investigators with expertise and insights into the proposed scientific areas are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in clinical, health services, behavioral interventions, implementation science, community engaged research, and clinical care will be encouraged, and these investigators should also consider applying for this NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=FOR-MD-25-002"
     },
     {
       "opportunity_id": "358868",
