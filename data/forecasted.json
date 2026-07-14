@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T10:28:21.978062+00:00",
+  "updated_at": "2026-07-14T09:06:22.307437+00:00",
   "count": 278,
   "data": [
     {
@@ -1276,7 +1276,19 @@
       "post_date": "2026-05-12",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-103"
+      "url": "https://simpler.grants.gov/search?query=PAR-27-103",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Office of Data Science Strategy (ODSS)",
+      "contact_email": "drkb-foa@nih.gov",
+      "abstract": "The Office of Data Science Strategy (ODSS) along with other participating institutes and Centers intends to renew the Notice of Funding Opportunity (NOFO) PAR-23-237. This funding opportunity is intended to provide continuation to support established biomedical data repositories and knowledge bases as distinct and separate resources that have demonstrated impact and have potential for continued benefit to the community served. Applications funded under this NOFO for established data resources must already exist, address the needs of the targeted biomedical research community, document scientific impact they have had thus far, and have potential for continued benefit to the community served. No applications are being solicited at this time. Given the expiration of PAR-23-237, this notice will allow for potential applicants the opportunity to continue developing high-impact applications to renew funding support for existing high-performing data repositories and knowledge bases.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.310",
+          "title": "Trans-NIH Research Support"
+        }
+      ]
     },
     {
       "opportunity_id": "362315",
@@ -2016,23 +2028,11 @@
       "title": "Clinical Trials and Ancillary Studies Conducted within NIH-Funded Clinical Trial Research Networks (UG3/UH3 - Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NINDS",
+      "institute": "",
       "post_date": "2026-03-16",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-007",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NINDS Division of Clinical Research (DCR)",
-      "contact_email": "networkclinicaltrials@nih.gov",
-      "abstract": "The National Institute of Neurological Disorders and Stroke (NINDS), in conjunction with additional Institutes/Centers (ICs)at the National Institutes of Health seek to support projects proposing Clinical Trials and Ancillary Studies that are conducted within NIH-Funded Clinical Trial Research Networks. The program will encourage applications for multi-center clinical trials to be conducted within an established Clinical Trial Research Network funded by one of multiple NIH Institutes and Centers. Following peer review, the IC will prioritize studies to be conducted within the established network infrastructure with cooperative oversight by the administering IC. The program will use the bi-phasic, milestone driven UG3/UH3 cooperative agreement activity code. Awards will initially support an up to 2- year milestone-driven planning and start-up phase, with possible transition to an implementation (UH3) phase of up to 5 additional years. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. For additional information, potential applicants are encouraged to contact program staff listed below.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-27-007"
     },
     {
       "opportunity_id": "361518",
@@ -2932,19 +2932,7 @@
       "post_date": "2026-02-10",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-001",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NARCH Program",
-      "contact_email": "nigms_narch_program@mail.nih.gov",
-      "abstract": "The Native American Research Centers for Health (NARCH) program funds federally-recognized American Indian/Alaska Native (AI/AN) Tribes and Tribal colleges or universities, Tribal health programs, or Tribal organizations (collectively, federally-recognized Tribes and Tribal Entities) to support health-related research, research career enhancement, and research infrastructure enhancement activities. This is a Forecast for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Eligibility Section for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-27-001"
     },
     {
       "opportunity_id": "361263",
@@ -4008,18 +3996,22 @@
       "title": "Palliative Care Research Across the Lifespan: Leveraging the Palliative Care Consortium",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "NIA",
       "post_date": "2025-09-29",
       "close_date": "",
       "status": "forecasted",
       "url": "https://simpler.grants.gov/search?query=PAR-26-097",
-      "participating_icos": [
-        "NIA",
-        "NICHD",
-        "NIMH",
-        "NINDS",
-        "NINR",
-        "NCI"
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIA Palliative Care Research",
+      "contact_email": "NIAPalliativeCareResearch@nih.gov",
+      "abstract": "The National Institute on Aging (NIA), with other members of the NIH Palliative Care Research Working Group, intends to publish a Notice of Funding Opportunity (NOFO) to invite applications proposing research on palliative care across the lifespan for persons with serious illnesses and/or their caregivers relevant to the missions of participating NIH Institutes, Centers, and Offices (ICOs), including projects focused on characterizing or mitigating disparities in palliative care access, quality, and use. Applications may propose palliative care efficacy, effectiveness, and/or implementation and dissemination clinical trials in alignment with the NIH Stage Model . Applications may also propose non-clinical trial palliative care research, such as health services research, natural experiments, health or behavioral economics, or observational studies. Awardees will become members of the research community facilitated by the NIH-funded Consortium for Palliative Care Research Across the Lifespan . Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        }
       ]
     },
     {
@@ -5452,7 +5444,19 @@
       "post_date": "2025-07-17",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-HG-26-005"
+      "url": "https://simpler.grants.gov/search?query=FOR-HG-26-005",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Jennifer Troyer",
+      "contact_email": "jennifer.troyer@nih.gov",
+      "abstract": "The National Human Genome Research Institute (NHGRI) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research reduce barriers to a Clinical Data Ecosystem for Genomics (CDEG) by establishing a network to identify, share, and improve approaches for clinical integration and sharing of genome sequencing data and their interpretation as structured data among labs, health care providers, and patients. Specifically, the Network will: 1) establish a pilot ecosystem that demonstrates best practices for the sharing of genomic structured data (GSD) across different health care settings, including primary care; 2) create standardized application programming interfaces (APIs) to support access to such data; 3) develop open-source clinical software applications and databases that utilize these APIs; 4) demonstrate the ability of the pilot ecosystem to overcome barriers to accessing patient genomic data as patients travel across healthcare systems; and 5) refine and develop these practices into implementation resources for broader sharing and adoption. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the U01 activity code. Investigators with expertise and insights into this area of genomic medicine and implementation science are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in computational genomics and data science, electronic health records (EHR), genomic data standards, cloud and database development, health information exchange, and implementing genomics in clinical care will be encouraged and these investigators should also begin considering applying for this application.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        }
+      ]
     },
     {
       "opportunity_id": "360048",
@@ -5464,19 +5468,7 @@
       "post_date": "2025-07-17",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DA-27-001",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Shelley Su, Ph.D.",
-      "contact_email": "IMPOWR@nih.gov",
-      "abstract": "Forty to sixty percent of individuals with opioid use disorder (OUD) have co-occurring chronic pain (CP), which impacts their ability to fully engage in treatment. Effective management of both conditions is hindered by siloed medical disciplines and health systems. HEAL Integrative Management of Chronic Pain and OUD for Whole Recovery (IMPOWR) was funded in FY21 to support 11 unique clinical trials to test novel interventions for the management of co-occurring chronic pain and OUD at the patient-level. The current NOFO will develop strategies to address barriers to the sustainable and effective delivery of integrated OUD/pain care at the health systems level. IMPOWR identified patient interventions that were effective and ready to implement. The current NOFO will address how health systems could be improved to facilitate the use of effective integrative interventions, including the involvement and roles of peer specialists, clinicians, health system leaders and other key decision makers. Also, this NOFO will characterize where such care can be optimally and efficiently delivered. Studies will identify collaborative care models, implementation strategies, and other innovative health system approaches to meaningfully integrate CP and OUD service provision in health settings. These studies will address complex factors that influence the ability to scale and sustain effective collaborative and integrated care for pain and OUD. The National Institute on Drug Abuse (NIDA) in partnership with National Institute on Alcohol and Alcoholism (NIAAA), National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS), National Institute of Mental Health (NIMH), and National Center for Complementary and Integrative Health (NCCIH), and National Institute of Neurological Disorders and Stroke (NINDS) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research on the effective management of OUD and CP. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the RM1 activity code. Investigators with expertise and insights into this area of chronic pain management and OUD/opioid misuse are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in community-based participatory research approaches, implementation science, and other strategies to amplify scalability and sustainability will be encouraged and, these investigators should also begin considering applying for this NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DA-27-001"
     },
     {
       "opportunity_id": "359206",
@@ -6396,23 +6388,11 @@
       "title": "Notice of Intent to Publish a Funding Opportunity Announcement for NIEHS Worker Training Program’s Hazardous Materials Worker Health and Safety Training (U45 – Clinical Trials Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIEHS",
+      "institute": "",
       "post_date": "2025-05-28",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=TEMP-31337",
-      "award_ceiling": null,
-      "num_awards": "5",
-      "contact_name": "Sharon Beard",
-      "contact_email": "beard1@niehs.nih.gov",
-      "abstract": "The National Institute of Environmental Health Sciences ( NIEHS ) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the NIEHS Worker Training Program’s Hazardous Materials Worker Health and Safety Training Program (U45 Clinical Trials Not Allowed). The Superfund Amendments and Reauthorization Act of 1986 (SARA), Section126(g), authorizes an assistance program for training and education of workers engaged in activities related to hazardous waste generation, removal, containment or emergency response and hazardous materials transportation and emergency response. The United States Congress assigned responsibility for administering this program to the NIEHS, an Institute of the National Institutes of Health (NIH) under the US Department of Health and Human Services (US DHHS). This funding opportunity will utilize the U45 activity code to provide support for the development of health and safety training of workers exposed to hazardous materials. This consists of classroom, online, and practical health and safety training for workers and their supervisors, who are engaged in activities related to hazardous materials, hazardous waste generation, treatment, storage, disposal, removal, containment, transportation, or emergency response. This NOFO lists three distinct program areas: Hazardous Waste Worker Training Program ( HWWTP ), the Environmental Career Worker Training Program ( ECWTP ), and the Hazmat Disaster Preparedness Training Program ( HDPTP ). The core program is the HWWTP and is required in order to add the other two optional programs. Investigators with expertise and insights into this area of occupational health and safety education and training are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in industrial hygiene and environmental exposures will be encouraged and these investigators should also begin considering applying for this application.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.142",
-          "title": "NIEHS Hazardous Waste Worker Health and Safety Training"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=TEMP-31337"
     },
     {
       "opportunity_id": "359153",
@@ -6764,19 +6744,7 @@
       "post_date": "2025-05-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=NOT-AA-25-006",
-      "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "Mohammed Akbar, Ph.D",
-      "contact_email": "akbarm@mail.nih.gov",
-      "abstract": "The National Institute on Alcohol Abuse and Alcoholism (NIAAA) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research on the Neurobiology of Adolescent Drinking in Adulthood (NADIA) consortium to elucidate mechanisms of persistent changes in brain-behavior relationships following adolescent alcohol exposure. The initiative supports research across various research institutions to investigate the mechanisms responsible for the effects of repeated adolescent alcohol exposure on brain maturation and adult outcomes. To establish a robust foundational knowledge base that can be utilized in developing enhanced treatment methods and more effective strategies for preventing alcohol and alcohol-related problems. NIAAA supports research across various fields, including biomedical and genetic factors, psychological and environmental influences, alcohol-related problems and medical conditions, health services research, and prevention and treatment strategies. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the U24 activity code. Investigators with expertise in molecular insights are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise are encouraged, and these investigators should also begin considering applying for this application.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=NOT-AA-25-006"
     },
     {
       "opportunity_id": "358942",
@@ -7100,19 +7068,7 @@
       "post_date": "2025-05-09",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-NR-25-006",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Karen A. Kehl, PhD, RN",
-      "contact_email": "karen.kehl@nih.gov",
-      "abstract": "The purpose of this notice is to inform the research community that the National Institute of Nursing Research (NINR) intends to publish a notice of funding opportunity (NOFO), Limited Competition: Community-Partnered Nursing Research Centers for Schools and Colleges of Nursing with Limited NIH Funding (P20 Clinical Trial Optional). This Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the P20 activity code. Details of the planned NOFO are provided below. Research Initiative Details The P20 Exploratory Centers will aim to foster nursing-led programs that promote community-partnered research to address persistent health challenges. This will be accomplished by developing and enhancing capacity for interdisciplinary, community-partnered research that advances the NINR mission by: Establishing centralized research resources in Schools or Colleges of Nursing (SON/CONs). Building the Center's community-partnered research expertise. Developing nurse-led, interdisciplinary research teams that partner with the community in the development, implementation, and evaluation of research efforts. This will be a limited competition request for applications. Eligible Schools or Colleges of Nursing must award research doctoral degrees and have received no more than $5 million dollars per year of NIH support (in both direct and F&A/indirect costs) in any 4 of the last 7 fiscal years (does not have to be consecutive).",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.361",
-          "title": "Nursing Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=FOR-NR-25-006"
     },
     {
       "opportunity_id": "358821",
