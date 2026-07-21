@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T10:10:43.324958+00:00",
-  "count": 77,
+  "updated_at": "2026-07-21T09:26:29.051371+00:00",
+  "count": 78,
   "data": [
     {
       "id": 124,
@@ -98,6 +98,23 @@
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/105",
       "contacts": [],
       "abstract": "<p>NIH is interested in advancing our understanding of the indoor environment as a critical component of the exposome by investigating exposure pattens across different indoor environment settings, identifying major sources of exposure, and quantifying their contributions to the overall exposure and health burden.</p><p>Background:</p><p>The exposome, which describes the totality of environmental exposures an individual experiences from conception to death, provides a comprehensive framework for understanding how the environment impacts human health. Within this framework, exposures in the indoor environments, where people spend most of their time, remain an understudied component in exposome research. These indoor environments span residential, commercial, industrial, and institutional settings and pollutants can be trapped and concentrated. On average, people spend 80-90% of their time indoors, making indoor exposure a primary determinant of an individual’s total exposure.</p><p>Thousands of contaminants are found indoors due to direct chemical emission from building materials, furnishing, stoves, cleaning and personal care products, office equipment as well as biological sources such as mold and pets. Oftentimes, the levels of indoor pollutants exceed those in the outdoor environment (e.g., PCBs from paint, formaldehyde from furniture, and NO2 from gas stoves). Additionally, indoor surfaces and dust can absorb and store chemicals, resulting in chemical reactions and persistent release of pollutants into the air. Exposure to indoor pollutants is associated with a wide range of adverse health outcomes across the lifespan, especially in young children and older adults who tend to spend more time indoors. Capturing and integrating exposures such as airborne pollutants (e.g., particulate matter, volatile organic compounds (VOCs)), biological agents (e.g., allergens, microbes), and physical factors (e.g., ventilation, lighting, noise, thermal conditions) across varied indoor settings is critical for understanding the cumulative effects of the exposome in shaping human health. Yet, incorporating indoor exposures into exposome research faces several methodological and conceptual challenges:</p><p>Indoor environmental exposures are complex mixtures that vary across building types (residential, non-residential, mixed-use development, etc.).</p><p>Accurate assessment tools are lacking for measuring indoor exposure beyond a few commonly studied pollutants (e.g., particulate matter, ozone, certain VOCs).</p><p>Most health studies on indoor exposure conducted so far evaluate single exposures or single classes of exposures, limiting the understanding of mixture effects, secondary products from chemical reactions, and cumulative health effects.</p><p>Indoor exposures may have multiple sources, including both indoor emissions and outdoor origins and are impacted by human behaviors, ventilation sources, and proximity to the source of exposures.</p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 112,
+      "title": "Advancing Data Science Approaches to Address Health Disparities Through Artificial Intelligence (AI), and Machine Learning (ML), and Community-Engaged Research",
+      "lead_ico": "NIMHD",
+      "participating_icos": [
+        "NIMH",
+        "OBSSR",
+        "ODP"
+      ],
+      "posted_date": "2026-05-05",
+      "expiration_date": "2028-07-20",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/112",
+      "contacts": [],
+      "abstract": "<p><strong>Purpose:</strong> this topic will support the development, implementation, and evaluation of community-engaged AI/ML interventions that convert routinely collected clinical and community-linked data into timely actions to improve screening completion, treatment adherence, disease control, and continuity of care in populations experiencing health disparities.</p><p><strong>Background:</strong></p><p>AI/ML is sufficiently advanced to support community-engaged interventions for populations experiencing health disparities. These models are most useful when used to activate specific, measurable actions rather than autonomous clinical decisions. Recent advances in electronic health record (EHR)-based prediction, natural language processing, multimodal data integration, and mobile and remote monitoring makes it feasible to identify patients at high short-term risk of missed screening, uncontrolled chronic disease, medication interruption, avoidable acute care use, and loss to follow-up</p><p>The strongest near-term opportunity is not diagnosis alone, but interventions targeting the right person to the right outreach, service, and follow-up at the right time.</p><p>For health disparities science, AI/ML should be embedded in clinical and/or community settings where implementation can improve uptake of evidence-based care. High-value use cases include, but are not limited to:</p><ul><li>Using clinic, pharmacy, and remote monitoring data to prompt community health worker outreach for uncontrolled hypertension</li><li>Identifying patients overdue for colorectal, cervical, or breast cancer screening and routing them to mailed or mobile screening options</li><li>Predicting diabetes treatment interruption and prompting refill support, nutrition counseling, and home glucose monitoring</li><li>Flagging pregnancy and postpartum patients at rising risk for hypertension, depression, or missed visits to activate nurse navigation and telehealth follow-up. </li></ul><p>The main question is no longer whether AI/ML can generate accurate predictions in retrospective datasets. The critical question is whether engaging community in AI/ML systems can improve real-world outcomes when prospectively integrated into care delivery, and workflows that community organizations and health systems can sustain. Research should therefore move beyond model development alone and test complete intervention pathways on whether outcomes improve, including: </p><ul><li>What data are required?</li><li>Which predictions are actionable?</li><li>What service is triggered?</li><li>Who delivers it?</li><li>How patients respond? </li></ul><p>Also of interest are use cases with short feedback loops, clear operational workflows, and measurable clinical endpoints.</p>",
       "abstract_is_html": true
     },
     {
@@ -785,11 +802,11 @@
       "title": "Understanding Nutritional Influences on Neurodevelopmental Disorders in Children",
       "lead_ico": "ONR",
       "participating_icos": [
+        "NIAAA",
+        "NICHD",
         "NIEHS",
         "OAR",
-        "OBSSR",
-        "NIAAA",
-        "NICHD"
+        "OBSSR"
       ],
       "posted_date": "2026-01-12",
       "expiration_date": "2028-03-10",
