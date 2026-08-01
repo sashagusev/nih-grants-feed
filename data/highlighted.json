@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T09:44:13.515972+00:00",
-  "count": 81,
+  "updated_at": "2026-08-01T09:05:52.570775+00:00",
+  "count": 82,
   "data": [
     {
       "id": 124,
@@ -90,7 +90,8 @@
       "title": "Characterizing Indoor Exposures to Advance Exposome Research",
       "lead_ico": "NIEHS",
       "participating_icos": [
-        "THRO"
+        "THRO",
+        "NIA"
       ],
       "posted_date": "2026-05-06",
       "expiration_date": "2028-07-09",
@@ -115,6 +116,19 @@
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/112",
       "contacts": [],
       "abstract": "<p><strong>Purpose:</strong> this topic will support the development, implementation, and evaluation of community-engaged AI/ML interventions that convert routinely collected clinical and community-linked data into timely actions to improve screening completion, treatment adherence, disease control, and continuity of care in populations experiencing health disparities.</p><p><strong>Background:</strong></p><p>AI/ML is sufficiently advanced to support community-engaged interventions for populations experiencing health disparities. These models are most useful when used to activate specific, measurable actions rather than autonomous clinical decisions. Recent advances in electronic health record (EHR)-based prediction, natural language processing, multimodal data integration, and mobile and remote monitoring makes it feasible to identify patients at high short-term risk of missed screening, uncontrolled chronic disease, medication interruption, avoidable acute care use, and loss to follow-up</p><p>The strongest near-term opportunity is not diagnosis alone, but interventions targeting the right person to the right outreach, service, and follow-up at the right time.</p><p>For health disparities science, AI/ML should be embedded in clinical and/or community settings where implementation can improve uptake of evidence-based care. High-value use cases include, but are not limited to:</p><ul><li>Using clinic, pharmacy, and remote monitoring data to prompt community health worker outreach for uncontrolled hypertension</li><li>Identifying patients overdue for colorectal, cervical, or breast cancer screening and routing them to mailed or mobile screening options</li><li>Predicting diabetes treatment interruption and prompting refill support, nutrition counseling, and home glucose monitoring</li><li>Flagging pregnancy and postpartum patients at rising risk for hypertension, depression, or missed visits to activate nurse navigation and telehealth follow-up. </li></ul><p>The main question is no longer whether AI/ML can generate accurate predictions in retrospective datasets. The critical question is whether engaging community in AI/ML systems can improve real-world outcomes when prospectively integrated into care delivery, and workflows that community organizations and health systems can sustain. Research should therefore move beyond model development alone and test complete intervention pathways on whether outcomes improve, including: </p><ul><li>What data are required?</li><li>Which predictions are actionable?</li><li>What service is triggered?</li><li>Who delivers it?</li><li>How patients respond? </li></ul><p>Also of interest are use cases with short feedback loops, clear operational workflows, and measurable clinical endpoints.</p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 104,
+      "title": "Detecting and Evaluating Contaminants of emerging concern: Optimizing Data-driven Exposure characterization",
+      "lead_ico": "NIEHS",
+      "participating_icos": [],
+      "posted_date": "2026-04-22",
+      "expiration_date": "2028-07-31",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/104",
+      "contacts": [],
+      "abstract": "<p><strong>Background:</strong></p><p>Humans are exposed throughout their lives to a wide range of environmental chemicals and biological agents through the air they breathe, the water they drink, the food they consume, and numerous daily activities. While many of these exposures are harmless and others are known health hazards, many chemicals remain poorly characterized, with insufficient data to determine whether they pose risks to human health.</p><p>Contaminants of Emerging Concerns (CECs) are a broad range of chemicals (man-made or naturally occurring) and biological agents that are newly identified in the environment or in humans and may adversely affect health.  Potential effects include endocrine disruption, neurotoxicity, immune dysregulation, reproductive and developmental toxicity, and  cancer. Examples of CECs include unregulated contaminants in food and drinking water, pharmaceuticals released through wastewater, compounds released following disasters/spills, and previously unrecognized industrial chemicals and byproducts increasingly detected in the environmental and biological samples. </p><p>Significant knowledge gaps exist for CECs regarding the sources, exposure pathways, levels of exposure, and health effects.  Key challenges include: </p><ul><li>Limited analytical methods and standardized technologies for detecting and monitoring CECs in the environment and in biological samples. </li><li>Poor understanding of how CECs are absorbed, metabolized, and interact with biological systems, and contribute to adverse health outcomes. </li><li>Complex, real-world exposures involving mixtures of contaminants and other environmental or social stressors that may modify toxicity and disease risk. </li></ul><p>These gaps hinder risk assessment and the development of effective prevention and intervention strategies to protect public health.</p><p>NIH is interested in research that advances the identification, characterization, and understanding of CECs, including the development of methods to detect CECs in  environmental and biological samples, elucidation of exposure pathways, and characterization of biological and health effects. </p><p>Recent advances in chemical analytical techniques, new approach methodologies (NAMs), and artificial intelligence (AL)/machine learning (ML) present an opportunity to improve CEC detection and prioritization, accelerate hazard identification, and better characterize exposure-health relationships. The long-term goal is to expand our understanding of CECs and how the environment impacts human health across the life span.</p>",
       "abstract_is_html": true
     },
     {
@@ -213,13 +227,13 @@
         "NIA",
         "NIAAA",
         "NIAMS",
-        "NICHD",
         "NIDA",
         "NIDCR",
         "NIMH",
         "NLM",
         "ODSS",
-        "ORWH"
+        "ORWH",
+        "NICHD"
       ],
       "posted_date": "2026-04-16",
       "expiration_date": "2028-06-26",
@@ -1109,7 +1123,6 @@
         "NHGRI",
         "NHLBI",
         "NIAAA",
-        "NIAID",
         "NIAMS",
         "NICHD",
         "NIDA",
@@ -1119,7 +1132,8 @@
         "NINR",
         "OAR",
         "OBSSR",
-        "ODP"
+        "ODP",
+        "NIAID"
       ],
       "posted_date": "2025-09-01",
       "expiration_date": "2028-04-14",
