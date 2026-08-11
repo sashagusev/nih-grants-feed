@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T08:28:35.819228+00:00",
+  "updated_at": "2026-08-11T08:11:49.303779+00:00",
   "count": 289,
   "data": [
     {
@@ -18,30 +18,6 @@
       "contact_name": "Common Fund Data Ecosystem Program",
       "contact_email": "cfde@od.nih.gov",
       "abstract": "The NIH Office of Strategic Coordination (Common Fund) has generated many valuable and widely available datasets. The Common Fund Data Ecosystem is helping to ensure that all Common Fund (CF) data are Findable, Accessible, Interoperable, and Reusable (FAIR). The purpose of this Notice of Funding Opportunity (NOFO) is to announce the availability of funds for projects that involve collaboration between CF programs and a non-CF biomedical data resource or ecosystem to develop resources that will enhance reusability of Common Fund data and help to connect the Common Fund Data Ecosystem with other important biomedical data ecosystems and resources. Examples of other NIH data resources and ecosystems that could be included in this partnership effort include, but are not limited to, the Helping to End Addition Long-term (HEAL) Data Ecosystem, Brain Research Through Advancing Innovation Neurotechnologies (BRAIN) Initiative, Cancer Research Data Commons (CRDC), ImmPort Shared Data, Trans-Omics for Precision Medicine (TOPMed), the National Institute of Child Health and Human Development, the National Library of Medicine research resources, and the Medical Imaging and Data Resource Center (MIDRC). Clinical trials will not be accepted through this NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        }
-      ]
-    },
-    {
-      "opportunity_id": "363473",
-      "number": "RFA-RM-28-005",
-      "title": "RNomics Technology Enhancement Centers",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "RM",
-      "post_date": "2026-08-05",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-RM-28-005",
-      "award_ceiling": null,
-      "num_awards": "4",
-      "contact_name": "Common Fund RNomics Program",
-      "contact_email": "cfrnomics@od.nih.gov",
-      "abstract": "The NIH Common Fund, in partnership with other NIH Institutes and Centers, plans to issue Notices of Funding Opportunity (NOFOs) for the RNomics program, which seeks to develop tools for studying the full set of RNA molecules (the RNome) in cells and tissues. The program will support technologies and resources that enable integrated analysis of RNA sequences, modifications, structures, locations, interactions, and functions to advance understanding of health and disease. RNomics includes four initiatives: technology enhancement centers, transformative technologies, molecular standards, and a coordinating center. Applications are not being solicited at this time. This notice is being provided to give potential applicants time to develop meaningful collaborations and strong projects. This NOFO will establish collaborative RNomics Technology Enhancement Centers (RTECs). RTECs will further develop existing technologies with demonstrated feasibility. These centers will strengthen experimental and computational tools for measuring, mapping, and testing RNA in cells and tissues, with the goal of delivering measurable improvements and supporting broad community use. Priority areas include end-to-end RNA sequencing and quantitative modification mapping; comprehensive analysis of RNA sequence, structure, modification, interactions, localization, dynamics, and function; and molecular and biochemical tools for RNA manipulation, processing, and functional testing.",
       "opening_date": "",
       "cfda_list": [
         {
@@ -114,6 +90,30 @@
       "contact_name": "Common Fund RNomics Program",
       "contact_email": "cfrnomics@od.nih.gov",
       "abstract": "The NIH Common Fund, in partnership with other NIH Institutes and Centers, plans to issue Notices of Funding Opportunity (NOFOs) for the RNomics program, which seeks to develop tools for studying the full set of RNA molecules (the RNome) in cells and tissues. The program will support technologies and resources that enable integrated analysis of RNA sequences, modifications, structures, locations, interactions, and functions to advance understanding of health and disease. RNomics includes four initiatives: technology enhancement centers, transformative technologies, molecular standards, and a coordinating center. Applications are not being solicited at this time. This notice is being provided to give potential applicants time to develop meaningful collaborations and strong projects. This NOFO will establish the RNomics Outreach and Coordination (ROC) Center. The ROC Center will serve as the consortium's hub for data management, coordination, and community engagement. It will develop a central RNomics data portal, support the development and use of data standards, coordinate technology validation and benchmarking, lead consortium-wide data analysis, and support outreach, training, and sharing of RNomics resources. The center will also plan for long-term availability and maintenance of RNomics data assets.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.310",
+          "title": "Trans-NIH Research Support"
+        }
+      ]
+    },
+    {
+      "opportunity_id": "363473",
+      "number": "RFA-RM-28-005",
+      "title": "RNomics Technology Enhancement Centers",
+      "agency_name": "National Institutes of Health",
+      "agency_code": "HHS-NIH11",
+      "institute": "RM",
+      "post_date": "2026-08-05",
+      "close_date": "",
+      "status": "forecasted",
+      "url": "https://simpler.grants.gov/search?query=RFA-RM-28-005",
+      "award_ceiling": null,
+      "num_awards": "4",
+      "contact_name": "Common Fund RNomics Program",
+      "contact_email": "cfrnomics@od.nih.gov",
+      "abstract": "The NIH Common Fund, in partnership with other NIH Institutes and Centers, plans to issue Notices of Funding Opportunity (NOFOs) for the RNomics program, which seeks to develop tools for studying the full set of RNA molecules (the RNome) in cells and tissues. The program will support technologies and resources that enable integrated analysis of RNA sequences, modifications, structures, locations, interactions, and functions to advance understanding of health and disease. RNomics includes four initiatives: technology enhancement centers, transformative technologies, molecular standards, and a coordinating center. Applications are not being solicited at this time. This notice is being provided to give potential applicants time to develop meaningful collaborations and strong projects. This NOFO will establish collaborative RNomics Technology Enhancement Centers (RTECs). RTECs will further develop existing technologies with demonstrated feasibility. These centers will strengthen experimental and computational tools for measuring, mapping, and testing RNA in cells and tissues, with the goal of delivering measurable improvements and supporting broad community use. Priority areas include end-to-end RNA sequencing and quantitative modification mapping; comprehensive analysis of RNA sequence, structure, modification, interactions, localization, dynamics, and function; and molecular and biochemical tools for RNA manipulation, processing, and functional testing.",
       "opening_date": "",
       "cfda_list": [
         {
@@ -4064,19 +4064,7 @@
       "post_date": "2026-01-13",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-CA-25-035",
-      "award_ceiling": null,
-      "num_awards": "6",
-      "contact_name": "NCI DCTD CDP PIRB NOFO",
-      "contact_email": "NCICDPNOFO@mail.nih.gov",
-      "abstract": "Through this limited competition Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) solicits applications to support continuation of the two distinct biospecimen banking resources: The National Clinical Trials Network (NCTN) Biospecimen Banks (NCTN Biobanks) support the NCI-funded NCTN and the Community Oncology Research Program (NCORP), and The Early-Phase and Experimental Clinical Trials Biospecimen Bank (EET Biobank) support the Experimental Therapeutics Clinical Trials Network (ETCTN) and NCI-supported other early phase and experimental clinical trials. The objective is to maintain these robust national resources for continuing the collection, processing, storage, and distribution of high-quality, clinically annotated human biospecimens. The goal of these resources is to ensure availability of biospecimens from participants in NCI-funded clinical trials focused on treatment, prevention, and cancer control studies to enable translational cancer research. NCTN Biobanks support the biobanking operations of the NCTN funded through the Cancer Therapy Evaluation Program (CTEP) and NCORP funded through the Division of Cancer Prevention (DCP). The clinical trials conducted through NCTN and NCORP enroll thousands of patients with adult and childhood cancers each year. NCTN Biobank operations aim to facilitate hypothesis-driven biomarker development and validation, secondary research studies, and broader scientific discovery. Biospecimens collected through harmonized protocols and long-term follow-up across large multi-site clinical trials provide valuable resources for studying disease mechanisms, therapeutic response, and clinical outcomes in different types of cancers. This NOFO will also support the continuation of the EET Biobank, a dedicated resource with a primary focus on meeting the biospecimen banking needs of the ETCTN and other early-phase and experimental clinical trials involving investigational new drugs (INDs). Biospecimens collected from the early phase clinical trials enable validated biomarker assay development, pharmacokinetic and pharmacodynamic studies, investigation of drug action and resistance mechanisms, improved patient stratification, and broader scientific discovery. Unlike the NCTN Biobank, the EET Biobank bridges basic science and clinical applications that enable acceleration of NCI’s IND development efforts for effective cancer treatments. This is a forecast for a limited competition Notice of Funding Opportunity (NOFO) that will invite application(s) from eligible organizations to apply. Application(s) will be peer-reviewed and only funded if meritorious. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-CA-25-035"
     },
     {
       "opportunity_id": "361065",
@@ -4576,7 +4564,19 @@
       "post_date": "2025-09-29",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-127"
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-127",
+      "award_ceiling": null,
+      "num_awards": "5",
+      "contact_name": "Jennifer Norton",
+      "contact_email": "jenna.norton@nih.gov",
+      "abstract": "The Cooperative Centers of Excellence in Hematology (CCEHs) are a national network of cores that provide state-of-the-art resources and services, expertise, enrichment activities, and small pilot and feasibility (P&F) funding to support and enhance the nonmalignant hematology research community and the quality of its science. The renewal of the CCEH program with enhanced strategies will improve the transparency, accountability, shareability, and overall excellence of the program.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.847",
+          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+        }
+      ]
     },
     {
       "opportunity_id": "360673",
@@ -5984,7 +5984,19 @@
       "post_date": "2025-07-15",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-HG-26-004"
+      "url": "https://simpler.grants.gov/search?query=FOR-HG-26-004",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Jennifer Troyer",
+      "contact_email": "jennifer.troyer@nih.gov",
+      "abstract": "The National Human Genome Research Institute (NHGRI) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications to establish an ancient DNA for Modern Genomics (aDMG) program. The goal of aDMG is to establish an ethical resource of ancient and historical human DNA (aDNA) data to advance studies about contemporary human traits and biology. The Coordinating Center would work with researchers and local communities to identify existing and new sources of aDNA and provide oversight and coordination of program activities across all components. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the U24 activity code. Investigators with expertise and insights into this area of ancient DNA and population genomics are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in DNA sequencing methods and technology, computational genomics and data science, human evolution, and ancient human populations will be encouraged and these investigators should also begin considering applying for this application.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        }
+      ]
     },
     {
       "opportunity_id": "359940",
@@ -6200,11 +6212,23 @@
       "title": "Dementia Care and Caregiver Support Intervention Research - Stages II - V",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "NIA",
       "post_date": "2025-06-27",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-TEMP-28924"
+      "url": "https://simpler.grants.gov/search?query=FOR-TEMP-28924",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Melissa Riddle, Ph.D.",
+      "contact_email": "melissa-riddle@nih.gov",
+      "abstract": "The National Institute on Aging (NIA) intends to publish a Notice of Funding Opportunity (NOFO) to invite NIH Stage Model Stage II-V research applications focused on the development of behavioral interventions for persons living with Alzheimer’s disease and Alzheimer’s disease-related dementias ( AD/ADRD ) and/or their care partners or caregivers. Awards made through this NOFO will support a milestone-driven planning phase for up to two years, with possible transition to a clinical trial phase pending successful completion of the required milestones. The intervention(s) to be tested as part of this NOFO are expected to be in a developed and testable form, with Stage I activities completed prior to the proposed work. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO intends to utilize the R61/R33 activity code. Investigators with expertise and insights into this area of aging research are encouraged to begin to consider applying for this new NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        }
+      ]
     },
     {
       "opportunity_id": "359867",
@@ -6932,7 +6956,23 @@
       "post_date": "2025-05-28",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AR-27-001"
+      "url": "https://simpler.grants.gov/search?query=RFA-AR-27-001",
+      "award_ceiling": null,
+      "num_awards": "30",
+      "contact_name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)",
+      "contact_email": "NIAMSCentersProgram@mail.nih.gov",
+      "abstract": "The overall goal of this program is to accelerate scientific discovery, improve research efficiency, and enhance the translation of research findings into improved health outcomes. Centers funded under this program will also foster multidisciplinary collaboration, support workforce development across career stages, and promote training in emerging areas such as data science, artificial intelligence, and implementation research. The National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) requests applications for the NIAMS P30 Centers Program to support integrated research Centers within its mission areas of skin biology and diseases; bone, muscle, and orthopaedic research; and rheumatic diseases. The NIAMS P30 Centers Program supports Centers that provide coordinated research infrastructure, shared resources, and methodological expertise to advance basic, translational, and clinical research. These Centers are expected to integrate state-of-the-art research resources with capabilities that support clinical and translational research, including the development, testing, and dissemination of novel analytical methods, study designs, outcome measures, and data-driven approaches. The overall goal of this program is to accelerate scientific discovery, improve research efficiency, and enhance the translation of research findings into improved health outcomes. Centers funded under this program will also foster multidisciplinary collaboration, support workforce development across career stages, and promote training in emerging areas such as data science, artificial intelligence, and implementation research.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.313",
+          "title": "NIH Office of Research on Women's Health"
+        },
+        {
+          "number": "93.846",
+          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        }
+      ]
     },
     {
       "opportunity_id": "359140",
@@ -7064,7 +7104,19 @@
       "post_date": "2025-05-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=NOT-AA-25-007"
+      "url": "https://simpler.grants.gov/search?query=NOT-AA-25-007",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Mohammed Akbar, Ph.D",
+      "contact_email": "akbarm@mail.nih.gov",
+      "abstract": "The National Institute on Alcohol Abuse and Alcoholism (NIAAA) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research on the Neurobiology of Adolescent Drinking in Adulthood (NADIA) consortium to elucidate mechanisms of persistent changes in brain-behavior relationships following adolescent alcohol exposure. The initiative supports research across various research institutions to investigate the mechanisms responsible for the effects of repeated adolescent alcohol exposure on brain maturation and adult outcomes. To establish a robust foundational knowledge base that can be utilized in developing enhanced treatment methods and more effective strategies for preventing alcohol and alcohol-related problems. NIAAA supports research across various fields, including biomedical and genetic factors, psychological and environmental influences, alcohol-related problems and medical conditions, health services research, and prevention and treatment strategies. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the U24 activity code. Investigators with expertise in molecular insights are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise are encouraged, and these investigators should also begin considering applying for this application.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.273",
+          "title": "Alcohol Research Programs"
+        }
+      ]
     },
     {
       "opportunity_id": "358997",
