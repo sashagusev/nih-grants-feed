@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T08:09:20.730128+00:00",
-  "count": 84,
+  "updated_at": "2026-08-12T08:16:56.180662+00:00",
+  "count": 85,
   "data": [
     {
       "id": 124,
@@ -435,6 +435,30 @@
       "abstract_is_html": true
     },
     {
+      "id": 64,
+      "title": "Interventions to Promote Health by Fostering Connectedness",
+      "lead_ico": "ODP",
+      "participating_icos": [
+        "NCCIH",
+        "NCI",
+        "NEI",
+        "NIA",
+        "NIAAA",
+        "NIDA",
+        "NIMH",
+        "NIMHD",
+        "NINR",
+        "OBSSR"
+      ],
+      "posted_date": "2026-03-23",
+      "expiration_date": "2028-08-11",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/64",
+      "contacts": [],
+      "abstract": "<p>This topic encourages rigorous research to evaluate connectedness interventions to improve health or reduce risk factors for chronic disease.</p><p><strong>Background</strong></p><p>The U.S. is facing a widespread chronic disease crisis, coinciding with increases in social isolation, loneliness, and poor mental health among Americans of all ages. </p><p>In 2023, NIH issued a Request for Information (RFI) about innovative approaches to improve mental health.  A central theme of RFI responses was the need to enhance belonging, meaning, and purpose for individuals of all ages by strengthening connections with people, culture, and activities to advance mental and physical health. </p><p>Epidemiological evidence indicates that connectedness confers positive health benefits across the lifespan. In particular, greater social connectedness is associated with improved behavioral, cognitive, and cardiovascular health; improved immune function; and lower all-cause mortality. </p><p>Aligned with this evidence, the 2026 <em>Surgeon General’s Warning on the Harms of Screen Use, </em>emphasizes the need for youth to disconnect from screens and engage in more ‘real life’ activities like socializing, volunteering, and playing sports. Clinicians have begun to respond to the need for a greater sense of connectedness by “social prescribing” or “connection prescriptions,” recommending social or recreational activities for patients experiencing loneliness or social isolation. The 2026 MAHA ELEVATE initiative to test whole-person health interventions for Medicare recipients also identifies social connection as a critical area of focus for the growing older population.</p><p>Although existing evidence regarding the benefits of connectedness interventions is promising, more rigorous intervention studies are needed to build the evidence base. Such research is necessary for healthcare and other service providers to prioritize and optimize their delivery. </p><p><strong>Areas of Interest</strong></p><p>Connectedness may take many forms, including but not limited to connections with people, communities, history, traditions, hobbies, sports, the arts, or nature. Interventions may be tested as adjuncts to healthcare, or as stand-alone interventions in non-medical settings.</p><p>Projects are strongly encouraged that:</p><ul><li>Specify a clear conceptual model identifying the hypothesized pathways between connectedness and health outcomes.</li><li>Use validated measures of connectedness and health outcomes to the extent possible, such as those in the PhenX Toolkit.</li><li>Address multi-level factors that make connections possible and sustainable (e.g., an intervention connecting urban youth to nature may require providing transportation to existing green spaces).</li><li>Involve collaboration with relevant organizations that have capacity to implement or deliver connectedness interventions if proven effective.</li><li>Include a rigorous intervention study design that is sufficiently powered and accounts for the expected correlation in outcomes within clusters (e.g., family, school, clinic, neighborhood).</li></ul><i></i>This topic is being issued as part of the Make America Healthy Again initiative, which is expanding NIH and agency research into specific areas.<p>It aligns with:</p><ul><li>NIH MAHA Chronic Disease Initiative : The NIH will launch a new Whole-Person-Health approach to chronic disease prevention research and leverage collective expertise across the agency to catalyze transformative discovery science and intervention strategies that promote wellness, resilience, and optimal health, including metabolic health, at all stages of life.</li></ul></p>",
+      "abstract_is_html": true
+    },
+    {
       "id": 79,
       "title": "Enhancing Data Usage and Utility to Advance Biomedical Research",
       "lead_ico": "NCI",
@@ -543,12 +567,12 @@
       "title": "Postnatal Human Developmental Stages and Transitions: Relationships to Aging Changes and Outcomes over the Life Course",
       "lead_ico": "NIA",
       "participating_icos": [
-        "ECHO",
         "NCCIH",
         "NCI",
         "OBSSR",
         "ONR",
-        "THRO"
+        "THRO",
+        "ECHO"
       ],
       "posted_date": "2026-03-13",
       "expiration_date": "2028-05-22",
