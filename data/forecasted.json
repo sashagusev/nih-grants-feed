@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T07:40:08.168744+00:00",
-  "count": 296,
+  "updated_at": "2026-08-20T07:41:47.521662+00:00",
+  "count": 292,
   "data": [
     {
       "opportunity_id": "363557",
@@ -276,19 +276,7 @@
       "post_date": "2026-08-05",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-RM-28-008",
-      "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "Common Fund RNomics Program",
-      "contact_email": "cfrnomics@od.nih.gov",
-      "abstract": "The NIH Common Fund, in partnership with other NIH Institutes and Centers, plans to issue Notices of Funding Opportunity (NOFOs) for the RNomics program, which seeks to develop tools for studying the full set of RNA molecules (the RNome) in cells and tissues. The program will support technologies and resources that enable integrated analysis of RNA sequences, modifications, structures, locations, interactions, and functions to advance understanding of health and disease. RNomics includes four initiatives: technology enhancement centers, transformative technologies, molecular standards, and a coordinating center. Applications are not being solicited at this time. This notice is being provided to give potential applicants time to develop meaningful collaborations and strong projects. This NOFO will establish the RNomics Outreach and Coordination (ROC) Center. The ROC Center will serve as the consortium's hub for data management, coordination, and community engagement. It will develop a central RNomics data portal, support the development and use of data standards, coordinate technology validation and benchmarking, lead consortium-wide data analysis, and support outreach, training, and sharing of RNomics resources. The center will also plan for long-term availability and maintenance of RNomics data assets.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-RM-28-008"
     },
     {
       "opportunity_id": "363454",
@@ -324,79 +312,7 @@
       "post_date": "2026-07-30",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-037",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Office of Extramural Research",
-      "contact_email": "ParentR35@mail.nih.gov",
-      "abstract": "The National Institutes of Health intends to publish a Parent R35 \"Investigator-Focused Award\" Notice of Funding Opportunity (NOFO) to fund research programs for investigators at all career stages, including Early Stage Investigators (ESIs). The Parent R35 Investigator-Focused Award is intended to provide support for an investigator's program of research within the mission of the awarding Institute or Center (IC) rather than support for a pre-defined project with specific aims. The R35 is typically expected to be an investigator's primary (or only) source of research funding from the awarding IC. An R35 award gives investigators funding stability and scientific freedom. With R35 support, researchers can pursue ambitious and innovative studies without the pressure of constantly seeking new funding streams. Key benefits include: Providing flexibility to follow the science as it evolves within the awarding IC's mission. Providing stability to take on important, challenging research questions. Allowing recipients to devote sufficient time to research, mentoring, and scientific service, and less time to grant administration. Providing a high potential for scientific breakthroughs by enabling investigators to think broadly and pursue promising opportunities.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.113",
-          "title": "Environmental Health"
-        },
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        },
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        },
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        },
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.396",
-          "title": "Cancer Biology Research"
-        },
-        {
-          "number": "93.397",
-          "title": "Cancer Centers Support Grants"
-        },
-        {
-          "number": "93.398",
-          "title": "Cancer Research Manpower"
-        },
-        {
-          "number": "93.399",
-          "title": "Cancer Control"
-        },
-        {
-          "number": "93.543",
-          "title": "Vision Research - Research Projects"
-        },
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        },
-        {
-          "number": "93.879",
-          "title": "Medical Library Assistance"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-28-037"
     },
     {
       "opportunity_id": "363350",
@@ -760,7 +676,19 @@
       "post_date": "2026-07-09",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-OD-28-001"
+      "url": "https://simpler.grants.gov/search?query=RFA-OD-28-001",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Tobacco Regulatory Science Program (TRSP)",
+      "contact_email": "TRSP@mail.nih.gov",
+      "abstract": "The Tobacco Regulatory Science Program, participating NIH Institutes and Centers (ICs), and the Food and Drug Administration (FDA) Center for Tobacco Products (CTP) intend to issue a Notice of Funding Opportunity (NOFO) soliciting applications for Tobacco Centers of Regulatory Science (TCORS). The awards under this NOFO will be administered by NIH using funds made available through FDA CTP and the Family Smoking Prevention and Tobacco Control Act (P.L. 111-31) (FSPTCA). The TCORS program objective is to establish collaborative multidisciplinary research centers that will expand the scientific base informing regulation of tobacco products to protect public health and support implementation of the FSPTCA. Centers are expected to include at least three discrete hypothesis driven Research Projects with a scientific Integrative Theme. The NOFO will solicit research applications within the regulatory authority of FDA CTP on one or more of the following topics: Addiction Behavior Communications Health Effects Impact Analysis Marketing Product Composition and Design Toxicity",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.077",
+          "title": "Family Smoking Prevention and Tobacco Control Act Regulatory Research"
+        }
+      ]
     },
     {
       "opportunity_id": "363107",
@@ -2224,27 +2152,11 @@
       "title": "NIH Pragmatic Trials Conducted in Health Care Systems",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCCIH",
+      "institute": "",
       "post_date": "2026-04-29",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-010",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NCCIH Division of Extramural Research Program Officer",
-      "contact_email": "NCCIHDERFunding@nih.gov",
-      "abstract": "The National Institutes of Health intends to publish a Notice of Funding Opportunity (NOFO), Pragmatic and Implementation Trials Conducted in Health Care Settings This funding opportunity will support large-scale pragmatic trials that test intervention effectiveness in routine clinical care and/or implementation trials that evaluate strategies for delivering interventions within health care settings. These trials are intended to directly inform decision-makers (e.g., patients, clinicians, administrators, policymakers, and payers) about the comparative benefits, burdens, and risks of biomedical or behavioral interventions. To enhance real-world relevance and generalizability, applicants are encouraged to: 1) Select care settings where the target condition is commonly seen (e.g., emergency departments, primary care, public health clinics). 2) Include multiple health system types (e.g., academic centers, federally qualified health centers, integrated networks, VA Medical Centers). 3) Assess adaptation across systems and regions to ensure intervention effectiveness and implementation feasibility. Interventions under study should be embedded in routine care. Trials may integrate one or more interventions with established efficacy into appropriate health care settings or implement system-level changes to improve health outcomes. This phased award will use a milestone-driven cooperative agreement mechanism, supporting a planning phase and a phase for full trial execution. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. Investigators with expertise and insights into this area are encouraged to begin to consider applying for this NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.213",
-          "title": "Research and Training in Complementary and Integrative Health"
-        },
-        {
-          "number": "93.473",
-          "title": "Complementary and Integrative Health - Research Projects"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-28-010"
     },
     {
       "opportunity_id": "362101",
@@ -2332,19 +2244,7 @@
       "post_date": "2026-04-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-009",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Division of Extramural Research (DER) Program Officer",
-      "contact_email": "NCCIHDERFunding@nih.gov",
-      "abstract": "The National Center for Complementary and Integrative Health (NCCIH) intends to publish a Notice of Funding Opportunity (NOFO) to support collaborative interdisciplinary research that advances foundational understanding of non-addictive natural products for chronic pain management through a holistic, system-oriented approach. This initiative aligns with the NIH Helping to End Addiction Long-term (HEAL) Initiative by promoting safe, non-addictive, and prevention-oriented strategies for pain relief. Chronic pain affects tens of millions of adults in the United States, contributing to disability, diminished quality of life, and significant healthcare costs. Despite widespread public use of natural products, such as botanicals, dietary supplements, and other naturally derived compounds for pain relief, scientific evidence has not kept pace with demand. Existing research often focuses on single molecular targets or isolated pathways, which fail to capture the complex, multisystem actions of these products. The scope of natural products under this NOFO includes those commonly used by the public as well as those with emerging usage or therapeutic potential. Research is expected to take a holistic approach that examines how these products influence pain through coordinated biological pathways across the multiple organ systems, such as digestive, immune, vascular, musculoskeletal, lymphatic, metabolic/adipose tissues, and nervous system. Studies should also explore dose optimization based on the principle of hormesis, where low doses may elicit beneficial or adaptive effects while higher doses could be ineffective or harmful. In addition, investigators are encouraged to identify optimal intervention timing that aligns with the dynamic phases of pain and inflammation, thereby maximizing therapeutic outcomes and supporting physiological recovery. This program emphasizes rigorous mechanistic studies that generate foundational insights to inform future translational research and guide the development of safe, evidence-based, non-addictive strategies for pain management.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.473",
-          "title": "Complementary and Integrative Health - Research Projects"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-28-009"
     },
     {
       "opportunity_id": "361833",
@@ -3059,34 +2959,6 @@
       ]
     },
     {
-      "opportunity_id": "361427",
-      "number": "PAR-26-128",
-      "title": "Limited Competition: High Impact Specialized Innovation Programs in Clinical and Translational Science (RC2 Clinical Trial Optional)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "",
-      "post_date": "2026-03-09",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-128",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "CTSA Program Branch, Division of Clinical Innovation",
-      "contact_email": "RC2NOFO@nih.gov",
-      "abstract": "The purpose of the High Impact Specialized Innovation Programs (SIPs) funded through the RC2 mechanism is to support the development and demonstration of high risk/high reward unique projects, capabilities, research platforms, infrastructure and/or resources to significantly advance clinical and translational science at awarded UM1 Clinical and Translational Science Award (CTSA) Program hubs. Successful programs supported through this funding opportunity are expected to lay a strong foundation for future adoption and/or dissemination of capabilities to additional CTSA Program hubs. This is a Notice of Funding Opportunity (NOFO) for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.350",
-          "title": "National Center for Advancing Translational Sciences"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        }
-      ]
-    },
-    {
       "opportunity_id": "361411",
       "number": "PAR-26-132",
       "title": "Expanding the Therapeutic Pipeline for Treating and Preventing Alzheimer's Disease and Related Dementias: Preclinical Validation and Drug Discovery for Novel Candidate Targets (U01 Clinical Trial Not Allowed)",
@@ -3164,11 +3036,23 @@
       "title": "Precision Approaches in Radiation Synthetic Combinations (PAIRS, RP1 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "NCI",
       "post_date": "2026-03-03",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-152"
+      "url": "https://simpler.grants.gov/search?query=PAR-26-152",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NCI PAIRS Program",
+      "contact_email": "Email: pairsresearchgrants@nih.gov",
+      "abstract": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) solicits research projects that investigate actionable synthetic vulnerabilities that can be conditionally paired with tumor responses to radiation therapy. The goal of the Precision Approaches in Radiation Synthetic Combinations ( PAIRS) program is to develop radiation-synthetic combination strategies and facilitate their adoption into the precision medicine toolkit toward building new and effective anticancer treatments. Early synthetic lethality–based therapeutic strategies in oncology primarily focused on targeting fixed mutations or genomic abnormalities. More recently, however, it has become clear that clinical benefit is often determined by context-dependent vulnerabilities arising from the intrinsic mutational landscape and adaptive tumor responses. This NOFO is unique in its scope, supporting innovative cancer therapy strategies that explicitly exploit context-dependent effects of radiation therapy (RT) using drug-radiation combinations. The central premise of the PAIRS is that these conditional RT-induced responses can be leveraged to create or enhance actionable vulnerabilities that synergize with molecularly targeted agents for better outcomes. A defining feature of PAIRS is its emphasis on precision, scientific rigor, and reproducibility, aligned with NIH’s scientific priorities. Radiation effects are clinically titratable through advances in delivery accuracy and flexibility, including dose, schedule, and spatial targeting. These capabilities enable the rational design of conditional RT-synthetic combination strategies that preferentially exploit tumor-specific essentialities while sparing normal tissues, thereby enhancing the therapeutic index by optimizing biological response. This NOFO consolidates the prior exploratory/developmental and research project funding opportunities to streamline the application process and maintain momentum in developing approaches that target actionable vulnerabilities within the defined radiation research scope. The applicants may submit either for exploratory/developmental research projects with a project period of up to 2 years or for research projects with a project period of 4 to 5 years.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.395",
+          "title": "Cancer Treatment Research"
+        }
+      ]
     },
     {
       "opportunity_id": "361380",
@@ -3208,7 +3092,19 @@
       "post_date": "2026-02-25",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-057"
+      "url": "https://simpler.grants.gov/search?query=PAR-26-057",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NINDS_IGNITE@nih.gov",
+      "contact_email": "NINDS_IGNITE@nih.gov",
+      "abstract": "The National Institute of Neurological Disorders and Stroke, National Institute of Aging, the NIH Helping to End Addiction Long Term (HEAL) initiative , and other participating ICs seek to support applications to conduct pharmacodynamic, pharmacokinetic, and efficacy studies to demonstrate that the proposed therapeutic agent(s) have sufficient biological activity to warrant further development as therapeutics for disorders or diseases supported by participating ICs or for non-opioid analgesic therapeutics with little or no addiction liability as a part of the NIH HEAL initiative . Therapeutic agents include small molecules or biologics. Efficacy testing can be conducted in validated in vivo models and/or validated New Approach Methodologies (NAMs) as appropriate. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.853",
+          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        }
+      ]
     },
     {
       "opportunity_id": "361369",
@@ -3744,7 +3640,19 @@
       "post_date": "2026-02-06",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-117"
+      "url": "https://simpler.grants.gov/search?query=PAR-26-117",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Geetha Bansal",
+      "contact_email": "FIC-ID@nih.gov",
+      "abstract": "This initiative supports rigorous advanced research training programs for low- and middle-income country (LMIC) scientists on infectious diseases that pose a potential threat to the U.S. and present special opportunities for research that are not readily available in the U.S., such as unique resources, exposed or infected populations, or environmental conditions that impact transmission. Applications must be relevant to the mission of at least one of the participating NIH Institutes, Centers, or Offices. Each program will provide long-term research training, along with complementary short-term training activities, and will include intensive mentorship and relevant training in data-driven science, professional skills, responsible conduct of research, and biosafety. Trainee research projects will leverage NIH-funded studies and thus will enhance NIH international investments. Research training programs will strengthen collaborations between U.S. and LMIC researchers to better understand the transmission and pathology of pathogens and to develop diagnostic, preventive or treatment interventions, especially those suited to low resource settings globally.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.989",
+          "title": "International Research and Research Training"
+        }
+      ]
     },
     {
       "opportunity_id": "361242",
@@ -3872,11 +3780,23 @@
       "title": "Controlled Clinical Trials on Long-Term Effects of Nutritional Interventions on the Progression of Risk Factors for Age-Related Chronic Conditions Over the Life Span and Their Age of Onset",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "NIA",
       "post_date": "2026-01-29",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-065"
+      "url": "https://simpler.grants.gov/search?query=PAR-26-065",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIA Scientific Contact",
+      "contact_email": "NIA-NOFO-Scientific@nih.gov",
+      "abstract": "The National Institute on Aging (NIA) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for randomized controlled clinical trials on long-term effects of nutritional interventions on the progression of risk factors for age-related chronic conditions over the life span and their age of onset. Although considerable information is available on health benefits and risks of a variety of nutritional factors (e.g., macronutrients, overall caloric intake, differing nutrient sources) there remains a need for better understanding of long-term benefits and potential risks of differing nutritional factors and dietary practices to maintain health across the full range of the life span. Rigorous understanding of these effects requires long-term controlled clinical trials of preventive interventions in younger and/or older persons. Given the rates of risk factor progression in younger persons and of accumulation of morbidities in later life, many such trials will require long-term intervention durations and follow-up of at least 5 years to provide sufficient power and evidence of their long-term effects. In order to support projects of sufficient duration to provide for start-up, enrollment, follow-up, and outcome data analyses in such trials, applications in response to this NOFO may propose projects of up to seven years in length. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO intends to utilize the U19 activity code. Investigators with expertise and insights into this area of aging research are encouraged to begin to consider applying for this new NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        }
+      ]
     },
     {
       "opportunity_id": "361213",
@@ -4487,30 +4407,6 @@
       ]
     },
     {
-      "opportunity_id": "360883",
-      "number": "PAR-26-030",
-      "title": "Institutional Development Award (IDeA) for Clinical & Translational Research (CTR)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NIGMS",
-      "post_date": "2025-11-19",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-030",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIGMS IDeA CTR",
-      "contact_email": "NIGMS_IDeA-CTR@mail.nih.gov",
-      "abstract": "The Institutional Development Award program develops biomedical research capacity in states that have historically received low levels of NIH funding (IDeA states). The IDeA Clinical & Translational Research (CTR) Notice of Funding Opportunity supports two programmatic tracks to build clinical and translational research capacity to enable research on diseases and health challenges prevalent in IDeA states. IDeA Clinical and Translational Research Development (CTR-D) awards focus on clinical and translational research workforce development and infrastructure enhancement at health research organizations in IDeA states that have limited clinical research capacity . IDeA Clinical & Translational Research Network (CTR-N) awards support statewide or multi-state networks of health research organizations to expand existing infrastructure, develop the research workforce to enhance the network organization’s ability to design and implement competitive clinical and translational research programs, and coordinate clinical research activities state-wide and/or across IDeA states.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        }
-      ]
-    },
-    {
       "opportunity_id": "360869",
       "number": "PAR-26-056",
       "title": "Centers for AIDS Research (CFAR)",
@@ -4976,19 +4872,7 @@
       "post_date": "2025-09-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-025",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Tina Gatlin, Ph.D.",
-      "contact_email": "gatlincl@nih.gov",
-      "abstract": "The Bioengineering Research, Innovation and Technology Education (BRITE) Program is designed to foster the development of undergraduate freshmen and sophomores to pursue further studies and careers in bioengineering, biomedical imaging or other STEM fields relevant to NIBIB’s scientific mission. Applications are encouraged to propose integrated educational activities that include three elements: 1) a summer bridge program for incoming freshmen, and 2) in the freshman and sophomore years, educational activities during the academic year, and 3) summer research experiences. The BRITE program is intended to expose students to bioengineering and biomedical imaging and provide research, innovation and entrepreneurship training early in their college careers by incorporating didactic, experiential, mentoring and career development opportunities. Student participants will receive support for the first two years of their undergraduate training. To enhance capacity for rigorous bioengineering training, this Notice of Funding Opportunity (NOFO) will support programs at baccalaureate degree granting institutions with modest levels of NIH research project grant funding. The ultimate goal is for participants to pursue a doctoral degree or a subsequent research career in bioengineering, biomedical imaging or other NIBIB-relevant field that will in turn have a significant impact on the health-related research needs of the Nation.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.286",
-          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-26-025"
     },
     {
       "opportunity_id": "360633",
@@ -5024,19 +4908,7 @@
       "post_date": "2025-09-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-106",
-      "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "Thomas L. Eggerman",
-      "contact_email": "eggermant@extra.niddk.nih.gov",
-      "abstract": "The NIDDK, intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research on collecting and analyzing data from clinical trials involving isolated human islets as a treatment for diabetes. This data will be used by research community for publications and presentations and to help design future clinical trials. Additionally, CITR will prepare periodic reports summarizing islet transplantation outcomes and trends overs time to inform the public. Additionally, CITR will conduct periodic meetings of the contributing sites. Applications are not being solicited currently. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the {U01 Clinical Trial Not Allowed Cooperative Agreement} activity code. Investigators with expertise and insights into this area of {Clinical Trial Data Collection} are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in {Data Analyses} will be encouraged and these investigators should also begin considering applying for this NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-106"
     },
     {
       "opportunity_id": "360639",
@@ -5219,30 +5091,6 @@
         {
           "number": "93.395",
           "title": "Cancer Treatment Research"
-        }
-      ]
-    },
-    {
-      "opportunity_id": "360611",
-      "number": "PAR-26-027",
-      "title": "Centers of Biomedical Research Excellence: Development Phase (COBRE-D)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "",
-      "post_date": "2025-09-17",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-027",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Federico Bernal, Ph.D.",
-      "contact_email": "federico.bernal@nih.gov",
-      "abstract": "The NIGMS Institutional Development Awards (IDeA) program supports biomedical research capacity building in states that have historically received low levels of NIH funding. The Centers of Biomedical Research Excellence: Development Phase (COBRE-D) program provides funding to enable institutions in IDeA states to increase their biomedical research capacity in broad scientific areas of strategic importance to them but for which they have limited existing infrastructure or expertise. COBRE-D is intended to support a long-term institutional vision focused on the recruitment and mentoring of early-career investigators by supplementing start-up packages for new hires, the establishment of research facilities, and enhancement of research administration support services. This program serves as an on-ramp for less-resourced institutions to the Centers of Biomedical Research Excellence: Expansion/Sustainability Phases (COBRE E/S) program.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
         }
       ]
     },
@@ -5855,54 +5703,6 @@
         {
           "number": "93.853",
           "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        }
-      ]
-    },
-    {
-      "opportunity_id": "360396",
-      "number": "PAR-27-066",
-      "title": "Collaborative Opportunities for Multiple-disciplinary, Bold, and Integrated Endeavors (COMBINE) (RM1 Clinical Trial Optional)",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NINDS",
-      "post_date": "2025-08-28",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-066",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NINDS Team Science Group",
-      "contact_email": "NINDSteamscience@nih.gov",
-      "abstract": "The Collaborative Opportunities for Multiple-disciplinary, Bold, and Integrated Endeavors (COMBINE) program supports the pursuit of a single focused problem that, when solved, will overcome persistent barriers, challenge orthodoxies, achieve paradigm-shifts, or develop new foundational scientific principles. Highly integrated transdisciplinary teams led by 3-6 PDs/PIs are expected to deliver defined outcomes within the funding period that advance the mission of the participating ICs and transform knowledge or practice, ranging from fundamental biomedical science to human health. The proposed problem must be of sufficient scope and complexity to require an innovative convergence of disciplines, expertise, and approaches that will not be feasible through the structure of traditional R01 or Program Project/Center grant mechanisms.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        },
-        {
-          "number": "93.213",
-          "title": "Research and Training in Complementary and Integrative Health"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        },
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
         }
       ]
     },
