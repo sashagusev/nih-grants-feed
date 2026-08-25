@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-08-24T07:59:08.686270+00:00",
-  "count": 296,
+  "updated_at": "2026-08-25T07:44:53.086194+00:00",
+  "count": 297,
   "data": [
     {
-      "opportunity_id": "363678",
-      "number": "RFA-DK-28-116",
-      "title": "Multimodal AI to Accelerate Precision Medicine for Type 1 Diabetes (U01- Clinical Trials Not Allowed)",
+      "opportunity_id": "363695",
+      "number": "PAR-28-060",
+      "title": "Small Instruments and Modern Equipment for Shared-use Biomedical Research Facilities and Resources (S15 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDDK",
-      "post_date": "2026-08-20",
+      "institute": "ORIP",
+      "post_date": "2026-08-24",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-28-116",
+      "url": "https://simpler.grants.gov/search?query=PAR-28-060",
       "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "Division of Diabetes, Endocrinology and Metabolic Diseases",
-      "contact_email": "NIDDK_DEM@nih.gov",
-      "abstract": "Type 1 diabetes (T1D) is a complex disease involving interactions among many different cell types, tissues, organs and biological processes. Genetics, the environment, and lifestyle all play a role in disease development and progression. Over the past two decades, the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) has supported major T1D research consortia covering basic, translational, and clinical research. Each consortium has focused on different aspects of T1D, such as specific organs, stages of disease or clinical outcomes. Together, these consortia have collected large longitudinal and multimodal datasets using standardized protocols and coordinated studies. While individual consortia have improved our understanding of specific areas, combining their work offers a rare opportunity to see how different biological processes interact to drive T1D development and progression. This integrated view can answer fundamental questions about T1D biology that cannot be answered using individual datasets or studies alone. Recent advances in artificial intelligence (AI) now make it possible to integrate these complementary datasets and study T1D across various tissues, disease stages, and biological levels. Building on these resources, NIDDK will support a coordinated, milestone-driven research project to answer fundamental questions about T1D biology and accelerate the development of personalized medicine. The project will combine multimodal human pancreas and clinical datasets to better understand how biological processes interact as T1D develops and progresses. The research will generate new insights into T1D biology, help us understand the different forms and stages of T1D, identify biomarkers, and inform new approaches for disease prevention, intervention, and treatment. To support the research, the project will develop and test advanced multimodal AI models. It will also develop AI-enabled research workflows, new methods to integrate data, and privacy-preserving synthetic datasets.",
+      "num_awards": "16",
+      "contact_name": "Office of Research Infrastructure Programs (ORIP)",
+      "contact_email": "oripequipment@mail.nih.gov",
+      "abstract": "This Notice of Funding Opportunity (NOFO) invites eligible shared biomedical research facilities to buy new small instruments or scientific equipment. These facilities may include core facilities, biorepositories, model resource facilities, and other research spaces or resources that are shared by multiple researchers. The goal is to help these facilities improve, update, and operate more efficiently. Organizations are especially encouraged to request funding for small instruments that use new or emerging technologies or that produce physical, chemical, or biomaterial outputs other than conventional digital data. This funding cannot be used to buy highly specialized research instruments or building-level infrastructure equipment that only indirectly supports research.",
       "opening_date": "",
       "cfda_list": [
         {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+          "number": "93.351",
+          "title": "Research Infrastructure Programs"
         }
       ]
     },
@@ -95,6 +95,30 @@
         {
           "number": "93.865",
           "title": "Child Health and Human Development Extramural Research"
+        }
+      ]
+    },
+    {
+      "opportunity_id": "363678",
+      "number": "RFA-DK-28-116",
+      "title": "Multimodal AI to Accelerate Precision Medicine for Type 1 Diabetes (U01- Clinical Trials Not Allowed)",
+      "agency_name": "National Institutes of Health",
+      "agency_code": "HHS-NIH11",
+      "institute": "NIDDK",
+      "post_date": "2026-08-20",
+      "close_date": "",
+      "status": "forecasted",
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-28-116",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Division of Diabetes, Endocrinology and Metabolic Diseases",
+      "contact_email": "NIDDK_DEM@nih.gov",
+      "abstract": "Type 1 diabetes (T1D) is a complex disease involving interactions among many different cell types, tissues, organs and biological processes. Genetics, the environment, and lifestyle all play a role in disease development and progression. Over the past two decades, the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) has supported major T1D research consortia covering basic, translational, and clinical research. Each consortium has focused on different aspects of T1D, such as specific organs, stages of disease or clinical outcomes. Together, these consortia have collected large longitudinal and multimodal datasets using standardized protocols and coordinated studies. While individual consortia have improved our understanding of specific areas, combining their work offers a rare opportunity to see how different biological processes interact to drive T1D development and progression. This integrated view can answer fundamental questions about T1D biology that cannot be answered using individual datasets or studies alone. Recent advances in artificial intelligence (AI) now make it possible to integrate these complementary datasets and study T1D across various tissues, disease stages, and biological levels. Building on these resources, NIDDK will support a coordinated, milestone-driven research project to answer fundamental questions about T1D biology and accelerate the development of personalized medicine. The project will combine multimodal human pancreas and clinical datasets to better understand how biological processes interact as T1D develops and progresses. The research will generate new insights into T1D biology, help us understand the different forms and stages of T1D, identify biomarkers, and inform new approaches for disease prevention, intervention, and treatment. To support the research, the project will develop and test advanced multimodal AI models. It will also develop AI-enabled research workflows, new methods to integrate data, and privacy-preserving synthetic datasets.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.847",
+          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
         }
       ]
     },
@@ -1044,11 +1068,39 @@
       "title": "Multi-Site Investigator-Initiated Clinical Trials (Collaborative UG3/UH3 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "NHLBI",
       "post_date": "2026-07-01",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-125"
+      "url": "https://simpler.grants.gov/search?query=PAR-27-125",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "contact_email": "NHLBIDCVSClinical@mail.nih.gov",
+      "abstract": "The NIH intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications to develop and implement investigator-initiated multi-site clinical trials, including efficacy, effectiveness, pragmatic, and/or implementation research clinical trials. Applications that propose a large and/or complex clinical trial conducted at either a single site or at multiple locations but without physical clinical sites (e.g., decentralized or virtual trials) may also be eligible. Proposed trials must be relevant to the research mission of the participating ICs and meet the NIH definition of a clinical trial (see NOT-OD-15-015 and NOT-OD-26-032). The objective of the application is to present 1) the scientific rationale as well as a comprehensive scientific and operational plan for the trial, and 2) a comprehensive plan to provide overall project coordination, administration, data management, and biostatistical support for the clinical trial. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize a bi-phasic (UG3/UH3), milestone-driven mechanism consisting of a start-up phase up to 2 years (UG3) and a full enrollment and clinical trial implementation phase up to 5 years (UH3), for a total award duration of up to 7 years. A UG3 project that meets its milestones will be administratively considered for transition to the UH3 award. Investigators with expertise and insights into this area are encouraged to begin to consider applying for this NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.233",
+          "title": "National Center on Sleep Disorders Research"
+        },
+        {
+          "number": "93.837",
+          "title": "Cardiovascular Diseases Research"
+        },
+        {
+          "number": "93.838",
+          "title": "Lung Diseases Research"
+        },
+        {
+          "number": "93.839",
+          "title": "Blood Diseases and Resources Research"
+        },
+        {
+          "number": "93.840",
+          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
+        }
+      ]
     },
     {
       "opportunity_id": "363037",
@@ -1640,19 +1692,7 @@
       "post_date": "2026-06-02",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-HG-28-003",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NHGRI Research Funding",
-      "contact_email": "nhgri-research-funding@mail.nih.gov",
-      "abstract": "The National Human Genome Research Institute (NHGRI) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications to establish an ancient DNA for Modern Genomics (aDMG) program. The goal of aDMG is to establish an ethical resource of ancient and historical human DNA (aDNA) data to advance studies about contemporary human traits and biology. This NOFO aims to solicit applications that will leverage existing and newly generated aDNA data from this consortium to advance the biological and epidemiological understanding of modern human diseases and health-related traits by integrating aDNA with modern human and other species’ data. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the U01 activity code. Investigators with expertise and insights into this area of ancient DNA and population genomics are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in DNA sequencing methods and technology, computational genomics and data science, human evolution, and ancient human populations will be encouraged and these investigators should also begin considering applying for this application.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-HG-28-003"
     },
     {
       "opportunity_id": "362647",
@@ -2720,27 +2760,7 @@
       "post_date": "2026-03-18",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-CA-26-010",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NCI K9CIN",
-      "contact_email": "K9CIN_Grants@mail.nih.gov",
-      "abstract": "The goal of this RFA is to continue to support canine cancer immunotherapy clinical trials as indicators of safe and effective cancer treatments in humans. Pet dog patients develop cancer spontaneously and the courses of disease and treatment responses are similar to those in humans. Canine clinical trial results are translatable to humans. The assessment of responses to immunotherapy in immune-intact animals with existing cancers, such as pet dog patients, is the only way to preclinically take into account all facets of the immune response to cancer and to therapies. Ethically, pet dogs can benefit from the clinical trials by receiving cutting-edge therapies supported by the NIH, while providing important data informative to human disease. The network supported by this U01 RFA will consist of five U01 awards. One U01 will serve as a multifunctional Network Coordinating Center that will not only facilitate coordination across the Canine Cancer Immunotherapy Network (K9CIN) but will also perform limited research to support the network. Four U01 recipients will conduct canine clinical trials using immunotherapeutic agents alone or in combination with other treatment modalities. Through this reissue Notice of Funding Opportunity, the National Cancer Institute intends to continue to support canine immunotherapeutic development as the field continues to grow, in part because of NIH funding. In the last five years, canine immunotherapeutics such as immune checkpoint inhibitors have become available as have canine analytics, development of which were partially supported by NCI. The goal is to maintain the momentum for further development of canine analytics and therapeutics and the ability to evaluate novel and repurposed drugs, treatment combinations, and treatment dosing and sequencing in pet dogs in a timely fashion. This NOFO consolidates the prior U01 (RFA-CA-21-050) and U24 (RFA-CA-21-051) funding opportunities to streamline the application process for continued support to K9CIN. Applicants have the option of submitting either for the Network Coordinating Center with limited research focus or for conducting canine cancer immunotherapy clinical trials and correlative studies. These important canine cancer-related activities will provide a valuable opportunity for NIH support to benefit humans and dogs, at both ends of the leash.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-CA-26-010"
     },
     {
       "opportunity_id": "361534",
@@ -3720,23 +3740,11 @@
       "title": "Medical Scientist Training Program (MSTP)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIGMS",
+      "institute": "",
       "post_date": "2026-02-10",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-002",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIGMS MSTP T32",
-      "contact_email": "nigmsmstpt32@nigms.nih.gov",
-      "abstract": "The overall goal of the NIH Ruth L. Kirschstein National Research Service Award (NRSA) program is to help ensure that a pool of highly trained scientists is available in appropriate scientific disciplines to address the Nation's biomedical, behavioral, and clinical research needs. In alignment with the goal of the NRSA program, the Medical Scientist Training Program (MSTP) supports the development of well-trained clinician-scientist leaders to address the nation’s biomedical research needs. MSTP will support eligible, domestic organizations to develop and implement effective, evidence-informed approaches to dual-degree training and mentoring that will keep pace with the rapid evolution of the biomedical research enterprise and lead to the completion of both a clinical degree (for example, M.D., D.O., D.V.M., D.D.S., Pharm.D., etc.) and a research doctorate degree (Ph.D.). MSTP incorporates didactic, research, mentoring, and career development elements to prepare trainees for careers that will have a significant impact on the health-related research needs of the nation.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-27-002"
     },
     {
       "opportunity_id": "361270",
@@ -4324,19 +4332,7 @@
       "post_date": "2025-12-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AI-27-009",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Division of AIDS",
-      "contact_email": "sciops@niaid.nih.gov",
-      "abstract": "The National Institute of Allergy and Infectious Diseases (NIAID) seeks to advance its mission by supporting the Centers for Structural Biology of HIV and other Infectious Diseases. This solicitation will support multidisciplinary groups of scientists to determine the 3-dimensional structures of molecules and molecular complexes involved in priority infectious diseases. The effort focuses on exploring biomolecular complexes that can be targeted to make new medicines and tests to prevent or treat infections and improve human health. The centers will drive cutting-edge research and development of structural biology technologies, including high-resolution 3D structural analyses, computational molecular dynamics, functional and mechanistic characterization at the molecular and cellular level, visualization at the atomic level of molecular complexes in cells and tissues, and advanced structure-guided design of molecules to combat infectious diseases. The centers will maximize use of common resources, establish broad collaborations, and mentor future structural biology researchers. Grant authorities that allow NIAID to forecast this opportunity are as follows: Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-AI-27-009"
     },
     {
       "opportunity_id": "360946",
@@ -4716,19 +4712,7 @@
       "post_date": "2025-09-30",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-130",
-      "award_ceiling": null,
-      "num_awards": "5",
-      "contact_name": "Susan Mendley",
-      "contact_email": "susan.mendley@nih.gov",
-      "abstract": "The purpose of this funding opportunity is to advance the NIH mission by supporting the continuation of the Consortium to Study Chronic Kidney Disease of UnceRtain Etiology (CKDu) in Agricultural Communities (CURE). Chronic Kidney Disease of Uncertain Etiology (CKDu) causes kidney failure in rural areas of many Low and Middle Income Countries, resulting in a large death toll among the young working age population. Environmental factors are suspected to be causative, but family and geographic clustering add consideration of unrecognized genetic susceptibility. The risk factors identified in other countries are encountered by U.S. patients, so this research will offer valuable insights into the development and progression of tubulointerstitial renal diseases, with broad implications for understanding kidney health and disease in the U.S. NIDDK, NIEHS, and FIC have jointly funded a consortium that includes Field Epidemiology Sites, a Renal and Environmental Science Core, and a Data Coordinating Center to find causes and potential interventions for CKDu since 2021. This NOFO requests renewal applications for the Field Epidemiology Sites that will continue to identify, recruit, and retain participants in CKDu endemic areas, conduct study visits, and collect biological and environmental samples. Consortium members will continue to collaborate to maximize scientific opportunities and enable discovery science to understand the etiologies of CKDu, the exposures that initiate and affect progression of tubulointerstitial kidney disease, potential therapeutic targets, and future opportunities for public health interventions. The CURE Consortium will serve as a resource for ancillary studies. This is a forecast for a limited competition Notice of Funding Opportunity (NOFO) that will invite application(s) from eligible organizations to apply. Application(s) will be peer-reviewed and only funded if meritorious.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-130"
     },
     {
       "opportunity_id": "360675",
@@ -5488,19 +5472,7 @@
       "post_date": "2025-09-10",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-051",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Heather L. Kimmel",
-      "contact_email": "heather.kimmel@nih.gov",
-      "abstract": "The National Institute on Drug Abuse seeks to advance its mission by providing the scientific community with the opportunity to request access to biospecimens from the Adolescent Brain Cognitive Development (ABCD) Study, the HEALthy Brain and Child Development (HBCD) Study, and the Population Assessment of Tobacco and Health (PATH) Study to conduct research consistent with study objectives that will maximize the scientific utility of these limited samples. Research proposals should expand the knowledge gained from these studies and advance our understanding the multiple genetic and environmental factors, including exposure to substances, that affect health and disease over the course of a lifetime. Grant authorities that allow NIH to forecast this opportunity are as follows Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 45 CFR Part 75 and 2 CFR Part 200].",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-26-051"
     },
     {
       "opportunity_id": "360551",
@@ -6012,11 +5984,23 @@
       "title": "NIEHS Worker Training Program’s HAZMAT Training at DOE Nuclear Weapons Complex (UH4 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "NIEHS",
       "post_date": "2025-07-17",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=TEMP-31334"
+      "url": "https://simpler.grants.gov/search?query=TEMP-31334",
+      "award_ceiling": null,
+      "num_awards": "2",
+      "contact_name": "Sharon D. Beard",
+      "contact_email": "beard1@niehs.nih.gov",
+      "abstract": "The National Institute of Environmental Health Sciences (NIEHS) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the NIEHS/DOE Worker Training Program's HAZMAT Training at US Department of Energy (DOE) Nuclear Weapons Complex (UH4 Clinical Trial Not Allowed). The major objective of the NIEHS WTP (Worker Training Program is to prevent work related harm by training workers in how best to protect themselves and their communities from exposure to hazardous materials. The WTP program is committed to preventing chronic disease/conditions, promoting mental health resilience, and improving the overall well-being of the U.S. workforce through health and safety education and training. The WTP is mandated by Congress through the Superfund Amendments and Reauthorization Act of 1986. Initiative Details The Superfund Amendments and Reauthorization Act of 1986 (SARA), Section 126(g) ; in U.S. law at 42 USC 9660a : authorizes an assistance program (GRANT PROGRAM) for training and education of workers engaged in activities related to hazardous waste generation, removal, containment or emergency response and hazardous materials transportation and emergency response. The United States Congress assigned responsibility for administering this program to the NIEHS, NIH, US HHS. The National Defense Authorization Act for fiscal years 1992 and 1993 (42 USC 7274(d)) authorized the Secretary of Energy in section 3131(a)(1)(A)-(B) to make awards (in law at 50 USC 2731(a)(1-3) : \"to provide training and education to persons who are or may be engaged in hazardous substance response or emergency at DOE nuclear weapons facilities; and to develop response curricula for such training and education.\" The Secretary was further authorized in Section 3131(a)(2)(A)-(B) to make the training awards to non-profit organizations demonstrating capabilities in: \"implementing and conducting effective training and education programs relating to the general health and safety of workers; and identifying, and involving in training, groups of workers whose duties include hazardous substance response or emergency response.\" Funding for the program comes from the Energy and Water Development Appropriations under the DOE Environmental Cleanup section and is transferred to administer the grants in Sect. 3131(a)(2)(B). This NOFO will utilize the UH4 activity code to provide support for the development of health and safety training of workers exposed to hazardous materials. This consists of health and safety training for workers and their supervisors, who are engaged in hazardous waste generation, treatment, storage, disposal, removal, containment, transportation, or emergency response. Investigators with expertise and insights into this area of occupational, environmental health and safety education and training are encouraged to apply. In addition, collaborative investigations combining expertise in industrial hygiene and environmental exposures will be encouraged.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.142",
+          "title": "NIEHS Hazardous Waste Worker Health and Safety Training"
+        }
+      ]
     },
     {
       "opportunity_id": "358856",
@@ -7108,23 +7092,7 @@
       "post_date": "2025-05-28",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AR-27-001",
-      "award_ceiling": null,
-      "num_awards": "30",
-      "contact_name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)",
-      "contact_email": "NIAMSCentersProgram@mail.nih.gov",
-      "abstract": "The overall goal of this program is to accelerate scientific discovery, improve research efficiency, and enhance the translation of research findings into improved health outcomes. Centers funded under this program will also foster multidisciplinary collaboration, support workforce development across career stages, and promote training in emerging areas such as data science, artificial intelligence, and implementation research. The National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) requests applications for the NIAMS P30 Centers Program to support integrated research Centers within its mission areas of skin biology and diseases; bone, muscle, and orthopaedic research; and rheumatic diseases. The NIAMS P30 Centers Program supports Centers that provide coordinated research infrastructure, shared resources, and methodological expertise to advance basic, translational, and clinical research. These Centers are expected to integrate state-of-the-art research resources with capabilities that support clinical and translational research, including the development, testing, and dissemination of novel analytical methods, study designs, outcome measures, and data-driven approaches. The overall goal of this program is to accelerate scientific discovery, improve research efficiency, and enhance the translation of research findings into improved health outcomes. Centers funded under this program will also foster multidisciplinary collaboration, support workforce development across career stages, and promote training in emerging areas such as data science, artificial intelligence, and implementation research.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.313",
-          "title": "NIH Office of Research on Women's Health"
-        },
-        {
-          "number": "93.846",
-          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-AR-27-001"
     },
     {
       "opportunity_id": "359140",
@@ -7184,19 +7152,7 @@
       "post_date": "2025-05-27",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-MD-25-003",
-      "award_ceiling": null,
-      "num_awards": "10",
-      "contact_name": "Priscah Mujuru, PhD",
-      "contact_email": "priscah.mujuru@nih.gov",
-      "abstract": "The National Institute on Minority Health and Health Disparities (NIMHD) intends to publish a Notice of Funding Opportunity (NOFO) to support intervention and etiologic studies in rural communities to address factors that increase, reduce, or prevent disparities in health outcomes among rural populations. Areas of research interest that may be addressed include but are not limited to: Studies that utilize the life course continuum to address health disparities in rural populations considering risk factors that differentially impact health. Development, adaptation, and/or implementation of community-engaged interventions that improve quality of life, well-being, and health outcomes in rural populations. Adaptation of technologies (e.g., virtual care, remote monitoring) to address access to healthcare resources in rural areas. Health service and care models that focus on ways to improve rural health and meet related needs through local community collaborations such as with churches, schools, libraries, and grocery stores. Studies that investigate health-related resilience or protective factors as well as strategies to promote health. Studies that examine the integration of health care systems and community services (e.g., public health departments, mining facilities, agricultural farms, health systems, school systems, community-based organizations, businesses, etc.) to address rural health disparities. Implementation studies to advance the reach, effectiveness, and sustainability of evidence-based interventions in rural communities. This NOFO will utilize the R01 activity code.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=FOR-MD-25-003"
     },
     {
       "opportunity_id": "359136",
@@ -7448,7 +7404,19 @@
       "post_date": "2025-05-14",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=NOT-HD-25-012"
+      "url": "https://simpler.grants.gov/search?query=NOT-HD-25-012",
+      "award_ceiling": null,
+      "num_awards": "9",
+      "contact_name": "Rebecca Clark, PhD",
+      "contact_email": "rclark@mail.nih.gov",
+      "abstract": "The Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research infrastructure support in order to advance the field of NICHD-relevant population dynamics research. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the P2C activity code, which the National Institutes of Health (NIH) uses to support multi-component research resource projects and centers that will enhance the capability of resources to serve biomedical and behavioral research.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        }
+      ]
     },
     {
       "opportunity_id": "358940",
