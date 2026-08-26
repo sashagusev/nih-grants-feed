@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T07:42:34.195969+00:00",
-  "count": 88,
+  "updated_at": "2026-08-26T07:45:14.045862+00:00",
+  "count": 89,
   "data": [
     {
       "id": 123,
@@ -34,6 +34,29 @@
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/113",
       "contacts": [],
       "abstract": "<p>The purpose of this topic is to leverage the sex differences data from Molecular Transducers of Physical Activity (MoTrPAC) studies or other large, publicly accessible datasets to advance the understanding of the impact of these differences on human physiology. </p><p>Sex is a major modifier of the causes of death and morbidity, significantly influencing physiology and disease. Many chronic diseases that significantly impact U.S. healthcare costs—such as cancers, heart diseases, diabetes, osteoarthritis, osteoporosis, auto-immune diseases, and Alzheimer&#x27;s disease—often disproportionately affect women. Despite the implementation of the NIH policy on Sex as a Biological Variable (NOT-OD-15-102), most clinical diagnostics remain predominantly based on data generated from male participants. Not surprisingly, 80% of drugs withdrawn from the market between 1997 and 2000 were removed due to adverse effects observed in women (Gilmer et al., 2023). This emphasizes the fundamental need to understand how sex differences affect normal physiology.</p><p>NIH Common Fund designed a clinical and preclinical study to identify the responses to exercise (Acute and Training). The preclinical study performed multi-omics analyses on 19 tissues/organs from rats of both sexes at 6 and 18 months of age. The results indicate that all organs have a response to exercise. In addition, and more surprisingly, there were varying degrees of sex differences in all organs examined (Many et al., 2024; MoTrPAC Study Group, 2024). This highlights the extreme importance of understanding the mechanisms driving these differences to enable improvements in health and eventually lead to more targeted drug development to treat human diseases. The wide range of the sex differences between organs suggests that tissue-specific factors may be involved. What are the implications of these differences for our understanding of integrated physiological function in humans? How can we use this new and emerging information to provide improved health for all?</p><p><strong>References:</strong></p><p>Gilmer G, Hettinger ZR, Tuakli-Wosornu Y, et al. Female aging: when translational models don&#x27;t translate. <em>Nat Aging</em>. 2023;3(12):1500-1508. doi:10.1038/s43587-023-00509-8.</p><p>Many GM, Sanford JA, Sagendorf TJ, et al. Sexual dimorphism and the multi-omic response to exercise training in rat subcutaneous white adipose tissue. <em>Nat Metab</em>. 2024;6(5):963-979. doi:10.1038/s42255-023-00959-9.</p><p>MoTrPAC Study Group; Lead Analysts; MoTrPAC Study Group. Temporal dynamics of the multi-omic response to endurance exercise training. <em>Nature</em>. 2024;629(8010):174-183. doi:10.1038/s41586-023-06877-w. </p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 117,
+      "title": "Building Health through Multidomain Resilience Research from Molecules to Communities: Mechanisms, Measures, and Biomarkers",
+      "lead_ico": "NHLBI",
+      "participating_icos": [
+        "NCCIH",
+        "NCI",
+        "NIA",
+        "NIMHD",
+        "OBSSR",
+        "ODP",
+        "ODS",
+        "ORWH",
+        "THRO"
+      ],
+      "posted_date": "2026-05-21",
+      "expiration_date": "2028-08-25",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/117",
+      "contacts": [],
+      "abstract": "<p><strong>Purpose: </strong>This topic aims to accelerate rigorous, reproducible, interdisciplinary resilience science to promote health and well-being across the lifespan and populations. Resilience mechanisms operate across scales and domains to maintain health, enabling prevention and recovery from chronic and acute diseases despite known risk factors. The focus is research on protective pathways and their biological mechanisms that maintain physiological functions throughout the life course; harmonized terminology; standardized protocols; validated measures, biomarkers and implementation science to optimize evidence-based interventions (including lifestyle) across populations, including children, tribal communities, and groups at-risk for health disparities.</p><p><strong>Background: </strong>Resilience spans whole-person systems integrating molecular, cellular, physiological, and psychological levels within social communities and environmental contexts. Translating the multiscale, multidomain nature of resilience has been limited by heterogeneous definitions, models, and measures. NIH defines resilience broadly as a living system’s capacity to resist, recover, adapt, or grow from challenges or stressors, with outcomes tracked over time across interconnected individual, community, and environmental systems (Brown et al, 2023). High-priority research includes developing/refining resilience measures and metrics; data interoperability; advancing mechanistic understanding of protective and restoring factors distinct from disease-risk reduction; and identifying biomarkers that reflect or predict resilience. Aligned applications would define the challenge/stressor, system(s) and resilience response/outcome(s); include at least one domain of analysis, preferably cross domains to accelerate translation into implementable prevention, treatment, and recovery strategies.</p><h2>Participating ICOs</h2><p>NHLBI is interested in studies that:</p><ul><li> Use data science and precision health to define individual heart, lung, blood, and sleep health signatures, including resilience metrics, stressors, tipping points, trajectories, and longitudinal outcomes (resistance, recovery, adaptation, growth)</li><li>Leverage large biomedical resources: NHLBI-funded cohort studies,Trans-omics for precision medicine (TOPMed), Researching COVID to enhance recovery (RECOVER), All of Us, LungMap, etc.</li><li>Identify mechanisms that preserve, enhance or restore homeostasis under stress and explain sustained health despite known risk, e.g. hypertension without stroke; full recovery post-heart valve surgery; preserved lung function despite tobacco exposure, or interplay of resilience and sickle cell disease exacerbation e.g., vaso-occlusive crises</li><li>Integrate multidomain exposures and biopsychosocial factors (e.g. mindfulness, belief systems, optimism), community engagement,  and include all populations within mission</li></ul>",
       "abstract_is_html": true
     },
     {
@@ -1061,7 +1084,8 @@
         "ODP",
         "ONR",
         "ORWH",
-        "NICHD"
+        "NICHD",
+        "NEI"
       ],
       "posted_date": "2026-01-07",
       "expiration_date": "2028-05-21",
