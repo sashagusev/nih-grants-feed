@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T07:45:14.045862+00:00",
-  "count": 89,
+  "updated_at": "2026-08-27T18:06:37.200519+00:00",
+  "count": 90,
   "data": [
     {
       "id": 123,
@@ -49,7 +49,8 @@
         "ODP",
         "ODS",
         "ORWH",
-        "THRO"
+        "THRO",
+        "NIAAA"
       ],
       "posted_date": "2026-05-21",
       "expiration_date": "2028-08-25",
@@ -233,6 +234,22 @@
       "abstract_is_html": true
     },
     {
+      "id": 103,
+      "title": "Wastewater-Based Epidemiology: A Critical Tool for Monitoring Environmental Chemicals, Medications, Drugs, and Pathogenic Exposures",
+      "lead_ico": "NIEHS",
+      "participating_icos": [
+        "NIAID",
+        "NIDA"
+      ],
+      "posted_date": "2026-04-20",
+      "expiration_date": "2028-08-27",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/103",
+      "contacts": [],
+      "abstract": "<p>This topic encourages research on wastewater-based epidemiology (WBE) approaches for understanding exposure to environmental contaminants, medications, drugs, and pathogens at the community level. </p><p><strong>Background:</strong></p><p>Wastewater can be a powerful indicator of exposure to pesticides, plasticizers, personal care products, heavy metals, industrial release, emerging contaminants, and disaster-related spills/fires. While it has been used to detect pathogens, it can also detect medications and drug metabolites. Unlike human biomonitoring which requires collecting blood or urine samples from individuals, WBE provides a non-invasive and cost-effective way to evaluate community exposure patterns, especially for large populations, both geographically and over time, therefore providing insight into community health and behavior. When combined with advanced analytical chemistry, molecular biology, and epidemiological approaches, WBE can guide prevention strategies and strengthen protection of both environmental and human health.  In addition, WBE involves data sharing and collaboration across many scientific disciplines.  However, key challenges of WBE remain and include methodological and technical aspects such as sampling variability (due to sample location and timing of sample collection), analytical methods, data integration and statistical modeling, as well as data interpretation (e.g., how the detection in wastewater correlates with real world human exposure and its public health implications) to inform more efficient public health responses.  Additionally, best practices, communication of findings, and ethical/privacy issues are also important considerations.</p><h2>Participating ICOs</h2><p>NIEHS encourages multidisciplinary collaborations, partnerships with public health experts, epidemiologists, analytical chemists, and experts in contaminant fate and transport. </p><p>NIEHS’s areas of interest include, but are not limited to:</p><ul><li>WBE studies to identify known and emerging environmental contaminants impacting community health</li><li>WBE to identify origin(s) of contaminants and quantify contaminant contribution to disease</li><li>Studies that encourage/promote multi-level assessment of sewer network(s) at various scales (e.g., single and multiple wastewater treatment plant(s), neighborhood(s), building(s))</li><li>Technology/methodology development to advance application of WBE such as biomarkers for monitoring of community health, and assays for detection and quantification of chemical exposures </li><li>Creation and incorporation of data infrastructure and standardized protocols for WBE collaboration</li><li>Increasing community awareness and bringing WBE to small-serving communities (e.g., rural)</li></ul>",
+      "abstract_is_html": true
+    },
+    {
       "id": 93,
       "title": "Implementation Science to Optimize Alcohol Misuse Prevention and Treatment in the Criminal Justice System",
       "lead_ico": "NIAAA",
@@ -407,7 +424,8 @@
       "title": "RNA Metabolism in Aging and Healthy Lifespan",
       "lead_ico": "NIA",
       "participating_icos": [
-        "NIDA"
+        "NIDA",
+        "NIEHS"
       ],
       "posted_date": "2026-04-06",
       "expiration_date": "2028-07-10",
@@ -784,6 +802,7 @@
         "OBSSR",
         "ODP",
         "ORWH",
+        "NIDDK",
         "THRO"
       ],
       "posted_date": "2026-02-23",
@@ -1388,13 +1407,13 @@
         "NIDCR",
         "NIDDK",
         "NIMH",
-        "NIMHD",
         "NINR",
         "NLM",
         "ODP",
         "ORIP",
         "ORWH",
-        "THRO"
+        "THRO",
+        "NIMHD"
       ],
       "posted_date": "2025-07-30",
       "expiration_date": "2027-12-02",
