@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-09-03T11:57:36.171542+00:00",
-  "count": 92,
+  "updated_at": "2026-09-04T11:59:31.240881+00:00",
+  "count": 93,
   "data": [
+    {
+      "id": 131,
+      "title": "Accelerating Disease Prevention Research by New Approach Methodologies",
+      "lead_ico": "NCI",
+      "participating_icos": [
+        "NCATS",
+        "NIA",
+        "NIDA",
+        "ORWH",
+        "THRO"
+      ],
+      "posted_date": "2026-06-10",
+      "expiration_date": "2028-09-03",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/131",
+      "contacts": [],
+      "abstract": "<p><strong>Purpose</strong>: This topic encourages the development, use, and implementation of NAMs that model precancerous and other chronic diseases’ precursor conditions (e.g., prediabetes and preclinical Alzheimer’s disease) and their disease progression process to accelerate prevention research and the discovery of novel preventative interventions.</p><p>NAMs referred within the current topic may include but are not limited to microphysiological systems (MPS) (e.g., organ-on-a-chip), 2D and 3D tissue systems, bioengineered human tissue models, in silico NAMs, and combinatorial NAMs.</p><p><strong>Background</strong>: Disease prevention is key to improving long-term health outcomes for all people. Beyond commonly adopted modifiable risk-reduction strategies for disease prevention (e.g., adopting healthy lifestyle and smoking cessation), research on etiologic processes of initiation and progression of precursor conditions to overt pathologies presents new opportunities to improve disease prevention approach. For example, elucidation of biological basis of disease progression can lead to discovery of actionable targets and biomarkers for early detection, risk stratification, and development of novel therapeutics designed to prevent or intercept disease precursors from progressing to manifest diseases, or even promote the reversion to normal conditions. </p><p>Animal models continue to play a vital role in studies on disease pathogenesis and drug development. Almost all modern pharmaceutical agents have moved to human clinical data based on animal data. However, only about 10% of agents entering clinical trials obtain regulatory approval. This may be due to inadequate validation of drug targets, lack of human efficacy, and/or unmanageable toxicity. Some of these challenges in translational research may be mitigated with the use of human relevant research tools that are designed to help bridge interspecies differences in pathophysiology, differential environmental factors, and disease characteristics together with in silico and AI-based tools to improve predictability of human efficacy and safety in drug development.</p><p>Understanding disease risks and etiology and pathophysiology of disease initiation and progression is a prerequisite to developing effective disease prevention strategies. In particular, human-based NAMs platforms built on systems physiobiology, multiomic molecular genomics, changes in physical tissue properties, and other basic and translational research on precursor conditions can provide human-relevant prevention research tools and help identify potentially exploitable targets for preventive interventions. However, there is a scarcity of NAMs that are designed to mimic precursor conditions and dynamic process of disease progression in humans.</p><p>Thus, development, validation, and integrated use of NAMs are high-priority unmet needs in prevention research for cancer and other chronic diseases, many of which are interconnected. </p><br></br> <i></i>This topic is being issued as part of the Make America Healthy Again initiative, which is expanding NIH and agency research into specific areas.<p>It aligns with:</p><ul><li>New Approach Methodologies (NAMs) : The expanded use of NAMs can enable earlier, more predictive insights into chronic disease mechanisms using human-relevant models such as organoids, computational simulations, and real-world data integration. This improves prevention, diagnosis, and personalized treatment strategies while reducing reliance on animal studies that often fail to replicate complex human conditions. The Environmental Protection Agency (EPA), Food and Drug Administration (FDA), and NIH have all committed to using NAMs moving forward, when appropriate.</li></ul></p>",
+      "abstract_is_html": true
+    },
     {
       "id": 132,
       "title": "Novel Technologies and Approaches to Improve Hormone Replacement Therapies for Type 1 Diabetes (T1D)",
