@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T12:28:46.772011+00:00",
-  "count": 96,
+  "updated_at": "2026-09-16T12:26:36.449216+00:00",
+  "count": 97,
   "data": [
     {
       "id": 131,
@@ -68,6 +68,32 @@
         "fenglou.mao@nih.gov"
       ],
       "abstract": "<p>This topic encourages innovative research and prototype development of digital twin technologies for biomedical, biological, and behavioral research and human health. The goal is to advance fit-for-purpose (FFP) digital twins, inspired by the 2023 National Academies of Sciences, Engineering, and Medicine (NASEM) consensus report: <em>Foundational Research Gaps and Future Directions for Digital Twins</em>, to accelerate scientific discovery, support the development of intelligent medical technologies, and enable decision support across clinical, laboratory and healthcare settings.</p><p><strong>Background</strong></p><p>Biomedical Digital Twins (BDTs) have capacity to transform scientific discovery and the development, evaluation, and deployment of (pre-)clinical interventions. BDTs represent a cutting-edge New Approach Methodology (NAM) that supports realizing the NIH vision to incentivize reproducible and replicable research. NIH adopts the digital twin definition from the NASEM Report: </p><p><em>A digital twin is a set of virtual information constructs that mimics the structure, context, and behavior of a natural, engineered, or social system (or system-of-systems), is dynamically updated with data from its physical twin, has a predictive capability, and informs decisions that realize value. </em>The bidirectional interaction between the virtual and the physical is central to the digital twin.<em><strong> </strong></em></p><p>The bidirectional interaction between virtual representations and their physical counterparts enables continuous learning, prediction, and decision support. While digital twins are increasingly explored across biomedical, biological (e.g. Sex As a Biological Variable), and behavioral domains, additional research is needed to advance their credibility, scalability, interoperability, and adoption into real-world research and healthcare environments.</p><p><strong>Areas of Interest</strong></p><p>This Highlighted Topic encourages applications addressing one or more of the following areas, including but not limited to:</p><ul><li>Development and evaluation of FFP, bidirectional digital twins for biomedical, biological, or behavioral research and health applications.</li><li>Approaches and implementation for verification, validation, and uncertainty quantification (VVUQ) of digital twins involving dynamic and interacting virtual and physical systems.</li><li>Methods for bidirectional and, where appropriate, real-time assimilation of measurable data to support prediction and decision-making.</li><li>Interoperable, scalable, and sustainable digital twin computational architectures, platforms, and ecosystems that can evolve with rapidly changing technologies.</li><li>Ethical, responsible, and appropriate access, use, and governance of digital twin technologies in research and healthcare contexts.</li></ul><p>Projects that leverage recognized digital twin standards and consider appropriate BDT design considerations (see ICO interests) are strongly encouraged.</p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 108,
+      "title": "Adherence and behavior maintenance for improved health promotion, disease prevention, and treatment outcomes",
+      "lead_ico": "OBSSR",
+      "participating_icos": [
+        "NCCIH",
+        "NIA",
+        "NIAID",
+        "NIDDK",
+        "NIMH",
+        "NIMHD",
+        "NINR",
+        "OAR",
+        "ODP",
+        "THRO"
+      ],
+      "posted_date": "2026-06-01",
+      "expiration_date": "2028-09-15",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/108",
+      "contacts": [
+        "OBSSRNews@mail.nih.gov"
+      ],
+      "abstract": "<p><strong>Background</strong></p><p>Poor adherence to recommended healthcare regimens and health behaviors is common across many chronic health conditions and populations. This includes recommendations and guidelines for prevention, screening, treatment, and monitoring--and encompasses health behaviors that include but are not limited to using medications, following dietary guidelines, keeping active through exercise, and maintaining engagement in care. Research in the behavioral and social sciences holds promise for identifying ways to increase behavioral adherence, improve outcomes for individual, family, community, and population health, and reduce healthcare costs. </p><p>The long-term maintenance of health behaviors is a critical public health challenge across behaviors and populations. Behavior maintenance involves consistently performing a newly established health behavior to specified criteria over time and across contexts. Maintaining health behaviors is a dynamic process in which people may cycle in and out of the behavior before reaching a regular practice and/or steady state, and the criteria for maintenance may be situational depending on the health outcome. Its dynamic nature underscores the importance of improved measurement and monitoring of health behaviors and associated determinants to prompt the timely delivery of support interventions when needed.</p><p><strong>Research Objectives </strong></p><p>This topic encourages research that addresses adherence to prevention and treatment recommendations and maintenance of behaviors to improve long-term health outcomes. Applications may address health behavior initiation, execution, and/or maintenance through mechanistic studies, efficacy trials, or implementation science research. Intervention research may target known determinants at one or more levels of ecologic influence, including the individual, care provider, family, healthcare provider, healthcare system, and community levels.  Studies that aim to reduce health disparities and/or that include replication, reproducibility, and sustainability strategies are encouraged.</p><p>Projects may: </p><ul><li>Develop and/or evaluate multilevel and/or multicomponent intervention strategies designed to optimize adherence and behavior maintenance.</li><li>Identify mechanisms of action (MoAs) that support behavior change to improve adherence and maintenance, or MoAs that are unique to adherence and maintenance.</li><li>Advance novel approaches or improve implementation of existing approaches to monitor adherence and long-term behavior maintenance and facilitate delivery of timely interventions that promote health for all.</li><li>Leverage tools and technologies, such as mobile health apps, mobile medical devices, and electronic health records, that allow assessments of health behaviors and dynamic changes in behaviors across time to promote long-term adherence and/or behavior maintenance</li></ul></p>",
       "abstract_is_html": true
     },
     {
