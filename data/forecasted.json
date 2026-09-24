@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-23T12:37:03.510447+00:00",
-  "count": 309,
+  "updated_at": "2026-09-24T12:36:02.427713+00:00",
+  "count": 310,
   "data": [
+    {
+      "opportunity_id": "363926",
+      "number": "RFA-NS-28-009",
+      "title": "Amyotrophic Lateral Sclerosis (ALS) Intermediate Patient Population Expanded Access (U01 Clinical Trial Required)",
+      "agency_name": "National Institutes of Health",
+      "agency_code": "HHS-NIH11",
+      "institute": "NINDS",
+      "post_date": "2026-09-23",
+      "close_date": "",
+      "status": "forecasted",
+      "url": "https://simpler.grants.gov/search?query=RFA-NS-28-009",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "ALS Program",
+      "contact_email": "NINDSALSMailbox@mail.nih.gov",
+      "abstract": "The National Institute of Neurological Disorders and Stroke (NINDS) is interested in supporting the conduct of scientific research utilizing data from intermediate-size patient population expanded access protocols for ALS (\"intermediate expanded access protocol for ALS\", see Expanded Access Categories for Drugs (Including Biologics) ). Eligible intermediate expanded access protocols for ALS should: 1) provide access to an investigational drug or biological product for people with ALS, and 2) generate data to support research on the prevention, diagnosis, mitigation, treatment, or cure of ALS. The scientific research goal(s) informed by these data could include the investigational drug's or biological product's effect on biomarkers related to the pathophysiology of ALS or target engagement, the collection of safety or outcome information, such as survival or other significant medical events (e.g., hospitalization or need for ventilatory support), or patient experience data that are not specifically tied to assessing efficacy. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop responsive projects.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.853",
+          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        }
+      ]
+    },
     {
       "opportunity_id": "363915",
       "number": "PAR-28-061",
@@ -912,7 +936,19 @@
       "post_date": "2026-08-20",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-28-116"
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-28-116",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Division of Diabetes, Endocrinology and Metabolic Diseases",
+      "contact_email": "NIDDK_DEM@nih.gov",
+      "abstract": "Type 1 diabetes (T1D) is a complex disease involving interactions among many different cell types, tissues, organs and biological processes. Genetics, the environment, and lifestyle all play a role in disease development and progression. Over the past two decades, the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) has supported major T1D research consortia covering basic, translational, and clinical research. Each consortium has focused on different aspects of T1D, such as specific organs, stages of disease or clinical outcomes. Together, these consortia have collected large longitudinal and multimodal datasets using standardized protocols and coordinated studies. While individual consortia have improved our understanding of specific areas, combining their work offers a rare opportunity to see how different biological processes interact to drive T1D development and progression. This integrated view can answer fundamental questions about T1D biology that cannot be answered using individual datasets or studies alone. Recent advances in artificial intelligence (AI) now make it possible to integrate these complementary datasets and study T1D across various tissues, disease stages, and biological levels. Building on these resources, NIDDK will support a coordinated, milestone-driven research project to answer fundamental questions about T1D biology and accelerate the development of personalized medicine. The project will combine multimodal human pancreas and clinical datasets to better understand how biological processes interact as T1D develops and progresses. The research will generate new insights into T1D biology, help us understand the different forms and stages of T1D, identify biomarkers, and inform new approaches for disease prevention, intervention, and treatment. To support the research, the project will develop and test advanced multimodal AI models. It will also develop AI-enabled research workflows, new methods to integrate data, and privacy-preserving synthetic datasets.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.847",
+          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+        }
+      ]
     },
     {
       "opportunity_id": "363557",
@@ -1188,7 +1224,19 @@
       "post_date": "2026-08-05",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-RM-28-008"
+      "url": "https://simpler.grants.gov/search?query=RFA-RM-28-008",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Common Fund RNomics Program",
+      "contact_email": "cfrnomics@od.nih.gov",
+      "abstract": "The NIH Common Fund, in partnership with other NIH Institutes and Centers, plans to issue Notices of Funding Opportunity (NOFOs) for the RNomics program, which seeks to develop tools for studying the full set of RNA molecules (the RNome) in cells and tissues. The program will support technologies and resources that enable integrated analysis of RNA sequences, modifications, structures, locations, interactions, and functions to advance understanding of health and disease. RNomics includes four initiatives: technology enhancement centers, transformative technologies, molecular standards, and a coordinating center. Applications are not being solicited at this time. This notice is being provided to give potential applicants time to develop meaningful collaborations and strong projects. This NOFO will establish the RNomics Outreach and Coordination (ROC) Center. The ROC Center will serve as the consortium's hub for data management, coordination, and community engagement. It will develop a central RNomics data portal, support the development and use of data standards, coordinate technology validation and benchmarking, lead consortium-wide data analysis, and support outreach, training, and sharing of RNomics resources. The center will also plan for long-term availability and maintenance of RNomics data assets.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.310",
+          "title": "Trans-NIH Research Support"
+        }
+      ]
     },
     {
       "opportunity_id": "363454",
@@ -1396,7 +1444,19 @@
       "post_date": "2026-07-20",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-005"
+      "url": "https://simpler.grants.gov/search?query=PAR-28-005",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Division of Clinical Innovation, NCATS",
+      "contact_email": "CTSATrainingNOFOsQuestions@mail.nih.gov",
+      "abstract": "The purpose of the Congressionally mandated Clinical and Translational Science Award (CTSA) Program is to accelerate the translation of scientific discoveries into treatments, diagnostics, and health interventions that improve patient and public health by funding and coordinating a national network of academic medical centers that provide the infrastructure, expertise, training, and collaboration needed to move discoveries from the laboratory into clinical practice and community health. The purpose of the reissuance of the Research Education Program for the CTSA Program Notice of Funding Opportunity (NOFO) is to support educational activities that complement and/or enhance the training of a workforce to meet the nation’s biomedical, behavioral and clinical research needs. Awards are made under the authorization of Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200. This is a Forecast for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Eligibility Section for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.350",
+          "title": "National Center for Advancing Translational Sciences"
+        }
+      ]
     },
     {
       "opportunity_id": "363250",
@@ -1836,39 +1896,11 @@
       "title": "Multi-Site Investigator-Initiated Clinical Trials (Collaborative UG3/UH3 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NHLBI",
+      "institute": "",
       "post_date": "2026-07-01",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-125",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "National Heart, Lung, and Blood Institute (NHLBI)",
-      "contact_email": "NHLBIDCVSClinical@mail.nih.gov",
-      "abstract": "The NIH intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications to develop and implement investigator-initiated multi-site clinical trials, including efficacy, effectiveness, pragmatic, and/or implementation research clinical trials. Applications that propose a large and/or complex clinical trial conducted at either a single site or at multiple locations but without physical clinical sites (e.g., decentralized or virtual trials) may also be eligible. Proposed trials must be relevant to the research mission of the participating ICs and meet the NIH definition of a clinical trial (see NOT-OD-15-015 and NOT-OD-26-032). The objective of the application is to present 1) the scientific rationale as well as a comprehensive scientific and operational plan for the trial, and 2) a comprehensive plan to provide overall project coordination, administration, data management, and biostatistical support for the clinical trial. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize a bi-phasic (UG3/UH3), milestone-driven mechanism consisting of a start-up phase up to 2 years (UG3) and a full enrollment and clinical trial implementation phase up to 5 years (UH3), for a total award duration of up to 7 years. A UG3 project that meets its milestones will be administratively considered for transition to the UH3 award. Investigators with expertise and insights into this area are encouraged to begin to consider applying for this NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-27-125"
     },
     {
       "opportunity_id": "363037",
@@ -2100,7 +2132,19 @@
       "post_date": "2026-06-24",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AI-28-005"
+      "url": "https://simpler.grants.gov/search?query=RFA-AI-28-005",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Division of Allergy, Immunology and Transplantation",
+      "contact_email": "ITN_UM1@mail.nih.gov",
+      "abstract": "The National Institute of Allergy and Infectious Diseases (NIAID) seeks to advance its mission through the continued support of the Collaborative Network for Clinical Research on Immune Tolerance. The purpose of this program is to enhance understanding of the underlying mechanisms of the induction, maintenance, and loss of immune tolerance in humans; and to develop improved tolerogenic interventions for the prevention and treatment of immune system mediated diseases (including transplant rejection, autoimmune diseases, and asthma and allergic diseases). The three major scientific goals include: 1) conduct clinical trials to determine the safety and efficacy of promising tolerogenic strategies in liver, kidney and pancreatic islet transplantation; allergic diseases and asthma; and autoimmune diseases; 2) investigate the basic mechanisms of immune tolerance in these diseases as an integral part of clinical trials; and 3) develop, refine and validate immune assays to monitor the induction, maintenance, and loss of tolerance in these disorders. Grant authorities that allow NIAID to forecast this opportunity are as follows: Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.855",
+          "title": "Allergy and Infectious Diseases Research"
+        }
+      ]
     },
     {
       "opportunity_id": "362945",
@@ -2160,7 +2204,19 @@
       "post_date": "2026-06-24",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AI-28-009"
+      "url": "https://simpler.grants.gov/search?query=RFA-AI-28-009",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Division of Allergy, Immunology, and Transplantation AADCRC Program Group",
+      "contact_email": "AADCRC_U19@mail.nih.gov",
+      "abstract": "The National Institute of Allergy and Infectious Diseases (NIAID) seeks to advance its mission through the continued support of the Asthma and Allergic Diseases Cooperative Research Centers (AADCRC). The AADCRC program serves as the cornerstone of NIAID's efforts to promote clinical and basic research in diseases including asthma, upper airway allergic/inflammatory diseases, food and drug allergies, atopic dermatitis, and other allergic diseases. The overarching goals of this program are to investigate mechanisms underlying the onset, progression, treatment modalities, and mechanisms of treatment response for the diseases of interest. Goals of the program may include exploring disease mechanisms and/or treatment modalities in small clinical trials/observational studies or immune pathway-focused projects using primarily human materials. The AADCRC is the only NIAID program that is designed to promote multi-center, multidisciplinary, translational research in asthma and allergic diseases. Grant authorities that allow NIAID to forecast this opportunity are as follows: Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.855",
+          "title": "Allergy and Infectious Diseases Research"
+        }
+      ]
     },
     {
       "opportunity_id": "362951",
@@ -2268,7 +2324,19 @@
       "post_date": "2026-06-24",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-MH-28-110"
+      "url": "https://simpler.grants.gov/search?query=RFA-MH-28-110",
+      "award_ceiling": null,
+      "num_awards": "10",
+      "contact_name": "BRAIN Initiative",
+      "contact_email": "BRAINTools@nih.gov.",
+      "abstract": "The Brain Research through Advancing Innovative Neurotechnologies (BRAIN) Initiative intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research to develop novel tools and approaches that enable the interrogation of cell-specific and circuit-specific processes in the central nervous system. This NOFO consolidates three current BRAIN Initiative tool development programs. Projects that focus on developing a broad range of new research tools to delineate anatomical and functional connections between cells and circuits, and to expand our knowledge of brain architecture and function are encouraged, such as projects that: Develop novel tools to characterize/define cell-types, circuits, and cellular components in the nervous system with greater selectivity and sensitivity, including: new genetic or non-genetic technologies/approaches (for delivering genes, proteins, and chemicals to access and/or manipulate cells of interest) novel sensors or tracers for imaging or monitoring molecules, structures, and activities within single cells and circuits with significant advances in sensitivity, selectivity, or spatiotemporal resolution Develop new technologies and novel approaches for recording and modulation of neural cells and circuits, including: approaches to address major challenges and enable transformative understanding of dynamic signaling in the central nervous system approaches that utilize any modality, such as optical, electrical, magnetic, or acoustic recording/manipulation approaches to target neuronal electrical signals or other forms of neural activity, including intracellular signaling and engagement of non-neuronal cells in circuit function. Projects at broad stages of development are supported, from unique and innovative technologies that are in the earliest stage of development (including new and untested ideas that are in the initial stages of conceptualization) through the optimization of existing instrumentation with transformative potential in order to facilitate broad adoption. Applications that offer transformative approaches that break through existing technical barriers and substantially improve current capabilities are strongly encouraged. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the RP1 activity code.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.242",
+          "title": "Mental Health Research Grants"
+        }
+      ]
     },
     {
       "opportunity_id": "362752",
@@ -2400,7 +2468,19 @@
       "post_date": "2026-06-02",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-HG-28-005"
+      "url": "https://simpler.grants.gov/search?query=RFA-HG-28-005",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Office of the Director / Office of Genomic Data Science",
+      "contact_email": "anvil@mail.nih.gov",
+      "abstract": "The National Human Genome Research Institute (NHGRI) intends to issue a Notice of Funding Opportunity (NOFO) to support a limited competition renewal of the Analysis, Visualization, and Informatics Lab-space (AnVIL) program. AnVIL is a secure, cloud-based platform that enables researchers to access, share, and analyze large-scale genomic datasets without relying on local infrastructure. Currently, AnVIL hosts more than 5 petabytes of data from nearly 300,000 research participants, providing a robust environment for reproducible, cloud-native genomic research. The renewed program will continue to advance AnVIL as a community resource grounded in FAIR (Findable, Accessible, Interoperable, and Reusable) principles. Key priorities include enhancing scalability; strengthening interoperability across a federated NIH data ecosystem; and maintaining rigorous security aligned with the Research Authentication Service (RAS) and NIH controlled-access data repositories and access management systems (CADR) requirements (see NOT‑OD‑25‑159). The renewal will also support integration of emerging data types and computational tools, including infrastructure for developing and running AI-based methods and complex analysis workflows. In addition to platform development, the program will expand training and outreach to help researchers effectively use AnVIL’s multimodal datasets and reproducible analysis capabilities. By connecting secure data access, analytical tools, and workforce development, the renewed AnVIL program aims to accelerate discovery across the research lifecycle and strengthen the genomics community’s capacity for clinical and translational science. This Notice is being provided to allow potential applicants sufficient time to develop responsive applications. The NOFO is expected to be published in 2027 with an anticipated application due date in 2027. This NOFO will utilize the U54 activity code. This is a Forecast for a limited competition that will invite application(s) from eligible organization(s) to apply. Please see Eligibility Section for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        }
+      ]
     },
     {
       "opportunity_id": "362639",
@@ -2816,7 +2896,19 @@
       "post_date": "2026-05-12",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DC-28-007"
+      "url": "https://simpler.grants.gov/search?query=RFA-DC-28-007",
+      "award_ceiling": null,
+      "num_awards": "2",
+      "contact_name": "TALK@nih.gov",
+      "contact_email": "TALK@nih.gov",
+      "abstract": "The National Institutes of Health (NIH) Tackling Acquisition of Language in Kids (TALK) initiative intends to publish a Notice of Funding Opportunity (NOFO) to solicit research grant applications to improve the earliest steps in clinical practice for late talking children. The overarching purpose of this funding opportunity is to inform, develop, and evaluate evidence-based practices and implementation strategies to (1) effectively and efficiently identify early signs of late talking and (2) successfully guide parents, caregivers, and professionals in supporting the needs of late talking children at the first point of concern. For this NOFO late talking is defined as a child, usually over the age of 18 months, not meeting expressive language milestones, for any reason. Populations of interest include, but are not limited to, children at higher risk for late talking due to premature birth, exposure to maltreatment or trauma, neurological conditions, motor and sensory disorders, emotional and behavioral disorders, and intellectual and developmental disorders. Children who present as late talkers for no other known reason and with no other symptoms also are of interest for this NOFO. For this NOFO, the early steps for services for children age birth to three years that are of interest include screening and developmental surveillance of late talking, referral and follow through for specialized services, and in-depth evaluation and diagnosis of language and other contributing delays/disorders. These services typically occur in primary care, specialty care, educational settings, and early childhood community settings. The research will need to be conducted in a relevant setting. Research focusing on children as well as their parents, caregivers, and supporting community professionals is of interest, including how to support successfully navigating from initial concern to effective care. Community partnerships and community engaged research approaches will be a key requirement for this opportunity. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. Investigators with expertise and insights into early language learning, late talking, early childhood education, early intervention, and primary care are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in clinical practice research, dissemination and implementation science, or community engaged research will be encouraged and these investigators should also begin considering applying for this application.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.173",
+          "title": "Research Related to Deafness and Communication Disorders"
+        }
+      ]
     },
     {
       "opportunity_id": "362353",
@@ -3040,11 +3132,23 @@
       "title": "Research Resource for a National Swine Resource and Research Center (U42 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "ORIP",
       "post_date": "2026-05-06",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-029"
+      "url": "https://simpler.grants.gov/search?query=PAR-27-029",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Office of Research Infrastructure Programs (ORIP)",
+      "contact_email": "ORIPDCM@mail.nih.gov",
+      "abstract": "This Notice of Funding Opportunity (NOFO) encourages applications to provide continuing support for a National Swine Resource and Research Center (NSRRC). The NSRRC aims to enable gold-standard science in biomedical research by serving as a centralized national resource for the creation, breeding, cryopreservation, and distribution of genetically modified models. By consolidating these essential functions, the NSRRC significantly reduces variability and improves reproducibility across studies, ensuring that researchers have access to consistent, high-quality, specific pathogen-free models. Centralizing the resource also eliminates redundancy and high costs associated with individual laboratories maintaining separate facilities and breeding programs for these models, allowing investigators to focus their efforts on research rather than infrastructure. Additionally, the NSRRC provides genotyping and phenotyping services, infectious disease monitoring, and protocol distribution to facilitate their use for biomedical research. The Center also serves as a source of information and training related to the care and use of these models in biomedical research to study human health and disease and suitability of a model’s faithful representation of the biological system(s) proposed to be studied. The Center serves as a resource to lead the development of alternative or complementary approaches available, including new approach methodologies (NAMs), alongside in vivo models.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.351",
+          "title": "Research Infrastructure Programs"
+        }
+      ]
     },
     {
       "opportunity_id": "362108",
@@ -3804,11 +3908,23 @@
       "title": "NEI Center Core Grant for Vision Research (P30 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "NEI",
       "post_date": "2026-03-09",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-113"
+      "url": "https://simpler.grants.gov/search?query=PAR-26-113",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NEI Extramural Programs",
+      "contact_email": "NEI_extramural@nih.gov",
+      "abstract": "The goal of these institutional Center Core Grants is to build research infrastructure within an institution for the purpose of providing technical support to groups of NEI R01-funded investigators. The NEI Center Core Grant combines three or more Resource and/or Service Cores for a group of R01 investigators to enhance their research, consolidate resources, avoid duplication of efforts, and/or contribute to cost effectiveness by providing a service with lower costs or higher quality than could be attempted for independent projects by several individual Program Directors/Principal Investigators (PD(s)/PI(s)). Shared resources and facilities that are accessible to a group of independently funded investigators lead to greater productivity for the separate projects and can provide instrumentation and facilities that are too costly to be maintained by an individual investigator. The design and purpose of each Center Core may vary in how it serves its users. This program is designed to enhance an institution's environment and capability to conduct vision research and to facilitate collaborative studies of the visual system and its disorders and promote new research within the NEI mission and Strategic Plan. Grants are required to have an administrative core and three or more resource and/or service cores. Any researcher at the institute can use the core facilities.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.867",
+          "title": "Vision Research"
+        }
+      ]
     },
     {
       "opportunity_id": "361411",
@@ -4280,19 +4396,7 @@
       "post_date": "2026-02-11",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-LM-26-003",
-      "award_ceiling": null,
-      "num_awards": "7",
-      "contact_name": "NLM Extramural Programs",
-      "contact_email": "NLMProgram@nih.gov",
-      "abstract": "The National Library of Medicine (NLM) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for Regional Medical Libraries of the Network of the National Library of Medicine (NNLM). Established in 1965 and organized geographically across the United States and its territories, the NNLM promotes and supports the initiatives, products, and services of the NLM and the National Institutes of Health (NIH). Over the years, the network has expanded its impact through strategic partnerships with a broad array of member organizations, including health sciences, hospital, academic, and public libraries; health professionals; data organizations; and community-based groups. The NNLM’s core mission is to enable the effective use of—and contribution to—health information and data made available by the NLM and NIH. The network achieves this by providing professional development for librarians and information specialists, and by supporting access to health information and outreach through libraries and community organizations. A central emphasis of the NNLM is increasing awareness of and engagement with NIH programs and resources. While the NNLM has traditionally focused on promoting NLM-specific products, it is now poised to expand its reach across the broader NIH community. The network will play a vital role in disseminating research findings, fostering community engagement and partnerships, and supporting participation in local clinical research. In doing so, the NNLM will enhance public understanding of NIH’s contributions and increase the use of NIH-supported information and data resources. The NNLM consists of three major components: 1) the Network Coordinating Center (NCC), 2) Regional Medical Libraries (RMLs), and 3) the Network Training Center (NTC). This announcement specifically pertains to RMLs, with companion NOFOs forthcoming for the NCC and NTC. The RMLs will be responsible for generating and maintaining an active, engaged membership of organizations focused on biomedical health information and data dissemination, training, and literacy. The RMLs will work with the NCC and NTC to promote the activities, products, and services of the NLM as well as the NIH. The RMLs will work with the NCC to evaluate progress, performance, and impact of the Network, including the use of common metrics (standardized measures collected and reported), as well as proposed site-specific goals. The RMLs will collaborate with the NTC to identify training needs and execute professional development or information access programming. The RMLs should have strong competencies in building and managing long-term partnerships with groups and organizations, deep understanding of biomedical information and data sciences, and institutional connections with a health science library. Grant authority that allows NLM to forecast this opportunity is as follows: Medical Library Assistance Act of 1965 (MLAA, P.L. 89-291).",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.879",
-          "title": "Medical Library Assistance"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-LM-26-003"
     },
     {
       "opportunity_id": "361279",
