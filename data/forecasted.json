@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T12:05:57.012772+00:00",
+  "updated_at": "2026-09-27T12:50:52.825655+00:00",
   "count": 313,
   "data": [
     {
@@ -1852,7 +1852,19 @@
       "post_date": "2026-07-14",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-CA-28-001"
+      "url": "https://simpler.grants.gov/search?query=RFA-CA-28-001",
+      "award_ceiling": null,
+      "num_awards": "23",
+      "contact_name": "IMAT Program Contact",
+      "contact_email": "NCI-IMAT@nih.gov",
+      "abstract": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) solicits grant applications proposing to develop innovative technologies for cancer research or clinical care. The emphasis of this NOFO is on early-stage projects proposing proof-of-concept/pilot studies to test the technical feasibility of the proposed method, tool, assay, platform, or instrument. Well-suited applications must offer a high degree of technical innovation and the potential to accelerate and/or enhance research in the areas of cancer biology, early detection and screening, clinical diagnosis, treatment, cancer control, and/or epidemiology. Projects that are in-scope include technologies with new or significantly improved technical capabilities to measure, analyze, model, or interrogate cancer-related systems. These may include, but are not limited to, advanced molecular and cellular analysis platforms, multi-omic and spatial profiling methods, imaging and sensing technologies, immuno-engineering approaches, and innovations in biospecimen processing, modeling, and quality assessment. Technologies proposed for development may have potential for widespread applicability but must be focused in this proposal on cancer applications. This funding opportunity is part of a broader NCI-sponsored Innovative Molecular Analysis Technologies (IMAT) Program.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.394",
+          "title": "Cancer Detection and Diagnosis Research"
+        }
+      ]
     },
     {
       "opportunity_id": "363126",
@@ -1932,23 +1944,11 @@
       "title": "Digital Health Technology and Reciprocal Innovation to Improve Clinical and Public Health Outcomes",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "FIC",
+      "institute": "",
       "post_date": "2026-07-02",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-039",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "FIC Digital Health Research Program",
-      "contact_email": "FIC-DigitalHealth@nih.gov",
-      "abstract": "This initiative will support research on the development, validation, feasibility, and effectiveness of innovative digital health interventions or tools (including mobile health) specifically suited for underserved settings in the U.S. and globally. Research should utilize new or emerging technologies, platforms, systems, and/or analytics to address high priority health problems, expand the evidence base for the use of digital health technology to improve clinical and public health outcomes, and strengthen research collaborations between U.S. and low- and middle-income country (LMIC) researchers. Applications must include reciprocal innovation methodologies – bidirectional and iterative exchange of ideas, resources, and innovation approaches to address shared health challenges in the U.S. and a LMIC. Through this utilization of unique data, environments, and populations in domestic and international contexts, awards will maximize generalizable knowledge produced and optimize potential benefit to U.S. and LMIC populations.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.989",
-          "title": "International Research and Research Training"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-28-039"
     },
     {
       "opportunity_id": "363050",
@@ -2096,19 +2096,7 @@
       "post_date": "2026-07-01",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-28-114",
-      "award_ceiling": null,
-      "num_awards": "7",
-      "contact_name": "Division of Diabetes, Endocrinology and Metabolic Diseases",
-      "contact_email": "NIDDK_DEM@nih.gov",
-      "abstract": "This Notice of Funding Opportunity (NOFO) announcement invites applications for NIDDK Multi-Purpose Resource-Related Research, Multi-Component Centers Cooperative Agreement (U2C - Clinical Trial Not Allowed). To help increase rigor, reproducibility and cost efficiencies, U2C centers offer highly specialized cores that provide a range of topic focused services including but not limited to hands-on technical services, consulting, research/data coordination, or other research support services provided by nationally recognized experts. In contrast to other types of Core Centers, the U2C services should be largely provided to clients located at another institution where the needed service or expertise is not available. Provided services enable high impact research within NIDDK’s research mission including but not limited to integrative physiology, metabolic phenotyping, nutrition, community engagement, communications, and/or data and research coordination. The disease focus should similarly be within NIDDK’s mission, such as obesity and diabetes. The clients for these services can be a consortia, research partners or individual investigators and should offer experiential training in at least one of the provided services. Applications to this NOFO can propose optional opportunities and/or a pilot and feasibility grant program depending on the needs of the program.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-28-114"
     },
     {
       "opportunity_id": "362996",
@@ -2316,19 +2304,7 @@
       "post_date": "2026-06-24",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-033",
-      "award_ceiling": null,
-      "num_awards": "3",
-      "contact_name": "Division of AIDS Research (DAR)",
-      "contact_email": "Email: NIMH.DAR.inquiries@nih.gov",
-      "abstract": "The National Institute of Mental Health (NIMH) seeks research applications to support the NIMH HIV/AIDS Research Centers (ARC) program, including Developmental Centers (D-ARCs) and full AIDS Research Centers (ARCs). These Research Centers aim to capitalize on the coordinated infrastructure to advance high-impact, interdisciplinary HIV/AIDS research. The ARC program supports innovative research across basic, neuro-HIV, behavioral and social, clinical, translational, implementation science, and data science domains. Centers are expected to foster scientific collaboration, accelerate innovation, and strengthen dissemination of research advances to implementing agencies, affected communities, and other stakeholders. Applications should align with the National HIV/AIDS Strategy, the NIH Office of AIDS Research (OAR) Strategic Plan, and the NIMH Strategic Plan for HIV research. Applications are not being solicited at this time. This notice is being issued to provide potential applicants with ample time to develop strong, collaborative, and responsive project plans. Research teams that have expertise in establishing and sustaining collaborations with academic institutions, community partners, government agencies, industry, and other scientific networks to enhance the impact of Center-supported activities are encouraged to apply to this NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-28-033"
     },
     {
       "opportunity_id": "362954",
@@ -2484,7 +2460,19 @@
       "post_date": "2026-06-24",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-MH-28-110"
+      "url": "https://simpler.grants.gov/search?query=RFA-MH-28-110",
+      "award_ceiling": null,
+      "num_awards": "10",
+      "contact_name": "BRAIN Initiative",
+      "contact_email": "BRAINTools@nih.gov.",
+      "abstract": "The Brain Research through Advancing Innovative Neurotechnologies (BRAIN) Initiative intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research to develop novel tools and approaches that enable the interrogation of cell-specific and circuit-specific processes in the central nervous system. This NOFO consolidates three current BRAIN Initiative tool development programs. Projects that focus on developing a broad range of new research tools to delineate anatomical and functional connections between cells and circuits, and to expand our knowledge of brain architecture and function are encouraged, such as projects that: Develop novel tools to characterize/define cell-types, circuits, and cellular components in the nervous system with greater selectivity and sensitivity, including: new genetic or non-genetic technologies/approaches (for delivering genes, proteins, and chemicals to access and/or manipulate cells of interest) novel sensors or tracers for imaging or monitoring molecules, structures, and activities within single cells and circuits with significant advances in sensitivity, selectivity, or spatiotemporal resolution Develop new technologies and novel approaches for recording and modulation of neural cells and circuits, including: approaches to address major challenges and enable transformative understanding of dynamic signaling in the central nervous system approaches that utilize any modality, such as optical, electrical, magnetic, or acoustic recording/manipulation approaches to target neuronal electrical signals or other forms of neural activity, including intracellular signaling and engagement of non-neuronal cells in circuit function. Projects at broad stages of development are supported, from unique and innovative technologies that are in the earliest stage of development (including new and untested ideas that are in the initial stages of conceptualization) through the optimization of existing instrumentation with transformative potential in order to facilitate broad adoption. Applications that offer transformative approaches that break through existing technical barriers and substantially improve current capabilities are strongly encouraged. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the RP1 activity code.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.242",
+          "title": "Mental Health Research Grants"
+        }
+      ]
     },
     {
       "opportunity_id": "362752",
@@ -2992,11 +2980,23 @@
       "title": "Integrated Specific Pathogen Free Research Models and Human New Approach Methodologies to Advance HIV/AIDS Research (U42 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "ORIP",
       "post_date": "2026-05-20",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-019"
+      "url": "https://simpler.grants.gov/search?query=PAR-28-019",
+      "award_ceiling": null,
+      "num_awards": "4",
+      "contact_name": "Division of Comparative Medicine, Office of Research Infrastructure Programs (ORIP)",
+      "contact_email": "ORIPDCM@mail.nih.gov",
+      "abstract": "This NOFO is issued during a period of accelerating development, validation, and adoption of human new approach methodologies (NAMs). Accordingly, it has two integrated priorities for NIH-funded HIV/AIDS research: (1) implementation of a NAMs-enabled stewardship framework, including optional HIV-relevant human in vitro testing support and pilot benchmarking activities, to reduce or replace specific pathogen free (SPF) in vivo model use where scientifically appropriate without compromising rigor, reproducibility, or translational relevance; and (2) support for high-quality SPF colony resources for studies in which well-characterized in vivo models remain scientifically necessary. Under the NAMs-enabled component, required elements include: (1) integration of a NAMs triage and consultation service within request intake and allocation workflows to identify NAM-feasible studies and document reductions or replacements in in vivo use; and (2) establishment of a formal referral pathway to NAM centers as well as human tissue and other human science based resources to facilitate collaborative HIV-relevant human NAM development, benchmarking, and refinement. Applicants may also propose optional NAMs-enabled HIV human in vitro testing support (research use only), including standardized operating procedures, quality control frameworks, and user guidance for viral load quantification, drug resistance assessment, and ex vivo susceptibility assays, as well as optional pilot benchmarking projects to define performance metrics, quality control benchmarks, and context-of-use statements for HIV-relevant human NAMs. Under the SPF resource component, the award will support core colony operations, including colony management and husbandry; transparent, merit-based request intake and allocation; comprehensive virologic surveillance and rapid mitigation to preserve SPF status; and high-resolution immunogenetic characterization (e.g., MHC typing) to enable rigorous, genotype-informed study design and efficient stewardship of limited in vivo resources.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.351",
+          "title": "Research Infrastructure Programs"
+        }
+      ]
     },
     {
       "opportunity_id": "362454",
@@ -3528,23 +3528,7 @@
       "post_date": "2026-04-08",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AI-28-002",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Division of AIDS",
-      "contact_email": "sciops@niaid.nih.gov",
-      "abstract": "The National Institute of Allergy and Infectious Diseases (NIAID) seeks to advance its mission by supporting four Clinical Trials Networks (CTNs) each comprised of a Leadership and Operations Center, Statistical and Data Management Center, and Laboratory Center (LC) working with Clinical Trials Units, to test prevention and treatment strategies and conduct implementation research designed to end the HIV epidemic. This NOFO will solicit applications for up to four LCs that will provide laboratory structure and technologies to one or more CTNs and conduct laboratory testing for Network trials, according to regulatory standards. The LC oversees site-affiliated clinical and specialized laboratories and ensures protocol-specified laboratory testing. The LC will: 1) support sample integrity from collection to final testing/storage; 2) use appropriate laboratory data capturing management and tracking systems; 3) select, determine readiness, and approve laboratories; and 4) promote state-of-the-art laboratory assays. The LC will increase testing capacity to meet advances in prevention and treatment of HIV and HIV-related diseases. Grant authorities that allow NIAID to forecast this opportunity are as follows: Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-AI-28-002"
     },
     {
       "opportunity_id": "361816",
@@ -4312,23 +4296,11 @@
       "title": "Limited Competition: Small Grant Program for the NCATS Clinical and Translational Science Award (CTSA) Program (Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCATS",
+      "institute": "",
       "post_date": "2026-02-18",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-123",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NCATS CTSA Program Branch",
-      "contact_email": "CTSA_R03_NOFO_Questions@nih.gov",
-      "abstract": "The purpose of this NOFO is to enhance the capability of NCATS CTSA Program KL2 scholars supported by the CTSA Program to conduct research as they complete the transition to fully independent academic translational scientists. These small research grants will support different clinical and translational science research projects, including pilot and feasibility studies; secondary data analysis of existing data; small, self-contained research projects; development of research methodology; and development of new research technology. Research proposed in the application may or may not include patient-oriented research. This small research grant is, therefore, intended to support research projects that can be carried out in a short period of time with limited resources and that provide preliminary data to support submission of a subsequent research project grant, or equivalent, application. Awards are made under the authorization of Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200. This is a Forecast for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Eligibility Section for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.350",
-          "title": "National Center for Advancing Translational Sciences"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-26-123"
     },
     {
       "opportunity_id": "361318",
@@ -4508,7 +4480,87 @@
       "post_date": "2026-02-11",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PA-27-061"
+      "url": "https://simpler.grants.gov/search?query=PA-27-061",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Referral Officer",
+      "contact_email": "Email: ncirefof@dea.nci.nih.gov",
+      "abstract": "Through this Notice of Funding Opportunity (NOFO), the participating NIH Institutes, Centers, and offices (ICOs) invite applications for investigator-initiated Program Project (P01). A P01 supports a broadly based, multidisciplinary research program with a specific major scientific objective or theme. The proposed Program Project must be related to the programmatic interests of one or more of the participating ICs based on their scientific missions. Each application submitted in response to this NOFO must consist of at least two research projects and an Administrative Core. A P01 may include scientific cores, if needed for the proposed research. Applicants are strongly encouraged to reach out to awarding ICOs to discuss ICO-specific scientific core requirements at least 60 days prior to the receipt date: https://grants.nih.gov/funding/find-a-fit-for-your-research/nih-institutes-centers-offices . The projects included within the Program must share a common central scientific theme, focus, and/or an overall objective.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.113",
+          "title": "Environmental Health"
+        },
+        {
+          "number": "93.233",
+          "title": "National Center on Sleep Disorders Research"
+        },
+        {
+          "number": "93.273",
+          "title": "Alcohol Research Programs"
+        },
+        {
+          "number": "93.279",
+          "title": "Drug Use and Addiction Research Programs"
+        },
+        {
+          "number": "93.307",
+          "title": "Minority Health and Health Disparities Research"
+        },
+        {
+          "number": "93.313",
+          "title": "NIH Office of Research on Women's Health"
+        },
+        {
+          "number": "93.393",
+          "title": "Cancer Cause and Prevention Research"
+        },
+        {
+          "number": "93.394",
+          "title": "Cancer Detection and Diagnosis Research"
+        },
+        {
+          "number": "93.395",
+          "title": "Cancer Treatment Research"
+        },
+        {
+          "number": "93.396",
+          "title": "Cancer Biology Research"
+        },
+        {
+          "number": "93.399",
+          "title": "Cancer Control"
+        },
+        {
+          "number": "93.837",
+          "title": "Cardiovascular Diseases Research"
+        },
+        {
+          "number": "93.838",
+          "title": "Lung Diseases Research"
+        },
+        {
+          "number": "93.839",
+          "title": "Blood Diseases and Resources Research"
+        },
+        {
+          "number": "93.840",
+          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
+        },
+        {
+          "number": "93.855",
+          "title": "Allergy and Infectious Diseases Research"
+        },
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        },
+        {
+          "number": "93.879",
+          "title": "Medical Library Assistance"
+        }
+      ]
     },
     {
       "opportunity_id": "361271",
@@ -5848,7 +5900,19 @@
       "post_date": "2025-09-15",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-HD-26-010"
+      "url": "https://simpler.grants.gov/search?query=RFA-HD-26-010",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Zhaoxia Ren, M.D., Ph.D.",
+      "contact_email": "zren@mail.nih.gov",
+      "abstract": "The Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications to establish a Maternal Medication and Human Milk Research Center (M2HMRC) as part of the NICHD’s Maternal and Pediatric Precision in Therapeutics (MPRINT) Hub. The M2HMRC will advance research on how maternal medications affect human milk composition and neonatal/infant health outcomes by: (1) Identifying critical knowledge gaps in medication use during pregnancy and lactation; (2) Integrating real-world evidence with chemical and bioanalytic data; (3) Developing innovative tools to improve medication safety and efficacy; and (4) Disseminating knowledge around medication use during lactation to a broad audience. The Center will collaborate with MPRINT’s Knowledge and Research Coordinating Center (KRCC) to conduct cutting-edge clinical, translational, and data science research. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will support cooperative agreements involving large-scale research activities with complex structures. Grant authorities that allow the Eunice Kennedy Shriver National Institute of Child Health and Human Development to forecast this opportunity are as follows: Public Health Service Act, Section 301, 448 and 487, as amended, Public Laws 78-410 and 99-158, as amended, 42 U.S.C. 241; 42 U.S.C. 285g; 42 U.S.C. 288; Small Business Research and Development Enhancement Act of 1992, Public Law 102-564, Public Law 118-47.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        }
+      ]
     },
     {
       "opportunity_id": "360582",
