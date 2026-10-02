@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T14:17:32.561419+00:00",
-  "count": 312,
+  "updated_at": "2026-10-02T13:39:25.705758+00:00",
+  "count": 311,
   "data": [
     {
       "opportunity_id": "364013",
@@ -908,19 +908,7 @@
       "post_date": "2026-09-08",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-MD-28-001",
-      "award_ceiling": null,
-      "num_awards": "6",
-      "contact_name": "NIMHD DCHPS Scientific Team",
-      "contact_email": "NIMHDDCHPSSciTeam@mail.nih.gov",
-      "abstract": "As authorized under section 464z-3(h) of the Public Health Service Act, the purpose of the John Lewis NIMHD Research Endowment Program is to strengthen the research infrastructure and training capacity at eligible institutions of higher education to facilitate health disparities research. Specific strategic objectives include: 1) improving the institutional physical infrastructure and acquisition of research equipment, 2) developing research-enabling technical expertise, 3) expansion of academic science programs relevant to scientific research, and 4) merit-based recruitment of highly accomplished researchers for open faculty positions. The John Lewis NIMHD Research Endowment Program does not directly support research projects. This is a Forecast for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Eligibility Section for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-MD-28-001"
     },
     {
       "opportunity_id": "363800",
@@ -2016,11 +2004,23 @@
       "title": "Digital Health Technology and Reciprocal Innovation to Improve Clinical and Public Health Outcomes",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "FIC",
       "post_date": "2026-07-02",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-039"
+      "url": "https://simpler.grants.gov/search?query=PAR-28-039",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "FIC Digital Health Research Program",
+      "contact_email": "FIC-DigitalHealth@nih.gov",
+      "abstract": "This initiative will support research on the development, validation, feasibility, and effectiveness of innovative digital health interventions or tools (including mobile health) specifically suited for underserved settings in the U.S. and globally. Research should utilize new or emerging technologies, platforms, systems, and/or analytics to address high priority health problems, expand the evidence base for the use of digital health technology to improve clinical and public health outcomes, and strengthen research collaborations between U.S. and low- and middle-income country (LMIC) researchers. Applications must include reciprocal innovation methodologies – bidirectional and iterative exchange of ideas, resources, and innovation approaches to address shared health challenges in the U.S. and a LMIC. Through this utilization of unique data, environments, and populations in domestic and international contexts, awards will maximize generalizable knowledge produced and optimize potential benefit to U.S. and LMIC populations.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.989",
+          "title": "International Research and Research Training"
+        }
+      ]
     },
     {
       "opportunity_id": "363050",
@@ -2144,7 +2144,19 @@
       "post_date": "2026-07-01",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-28-114"
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-28-114",
+      "award_ceiling": null,
+      "num_awards": "7",
+      "contact_name": "Division of Diabetes, Endocrinology and Metabolic Diseases",
+      "contact_email": "NIDDK_DEM@nih.gov",
+      "abstract": "This Notice of Funding Opportunity (NOFO) announcement invites applications for NIDDK Multi-Purpose Resource-Related Research, Multi-Component Centers Cooperative Agreement (U2C - Clinical Trial Not Allowed). To help increase rigor, reproducibility and cost efficiencies, U2C centers offer highly specialized cores that provide a range of topic focused services including but not limited to hands-on technical services, consulting, research/data coordination, or other research support services provided by nationally recognized experts. In contrast to other types of Core Centers, the U2C services should be largely provided to clients located at another institution where the needed service or expertise is not available. Provided services enable high impact research within NIDDK’s research mission including but not limited to integrative physiology, metabolic phenotyping, nutrition, community engagement, communications, and/or data and research coordination. The disease focus should similarly be within NIDDK’s mission, such as obesity and diabetes. The clients for these services can be a consortia, research partners or individual investigators and should offer experiential training in at least one of the provided services. Applications to this NOFO can propose optional opportunities and/or a pilot and feasibility grant program depending on the needs of the program.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.847",
+          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+        }
+      ]
     },
     {
       "opportunity_id": "362996",
@@ -3904,7 +3916,19 @@
       "post_date": "2026-03-11",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-NS-26-031"
+      "url": "https://simpler.grants.gov/search?query=RFA-NS-26-031",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NINDS Office of Neural Exposome and Toxicology and NINDS Office of Global Health and Health Disparities",
+      "contact_email": "NINDSONETOX@ninds.nih.gov",
+      "abstract": "The National Institute of Neurological Disorders and Stroke (NINDS) is interested in supporting research projects that investigate how specific neural exposome factors contribute mechanistically to Alzheimer’s disease-related dementias (ADRD) pathology and resilience. For the purposes of this program, exposome factors of interest include, but are not limited to, environmental toxins, sleep and circadian rhythms, stress, and the real-world conditions that modulate them (e.g., light, noise, heat). Applications will be expected to propose research on the synergistic action between multiple exposome factors, and the composite effects of mixtures of exposome factors on neural mechanisms relevant to ADRD. Applicants are encouraged to focus on mechanistic pathways (e.g., microbiome–brain interactions, neuroimmune signaling, epigenetic modifications) that link exposures to ADRD risk, progression, and resilience. Applicants are further encouraged to consider studies that cover the lifespan, including work that investigates critical or sensitive periods of exposure or factors that may lead to neurological health disparities. Applicants may propose mechanistic, translational, and/or human subjects research, drawing on clinical data, human samples, and observational or interventional studies. However, NIH-defined clinical trials will not be supported under this program. Applications are not currently being solicited. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. Investigative teams with expertise in exposomics and environmental neuroscience, community engagement, ADRD mechanisms, and non-medical factors that may lead to health disparities are encouraged to apply.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.853",
+          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        }
+      ]
     },
     {
       "opportunity_id": "361450",
@@ -4040,7 +4064,19 @@
       "post_date": "2026-03-10",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-RM-26-024"
+      "url": "https://simpler.grants.gov/search?query=RFA-RM-26-024",
+      "award_ceiling": null,
+      "num_awards": "13",
+      "contact_name": "Human Virome Program",
+      "contact_email": "HumanVirome@od.nih.gov",
+      "abstract": "The Common Fund Human Virome Program (HVP) aims to extensively and comprehensively characterize the human virome and create tools, models, and methods that will enable an in-depth study of its variation and composition in relation to host factors and its influence on health and disease. The purpose of this NOFO is to support small pilot projects that extend the goals of the HVP, including further validating, improving, and complementing existing and newly developed tools from the HVP program by leveraging human specimens collected from the cohorts under the program; samples from animals to promote the refinement, utilization, and translation of these tools to better serve the goals of the HVP program; expanding existing cohorts and/or biospecimen sampling sites for virome characterization; developing tools and methods to study the human virome; and defining interactions between the human virome and host. These pilot projects will encourage collaboration across the HVP and expand the consortium. Pilot projects should not overlap with existing HVP efforts. The R03 is intended to support small research projects that can be carried out in a short period of time with limited resources.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.310",
+          "title": "Trans-NIH Research Support"
+        }
+      ]
     },
     {
       "opportunity_id": "361438",
@@ -4376,7 +4412,19 @@
       "post_date": "2026-02-18",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-LM-26-004"
+      "url": "https://simpler.grants.gov/search?query=RFA-LM-26-004",
+      "award_ceiling": null,
+      "num_awards": "25",
+      "contact_name": "NLM Extramural Programs",
+      "contact_email": "NLMProgram@nih.gov",
+      "abstract": "The National Library of Medicine (NLM) invites applications for innovative predoctoral and postdoctoral training programs that prepare the next generation of researchers in biomedical informatics, data science, and artificial intelligence/machine learning (AI/ML). NLM emphasizes cutting-edge, forward-looking training experiences that equip trainees to address complex health and biomedical challenges through advanced computational approaches. Applications may propose the creation of new training programs or the renewal of existing NLM-supported programs. These programs are designed to meet the growing demand for researchers with deep expertise in biomedical computing, data science, and AI/ML, with clear relevance to health and biomedical research. Recognizing the inherently interdisciplinary nature of these fields, NLM seeks programs that integrate methods and perspectives across disciplines to advance biomedical informatics, data science, and AI/ML.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.879",
+          "title": "Medical Library Assistance"
+        }
+      ]
     },
     {
       "opportunity_id": "361294",
@@ -4696,7 +4744,19 @@
       "post_date": "2026-02-06",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-117"
+      "url": "https://simpler.grants.gov/search?query=PAR-26-117",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Geetha Bansal",
+      "contact_email": "FIC-ID@nih.gov",
+      "abstract": "This initiative supports rigorous advanced research training programs for low- and middle-income country (LMIC) scientists on infectious diseases that pose a potential threat to the U.S. and present special opportunities for research that are not readily available in the U.S., such as unique resources, exposed or infected populations, or environmental conditions that impact transmission. Applications must be relevant to the mission of at least one of the participating NIH Institutes, Centers, or Offices. Each program will provide long-term research training, along with complementary short-term training activities, and will include intensive mentorship and relevant training in data-driven science, professional skills, responsible conduct of research, and biosafety. Trainee research projects will leverage NIH-funded studies and thus will enhance NIH international investments. Research training programs will strengthen collaborations between U.S. and LMIC researchers to better understand the transmission and pathology of pathogens and to develop diagnostic, preventive or treatment interventions, especially those suited to low resource settings globally.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.989",
+          "title": "International Research and Research Training"
+        }
+      ]
     },
     {
       "opportunity_id": "361242",
@@ -5055,30 +5115,6 @@
         {
           "number": "93.394",
           "title": "Cancer Detection and Diagnosis Research"
-        }
-      ]
-    },
-    {
-      "opportunity_id": "361050",
-      "number": "RFA-AI-27-009",
-      "title": "Centers for Structural Biology of HIV and other Infectious Diseases",
-      "agency_name": "National Institutes of Health",
-      "agency_code": "HHS-NIH11",
-      "institute": "NIAID",
-      "post_date": "2025-12-22",
-      "close_date": "",
-      "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AI-27-009",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Division of AIDS",
-      "contact_email": "sciops@niaid.nih.gov",
-      "abstract": "The National Institute of Allergy and Infectious Diseases (NIAID) seeks to advance its mission by supporting the Centers for Structural Biology of HIV and other Infectious Diseases. This solicitation will support multidisciplinary groups of scientists to determine the 3-dimensional structures of molecules and molecular complexes involved in priority infectious diseases. The effort focuses on exploring biomolecular complexes that can be targeted to make new medicines and tests to prevent or treat infections and improve human health. The centers will drive cutting-edge research and development of structural biology technologies, including high-resolution 3D structural analyses, computational molecular dynamics, functional and mechanistic characterization at the molecular and cellular level, visualization at the atomic level of molecular complexes in cells and tissues, and advanced structure-guided design of molecules to combat infectious diseases. The centers will maximize use of common resources, establish broad collaborations, and mentor future structural biology researchers. Grant authorities that allow NIAID to forecast this opportunity are as follows: Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
         }
       ]
     },
@@ -5748,7 +5784,19 @@
       "post_date": "2025-09-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-TW-25-002"
+      "url": "https://simpler.grants.gov/search?query=RFA-TW-25-002",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "UnJa Hayes",
+      "contact_email": "unja.hayes@nih.gov",
+      "abstract": "The LAUNCH program supports the training of future global health researchers by providing early career researchers in the U.S. an opportunity for immersion in the wide-ranging health conditions and challenges experienced in international low-resource settings and to partner with local health researchers. Consortia consisting of four U.S. research institutions and at least six collaborating research intensive institutions and/or sites in low- and middle-income countries (LMICs) will develop one-year mentored research training programs for pre- and post-doctoral trainees that focus thematically on areas of biomedical or behavioral science relevant to the research priorities of the participating NIH institutes, centers and offices. These programs will provide research mentorship, rigorous technical and professional skills training, research partnerships with matched LMIC peers, career guidance, networking opportunities, and a collaborative research training environment to support the trainees’ potential to develop into independent researchers. By leveraging the unique scientific contexts of LMICs and existing NIH research grants led by program mentors, LAUNCH enhances the potential of future research by trainees to address health needs in the U.S. and globally.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.989",
+          "title": "International Research and Research Training"
+        }
+      ]
     },
     {
       "opportunity_id": "360623",
@@ -6100,7 +6148,19 @@
       "post_date": "2025-09-03",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-067"
+      "url": "https://simpler.grants.gov/search?query=PAR-26-067",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Suzana Petanceska, Ph.D.",
+      "contact_email": "petanceskas@nia.nih.gov",
+      "abstract": "The National Institute on Aging (NIA) intends to publish a Notice of Funding Opportunity (NOFO) that builds upon its investment in data-driven approaches for the purpose of defining molecular mechanisms of resilience in the presence of various types of Alzheimer's disease (AD) and AD-related dementias (ADRD) risk. The goal of this NOFO is to build a robust program that integrates epidemiologic, genomic, and mechanistic research through the use of data driven, systems-based approaches (including the use of artificial intelligence and/or machine learning methods) to discover the molecular/cellular determinants of resilience to AD/ADRD risk across representative populations. The initiative will support the generation of high-dimensional molecular data from brain and peripheral tissues, including longitudinal data, to enable dynamic modeling of resilience mechanisms and to discover molecular predictors of resilience. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO intends to utilize the U01 activity code. Investigators with expertise and insights into this area of aging research are encouraged to begin to consider applying for this new NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        }
+      ]
     },
     {
       "opportunity_id": "360451",
@@ -7040,7 +7100,23 @@
       "post_date": "2025-06-12",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-049"
+      "url": "https://simpler.grants.gov/search?query=PAR-27-049",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "contact_email": "AncillaryStudies@nih.gov",
+      "abstract": "This Notice of Funding Opportunity (NOFO) solicits applications that propose to conduct time-sensitive ancillary studies in conjunction with privately or publicly funded, active, ongoing clinical projects (parent projects). The parent project can be an interventional clinical trial, or a clinical study such as an observational study, or a disease-specific repository that will be actively collecting patient samples or clinical data. The parent project(s) should provide a cohort of well-characterized patients, infrastructure, data, and biological samples for the ancillary study. The objective of this NOFO is to provide a flexible mechanism to leverage currently funded resources and maximize the return on existing investments in parent projects. Successful ancillary studies will enhance the scientific content and value of the parent projects, improve the research community’s understanding of a disease or organ system and thus may identify novel targets for diagnosis, treatment, and prevention of disease.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.846",
+          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        },
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        }
+      ]
     },
     {
       "opportunity_id": "358886",
@@ -7456,19 +7532,7 @@
       "post_date": "2025-05-27",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-NS-25-004",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Lauren Ullrich, PhD",
-      "contact_email": "nindsotwd@ninds.nih.gov",
-      "abstract": "The National Institute of Neurological Disorders and Stroke, on behalf of the NIH Blueprint for Neuroscience Research (NIH Blueprint) and BRAIN Intitiative, intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the ACTION (Academic Career Transition Initiative for Opportunities in Neuroscience) Potential F99/K00 award to support a defined pathway across career stages for skilled neuroscience graduate students performing neuroscience research within the missions of the NIH Blueprint and/or BRAIN Initiative. This two-phase award will facilitate completion of the doctoral dissertation and transition of talented graduate students to strong neuroscience research postdoctoral positions, and will provide career development opportunities relevant to their long-term career goal of becoming independent neuroscience researchers. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the F99/K00 activity code. Graduate students with expertise and insights into these areas of neuroscience are encouraged to begin to consider applying for this new NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=FOR-NS-25-004"
     },
     {
       "opportunity_id": "358998",
