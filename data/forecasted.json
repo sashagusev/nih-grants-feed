@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T14:51:56.327838+00:00",
+  "updated_at": "2026-10-14T12:42:23.289057+00:00",
   "count": 299,
   "data": [
     {
@@ -1536,7 +1536,19 @@
       "post_date": "2026-08-05",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-RM-28-005"
+      "url": "https://simpler.grants.gov/search?query=RFA-RM-28-005",
+      "award_ceiling": null,
+      "num_awards": "4",
+      "contact_name": "Common Fund RNomics Program",
+      "contact_email": "cfrnomics@od.nih.gov",
+      "abstract": "The NIH Common Fund, in partnership with other NIH Institutes and Centers, plans to issue Notices of Funding Opportunity (NOFOs) for the RNomics program, which seeks to develop tools for studying the full set of RNA molecules (the RNome) in cells and tissues. The program will support technologies and resources that enable integrated analysis of RNA sequences, modifications, structures, locations, interactions, and functions to advance understanding of health and disease. RNomics includes four initiatives: technology enhancement centers, transformative technologies, molecular standards, and a coordinating center. Applications are not being solicited at this time. This notice is being provided to give potential applicants time to develop meaningful collaborations and strong projects. This NOFO will establish collaborative RNomics Technology Enhancement Centers (RTECs). RTECs will further develop existing technologies with demonstrated feasibility. These centers will strengthen experimental and computational tools for measuring, mapping, and testing RNA in cells and tissues, with the goal of delivering measurable improvements and supporting broad community use. Priority areas include end-to-end RNA sequencing and quantitative modification mapping; comprehensive analysis of RNA sequence, structure, modification, interactions, localization, dynamics, and function; and molecular and biochemical tools for RNA manipulation, processing, and functional testing.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.310",
+          "title": "Trans-NIH Research Support"
+        }
+      ]
     },
     {
       "opportunity_id": "363454",
@@ -1768,7 +1780,19 @@
       "post_date": "2026-07-20",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-006"
+      "url": "https://simpler.grants.gov/search?query=PAR-28-006",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Division of Clinical Innovation, NCATS",
+      "contact_email": "RC2NOFO@nih.gov",
+      "abstract": "The purpose of the Congressionally mandated Clinical and Translational Science Award (CTSA) Program is to accelerate the translation of scientific discoveries into treatments, diagnostics, and health interventions that improve patient and public health by funding and coordinating a national network of academic medical centers that provide the infrastructure, expertise, training, and collaboration needed to move discoveries from the laboratory into clinical practice and community health. The purpose of the High Impact Specialized Innovation Programs (SIPs) is to support the development and demonstration of unique hub capabilities, research platforms and/or resources to address in a timely manner critical gap areas and/or roadblocks in clinical and translational science at awarded CTSA Program Hubs. Awards are made under the authorization of Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200. This is a Forecast for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Eligibility Section for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.350",
+          "title": "National Center for Advancing Translational Sciences"
+        }
+      ]
     },
     {
       "opportunity_id": "363253",
@@ -2616,19 +2640,7 @@
       "post_date": "2026-06-24",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-MH-28-110",
-      "award_ceiling": null,
-      "num_awards": "10",
-      "contact_name": "BRAIN Initiative",
-      "contact_email": "BRAINTools@nih.gov.",
-      "abstract": "The Brain Research through Advancing Innovative Neurotechnologies (BRAIN) Initiative intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research to develop novel tools and approaches that enable the interrogation of cell-specific and circuit-specific processes in the central nervous system. This NOFO consolidates three current BRAIN Initiative tool development programs. Projects that focus on developing a broad range of new research tools to delineate anatomical and functional connections between cells and circuits, and to expand our knowledge of brain architecture and function are encouraged, such as projects that: Develop novel tools to characterize/define cell-types, circuits, and cellular components in the nervous system with greater selectivity and sensitivity, including: new genetic or non-genetic technologies/approaches (for delivering genes, proteins, and chemicals to access and/or manipulate cells of interest) novel sensors or tracers for imaging or monitoring molecules, structures, and activities within single cells and circuits with significant advances in sensitivity, selectivity, or spatiotemporal resolution Develop new technologies and novel approaches for recording and modulation of neural cells and circuits, including: approaches to address major challenges and enable transformative understanding of dynamic signaling in the central nervous system approaches that utilize any modality, such as optical, electrical, magnetic, or acoustic recording/manipulation approaches to target neuronal electrical signals or other forms of neural activity, including intracellular signaling and engagement of non-neuronal cells in circuit function. Projects at broad stages of development are supported, from unique and innovative technologies that are in the earliest stage of development (including new and untested ideas that are in the initial stages of conceptualization) through the optimization of existing instrumentation with transformative potential in order to facilitate broad adoption. Applications that offer transformative approaches that break through existing technical barriers and substantially improve current capabilities are strongly encouraged. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the RP1 activity code.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-MH-28-110"
     },
     {
       "opportunity_id": "362752",
@@ -2832,11 +2844,23 @@
       "title": "NIDCD Research Fellowship for Audiologists",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "NIDCD",
       "post_date": "2026-05-28",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-013"
+      "url": "https://simpler.grants.gov/search?query=PAR-28-013",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIDCD Training",
+      "contact_email": "nidcd.training@mail.nih.gov",
+      "abstract": "The National Institute on Deafness and Other Communication Disorders (NIDCD) intends to publish a Notice of Funding Opportunity (NOFO) for clinical audiologists currently enrolled in Ph.D. programs. NIDCD encourages audiologists with strong research potential to integrate clinical and translational research into their career paths. A strong research foundation is essential for advancing hearing health care and the field of audiology. The NIDCD Research Fellowship for Audiologists program aims to support this effort by providing clinical audiologists with the opportunity to engage in comprehensive and rigorous research training leading to a research doctorate (i.e., Ph.D.) in the biomedical, behavioral, or clinical sciences. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.173",
+          "title": "Research Related to Deafness and Communication Disorders"
+        }
+      ]
     },
     {
       "opportunity_id": "362576",
@@ -3820,7 +3844,19 @@
       "post_date": "2026-03-16",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-NS-26-028"
+      "url": "https://simpler.grants.gov/search?query=RFA-NS-26-028",
+      "award_ceiling": null,
+      "num_awards": "4",
+      "contact_name": "NINDS Translational Devices Team",
+      "contact_email": "NINDS-Devices@nih.gov",
+      "abstract": "The National Institute of Neurological Disorders and Stroke (NINDS), with other NIH Institutes and Centers (ICs), intends to publish a Notice of Funding Opportunity (NOFO) to investigate the mechanisms of action of therapeutic medical devices with the overall goal of improving clinical outcomes with device-based approaches. Medical devices are essential in managing health conditions, complementing drugs and behavioral interventions, and often offer unique benefits. Despite the commercial availability of numerous medical devices and ongoing development of new technologies, many have shown inconsistent results in preclinical studies, failed translation to humans, and exhibit varied patient outcomes. To overcome these challenges, it is crucial to understand the mechanisms by which medical devices produce a therapeutic effect, to identify physiological markers of neurological conditions, and to assess how device-based therapies influence these markers. Advancing this knowledge will improve device-based interventions, inspire new device designs, and optimize current clinical approaches. Applications will be invited from interdisciplinary teams pursuing innovative research on how medical devices produce a therapeutic effect. Applicant teams will likely exhibit expertise in areas such as engineering, biology, pathophysiology, surgery, clinical care, healthcare delivery, biostatistics, software development, computational modeling, artificial intelligence, regulatory science, and clinical trials. This program will accept projects on investigational devices and those already FDA-approved and in clinical use. Applications are expected to include strategies for developing or optimizing therapies that could significantly improve patient care. Supported research may include mechanistic clinical trials, animal studies, and computational modeling or simulation. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.853",
+          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        }
+      ]
     },
     {
       "opportunity_id": "361521",
@@ -4992,23 +5028,11 @@
       "title": "Resource-Related Research Projects Cooperative Agreements in Aging and/or Alzheimer's Disease (AD) and Alzheimer's Disease-Related Dementias (ADRD) Research",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIA",
+      "institute": "",
       "post_date": "2026-01-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-25-462",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIA Scientific Contact",
-      "contact_email": "NIA-NOFO-Scientific@nih.gov",
-      "abstract": "The National Institute on Aging (NIA) intends to publish a Notice of Funding Opportunity (NOFO) to invite new, renewal, and revision applications, and their resubmissions, for U24 Research Resource/Infrastructure cooperative agreements that support large-scale, complex research programs focused on aging and/or Alzheimer's disease (AD) and Alzheimer's disease-related dementias (ADRD) research. It is anticipated that such programs will likely involve a team of investigators from a single institution, or a consortium of institutions, and align with the mission and research priorities of NIA. If submitting renewal or revision applications, the research objectives and scope of applications submitted through this NOFO must adhere to the requirements outlined in the parent NOFO under which the original application was funded. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO intends to utilize the U24 activity code. Applicants should be aware that NIA anticipates funding only a limited number of meritorious applications under this announcement. Consultation with IC staff is strongly encouraged prior to the submission of an application to discuss the responsiveness of their proposed research to this NOFO and its relevance to NIA’s programmatic priorities.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-25-462"
     },
     {
       "opportunity_id": "361186",
@@ -5188,19 +5212,7 @@
       "post_date": "2025-11-24",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AG-26-022",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Molly Wagster, Ph.D.",
-      "contact_email": "wagsterm@nia.nih.gov",
-      "abstract": "The National Institute on Aging (NIA) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications that develop or incorporate novel, cutting-edge study designs/methods/analytic approaches through the use of machine learning, artificial intelligence, and adaptive designs to allow the discovery of health/function profiles at the level of the individual and that could lead to the implementation of personalized prevention plans/interventions for cognitive/brain health in older adults. The initiative would allow for both basic research in animal models, as well as the development of profiles for humans, which would span levels of analysis from cellular to societal. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the R01 activity code. Investigators with expertise and insights into this area of aging research are encouraged to begin to consider applying for this new NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-AG-26-022"
     },
     {
       "opportunity_id": "360906",
@@ -5236,19 +5248,7 @@
       "post_date": "2025-11-20",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AG-26-021",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Coryse St. Hillaire-Clarke, Ph.D.",
-      "contact_email": "sthillaireclacn@mail.nih.gov",
-      "abstract": "The National Institute on Aging (NIA), with the National Institute on Deafness and Other Communication Disorders (NIDCD), intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications that investigate the mechanisms underlying the association between olfactory decline and aging or Alzheimer's disease (AD) and AD-related dementias (ADRD). Understanding these mechanisms may help inform the potential use of olfactory dysfunction with age as an indicator of various health outcomes in older adults (e.g. physical function) and as a predictor of AD/ADRD risk. Identifying circuit-level olfactory changes may also uncover novel targets for developing disease-modifying therapeutic strategies. Studies may include older adults and/or animal models and may employ a variety of approaches, including cellular, molecular, imaging, physiological, omics and new approach methodologies (NAMs) to address the research gaps. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO intends to utilize the R01 activity code. Investigators with expertise and insights into this area of aging research are encouraged to begin to consider applying for this new NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-AG-26-021"
     },
     {
       "opportunity_id": "360894",
@@ -5644,19 +5644,7 @@
       "post_date": "2025-09-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-026",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Jessica M. Faupel-Badger, Ph.D., MPH",
-      "contact_email": "badgerje@mail.nih.gov",
-      "abstract": "The Institutional Development Award program develops biomedical research capacity in states that have historically received low levels of NIH funding (IDeA states). The IDeA Networks of Biomedical Research Excellence (INBRE) Notice of Funding Opportunity will support statewide networks in IDeA states made up of one or more research intensive institution and multiple primarily undergraduate institutions. INBREs build biomedical research capacity through supporting faculty research and research mentoring, student participation in research, and enhancement of institutional research infrastructure with an emphasis on developing pathways for undergraduate students in these states to move into biomedical research careers. The INBREs promote collaboration among institutions in IDeA states, create economies of scale, and develop research support capabilities at the primarily undergraduate institutions.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-26-026"
     },
     {
       "opportunity_id": "360637",
@@ -6280,23 +6268,11 @@
       "title": "NIEHS Worker Training Program’s HAZMAT Training at DOE Nuclear Weapons Complex (UH4 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIEHS",
+      "institute": "",
       "post_date": "2025-07-17",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=TEMP-31334",
-      "award_ceiling": null,
-      "num_awards": "2",
-      "contact_name": "Sharon D. Beard",
-      "contact_email": "beard1@niehs.nih.gov",
-      "abstract": "The National Institute of Environmental Health Sciences (NIEHS) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the NIEHS/DOE Worker Training Program's HAZMAT Training at US Department of Energy (DOE) Nuclear Weapons Complex (UH4 Clinical Trial Not Allowed). The major objective of the NIEHS WTP (Worker Training Program is to prevent work related harm by training workers in how best to protect themselves and their communities from exposure to hazardous materials. The WTP program is committed to preventing chronic disease/conditions, promoting mental health resilience, and improving the overall well-being of the U.S. workforce through health and safety education and training. The WTP is mandated by Congress through the Superfund Amendments and Reauthorization Act of 1986. Initiative Details The Superfund Amendments and Reauthorization Act of 1986 (SARA), Section 126(g) ; in U.S. law at 42 USC 9660a : authorizes an assistance program (GRANT PROGRAM) for training and education of workers engaged in activities related to hazardous waste generation, removal, containment or emergency response and hazardous materials transportation and emergency response. The United States Congress assigned responsibility for administering this program to the NIEHS, NIH, US HHS. The National Defense Authorization Act for fiscal years 1992 and 1993 (42 USC 7274(d)) authorized the Secretary of Energy in section 3131(a)(1)(A)-(B) to make awards (in law at 50 USC 2731(a)(1-3) : \"to provide training and education to persons who are or may be engaged in hazardous substance response or emergency at DOE nuclear weapons facilities; and to develop response curricula for such training and education.\" The Secretary was further authorized in Section 3131(a)(2)(A)-(B) to make the training awards to non-profit organizations demonstrating capabilities in: \"implementing and conducting effective training and education programs relating to the general health and safety of workers; and identifying, and involving in training, groups of workers whose duties include hazardous substance response or emergency response.\" Funding for the program comes from the Energy and Water Development Appropriations under the DOE Environmental Cleanup section and is transferred to administer the grants in Sect. 3131(a)(2)(B). This NOFO will utilize the UH4 activity code to provide support for the development of health and safety training of workers exposed to hazardous materials. This consists of health and safety training for workers and their supervisors, who are engaged in hazardous waste generation, treatment, storage, disposal, removal, containment, transportation, or emergency response. Investigators with expertise and insights into this area of occupational, environmental health and safety education and training are encouraged to apply. In addition, collaborative investigations combining expertise in industrial hygiene and environmental exposures will be encouraged.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.142",
-          "title": "NIEHS Hazardous Waste Worker Health and Safety Training"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=TEMP-31334"
     },
     {
       "opportunity_id": "358856",
@@ -7156,19 +7132,7 @@
       "post_date": "2025-05-27",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-MD-25-003",
-      "award_ceiling": null,
-      "num_awards": "10",
-      "contact_name": "Priscah Mujuru, PhD",
-      "contact_email": "priscah.mujuru@nih.gov",
-      "abstract": "The National Institute on Minority Health and Health Disparities (NIMHD) intends to publish a Notice of Funding Opportunity (NOFO) to support intervention and etiologic studies in rural communities to address factors that increase, reduce, or prevent disparities in health outcomes among rural populations. Areas of research interest that may be addressed include but are not limited to: Studies that utilize the life course continuum to address health disparities in rural populations considering risk factors that differentially impact health. Development, adaptation, and/or implementation of community-engaged interventions that improve quality of life, well-being, and health outcomes in rural populations. Adaptation of technologies (e.g., virtual care, remote monitoring) to address access to healthcare resources in rural areas. Health service and care models that focus on ways to improve rural health and meet related needs through local community collaborations such as with churches, schools, libraries, and grocery stores. Studies that investigate health-related resilience or protective factors as well as strategies to promote health. Studies that examine the integration of health care systems and community services (e.g., public health departments, mining facilities, agricultural farms, health systems, school systems, community-based organizations, businesses, etc.) to address rural health disparities. Implementation studies to advance the reach, effectiveness, and sustainability of evidence-based interventions in rural communities. This NOFO will utilize the R01 activity code.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=FOR-MD-25-003"
     },
     {
       "opportunity_id": "359136",
