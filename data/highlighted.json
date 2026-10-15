@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-10-14T12:40:07.560432+00:00",
-  "count": 102,
+  "updated_at": "2026-10-15T12:28:31.757503+00:00",
+  "count": 103,
   "data": [
+    {
+      "id": 136,
+      "title": "Cancer and Alzheimer’s Disease Intersection (CADIC)",
+      "lead_ico": "NIA",
+      "participating_icos": [
+        "NCI",
+        "ORWH"
+      ],
+      "posted_date": "2026-06-26",
+      "expiration_date": "2028-10-14",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/136",
+      "contacts": [
+        "rebekah.feng@nih.gov",
+        "malgorzata.klauzinska@nih.gov"
+      ],
+      "abstract": "<p>This topic on the cancer and Alzheimer&#x27;s disease intersection (CADIC) seeks to accelerate rigorous, interdisciplinary research to elucidate the biological mechanisms underlying the inverse relationship between cancer and Alzheimer’s disease (AD), and to translate these insights into novel therapeutic strategies. This topic emphasizes intentional integration of cancer and AD research communities and the development of a cross-trained workforce with expertise spanning both fields. Priority areas include exploring the biological basis of the cancer–AD intersection, characterizing key molecular and immune pathways, and identifying biomarkers to inform disease risk, clinical outcomes, and response to therapy. This topic encourages research to leverage basic and translational approaches, including molecular, cellular, and system-level analyses, as well as analyses of existing data and samples to identify mechanisms, predictive and prognostic biomarkers, and protective pathways that can inform future therapeutic development.</p><p><strong>Background</strong></p><p>Epidemiological studies consistently demonstrate that individuals with cancer have a reduced risk of developing AD, while individuals with AD exhibit a lower incidence of many cancers. This inverse correlation is further supported by neuropathological evidence linking prior cancer diagnosis to reduced AD pathology. Emerging mechanistic evidence supports this relationship. For example, clonal hematopoiesis mutations (e.g., TET2) attenuate AD pathology and cognitive impairment through altered immune function; tumor-derived factors, such as cystatin-C, cross the blood–brain barrier and modulate AD pathogenesis. In addition, the lifetime risk of dementia due to AD in individuals with Down syndrome is estimated to be over 90%, yet the overall risk of solid tumors is significantly reduced, suggesting chromosome 21 harbors important insights into this inverse association.</p><p>However, progress has been constrained by siloed data, infrastructure, and limited cross-disciplinary integration. This topic highlights the importance of cross-disciplinary approaches to refine mechanistic hypotheses and translate disease-protective mechanisms into innovative therapeutics.</p><p><strong>Areas of Scientiﬁc Interest</strong></p><p>High-priority research topics include but are not limited to:</p><ul><li>Collaborative efforts leveraging existing resources and infrastructures, such as NIA-supported ADRCs and NCI-designated Cancer Centers.</li><li>Linking cancer and AD data infrastructures and registries to promote harmonized, interoperable resources.</li><li>Investigation of the mechanisms through which cancer and AD may confer reciprocal protection.</li><li>Mechanisms underlying the increased lifetime risk of AD and reduced susceptibility to solid tumors in Down syndrome.</li><li>Cross-disciplinary collaboration to bridge the cancer and AD communities and train the next generation of investigators with expertise in both fields.</li></ul></p>",
+      "abstract_is_html": true
+    },
     {
       "id": 134,
       "title": "Leveraging All of Us Biospecimens to Advance Precision Medicine Research",
