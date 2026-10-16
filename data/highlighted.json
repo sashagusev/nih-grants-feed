@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T12:28:31.757503+00:00",
+  "updated_at": "2026-10-16T12:06:46.638962+00:00",
   "count": 103,
   "data": [
     {
@@ -150,6 +150,7 @@
       "lead_ico": "OBSSR",
       "participating_icos": [
         "NCCIH",
+        "NEI",
         "NIA",
         "NIAID",
         "NIDDK",
@@ -256,7 +257,7 @@
       "status": "published",
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/117",
       "contacts": [],
-      "abstract": "<p><strong>Purpose: </strong>This topic aims to accelerate rigorous, reproducible, interdisciplinary resilience science to promote health and well-being across the lifespan and populations. Resilience mechanisms operate across scales and domains to maintain health, enabling prevention and recovery from chronic and acute diseases despite known risk factors. The focus is research on protective pathways and their biological mechanisms that maintain physiological functions throughout the life course; harmonized terminology; standardized protocols; validated measures, biomarkers and implementation science to optimize evidence-based interventions (including lifestyle) across populations, including children, tribal communities, and groups at-risk for health disparities.</p><p><strong>Background: </strong>Resilience spans whole-person systems integrating molecular, cellular, physiological, and psychological levels within social communities and environmental contexts. Translating the multiscale, multidomain nature of resilience has been limited by heterogeneous definitions, models, and measures. NIH defines resilience broadly as a living system’s capacity to resist, recover, adapt, or grow from challenges or stressors, with outcomes tracked over time across interconnected individual, community, and environmental systems (Brown et al, 2023). High-priority research includes developing/refining resilience measures and metrics; data interoperability; advancing mechanistic understanding of protective and restoring factors distinct from disease-risk reduction; and identifying biomarkers that reflect or predict resilience. Aligned applications would define the challenge/stressor, system(s) and resilience response/outcome(s); include at least one domain of analysis, preferably cross domains to accelerate translation into implementable prevention, treatment, and recovery strategies.</p><h2>Participating ICOs</h2><p>NHLBI is interested in studies that:</p><ul><li> Use data science and precision health to define individual heart, lung, blood, and sleep health signatures, including resilience metrics, stressors, tipping points, trajectories, and longitudinal outcomes (resistance, recovery, adaptation, growth)</li><li>Leverage large biomedical resources: NHLBI-funded cohort studies,Trans-omics for precision medicine (TOPMed), Researching COVID to enhance recovery (RECOVER), All of Us, LungMap, etc.</li><li>Identify mechanisms that preserve, enhance or restore homeostasis under stress and explain sustained health despite known risk, e.g. hypertension without stroke; full recovery post-heart valve surgery; preserved lung function despite tobacco exposure, or interplay of resilience and sickle cell disease exacerbation e.g., vaso-occlusive crises</li><li>Integrate multidomain exposures and biopsychosocial factors (e.g. mindfulness, belief systems, optimism), community engagement,  and include all populations within mission</li></ul>",
+      "abstract": "<p><strong>Purpose: </strong>This topic aims to accelerate rigorous, reproducible, interdisciplinary resilience science to promote health and well-being across the lifespan and populations. Resilience mechanisms operate across scales and domains to maintain health, enabling prevention and recovery from chronic and acute diseases despite known risk factors. The focus is research on protective pathways and their biological mechanisms that maintain physiological functions throughout the life course; harmonized terminology; standardized protocols; validated measures, biomarkers and implementation science to optimize evidence-based interventions (including lifestyle) across populations, including children, tribal communities, and groups at-risk for health disparities.</p><p><strong>Background: </strong>Resilience spans whole-person systems integrating molecular, cellular, physiological, and psychological levels within social communities and environmental contexts. Translating the multiscale, multidomain nature of resilience has been limited by heterogeneous definitions, models, and measures. NIH defines resilience broadly as a living system’s capacity to resist, recover, adapt, or grow from challenges or stressors, with outcomes tracked over time across interconnected individual, community, and environmental systems (Brown et al, 2023). High-priority research includes developing/refining resilience measures and metrics; data interoperability; advancing mechanistic understanding of protective and restoring factors distinct from disease-risk reduction; and identifying biomarkers that reflect or predict resilience. Aligned applications would define the challenge/stressor, system(s) and resilience response/outcome(s); include at least one domain of analysis, preferably cross domains to accelerate translation into implementable prevention, treatment, and recovery strategies.</p><h2>Participating ICOs</h2><p>NCCIH is interested in research that advances understanding of resilience as a whole-person, multilevel process and informs strategies for health promotion, disease prevention, recovery, and overall well-being across the lifespan. Areas of interest include:</p>",
       "abstract_is_html": true
     },
     {
@@ -350,8 +351,8 @@
       "participating_icos": [
         "NIAID",
         "NIAMS",
-        "NIEHS",
-        "NICHD"
+        "NICHD",
+        "NIEHS"
       ],
       "posted_date": "2026-05-11",
       "expiration_date": "2028-06-03",
@@ -387,8 +388,8 @@
       "title": "Epidemiological Studies of Vaccination and Health Outcomes Across the Lifespan",
       "lead_ico": "NIAID",
       "participating_icos": [
-        "NIEHS",
-        "NICHD"
+        "NICHD",
+        "NIEHS"
       ],
       "posted_date": "2026-05-07",
       "expiration_date": "2028-06-03",
@@ -531,7 +532,7 @@
       "status": "published",
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/103",
       "contacts": [],
-      "abstract": "<p>This topic encourages research on wastewater-based epidemiology (WBE) approaches for understanding exposure to environmental contaminants, medications, drugs, and pathogens at the community level. </p><p><strong>Background:</strong></p><p>Wastewater can be a powerful indicator of exposure to pesticides, plasticizers, personal care products, heavy metals, industrial release, emerging contaminants, and disaster-related spills/fires. While it has been used to detect pathogens, it can also detect medications and drug metabolites. Unlike human biomonitoring which requires collecting blood or urine samples from individuals, WBE provides a non-invasive and cost-effective way to evaluate community exposure patterns, especially for large populations, both geographically and over time, therefore providing insight into community health and behavior. When combined with advanced analytical chemistry, molecular biology, and epidemiological approaches, WBE can guide prevention strategies and strengthen protection of both environmental and human health.  In addition, WBE involves data sharing and collaboration across many scientific disciplines.  However, key challenges of WBE remain and include methodological and technical aspects such as sampling variability (due to sample location and timing of sample collection), analytical methods, data integration and statistical modeling, as well as data interpretation (e.g., how the detection in wastewater correlates with real world human exposure and its public health implications) to inform more efficient public health responses.  Additionally, best practices, communication of findings, and ethical/privacy issues are also important considerations.</p><h2>Participating ICOs</h2><p>NIEHS encourages multidisciplinary collaborations, partnerships with public health experts, epidemiologists, analytical chemists, and experts in contaminant fate and transport. </p><p>NIEHS’s areas of interest include, but are not limited to:</p><ul><li>WBE studies to identify known and emerging environmental contaminants impacting community health</li><li>WBE to identify origin(s) of contaminants and quantify contaminant contribution to disease</li><li>Studies that encourage/promote multi-level assessment of sewer network(s) at various scales (e.g., single and multiple wastewater treatment plant(s), neighborhood(s), building(s))</li><li>Technology/methodology development to advance application of WBE such as biomarkers for monitoring of community health, and assays for detection and quantification of chemical exposures </li><li>Creation and incorporation of data infrastructure and standardized protocols for WBE collaboration</li><li>Increasing community awareness and bringing WBE to small-serving communities (e.g., rural)</li></ul>",
+      "abstract": "<p>This topic encourages research on wastewater-based epidemiology (WBE) approaches for understanding exposure to environmental contaminants, medications, drugs, and pathogens at the community level. </p><p><strong>Background:</strong></p><p>Wastewater can be a powerful indicator of exposure to pesticides, plasticizers, personal care products, heavy metals, industrial release, emerging contaminants, and disaster-related spills/fires. While it has been used to detect pathogens, it can also detect medications and drug metabolites. Unlike human biomonitoring which requires collecting blood or urine samples from individuals, WBE provides a non-invasive and cost-effective way to evaluate community exposure patterns, especially for large populations, both geographically and over time, therefore providing insight into community health and behavior. When combined with advanced analytical chemistry, molecular biology, and epidemiological approaches, WBE can guide prevention strategies and strengthen protection of both environmental and human health.  In addition, WBE involves data sharing and collaboration across many scientific disciplines.  However, key challenges of WBE remain and include methodological and technical aspects such as sampling variability (due to sample location and timing of sample collection), analytical methods, data integration and statistical modeling, as well as data interpretation (e.g., how the detection in wastewater correlates with real world human exposure and its public health implications) to inform more efficient public health responses.  Additionally, best practices, communication of findings, and ethical/privacy issues are also important considerations.</p><h2>Participating ICOs</h2><p>NIAID’s areas of interest include, but are not limited, to: </p><ul><li>Genomic epidemiology method development to better detect and track microbes, predict microbial case surges, analyze and share WBE metadata and data, integrate WBE data across platforms, and identify novel applications for secondary analyses of WBE data.</li><li>Development of clearer methods to distinguish human versus animal/agricultural signals and One Health integration.</li><li>Using WBE to study microbe biology, such as transmission, evolution, and persistence.</li><li>Parallel clinical and WBE studies that analyze the contribution of microbes identified in the environment to human disease.</li><li>Development of novel assays and laboratory methods for detection and quantification of protozoan parasites and cysts that resist chlorination.</li></ul>",
       "abstract_is_html": true
     },
     {
@@ -625,14 +626,14 @@
         "NIA",
         "NIAAA",
         "NIAMS",
+        "NICHD",
         "NIDA",
         "NIDCR",
         "NIMH",
+        "NINR",
         "NLM",
         "ODSS",
-        "ORWH",
-        "NICHD",
-        "NINR"
+        "ORWH"
       ],
       "posted_date": "2026-04-16",
       "expiration_date": "2028-06-26",
@@ -684,7 +685,7 @@
       "status": "published",
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/98",
       "contacts": [],
-      "abstract": "<p><strong>Background</strong></p><p>All communities are vulnerable to natural and human-made disasters, as well as emerging environmental and public health threats.  Recent events have emphasized the urgent need for research mechanisms capable of supporting time-sensitive studies before critical opportunities to collect data and biospecimens are lost.  In many cases, the scientific value of an event depends on swift action to capture exposure and health information during a narrow and often unpredictable window.</p><p>The purpose of this topic is to support research that advances the understanding of health outcomes associated with unpredictable events that present a limited window for data and sample collection.  Research in response to this topic should facilitate the understanding of consequences of natural and human-made disasters, and emerging environmental public health threats in the U.S. to facilitate timely action to protect public health.  Appropriate studies should highlight the unforeseen nature of the event and the clear scientific value and feasibility of the study. Research supported during this short window of opportunity should be intended to serve as the foundation for analyses of longer-term exposure-health outcome relationships. </p><h2>Participating ICOs</h2><p>NIEHS is interested in studies that will provide information on exposure-heath outcome relationships. Research responsive to the topic includes:</p><ul><li>Immediate and short-term health effects following disasters</li><li>Measuring and characterizing human exposure to environmental hazards</li><li>Understanding how contaminants move and predicting exposure</li><li>Preventing or reducing exposure during disaster events (including remediation technologies applicable to Superfund-relevant exposures)</li></ul><p>NIEHS encourages exploratory/developmental research projects (e.g., R21) and will prioritize applications with clear time-sensitivity. Studies proposing to use animals as surrogates for human exposure are of lower priority. The NIEHS Superfund Research Program is interested in the research described above, if applicable to sites impacted by hazardous waste. The NIEHS Workers Training Program is not a part of this topic.</p>",
+      "abstract": "<p><strong>Background</strong></p><p>All communities are vulnerable to natural and human-made disasters, as well as emerging environmental and public health threats.  Recent events have emphasized the urgent need for research mechanisms capable of supporting time-sensitive studies before critical opportunities to collect data and biospecimens are lost.  In many cases, the scientific value of an event depends on swift action to capture exposure and health information during a narrow and often unpredictable window.</p><p>The purpose of this topic is to support research that advances the understanding of health outcomes associated with unpredictable events that present a limited window for data and sample collection.  Research in response to this topic should facilitate the understanding of consequences of natural and human-made disasters, and emerging environmental public health threats in the U.S. to facilitate timely action to protect public health.  Appropriate studies should highlight the unforeseen nature of the event and the clear scientific value and feasibility of the study. Research supported during this short window of opportunity should be intended to serve as the foundation for analyses of longer-term exposure-health outcome relationships. </p><h2>Participating ICOs</h2><p>NIA is interested in environmental health research that is time-sensitive because key exposure, biologic, behavioral, clinical, or service-related data may be lost if not collected soon. This includes research on how disasters and emerging public health threats affect older adults. Aging can reduce the body’s ability to respond to stress, multimorbidity, cognitive impairment, disability, social isolation. Reliance on medication, caregivers, and health services may also increase. Of interest is capturing early exposure and health data in older adults, including those in assisted living, nursing homes, rural settings, and other at-risk communities, to understand impacts on functional status, cognition, cardiometabolic health, mobility, resilience, and progression toward Alzheimer’s disease and related dementias. Research responsive to this topic should identify modifiable risk and protective factors to inform prevention, preparedness, and recovery strategies for older adults.</p>",
       "abstract_is_html": true
     },
     {
@@ -709,9 +710,9 @@
       "title": "RNA Metabolism in Aging and Healthy Lifespan",
       "lead_ico": "NIA",
       "participating_icos": [
+        "NICHD",
         "NIDA",
-        "NIEHS",
-        "NICHD"
+        "NIEHS"
       ],
       "posted_date": "2026-04-06",
       "expiration_date": "2028-07-10",
@@ -733,7 +734,7 @@
       "status": "published",
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/89",
       "contacts": [],
-      "abstract": "<p>The purpose of this topic is to gain a deeper understanding of the mechanistic and functional interrelationships among quiescence, senescence, regulated cell death, and other cell-fate decisions. Moving beyond classification, this initiative seeks to uncover the molecular logic governing cell fate under stress and during aging -- knowledge essential for the rational design of next-generation therapeutics targeting aging and age-related diseases (ARD).</p><p><strong>Background</strong></p><p>Despite remarkable progress in cellular senescence research, much of the past decade has focused on defining the extraordinary heterogeneity of senescent cells, shaped by inducing stressors, tissue of origin, and organismal age, leading to the concept of distinct “senotypes.” While this groundbreaking work has transformed the field, fundamental mechanistic questions remain unresolved.</p><p>A central premise of this initiative is that quiescence, senescence, and apoptosis represent interconnected, yet distinct, states of cell-cycle withdrawal. Whether these states constitute separate endpoints, exist along a continuum, or reflect probabilistic outcomes of cell-cycle re-entry remains unknown. Furthermore, how aging reshapes these decision pathways, and whether they can be therapeutically redirected remains a major gap in aging and disease. </p><p>By elucidating how stressed cells choose between repair, quiescence, senescence, or death, and how these processes are altered by aging, this topic aims to establish a mechanistic foundation for precision therapeutics. Ultimately, these efforts will accelerate strategies to prevent or delay ARD and extend healthspan.</p><h2>Participating ICOs</h2><p>Research Areas of Interest may include, but are not limited to, the following:</p><ul><li>Determining whether quiescence and senescence represent discrete cell fates or exist on a continuum of cell-cycle withdrawal, and whether these states are reversible or probabilistic.</li><li>Defining molecular factors that determine whether stressed cells undergo senescence versus apoptosis.</li><li>Identifying cell fate decisions that can be selectively promoted or redirected during aging and ARD, including potential consequences of manipulating these processes.</li><li>Investigating how aging and the hallmarks of aging influence cell fate determination.</li><li>Examining cell fate decisions in brain aging, including mechanisms in post-mitotic neurons and glial populations (astrocytes, microglia, oligodendrocytes, endothelial cells) and their roles in vulnerability and resilience.</li><li>Evaluating how senolytics affect quiescent and reprogramming cell populations, and whether these mechanisms differ from canonical elimination of senescent cells.</li></ul>",
+      "abstract": "<p>The purpose of this topic is to gain a deeper understanding of the mechanistic and functional interrelationships among quiescence, senescence, regulated cell death, and other cell-fate decisions. Moving beyond classification, this initiative seeks to uncover the molecular logic governing cell fate under stress and during aging -- knowledge essential for the rational design of next-generation therapeutics targeting aging and age-related diseases (ARD).</p><p><strong>Background</strong></p><p>Despite remarkable progress in cellular senescence research, much of the past decade has focused on defining the extraordinary heterogeneity of senescent cells, shaped by inducing stressors, tissue of origin, and organismal age, leading to the concept of distinct “senotypes.” While this groundbreaking work has transformed the field, fundamental mechanistic questions remain unresolved.</p><p>A central premise of this initiative is that quiescence, senescence, and apoptosis represent interconnected, yet distinct, states of cell-cycle withdrawal. Whether these states constitute separate endpoints, exist along a continuum, or reflect probabilistic outcomes of cell-cycle re-entry remains unknown. Furthermore, how aging reshapes these decision pathways, and whether they can be therapeutically redirected remains a major gap in aging and disease. </p><p>By elucidating how stressed cells choose between repair, quiescence, senescence, or death, and how these processes are altered by aging, this topic aims to establish a mechanistic foundation for precision therapeutics. Ultimately, these efforts will accelerate strategies to prevent or delay ARD and extend healthspan.</p><h2>Participating ICOs</h2><p>NCI supports projects to decipher molecular and cellular mechanisms governing ranges of cell state and individual or combined roles in cancer initiation, progression, therapy response, and tissue heterogeneity in primary and metastatic sites. Priorities include:</p><ul><li>Define regulatory mechanisms of cell cycle exit/re-entry in quiescent, senescent, stem, progenitor and dormant tumor or stromal cells</li><li>Elucidate epigenetic/heterochromatic, chromatin architecture, genomic instability, transcriptional, metabolic, proteostatic and organelle dynamics-mediated cell state regulation</li><li>Characterize cell fate transitions and heterogeneity driven by quiescence, senescence, dormancy, stemness, and proliferative states, including senescence-associated secretory phenotype-mediated reprogramming of cells or microenvironments in tumor evolution, barrier functions and pre-metastatic niche formation</li><li>Define distinct or overlapping mechanisms of varied cell states of cancer or stromal cell death and related pathways</li></ul>",
       "abstract_is_html": true
     },
     {
@@ -854,6 +855,7 @@
         "NHGRI",
         "NIA",
         "NIAAA",
+        "NIAID",
         "NIAMS",
         "NIDA",
         "NIDCR",
@@ -862,8 +864,7 @@
         "NIMH",
         "NLM",
         "ODSS",
-        "ORWH",
-        "NIAID"
+        "ORWH"
       ],
       "posted_date": "2026-03-23",
       "expiration_date": "2028-06-24",
@@ -1060,9 +1061,9 @@
       "title": "Tackling Acquisition of Language in Kids (TALK)",
       "lead_ico": "NIDCD",
       "participating_icos": [
+        "NCATS",
         "NICHD",
-        "NIMH",
-        "NCATS"
+        "NIMH"
       ],
       "posted_date": "2026-02-24",
       "expiration_date": "2028-04-21",
@@ -1123,7 +1124,7 @@
       "contacts": [
         "afrouz.anderson@nih.gov"
       ],
-      "abstract": "<p>Quantum technologies harness the principles of quantum physics to make measurements at the sub-atomic length scale to extend and enhance classical capabilities. Their coherence-driven properties deliver unprecedented spatial resolution and sensitivity, enabling near-term, real-world biomedical applications. These approaches can detect subtle biological changes, simulate complex biomolecules, and power next-generation imaging, diagnostic, and computational platforms. </p><p>Although many emerging quantum technologies have yet to be fully explored in biomedical contexts, continued development and optimization could dramatically enhance biomedical and clinical research. This creates unique opportunities to advance biomedical discoveries through both the development of novel quantum approaches and the integration of quantum technologies with classical systems, extending their capabilities for human health in ways not previously possible.</p><p><strong>Topics of interest:</strong></p><ul><li>Quantum-enhanced imaging methods and other innovative approaches that enable new biologically relevant measurements and facilitate early disease detection.</li><li>Next-generation quantum diagnostics, including in-vitro platforms such as lab-on-a-chip and microfluidic systems, for highly precise and sensitive biological and point-of-care measurements.</li><li>Optoelectronic biointerfaces utilizing quantum technologies for monitoring and modulating human physiology</li><li>Quantum control and sensing to modulate and read very weak biological signals toward personalized medicine and therapy.</li><li>Quantum algorithms and computational tools to simulate biomolecular interactions, analyze complex datasets, and accelerate therapeutic discovery beyond classical capabilities.</li><li>Novel and innovative quantum approaches that push the boundaries of biomedical and clinical research beyond those listed here.</li></ul></p><h2>Participating ICOs</h2><p>NIBIB’s interests include the development of quantum technologies and their integration into bioengineering, sensing, imaging, and computational frameworks to improve human health and medical care. NIBIB supports development of quantum technologies that are expected to be applicable to a broad spectrum of disorders and diseases. Projects that use a single tissue, organ, disease, or physiological condition as a model system to enable the development of broadly applicable quantum technologies are within the NIBIB mission.</p>",
+      "abstract": "<p>Quantum technologies harness the principles of quantum physics to make measurements at the sub-atomic length scale to extend and enhance classical capabilities. Their coherence-driven properties deliver unprecedented spatial resolution and sensitivity, enabling near-term, real-world biomedical applications. These approaches can detect subtle biological changes, simulate complex biomolecules, and power next-generation imaging, diagnostic, and computational platforms. </p><p>Although many emerging quantum technologies have yet to be fully explored in biomedical contexts, continued development and optimization could dramatically enhance biomedical and clinical research. This creates unique opportunities to advance biomedical discoveries through both the development of novel quantum approaches and the integration of quantum technologies with classical systems, extending their capabilities for human health in ways not previously possible.</p><p><strong>Topics of interest:</strong></p><ul><li>Quantum-enhanced imaging methods and other innovative approaches that enable new biologically relevant measurements and facilitate early disease detection.</li><li>Next-generation quantum diagnostics, including in-vitro platforms such as lab-on-a-chip and microfluidic systems, for highly precise and sensitive biological and point-of-care measurements.</li><li>Optoelectronic biointerfaces utilizing quantum technologies for monitoring and modulating human physiology</li><li>Quantum control and sensing to modulate and read very weak biological signals toward personalized medicine and therapy.</li><li>Quantum algorithms and computational tools to simulate biomolecular interactions, analyze complex datasets, and accelerate therapeutic discovery beyond classical capabilities.</li><li>Novel and innovative quantum approaches that push the boundaries of biomedical and clinical research beyond those listed here.</li></ul></p><h2>Participating ICOs</h2><p>The NIH BRAIN Initiative is interested in the development, or application, of quantum principles and technologies for recording, modulation, imaging, and/or sensing of the nervous system and its environment. Quantum enabled technologies are expected to lead to substantially improved performance in signal-to-noise ratio, spatial or temporal resolution, or reduction in size-weight-and-power and portability. Projects that involve in vivo testing are preferred, although early stage in vitro or in silico methods will be considered. Projects in these domains would be appropriate for the BRAIN Initiative tools and technology development focused funding opportunities.</p>",
       "abstract_is_html": true
     },
     {
@@ -1142,7 +1143,7 @@
       "contacts": [
         "Peter.koch@nih.gov"
       ],
-      "abstract": "<p>It is estimated that 1 in 10 US residents suffer from a rare disease, most of which present in childhood. For many of these diseases, the underlying causes are either unknown or incompletely understood. Further, most of these diseases (approximately 95%) lack FDA-approved treatment, leading to significant childhood morbidity and mortality.  </p><p>This topic aims to facilitate research on rare skin diseases. Projects including multidisciplinary teams of basic, translational, and clinical scientists are of particular interest.  </p><p>Topics of interest include, but are not limited to:  </p><ul><li>Environmental triggers (pollutants, UV exposure, allergens) of disease development. </li><li>Diagnostic markers and biomarkers (e.g., disease progression and treatment response). </li><li>In vivo and in vitro disease models for mechanistic studies and drug screening, including those proposed in the New Approach Methodologies (NAM) NIH initiative (e.g., human cell-based organoids, 3D culture systems, tissue or organ on-a-chip) (NIH Standardized Organoid Modeling (SOM) Center | National Institutes of Health (NIH)) </li><li>Genetic studies identifying the causes of rare skin diseases. </li><li>Identification of molecular and cellular disease pathways and potential therapeutic targets. </li><li>Commonalities across diseases for developing new therapies that can target multiple disorders. </li><li>FDA-approved drugs repurposed to treat rare diseases </li><li>Cell and gene therapy approaches </li><li>Revertant mosaicism as a window into treatment strategies and disease reversal mechanisms </li></ul><p>Examples of diseases of interest include (but are not limited to): </p><ul><li>Calciphylaxis </li><li>Darier Disease </li><li>Dermatomyositis </li><li>Ectodermal Dysplasia </li><li>Erythropoietic Protoporphyria </li><li>Grover Disease </li><li>Hailey-Hailey Disease </li><li>Ichthyoses </li><li>Pachyonychia Congenita </li><li>Pseudoxanthoma Elasticum </li><li>Pyoderma Gangrenosum </li><li>Recessive Dystrophic Epidermolysis Bullosa </li><li>Sturge-Weber Syndrome </li></ul></p><h2>Participating ICOs</h2><p>NIAMS encourages research into rare skin diseases, including genetic causes and disease mechanisms. The goal is to develop new therapies. Multidisciplinary and team science approaches are of particular interest.</p>",
+      "abstract": "<p>It is estimated that 1 in 10 US residents suffer from a rare disease, most of which present in childhood. For many of these diseases, the underlying causes are either unknown or incompletely understood. Further, most of these diseases (approximately 95%) lack FDA-approved treatment, leading to significant childhood morbidity and mortality.  </p><p>This topic aims to facilitate research on rare skin diseases. Projects including multidisciplinary teams of basic, translational, and clinical scientists are of particular interest.  </p><p>Topics of interest include, but are not limited to:  </p><ul><li>Environmental triggers (pollutants, UV exposure, allergens) of disease development. </li><li>Diagnostic markers and biomarkers (e.g., disease progression and treatment response). </li><li>In vivo and in vitro disease models for mechanistic studies and drug screening, including those proposed in the New Approach Methodologies (NAM) NIH initiative (e.g., human cell-based organoids, 3D culture systems, tissue or organ on-a-chip) (NIH Standardized Organoid Modeling (SOM) Center | National Institutes of Health (NIH)) </li><li>Genetic studies identifying the causes of rare skin diseases. </li><li>Identification of molecular and cellular disease pathways and potential therapeutic targets. </li><li>Commonalities across diseases for developing new therapies that can target multiple disorders. </li><li>FDA-approved drugs repurposed to treat rare diseases </li><li>Cell and gene therapy approaches </li><li>Revertant mosaicism as a window into treatment strategies and disease reversal mechanisms </li></ul><p>Examples of diseases of interest include (but are not limited to): </p><ul><li>Calciphylaxis </li><li>Darier Disease </li><li>Dermatomyositis </li><li>Ectodermal Dysplasia </li><li>Erythropoietic Protoporphyria </li><li>Grover Disease </li><li>Hailey-Hailey Disease </li><li>Ichthyoses </li><li>Pachyonychia Congenita </li><li>Pseudoxanthoma Elasticum </li><li>Pyoderma Gangrenosum </li><li>Recessive Dystrophic Epidermolysis Bullosa </li><li>Sturge-Weber Syndrome </li></ul></p><h2>Participating ICOs</h2><p>NCATS develops <strong>s</strong>olutions <strong>t</strong>hat <strong>a</strong>id <strong>m</strong>any <strong>t</strong>ranslational <strong>r</strong>esearch <strong>e</strong>fforts (STAMTRE). Specifically, we are interested in supporting research focused on STAMTRE that are applicable to multiple rare skin diseases, including but not limited to:</p>",
       "abstract_is_html": true
     },
     {
@@ -1158,7 +1159,7 @@
       "status": "published",
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/72",
       "contacts": [],
-      "abstract": "<p><strong>Background:</strong> Acquired neuropathy (AN) can result from inflammation, autoimmunity, chemotherapy, and diabetes. AN results in chronic pain, loss of sensation, amputations, and life-threatening autonomic dysfunction. Current therapeutic approaches are limited to symptom management and don’t address the underlying pathophysiology or reverse nerve damage. Recent advances in bioinformatics, neuromodulation, regenerative medicine, and peripheral nerve biology create opportunities to develop disease-modifying interventions. </p><p>This topic encourages research focused on three identified gap areas: </p><ul><li><strong>Biomarkers:</strong> Existing large-scale datasets may contain unrecognized signatures associated with AN development and progression, offering opportunities to identify and validate novel biomarkers for early detection, prognosis, and responses to treatments. </li><li><strong>Clinical Outcome Measures: </strong>The field of AN assessment faces challenges in developing sensitive, practical tools for early detection and progression monitoring - particularly for autonomic neuropathy - necessitating research to develop new or improve existing measures that are fit-for-purpose.</li><li><strong>Regenerative and Neuroprotective Therapeutics: </strong>Advances in understanding disease mechanisms suggest possible interventions that may halt or reverse AN. There is a need to translate these findings into new therapeutic approaches, platforms and models for preclinical testing and clinical trial strategies.  </li></ul><i></i>This topic is being issued as part of the Make America Healthy Again initiative, which is expanding NIH and agency research into specific areas.</p><h2>Participating ICOs</h2><p>The National Institute of Diabetes, Digestion, and Kidney Diseases is interested in research that investigates the pathophysiology of diabetic neuropathy (DN) in peripheral as well as autonomic nerves, as well as the sources of heterogeneity in the presentation and progression of DN among people with diabetes. Collaborations between basic neuroscientists and clinicians with expertise in DN is encouraged. </p>",
+      "abstract": "<p><strong>Background:</strong> Acquired neuropathy (AN) can result from inflammation, autoimmunity, chemotherapy, and diabetes. AN results in chronic pain, loss of sensation, amputations, and life-threatening autonomic dysfunction. Current therapeutic approaches are limited to symptom management and don’t address the underlying pathophysiology or reverse nerve damage. Recent advances in bioinformatics, neuromodulation, regenerative medicine, and peripheral nerve biology create opportunities to develop disease-modifying interventions. </p><p>This topic encourages research focused on three identified gap areas: </p><ul><li><strong>Biomarkers:</strong> Existing large-scale datasets may contain unrecognized signatures associated with AN development and progression, offering opportunities to identify and validate novel biomarkers for early detection, prognosis, and responses to treatments. </li><li><strong>Clinical Outcome Measures: </strong>The field of AN assessment faces challenges in developing sensitive, practical tools for early detection and progression monitoring - particularly for autonomic neuropathy - necessitating research to develop new or improve existing measures that are fit-for-purpose.</li><li><strong>Regenerative and Neuroprotective Therapeutics: </strong>Advances in understanding disease mechanisms suggest possible interventions that may halt or reverse AN. There is a need to translate these findings into new therapeutic approaches, platforms and models for preclinical testing and clinical trial strategies.  </li></ul><i></i>This topic is being issued as part of the Make America Healthy Again initiative, which is expanding NIH and agency research into specific areas.</p><h2>Participating ICOs</h2><p>NCI is interested in research on acquired neuropathies related to cancer or cancer treatment. Chemotherapy-induced peripheral neuropathy (CIPN) is a common acquired neuropathy experienced by cancer patients, but neuropathy can also arise from other forms of treatment, such as surgery or radiation, or cancer itself. Research topics of interest includes but not limited to: </p><ul><li>Identifying biomarkers for use in early detection of cancer-related neuropathy or to predict the likelihood of developing neuropathy during cancer therapy</li><li>Developing new outcome measures for early detection of CIPN and other cancer-related neuropathies</li><li>Therapeutic development to prevent or mitigate cancer-related neuropathies</li><li>Developing or optimizing translatable models for identifying and screening therapeutic approaches for cancer-related neuropathies</li><li>Identifying factors in preclinical models that contribute to variability in CIPN development and mitigation, such as the presence of a tumor, age, and comorbid conditions</li></ul>",
       "abstract_is_html": true
     },
     {
@@ -1186,10 +1187,10 @@
         "NCCIH",
         "NCI",
         "NEI",
+        "NHLBI",
         "NIA",
         "NIDDK",
-        "ONR",
-        "NHLBI"
+        "ONR"
       ],
       "posted_date": "2026-02-13",
       "expiration_date": "2028-05-20",
@@ -1310,7 +1311,7 @@
       "status": "published",
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/51",
       "contacts": [],
-      "abstract": "<p>This topic encourages studies that develop and apply degrader technologies to target disease-associated factors across a range of pathologies.</p><p>A major emphasis is the development of therapeutics that selectively eliminate toxic proteins. Traditional strategies for diseases such proteinopathies aim to restore proteostasis by modulating protein synthesis, folding, aggregation, and degradation; however, these approaches have had limited success, and many dysregulated proteins remain difficult to target due to structural complexity. Emerging targeted protein degradation (TPD) platforms expand therapeutic opportunities by enabling the selective removal of pathogenic proteins. These approaches include proteolysis-targeting chimeras (PROTACs), molecular glues, and hydrophobic tag tethering degraders (HyTTDs) that engage the ubiquitin–proteasome system (UPS). Other strategies, such as lysosome-targeting chimeras (LYTACs) and antibody-based PROTACs (AbTACs), leverage lysosomal pathways including endocytosis, phagocytosis, and autophagy, further broaden the types of proteins and pathogenic factors that can be targeted for degradation. </p><p>Recognizing the versatility of nucleic acid–based approaches, RNA-targeted chimeras (RIBOTACs) and antisense-mediated degradation further expand the therapeutic toolkit for targeting diverse pathogenic processes.</p><p>This topic encourages studies that advance novel targeted degrader technologies, identify specific and druggable targets, and establish translatable preclinical biomarkers to monitor disease progression and predict therapeutic response. Complementary mechanistic studies investigating the cellular toxicity of factors amenable to degrader-based interventions are also within scope.</p><i></i>This topic is being issued as part of the Make America Healthy Again initiative, which is expanding NIH and agency research into specific areas.</p><h2>Participating ICOs</h2><p>Several eye diseases are associated with misfolded protein aggregates, including various forms of retinitis pigmentosa, maculopathies, glaucoma, cataracts and corneal dystrophy. The NEI seeks research in scope including the use of organoids, computational models, microphysiological systems and other novel approach methodologies (NAMs) to advance our understanding of the mechanisms by which eye disease-associated proteins misfold and to develop treatments to improve vision. </p>",
+      "abstract": "<p>This topic encourages studies that develop and apply degrader technologies to target disease-associated factors across a range of pathologies.</p><p>A major emphasis is the development of therapeutics that selectively eliminate toxic proteins. Traditional strategies for diseases such proteinopathies aim to restore proteostasis by modulating protein synthesis, folding, aggregation, and degradation; however, these approaches have had limited success, and many dysregulated proteins remain difficult to target due to structural complexity. Emerging targeted protein degradation (TPD) platforms expand therapeutic opportunities by enabling the selective removal of pathogenic proteins. These approaches include proteolysis-targeting chimeras (PROTACs), molecular glues, and hydrophobic tag tethering degraders (HyTTDs) that engage the ubiquitin–proteasome system (UPS). Other strategies, such as lysosome-targeting chimeras (LYTACs) and antibody-based PROTACs (AbTACs), leverage lysosomal pathways including endocytosis, phagocytosis, and autophagy, further broaden the types of proteins and pathogenic factors that can be targeted for degradation. </p><p>Recognizing the versatility of nucleic acid–based approaches, RNA-targeted chimeras (RIBOTACs) and antisense-mediated degradation further expand the therapeutic toolkit for targeting diverse pathogenic processes.</p><p>This topic encourages studies that advance novel targeted degrader technologies, identify specific and druggable targets, and establish translatable preclinical biomarkers to monitor disease progression and predict therapeutic response. Complementary mechanistic studies investigating the cellular toxicity of factors amenable to degrader-based interventions are also within scope.</p><i></i>This topic is being issued as part of the Make America Healthy Again initiative, which is expanding NIH and agency research into specific areas.</p><h2>Participating ICOs</h2><p>NCI supports projects on:</p><ul><li>Novel therapeutic approaches to target overexpressed or hyperactivated oncoproteins</li><li>TPD approaches that include PROTACs, LYTACS, and molecular glues</li></ul>",
       "abstract_is_html": true
     },
     {
@@ -1383,15 +1384,15 @@
       "title": "Advancing the Science of Prenatal Dietary Supplements",
       "lead_ico": "ODS",
       "participating_icos": [
+        "NEI",
         "NIAAA",
+        "NICHD",
         "NIDCR",
         "NIEHS",
         "OBSSR",
         "ODP",
         "ONR",
-        "ORWH",
-        "NICHD",
-        "NEI"
+        "ORWH"
       ],
       "posted_date": "2026-01-07",
       "expiration_date": "2028-05-21",
@@ -1413,19 +1414,19 @@
         "NIAID",
         "NIBIB",
         "NIDCR",
+        "NIMH",
+        "NIMHD",
+        "NLM",
         "OBSSR",
         "ODSS",
-        "ORWH",
-        "NLM",
-        "NIMHD",
-        "NIMH"
+        "ORWH"
       ],
       "posted_date": "2026-01-01",
       "expiration_date": "2028-03-31",
       "status": "published",
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/54",
       "contacts": [],
-      "abstract": "<p><strong>Background</strong></p><p>Biomedical innovation has positively impacted the lives of all Americans. Underlying each basic and translational discovery is the biomedical research ecosystem – the networks of scientists, organizations, and policies – that promotes or constrains the ability to make breakthroughs and develop solutions that address critical public health challenges. The “science of science” is a research field dedicated to understanding the mechanisms that underlie scientific advancement, and studies in this field contribute to sustaining a vibrant biomedical research ecosystem. </p><p>This topic encourages research projects focused on a better understanding of the biomedical research ecosystem and strengthening the study of the “science of science” within biomedicine. This includes, but is not limited to, studies from a variety of social science fields on topics such as:</p><ul><li>Sustaining a robust biomedical research workforce.</li><li>Promoting research capacity at institutions and regions across the Nation.</li><li>Spurring research innovation.</li><li>Promoting rigorous and reproducible research.</li><li>Enhancing the efficiency of translation of basic discoveries into therapies and approaches that improve population health.</li><li>Understanding the relationship between biomedical research investment and positive economic outcomes such as commercialization. </li></ul></p><h2>Participating ICOs</h2><p>Areas of interest include, but are not limited to, research in the following areas:  </p><ul><li>The factors and mechanisms that promote interest, preparedness, retention and success in careers in the biomedical research workforce.</li><li>Strategies to promote rigorous and reproducible research.</li><li>Mechanisms to promote innovative and impactful research.</li><li>Fostering greater collaboration and team science.</li><li>Approaches to sustainably enhancing research capacity and infrastructure.</li><li>Economic outcomes of biomedical science investments.</li></ul><p>Areas of interest include, but are not limited to, the following areas:</p><ul><li>Factors that enhance recruitment, interdisciplinary career development, and retention of ophthalmologists and optometrists in biomedical research to foster a sustainable, well-trained workforce in vision research. </li><li>Identifying barriers that slow or prevent the transition of basic research findings into community health, clinical, or commercial spaces to improve the vision health of the American population.</li><li>New metrics (e.g., S-index) and strategies to evaluate data sharing in the vision research community.</li><li>Pathways to promote data standardization, rigor and reproducibility of research findings.</li><li>Development of effective models for cross-disciplinary collaboration and team science.</li></ul>",
+      "abstract": "<p><strong>Background</strong></p><p>Biomedical innovation has positively impacted the lives of all Americans. Underlying each basic and translational discovery is the biomedical research ecosystem – the networks of scientists, organizations, and policies – that promotes or constrains the ability to make breakthroughs and develop solutions that address critical public health challenges. The “science of science” is a research field dedicated to understanding the mechanisms that underlie scientific advancement, and studies in this field contribute to sustaining a vibrant biomedical research ecosystem. </p><p>This topic encourages research projects focused on a better understanding of the biomedical research ecosystem and strengthening the study of the “science of science” within biomedicine. This includes, but is not limited to, studies from a variety of social science fields on topics such as:</p><ul><li>Sustaining a robust biomedical research workforce.</li><li>Promoting research capacity at institutions and regions across the Nation.</li><li>Spurring research innovation.</li><li>Promoting rigorous and reproducible research.</li><li>Enhancing the efficiency of translation of basic discoveries into therapies and approaches that improve population health.</li><li>Understanding the relationship between biomedical research investment and positive economic outcomes such as commercialization. </li></ul></p><h2>Participating ICOs</h2><p>Areas of interest include, but are not limited to, the following areas:</p><ul><li>Factors that enhance recruitment, interdisciplinary career development, and retention of ophthalmologists and optometrists in biomedical research to foster a sustainable, well-trained workforce in vision research. </li><li>Identifying barriers that slow or prevent the transition of basic research findings into community health, clinical, or commercial spaces to improve the vision health of the American population.</li><li>New metrics (e.g., S-index) and strategies to evaluate data sharing in the vision research community.</li><li>Pathways to promote data standardization, rigor and reproducibility of research findings.</li><li>Development of effective models for cross-disciplinary collaboration and team science.</li></ul>",
       "abstract_is_html": true
     },
     {
@@ -1445,14 +1446,14 @@
         "NIDA",
         "NIDCD",
         "NIDCR",
+        "NIEHS",
         "NIMH",
+        "NIMHD",
         "NINDS",
         "NINR",
         "OAR",
         "OBSSR",
-        "ODSS",
-        "NIMHD",
-        "NIEHS"
+        "ODSS"
       ],
       "posted_date": "2025-12-15",
       "expiration_date": "2028-01-12",
@@ -1569,6 +1570,7 @@
         "NHGRI",
         "NHLBI",
         "NIAAA",
+        "NIAID",
         "NIAMS",
         "NICHD",
         "NIDA",
@@ -1578,8 +1580,7 @@
         "NINR",
         "OAR",
         "OBSSR",
-        "ODP",
-        "NIAID"
+        "ODP"
       ],
       "posted_date": "2025-09-01",
       "expiration_date": "2028-04-14",
@@ -1676,7 +1677,7 @@
       "status": "published",
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/12",
       "contacts": [],
-      "abstract": "<p>This topic aims to promote the integration of computational approaches into fundamental neuroscience research. It encourages rigorous, hypothesis-driven multidisciplinary research to interrogate the molecular and cellular mechanisms underlying the structure and function of brain cells and neural circuits, in health and disease and across the lifespan.</p><p>Such studies can begin to model the complex spatiotemporal interactions between receptors, ion channels, enzymes, and other signaling intermediates toward the goals of uncovering mechanistic links across biological scales. The use of biophysically based models of molecular pathways, cellular processes, and morphology is encouraged, as are machine learning (ML) and artificial intelligence (AI) algorithms. Integration of computational approaches with precise, state-of-the-art in vitro, ex vivo, or in vivo experimental paradigms, which offer high spatial and/or temporal resolution for measurement and manipulation of molecular and cellular processes, is strongly encouraged. </p><p>Also, this topic promotes the creation of advanced open-source analytical tools that will be made available to researchers in academia and industry. Interdisciplinary collaboration, fostering partnerships between investigators with complementary theoretical/computational and experimental neuroscience expertise is strongly encouraged. Such collaborations can drive innovative research and address scientific and technical challenges that might otherwise be intractable.</p><h2>Participating ICOs</h2><p>The National Institute of Mental Health (NIMH) is interested in research that applies computational approaches to fundamental neuroscience research investigating the molecular and cellular mechanisms that drive the structure and function of cells and circuits supporting cognitive, affective, and social domains. Collaborations between investigators with complementary computational and experimental expertise and development of open-source tools is encouraged. </p><p>Areas of interest under this topic include, but are not limited to: </p>",
+      "abstract": "<p>This topic aims to promote the integration of computational approaches into fundamental neuroscience research. It encourages rigorous, hypothesis-driven multidisciplinary research to interrogate the molecular and cellular mechanisms underlying the structure and function of brain cells and neural circuits, in health and disease and across the lifespan.</p><p>Such studies can begin to model the complex spatiotemporal interactions between receptors, ion channels, enzymes, and other signaling intermediates toward the goals of uncovering mechanistic links across biological scales. The use of biophysically based models of molecular pathways, cellular processes, and morphology is encouraged, as are machine learning (ML) and artificial intelligence (AI) algorithms. Integration of computational approaches with precise, state-of-the-art in vitro, ex vivo, or in vivo experimental paradigms, which offer high spatial and/or temporal resolution for measurement and manipulation of molecular and cellular processes, is strongly encouraged. </p><p>Also, this topic promotes the creation of advanced open-source analytical tools that will be made available to researchers in academia and industry. Interdisciplinary collaboration, fostering partnerships between investigators with complementary theoretical/computational and experimental neuroscience expertise is strongly encouraged. Such collaborations can drive innovative research and address scientific and technical challenges that might otherwise be intractable.</p><h2>Participating ICOs</h2><p>The NCCIH supports the development of computational methods and tools that include complementary and integrative health approaches for improving diagnosis, prevention, or treatment of diseases and symptoms, and promoting well-being and whole person health. Emphasis is on integrating computational methods into neuroscience research and therapeutics development. This includes using biophysically based models, machine learning (ML), and artificial intelligence (AI) algorithms. Integration with advanced experimental paradigms for precise measurement and manipulation of molecular and cellular processes is encouraged. This topic supports interdisciplinary collaboration and the creation of open-source analytical tools. Additionally, NCCIH supports multisystem studies to understand brain and nervous system interactions, including interoception, and the impact of multi-component interventions in pre-clinical models and/or human subjects. </p>",
       "abstract_is_html": true
     },
     {
@@ -1694,13 +1695,13 @@
         "NIDCR",
         "NIDDK",
         "NIMH",
+        "NIMHD",
         "NINR",
         "NLM",
         "ODP",
         "ORIP",
         "ORWH",
-        "THRO",
-        "NIMHD"
+        "THRO"
       ],
       "posted_date": "2025-07-30",
       "expiration_date": "2027-12-02",
@@ -1753,12 +1754,12 @@
       "title": "Technology Development for Genomics",
       "lead_ico": "NHGRI",
       "participating_icos": [
+        "NCI",
         "NEI",
         "NIAID",
         "NIDA",
         "NLM",
-        "ORWH",
-        "NCI"
+        "ORWH"
       ],
       "posted_date": "2025-07-14",
       "expiration_date": "2027-08-29",
@@ -1775,13 +1776,13 @@
       "title": "Advancing the Use of Genomic Information Into Clinical Care",
       "lead_ico": "NHGRI",
       "participating_icos": [
+        "NCI",
         "NIAID",
         "NIDA",
+        "NIDCR",
         "NINDS",
         "NINR",
-        "ORWH",
-        "NIDCR",
-        "NCI"
+        "ORWH"
       ],
       "posted_date": "2025-07-14",
       "expiration_date": "2027-08-29",
@@ -1798,11 +1799,11 @@
       "title": "Priority Research Questions in Fundamental Cellular and Molecular Neuroscience",
       "lead_ico": "NINDS",
       "participating_icos": [
+        "NEI",
         "NIBIB",
         "NIDA",
         "NIMH",
-        "ORWH",
-        "NEI"
+        "ORWH"
       ],
       "posted_date": "2025-07-11",
       "expiration_date": "2027-09-15",
@@ -1811,7 +1812,7 @@
       "contacts": [
         "FN@ninds.nih.gov"
       ],
-      "abstract": "<p>Fundamental neuroscience encompasses a broad area of research interests and levels of study. While NIH actively supports all these areas, the current topic is focused on the areas of cellular and molecular neuroscience. These areas represent gaps in our understanding of the subcellular and molecular architecture of neurons and glia, their dynamic interactions, and the tools and/or resources required to interrogate them in vivo. </p><p>Areas of research interest include but are not limited to:</p><ul><li><strong>Macromolecular Cartography: </strong>A detailed, dynamic map of protein complexes and functional units within neurons and glia to understand mesoscale organization (approximately 10nm–1μm resolution). Of particular interest are tools which advance the analysis of subsets of proteins within functional units to determine how molecular organization enables function, and the dynamics and physiological state-dependence of molecular interactions in vivo.</li><li><strong>Molecular Turnover and Plasticity:</strong> Quantitative spatiotemporal tools to measure protein and molecule stability in neurons and glia both temporally and spatially, turnover, and function across lifespan and cellular contexts.</li><li><strong>Developmental Cellular Dynamics:</strong> Tools and frameworks to better visualize nervous cell migration and cell-cell interactions in neurodevelopmental processes in vivo. Some of the many possible examples of these processes include axon and dendrite function, apoptosis and the formation of the blood brain barrier.</li><li><strong>Metabolic and Lipid Signaling:</strong> Development of in vivo sensors to study metabolism and lipid dynamics critical for cell signaling and structural integrity in neurons and glia.  </li></ul></p><h2>Participating ICOs</h2><p>The National Institute of Neurological Disorders and Stroke (NINDS) encourages investigator-initiated, interdisciplinary, and technology-driven research proposals that address the above foundational questions. The Fundamental Neuroscience Working Group (FNWG) of the NINDS advisory council identified these research areas as critical knowledge gaps and opportunities in FN. This includes embracing exploratory science, enabling non-traditional models, and fostering team science that incorporates engineering, chemistry, and biophysics. While NINDS continues to encourage FN research at all levels of study, including complimentary efforts to understand circuits via the BRAIN Initiative, by focusing on cellular and subcellular neuroscience, NINDS intends to catalyze innovation in this area, ensuring the health of the basic neuroscience research ecosystem and enhancing our mechanistic understanding of nervous system function.</p>",
+      "abstract": "<p>Fundamental neuroscience encompasses a broad area of research interests and levels of study. While NIH actively supports all these areas, the current topic is focused on the areas of cellular and molecular neuroscience. These areas represent gaps in our understanding of the subcellular and molecular architecture of neurons and glia, their dynamic interactions, and the tools and/or resources required to interrogate them in vivo. </p><p>Areas of research interest include but are not limited to:</p><ul><li><strong>Macromolecular Cartography: </strong>A detailed, dynamic map of protein complexes and functional units within neurons and glia to understand mesoscale organization (approximately 10nm–1μm resolution). Of particular interest are tools which advance the analysis of subsets of proteins within functional units to determine how molecular organization enables function, and the dynamics and physiological state-dependence of molecular interactions in vivo.</li><li><strong>Molecular Turnover and Plasticity:</strong> Quantitative spatiotemporal tools to measure protein and molecule stability in neurons and glia both temporally and spatially, turnover, and function across lifespan and cellular contexts.</li><li><strong>Developmental Cellular Dynamics:</strong> Tools and frameworks to better visualize nervous cell migration and cell-cell interactions in neurodevelopmental processes in vivo. Some of the many possible examples of these processes include axon and dendrite function, apoptosis and the formation of the blood brain barrier.</li><li><strong>Metabolic and Lipid Signaling:</strong> Development of in vivo sensors to study metabolism and lipid dynamics critical for cell signaling and structural integrity in neurons and glia.  </li></ul></p><h2>Participating ICOs</h2><p>The National Institute of Biomedical Imaging and Bioengineering supports technology development to transform our understanding of disease and its prevention, detection, diagnosis, and treatment. NIBIB interest in this topic is in advancing novel in vivo imaging and sensor technologies that enable dynamic and high-resolution visualization of tissue function and structure across different scales. Areas of interest include:</p>",
       "abstract_is_html": true
     },
     {
@@ -1904,7 +1905,7 @@
       "contacts": [
         "moriah.castleman@nih.gov"
       ],
-      "abstract": "<p>This topic encourages applications to understand the biology of Short-Lived Plasma Cells (SLPC) and Long-Lived Plasma Cells (LLPC) through characterization of plasma cell phenotypes and function in human health and disease.</p><p><strong>Background</strong></p><p>The continuous production of antibodies by LLPC is critical for life-long protective humoral immunity because it does not require restimulation with antigen, unlike the requirements to activate memory B cells. However, LLPC also produce antibodies that: </p><ul><li>Mediate some autoimmune diseases</li><li>Promote allergic responses</li><li>Mediate organ/tissue transplant rejection</li><li>Limit patient access to organ transplantation via pre-sensitization </li></ul><p>LLPC cannot be easily depleted by most drugs currently used to deplete B cells. In contrast, SLPC have reduced survival programming, generally produce lower affinity antibodies, and are susceptible to B cell depletion therapies. LLPC may arise from a subset of SLPC or from distinct differentiation pathways compared to SLPC; although details of the pathways, mediators, and mechanisms of SLPC and LLPC generation remain to be elucidated.</p><p>This topic encourages applications that include:</p><ul><li>Ex vivo analysis of human samples</li><li>New approach methodologies (NAMs)</li><li>Computational modeling of plasma cells in human health and disease</li></ul></p><h2>Participating ICOs</h2><p>This topic will provide foundational information for rational vaccine design to promote Long-Lived Plasma Cells (LLPC) for durable immunity; diminish LLPC or their activity in autoimmune and allergic diseases, and organ transplantation; or redirect plasma cell fate differentiation to the Short-Lived Plasma Cell (SLPC) population. </p><p>Examples of research areas associated with protective or pathogenic immune responses in infectious, immune-mediated or allergic diseases include:</p><ul><li>Identification/characterization of precursor subsets of SLPC or LLPC.</li><li>Characterization of tissue sites and local factors that promote bone marrow engraftment, differentiation, and persistence or residence at alternative sites, e.g., mucosa.</li><li>Effects of host factors (age, microbiome, etc) on SLPC and LLPC differentiation and function.</li><li>Comparison of antigen types and formats (soluble, membrane bound) promoting LLPC vs SLPC.</li></ul>",
+      "abstract": "<p>This topic encourages applications to understand the biology of Short-Lived Plasma Cells (SLPC) and Long-Lived Plasma Cells (LLPC) through characterization of plasma cell phenotypes and function in human health and disease.</p><p><strong>Background</strong></p><p>The continuous production of antibodies by LLPC is critical for life-long protective humoral immunity because it does not require restimulation with antigen, unlike the requirements to activate memory B cells. However, LLPC also produce antibodies that: </p><ul><li>Mediate some autoimmune diseases</li><li>Promote allergic responses</li><li>Mediate organ/tissue transplant rejection</li><li>Limit patient access to organ transplantation via pre-sensitization </li></ul><p>LLPC cannot be easily depleted by most drugs currently used to deplete B cells. In contrast, SLPC have reduced survival programming, generally produce lower affinity antibodies, and are susceptible to B cell depletion therapies. LLPC may arise from a subset of SLPC or from distinct differentiation pathways compared to SLPC; although details of the pathways, mediators, and mechanisms of SLPC and LLPC generation remain to be elucidated.</p><p>This topic encourages applications that include:</p><ul><li>Ex vivo analysis of human samples</li><li>New approach methodologies (NAMs)</li><li>Computational modeling of plasma cells in human health and disease</li></ul></p><h2>Participating ICOs</h2><p>Examples of research areas relevant to the National Institute on Aging (NIA): </p><ul><li>Changes in the biology of plasma cell subpopulations during aging.</li><li>Functional impact of aging phenotypes such as cardiac amyloidosis, frailty, and cognitive decline in plasma cell disorders.</li><li>Geroscience interventions to enhance effective immune response, delay or potentially reverse immune aging in patients with plasma cell disorders.</li></ul><p>This topic will provide foundational information for rational vaccine design to promote Long-Lived Plasma Cells (LLPC) for durable immunity; diminish LLPC or their activity in autoimmune and allergic diseases, and organ transplantation; or redirect plasma cell fate differentiation to the Short-Lived Plasma Cell (SLPC) population. </p>",
       "abstract_is_html": true
     },
     {
@@ -1952,7 +1953,7 @@
       "contacts": [
         "datascience-program@niaid.nih.gov"
       ],
-      "abstract": "<p>This topic encourages innovative research in computational modeling of complex processes across biological scales (i.e., to develop multiscale models).  The topic seeks to build a collaborative community of researchers to improve the replicability and reproducibility of computational multiscale models, promoting their advancement and reuse.</p><p><strong>Background</strong></p><p>Multiscale computational models that integrate processes across different spatial and temporal levels, from molecular to organismal, to epidemiologic and from microseconds to years. They provide a comprehensive understanding of complex systems and offer an exciting opportunity to advance biomedical research. This approach helps reveal how interactions at molecular and cellular scales influence larger, population-, geographical-, or global-scale phenomena, offering insights into complex biological processes, and may help develop better and more precise biomedical interventions. By integrating processes from molecular to epidemiologic levels, multiscale computational models provide a comprehensive understanding of complex systems. This topic encourages innovative research and collaborative approaches that integrate technologies and informatic practices to develop, improve, and disseminate multiscale computational models for human health and diseases, and their associated technologies, across the research community. The topic also supports leveraging computational multiscale models as an important component of Novel Alternative Methods (NAMs) to investigate the mechanism and safety of a medical intervention in pre-clinical, translational, and clinical development.</p><h2>Participating ICOs</h2><p>NIAID supports research in multiscale computational models of allergic, immunologic and infectious disease and to foster a collaborative modeling community. Computational models can:</p><ul><li>elucidate biological mechanisms of infection and/or transmission of pathogens and inform the development of improved countermeasures,</li><li>define immune system regulation and responses to triggers (commensal and pathogenic organisms, preventative strategies, environment, autoantigens, transplant),</li><li>characterize trajectories of allergic or immune-mediated diseases from initiation through progression and/or resolution, including microbiome effects, and</li><li>help to meet emerging needs in response to pathogenic threats. </li></ul>",
+      "abstract": "<p>This topic encourages innovative research in computational modeling of complex processes across biological scales (i.e., to develop multiscale models).  The topic seeks to build a collaborative community of researchers to improve the replicability and reproducibility of computational multiscale models, promoting their advancement and reuse.</p><p><strong>Background</strong></p><p>Multiscale computational models that integrate processes across different spatial and temporal levels, from molecular to organismal, to epidemiologic and from microseconds to years. They provide a comprehensive understanding of complex systems and offer an exciting opportunity to advance biomedical research. This approach helps reveal how interactions at molecular and cellular scales influence larger, population-, geographical-, or global-scale phenomena, offering insights into complex biological processes, and may help develop better and more precise biomedical interventions. By integrating processes from molecular to epidemiologic levels, multiscale computational models provide a comprehensive understanding of complex systems. This topic encourages innovative research and collaborative approaches that integrate technologies and informatic practices to develop, improve, and disseminate multiscale computational models for human health and diseases, and their associated technologies, across the research community. The topic also supports leveraging computational multiscale models as an important component of Novel Alternative Methods (NAMs) to investigate the mechanism and safety of a medical intervention in pre-clinical, translational, and clinical development.</p><h2>Participating ICOs</h2><p>NCCIH supports efforts to advance multiscale computational modeling to generate mechanistic insights and improve clinical outcome prediction for complementary and integrative health approaches within a whole person research framework. </p><p>Whole person research emphasizes multiorgan system integration and dynamic interactions across molecular, cellular, tissue, organ, psychological, behavioral, social, and environmental domains, from individuals to populations and across the lifespan. </p>",
       "abstract_is_html": true
     },
     {
@@ -1960,11 +1961,11 @@
       "title": "Neural Exposome Factors that Affect Brain Health and Neurological Disorders",
       "lead_ico": "NINDS",
       "participating_icos": [
-        "NHLBI",
-        "NIDA",
-        "ORWH",
         "NEI",
-        "NIA"
+        "NHLBI",
+        "NIA",
+        "NIDA",
+        "ORWH"
       ],
       "posted_date": "2025-07-11",
       "expiration_date": "2027-12-02",
@@ -2029,7 +2030,7 @@
       "status": "published",
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/11",
       "contacts": [],
-      "abstract": "<p><strong>Background</strong></p><p>Schools represent the de facto points of service for health promotion and healthcare in many localities. They provide a range of health services, including, but not limited to, mental and behavioral health care. This topic encourages research-informed approaches that can be rapidly deployed and sustained in school and afterschool program settings using available resources and personnel (e.g., existing school personnel, contracted behavioral health providers, coordination and referral to outside providers).</p><p>This topic encourages research focused on optimizing and testing school-based mental and behavioral health interventions and service delivery models. </p><p>Relevant research includes studies focused on: </p><ul><li>Validating sustainable strategies for operationalizing mental health risk, detecting students at risk, and matching students to appropriate interventions and services, including referring to specialty mental health care when needed.</li><li>Developing and validating decision support tools to guide the selection of research-informed approaches provided within schools, based on need and available resources.</li><li>Optimizing and testing research-informed preventive and treatment interventions that can be feasibly and sustainably delivered in school settings, including approaches that address the continuum of need encompassed by the multitiered system of supports framework, from universal prevention to indicated prevention and treatment.</li><li>Evaluating strategies to promote the adoption and sustained fidelity of evidence-based interventions and services in school settings. This may include the judicious use of non-specialty providers to complement and extend the mental health workforce, with implementation models that incorporate scalable and sustainable approaches to training and supervision, safety monitoring, and credentialing.</li></ul></p><h2>Participating ICOs</h2><p>The National Institute of Mental Health (NIMH) supports research that incorporates:</p><ol><li> community-engaged approaches with systematic attention to challenges related to gaining access to schools, workforce shortages and competing workload demands, and privacy concerns;</li><li>research-practice partnerships that leverage existing practice infrastructure (e.g., SAMHSA-supported mental and behavioral health services; Certified Community Behavioral Health Clinics);</li><li>plans to quantify the resources needed to support the sustained implementation of the intervention, tool, or strategy; and</li><li>strategies that promote health for all. </li></ol>",
+      "abstract": "<p><strong>Background</strong></p><p>Schools represent the de facto points of service for health promotion and healthcare in many localities. They provide a range of health services, including, but not limited to, mental and behavioral health care. This topic encourages research-informed approaches that can be rapidly deployed and sustained in school and afterschool program settings using available resources and personnel (e.g., existing school personnel, contracted behavioral health providers, coordination and referral to outside providers).</p><p>This topic encourages research focused on optimizing and testing school-based mental and behavioral health interventions and service delivery models. </p><p>Relevant research includes studies focused on: </p><ul><li>Validating sustainable strategies for operationalizing mental health risk, detecting students at risk, and matching students to appropriate interventions and services, including referring to specialty mental health care when needed.</li><li>Developing and validating decision support tools to guide the selection of research-informed approaches provided within schools, based on need and available resources.</li><li>Optimizing and testing research-informed preventive and treatment interventions that can be feasibly and sustainably delivered in school settings, including approaches that address the continuum of need encompassed by the multitiered system of supports framework, from universal prevention to indicated prevention and treatment.</li><li>Evaluating strategies to promote the adoption and sustained fidelity of evidence-based interventions and services in school settings. This may include the judicious use of non-specialty providers to complement and extend the mental health workforce, with implementation models that incorporate scalable and sustainable approaches to training and supervision, safety monitoring, and credentialing.</li></ul></p><h2>Participating ICOs</h2><p>NIDA is interested in research examining schools as a setting for substance use risk screening and delivering programs/strategies to prevent substance use initiation, misuse and progression to disorder, particularly among high-risk youth. This includes intervention development and effectiveness research and preventive services research. Of interest are projects to enhance uptake and sustainability of evidence-based interventions, including adaptation and customization processes, implementation fidelity, economic analysis, and studies to improve engagement in and access to evidence-based interventions. Stakeholder engagement throughout the research process is strongly encouraged, particularly inclusion of decision-makers and end users. Analyses of underlying mechanisms of action are of interest when embedded in effectiveness trials and have clear implications for how findings can optimize tailoring and delivery within schools (secondary analyses would be lower priority). </p>",
       "abstract_is_html": true
     },
     {
@@ -2038,11 +2039,11 @@
       "lead_ico": "NIMH",
       "participating_icos": [
         "NIA",
+        "NIAAA",
         "NIDA",
+        "NIMHD",
         "ODP",
         "ORWH",
-        "NIAAA",
-        "NIMHD",
         "THRO"
       ],
       "posted_date": "2025-07-10",
@@ -2098,7 +2099,7 @@
       "status": "published",
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/6",
       "contacts": [],
-      "abstract": "<p>The discovery and development of novel therapeutic agents to treat substance use disorders (SUDs) are critically dependent on the identification of novel targets and molecular pathways involved in the etiologies of these conditions, as well as the factors that impact trajectories of relapse and recovery.</p><p>Target identification and prioritization are enabled and accelerated by recent advances in chemical and biological approaches at the molecular, cellular, and circuit levels. Targeted and unbiased molecular profiling approaches are being used in combination with computational models to elucidate the systems-level network and molecular interactions that underpin disease conditions. Techniques such as single-cell and spatial transcriptomics and proteomics, genetic approaches, and computational and artificial intelligence methods to analyze multi-omics and related big data sets, and the ability to design probes using bio-orthogonal chemistry are increasingly being used to rapidly identify disease-relevant targets.</p><p>In parallel, several innovations have emerged as enabling technologies for the identification and optimization of lead compounds. Transformative approaches that have accelerated drug discovery include virtual screening of ultra-large libraries of compounds, experimental screening of DNA-encoded libraries, generative artificial intelligence and machine learning, and induced proximity-based modalities such as proteolysis targeting chimeras (PROTACs) and molecular glues.</p><p>These technological developments provide unprecedented opportunities to interrogate biological pathways, identify novel targets, and discover leads for the development of drugs to treat SUDs. These approaches can also provide innovation addressing the real-world complexities of SUDs, such as polysubstance use and SUDs in the context of comorbidities such as HIV infection, chronic pain, and neuropsychiatric conditions.</p><h2>Participating ICOs</h2><p>Research aimed at elucidating novel targets, methods, and pharmacological approaches for treating or preventing SUDs is a topic of high interest to NIDA.</p>",
+      "abstract": "<p>The discovery and development of novel therapeutic agents to treat substance use disorders (SUDs) are critically dependent on the identification of novel targets and molecular pathways involved in the etiologies of these conditions, as well as the factors that impact trajectories of relapse and recovery.</p><p>Target identification and prioritization are enabled and accelerated by recent advances in chemical and biological approaches at the molecular, cellular, and circuit levels. Targeted and unbiased molecular profiling approaches are being used in combination with computational models to elucidate the systems-level network and molecular interactions that underpin disease conditions. Techniques such as single-cell and spatial transcriptomics and proteomics, genetic approaches, and computational and artificial intelligence methods to analyze multi-omics and related big data sets, and the ability to design probes using bio-orthogonal chemistry are increasingly being used to rapidly identify disease-relevant targets.</p><p>In parallel, several innovations have emerged as enabling technologies for the identification and optimization of lead compounds. Transformative approaches that have accelerated drug discovery include virtual screening of ultra-large libraries of compounds, experimental screening of DNA-encoded libraries, generative artificial intelligence and machine learning, and induced proximity-based modalities such as proteolysis targeting chimeras (PROTACs) and molecular glues.</p><p>These technological developments provide unprecedented opportunities to interrogate biological pathways, identify novel targets, and discover leads for the development of drugs to treat SUDs. These approaches can also provide innovation addressing the real-world complexities of SUDs, such as polysubstance use and SUDs in the context of comorbidities such as HIV infection, chronic pain, and neuropsychiatric conditions.</p><h2>Participating ICOs</h2><p>The National Institute on Alcohol Abuse and Alcoholism (NIAAA) is interested in research aimed at developing both pharmacological and non-pharmacological treatments for alcohol use disorder (AUD) with the use of molecular, screening, and mechanistic approaches, as well as investigating the effectiveness of repurposed medications to treat AUD. </p>",
       "abstract_is_html": true
     },
     {
@@ -2121,6 +2122,7 @@
       "title": "Research on the Transition from Pediatric to Adult Health Care",
       "lead_ico": "NICHD",
       "participating_icos": [
+        "NCI",
         "NHLBI",
         "NIAAA",
         "NIDA",
@@ -2130,8 +2132,7 @@
         "NINR",
         "OBSSR",
         "ODP",
-        "ORWH",
-        "NCI"
+        "ORWH"
       ],
       "posted_date": "2025-07-07",
       "expiration_date": "2027-08-29",
@@ -2150,9 +2151,9 @@
       "participating_icos": [
         "NIAID",
         "NINR",
-        "ORWH",
+        "OAR",
         "ODP",
-        "OAR"
+        "ORWH"
       ],
       "posted_date": "2025-07-07",
       "expiration_date": "2027-09-11",
