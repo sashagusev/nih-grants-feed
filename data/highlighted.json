@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T12:33:16.576072+00:00",
-  "count": 107,
+  "updated_at": "2026-10-21T12:44:07.709499+00:00",
+  "count": 108,
   "data": [
     {
       "id": 175,
@@ -315,6 +315,24 @@
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/113",
       "contacts": [],
       "abstract": "<p>The purpose of this topic is to leverage the sex differences data from Molecular Transducers of Physical Activity (MoTrPAC) studies or other large, publicly accessible datasets to advance the understanding of the impact of these differences on human physiology. </p><p>Sex is a major modifier of the causes of death and morbidity, significantly influencing physiology and disease. Many chronic diseases that significantly impact U.S. healthcare costs—such as cancers, heart diseases, diabetes, osteoarthritis, osteoporosis, auto-immune diseases, and Alzheimer&#x27;s disease—often disproportionately affect women. Despite the implementation of the NIH policy on Sex as a Biological Variable (NOT-OD-15-102), most clinical diagnostics remain predominantly based on data generated from male participants. Not surprisingly, 80% of drugs withdrawn from the market between 1997 and 2000 were removed due to adverse effects observed in women (Gilmer et al., 2023). This emphasizes the fundamental need to understand how sex differences affect normal physiology.</p><p>NIH Common Fund designed a clinical and preclinical study to identify the responses to exercise (Acute and Training). The preclinical study performed multi-omics analyses on 19 tissues/organs from rats of both sexes at 6 and 18 months of age. The results indicate that all organs have a response to exercise. In addition, and more surprisingly, there were varying degrees of sex differences in all organs examined (Many et al., 2024; MoTrPAC Study Group, 2024). This highlights the extreme importance of understanding the mechanisms driving these differences to enable improvements in health and eventually lead to more targeted drug development to treat human diseases. The wide range of the sex differences between organs suggests that tissue-specific factors may be involved. What are the implications of these differences for our understanding of integrated physiological function in humans? How can we use this new and emerging information to provide improved health for all?</p><p><strong>References:</strong></p><p>Gilmer G, Hettinger ZR, Tuakli-Wosornu Y, et al. Female aging: when translational models don&#x27;t translate. <em>Nat Aging</em>. 2023;3(12):1500-1508. doi:10.1038/s43587-023-00509-8.</p><p>Many GM, Sanford JA, Sagendorf TJ, et al. Sexual dimorphism and the multi-omic response to exercise training in rat subcutaneous white adipose tissue. <em>Nat Metab</em>. 2024;6(5):963-979. doi:10.1038/s42255-023-00959-9.</p><p>MoTrPAC Study Group; Lead Analysts; MoTrPAC Study Group. Temporal dynamics of the multi-omic response to endurance exercise training. <em>Nature</em>. 2024;629(8010):174-183. doi:10.1038/s41586-023-06877-w. </p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 119,
+      "title": "Harnessing Data Science to Address HIV and Co-Occurring Conditions to End the HIV Epidemic in the U.S.",
+      "lead_ico": "NIMH",
+      "participating_icos": [
+        "NIAID",
+        "NIDA",
+        "NLM",
+        "OAR"
+      ],
+      "posted_date": "2026-05-22",
+      "expiration_date": "2028-10-20",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/119",
+      "contacts": [],
+      "abstract": "<p><strong>Background: </strong>The rapidly expanding availability of data from electronic health records, wearables, social media, and clinical and community sources, coupled with transformative advances in artificial intelligence/machine learning (AI/ML), natural language processing, mathematics, statistics, and computational approaches, offer unprecedented opportunities to derive real-world, data-driven insights that can reshape science, clinical practice, and public health for HIV and co-occurring conditions.</p><p><strong>Purpose:</strong> This topic aims to support strategies to harness the power of data science, particularly AI/ML, to strengthen the HIV care continuum while addressing the complex conditions that co-occur with HIV, including mental and neurocognitive disorders, substance use, and cardiovascular disease. Realizing the full potential of data science advancements requires high-quality, world-class scientific datasets. Establishing robust infrastructure for secure data sharing across disciplines is central to this topic and aligns with America’s AI Action Plan to build world-class scientific datasets. These infrastructure investments will:</p><ul><li>Accelerate HIV data science efforts,</li><li>Foster cross-disciplinary collaborations, and </li><li>Ensure data can be shared and leveraged effectively to inform rapid, evidence-based response.</li></ul><p>NIH encourages innovative, translational, and transdisciplinary AI/ML research, as well as efforts to build a robust data infrastructure, that can advance integrated data-driven solutions and their implementation to end the HIV epidemic in the U.S., which are key NIH priorities.</p><h2>Participating ICOs</h2><p>NIAID is interested in HIV research that uses F.A.I.R. (Findable, Accessible, Interoperable, and Reproducible) data platforms to integrate genomic, clinical, epidemiologic, observational, trial, and digital data to better understand acute infections and chronic comorbidities, and how they can be predicted, prevented, and treated in people living with HIV. </p><p>Areas of interest include:</p><ul><li>evaluation of current and long-acting antiretroviral therapy (ART) regimens and their effects on co-infections and comorbidities; </li><li>implementation science approaches to improve delivery, uptake, scalability, and sustainability of interventions; and, </li><li>real-time surveillance and data harmonization to strengthen HIV clinical care and public health response. </li></ul>",
       "abstract_is_html": true
     },
     {
