@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T12:50:24.359963+00:00",
+  "updated_at": "2026-10-23T12:28:37.838581+00:00",
   "count": 287,
   "data": [
     {
@@ -1124,7 +1124,19 @@
       "post_date": "2026-09-03",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-RM-28-004"
+      "url": "https://simpler.grants.gov/search?query=RFA-RM-28-004",
+      "award_ceiling": null,
+      "num_awards": "10",
+      "contact_name": "NIH Director's Early Independence Award Program",
+      "contact_email": "EarlyIndependence@od.nih.gov",
+      "abstract": "The NIH Director's Early Independence Award supports outstanding early-career investigators who are ready to pursue independent research soon after completing their doctoral degree or post-graduate clinical training, without following the traditional postdoctoral path. The award is designed to accelerate the transition to an independent research career. Applications are welcome across all fields relevant to the NIH mission. The Early Independence Award is part of the NIH Common Fund's High-Risk, High-Reward Research Program .",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.310",
+          "title": "Trans-NIH Research Support"
+        }
+      ]
     },
     {
       "opportunity_id": "363801",
@@ -1500,7 +1512,19 @@
       "post_date": "2026-08-13",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PA-28-049"
+      "url": "https://simpler.grants.gov/search?query=PA-28-049",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Division of Biomedical Research Workforce",
+      "contact_email": "NIHTrain@mail.nih.gov",
+      "abstract": "The Established Clinician Investigator Award to Support Mentoring provides support to established clinician investigators for a sustained period of protected time to provide high-quality mentoring to early-career clinician research scientists.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.113",
+          "title": "Environmental Health"
+        }
+      ]
     },
     {
       "opportunity_id": "363488",
@@ -1876,7 +1900,19 @@
       "post_date": "2026-07-20",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-007"
+      "url": "https://simpler.grants.gov/search?query=PAR-28-007",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Division of Clinical Innovation, NCATS",
+      "contact_email": "tin@nih.gov",
+      "abstract": "The Clinical and Translational Science Awards Program Trial Innovation Network (TIN) is a collaborative initiative aimed at addressing critical roadblocks in the design and implementation of multi-center clinical trials. The goal of the TIN is to execute trials better, faster, and more cost-efficiently, as well as serve as a national laboratory to study, understand, and innovate the process of conducting multi-center clinical trials. The purpose of the issuance of the Next Generation of the TIN Notice of Funding Opportunity (NOFO) is to advance the science of clinical trials by developing and implementing innovative solutions to address challenges at the clinical trial and trial network levels. Topics of interest include, but are not limited to, safety monitoring tools and resources, trial leader training and mentorship, digital health technologies, genomic capacity, and disease progression modeling. Awards are made under the authorization of Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200. This is a Forecast that will invite applications from all eligible organizations to apply. Please see the Eligibility Section for additional information. In accordance with NIH standard peer-review processes, the applications will be peer-reviewed, and only meritorious applications will be considered for funding.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.350",
+          "title": "National Center for Advancing Translational Sciences"
+        }
+      ]
     },
     {
       "opportunity_id": "363245",
@@ -2408,7 +2444,19 @@
       "post_date": "2026-06-26",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-ES-28-001"
+      "url": "https://simpler.grants.gov/search?query=RFA-ES-28-001",
+      "award_ceiling": null,
+      "num_awards": "2",
+      "contact_name": "National Institute of Environmental Health Sciences",
+      "contact_email": "NOFO.Information@niehs.nih.gov",
+      "abstract": "The goal of the Supporting Programs to Advance Research Knowledge in Environmental Health Sciences (SPARK-EHS) initiative is to extend the institutional, geographical, and research reach of NIEHS training. This initiative proposes to launch new and innovative environmental health training programs for research-focused predoctoral trainees at institutions that have not had a funded NIEHS T32 during the preceding five years. Training programs must be responsive to the mission of NIEHS, which is to support research on how the environment affects biological systems across the lifespan, and to translate this knowledge to reduce disease and promote human health. NIEHS will provide support for a two-phased award to eligible institutions to develop (UE5) and implement (T32) training programs specifically oriented to the research interests of NIEHS. This is a Forecast for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Eligibility Section for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.113",
+          "title": "Environmental Health"
+        }
+      ]
     },
     {
       "opportunity_id": "362957",
@@ -2444,23 +2492,7 @@
       "post_date": "2026-06-24",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AI-28-014",
-      "award_ceiling": null,
-      "num_awards": "10",
-      "contact_name": "NIAID OGAT (Division of Microbiology and Infectious Diseases)",
-      "contact_email": "NIAIDOGAT@mail.nih.gov",
-      "abstract": "The National Institute of Allergy and Infectious Diseases (NIAID) seeks to advance its mission by supporting multidisciplinary, consortium-based research using precision systems biology approaches to uncover links among chronic illnesses, infectious diseases and microbiomes. There is an urgent scientific and clinical need to understand the pathways by which infections lead to chronic lifelong health issues or alternatively, how long-term illnesses might predispose or exacerbate acute infections. The objective is to harness cutting-edge technologies along with longitudinal patient cohorts and biobank data for comprehensive analysis of genetic, environmental, and lifestyle factors leading to advances in prevention and treatment strategies for both chronic and infectious diseases. The cutting-edge technologies may include multi-omics, computational modeling, artificial intelligence, organoid-based validation systems, and integration of real-world data, alongside improved access to digital health records and advanced clinical informatics tools. The goal is to generate meaningful insights into disease progression and host-pathogen interactions. Grant authorities that allow NIAID to forecast this opportunity are as follows: Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-AI-28-014"
     },
     {
       "opportunity_id": "362948",
@@ -5424,7 +5456,19 @@
       "post_date": "2025-09-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-TW-25-002"
+      "url": "https://simpler.grants.gov/search?query=RFA-TW-25-002",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "UnJa Hayes",
+      "contact_email": "unja.hayes@nih.gov",
+      "abstract": "The LAUNCH program supports the training of future global health researchers by providing early career researchers in the U.S. an opportunity for immersion in the wide-ranging health conditions and challenges experienced in international low-resource settings and to partner with local health researchers. Consortia consisting of four U.S. research institutions and at least six collaborating research intensive institutions and/or sites in low- and middle-income countries (LMICs) will develop one-year mentored research training programs for pre- and post-doctoral trainees that focus thematically on areas of biomedical or behavioral science relevant to the research priorities of the participating NIH institutes, centers and offices. These programs will provide research mentorship, rigorous technical and professional skills training, research partnerships with matched LMIC peers, career guidance, networking opportunities, and a collaborative research training environment to support the trainees’ potential to develop into independent researchers. By leveraging the unique scientific contexts of LMICs and existing NIH research grants led by program mentors, LAUNCH enhances the potential of future research by trainees to address health needs in the U.S. and globally.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.989",
+          "title": "International Research and Research Training"
+        }
+      ]
     },
     {
       "opportunity_id": "360623",
@@ -5436,19 +5480,7 @@
       "post_date": "2025-09-18",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-118",
-      "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "Terez Shea-Donohue, Ph.D.",
-      "contact_email": "terez.shea-donohue@nih.gov",
-      "abstract": "The National Institute of Diabetes and Digestive Diseases and Nutrition (NIDDK) seeks to advance its mission by continuing the work of the NIDDK Gastroparesis Consortium (GpCRC) but also to expand its scope. The collaborative efforts of the GpCRC provided a large database, the Gastroparesis Registry, which is located in the NIDDK central repository and contains information on patients with symptoms of either delayed or normal gastric emptying. It also houses the first U.S. registry of children and adolescents with gastroparesis. The GpCRC provided clarity and insight that set the stage for transforming our understanding of gastroparesis and laid out a road map for approaching other disorders of gastrointestinal (GI) motility. The findings from clinical studies and trials clearly demonstrated that the clinical burden of gastroparesis is significantly greater than previously realized and involves much more than the stomach. Importantly, the underlying mechanisms remain unclear. Interoception is the ability of the nervous system to sense, interpret and coordinate signals from various bodily systems including the GI tract. Many functional GI disorders are associated with a spectrum of overlapping symptoms including nausea, vomiting, and altered bowel habits all of which involve altered interoceptive signaling. This initiative would broaden the scope beyond gastroparesis to include other adult and pediatric GI conditions associated with impaired interoceptive processing to form a Disorders of Gastrointestinal Interoception Consortium (DGIC). The consortium may include up to 6 Clinical Research Centers (described in a companion notice) and a Scientific Data Research Center (SDRC). There would be an emphasis on multidisciplinary approaches that would reveal the underlying mechanisms that connect GI function more directly to symptoms, identify disease or response biomarkers that assess treatment efficacy, and leverage state-of-the-art technologies to identify novel therapeutic targets that could be assessed in future clinical trials. The SDRC will coordinate collaboration among the Clinical Research Centers, participant enrollment, biospecimen collections and processing, and manage the submission of data and samples to central databases and repositories.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-118"
     },
     {
       "opportunity_id": "360622",
@@ -6000,7 +6032,19 @@
       "post_date": "2025-07-15",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-HG-26-003"
+      "url": "https://simpler.grants.gov/search?query=FOR-HG-26-003",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Jennifer Troyer",
+      "contact_email": "jennifer.troyer@nih.gov",
+      "abstract": "The National Human Genome Research Institute (NHGRI) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications to establish an ancient DNA for Modern Genomics (aDMG) program. The goal of aDMG is to establish an ethical resource of ancient and historical human DNA (aDNA) data to advance studies about contemporary human traits and biology. The Data Generation and Resource Center would Produce high-quality, whole-genome sequence data from approved aDNA sources and harmonize with existing data to create a centralized data portal. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the U24 activity code. Investigators with expertise and insights into this area of ancient DNA and population genomics are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in DNA sequencing methods and technology, computational genomics and data science, human evolution, and ancient human populations will be encouraged and these investigators should also begin considering applying for this application.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        }
+      ]
     },
     {
       "opportunity_id": "359207",
@@ -6084,7 +6128,19 @@
       "post_date": "2025-06-27",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-MD-25-009"
+      "url": "https://simpler.grants.gov/search?query=FOR-MD-25-009",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Larissa Avilés-Santa, MD, MPH",
+      "contact_email": "avilessantal@nih.gov",
+      "abstract": "The National Institute on Minority Health and Health Disparities (NIMHD) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the Coordinating Center for the EmbraceHealth Clinical Research Network. The overarching goals of the EmbraceHealth Network are to establish and maintain an efficient and nimble infrastructure to conduct research to address emerging, urgent, or chronic health needs among populations that experience health disparities. Each site within the Network will conduct research to develop, test, and implement clinical and behavioral interventions and services that address key public health needs and diseases with evidence of health disparities. Interventions will be designed and evaluated using robust scientific methods and must demonstrate feasibility, scalability, and reproducibility. The EmbraceHealth Network will serve the purpose of improving routine healthcare services as well as linking clinical practice and science within lower resourced healthcare settings. The Coordinating Center will support the Clinical Research Network sites by: Coordinating research activities, including the Steering Committee and workgroups. Identifying network personnel and clinicians for study teams. Developing operational manuals and standardized protocols for multi-site studies, including consent and IRB processes. Assisting CRN sites in implementing projects with technical and quality control support. Maintaining a data management system for study data, including guidance from NIMHD. Standardizing protocols for common data elements, including biospecimen and electronic health record (EHR) data collection. Providing biostatistical support for study design, implementation, and analyses. Advising on infrastructure development, including electronic data harmonization and data science expertise. Coordinating data-sharing plans among CRN sites. Ensuring secure storage and access to study-related materials. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. In addition, collaborative investigations combining expertise in multiple scientific and clinical disciplines will be encouraged. Activity Code : This NOFO will utilize the U24 (Research Program Grant Cooperative Agreements) activity code.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.307",
+          "title": "Minority Health and Health Disparities Research"
+        }
+      ]
     },
     {
       "opportunity_id": "359865",
@@ -6360,19 +6416,7 @@
       "post_date": "2025-06-25",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=NOT-HD-25-007",
-      "award_ceiling": null,
-      "num_awards": "2",
-      "contact_name": "Sonia Lee, PhD",
-      "contact_email": "Sonia.lee@nih.gov",
-      "abstract": "The Eunice Kennedy Shriver National Institute of Child Health and Human Development intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research focused on high-priority HIV studies for infants, children, youth and young adults (AYA), and maternal populations. An HIV clinical trials network focused exclusively on pediatric and maternal populations will innovate and conduct rigorously designed, collaborative clinical trials in partnership with site consortia to address high-priority research areas in HIV and related comorbidities and coinfections. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the UM2 activity code. Investigators with expertise and insights into this area of HIV are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in chronic and infectious diseases, pediatrics, adolescent medicine, laboratory innovation, and cost-effectiveness will be encouraged and these investigators should also begin considering applying for this application.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=NOT-HD-25-007"
     },
     {
       "opportunity_id": "359019",
@@ -6932,19 +6976,7 @@
       "post_date": "2025-05-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=NOT-AA-25-006",
-      "award_ceiling": null,
-      "num_awards": "1",
-      "contact_name": "Mohammed Akbar, Ph.D",
-      "contact_email": "akbarm@mail.nih.gov",
-      "abstract": "The National Institute on Alcohol Abuse and Alcoholism (NIAAA) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for research on the Neurobiology of Adolescent Drinking in Adulthood (NADIA) consortium to elucidate mechanisms of persistent changes in brain-behavior relationships following adolescent alcohol exposure. The initiative supports research across various research institutions to investigate the mechanisms responsible for the effects of repeated adolescent alcohol exposure on brain maturation and adult outcomes. To establish a robust foundational knowledge base that can be utilized in developing enhanced treatment methods and more effective strategies for preventing alcohol and alcohol-related problems. NIAAA supports research across various fields, including biomedical and genetic factors, psychological and environmental influences, alcohol-related problems and medical conditions, health services research, and prevention and treatment strategies. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the U24 activity code. Investigators with expertise in molecular insights are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise are encouraged, and these investigators should also begin considering applying for this application.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=NOT-AA-25-006"
     },
     {
       "opportunity_id": "358942",
