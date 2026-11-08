@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T13:47:01.230378+00:00",
+  "updated_at": "2026-11-08T14:07:42.730095+00:00",
   "count": 275,
   "data": [
     {
@@ -280,7 +280,19 @@
       "post_date": "2026-09-24",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AI-28-011"
+      "url": "https://simpler.grants.gov/search?query=RFA-AI-28-011",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Division of Allergy, Immunology, and Transplantation",
+      "contact_email": "IDAD_U01@mail.nih.gov",
+      "abstract": "The National Institute of Allergy and Infectious Diseases (NIAID) seeks to advance its mission through the continued support of the Immune Drivers of Autoimmune Disease (IDAD) network. This network aims to understand the earliest steps and triggers leading to autoimmunity and flare in humans, with the vision of ultimately preventing autoimmune disease. Priorities include discovering pre-clinical immune mechanisms, developing autoimmunity risk and staging prediction tools and biomarkers, building preclinical cohorts, leveraging remote recruitment and sampling, and artificial intelligence (AI)/big data. This complex, sustained collaboration relies on shared infrastructure to identify common triggers, pathways, and prevention opportunities. An Infrastructure Opportunity Fund (IOF) will be included in the initiative to provide the network the opportunity to conduct collaborative research projects. An IDAD Network Coordinating Center (NCC) will be responsible for administering the IOF and supporting additional coordinating activities amongst IDAD awardees, including the organization of Steering Committee meetings, resource sharing, data harmonization, sample sharing, and administering the IOF. Grant authorities that allow NIAID to forecast this opportunity are as follows: Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 2.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.855",
+          "title": "Allergy and Infectious Diseases Research"
+        }
+      ]
     },
     {
       "opportunity_id": "363940",
@@ -696,23 +708,11 @@
       "title": "Limited Competition: Tribal Institutional Review Board Establishment and Enhancement (TIRBEE)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIGMS",
+      "institute": "",
       "post_date": "2026-09-14",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-038",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIGMS TIRBEE Program",
-      "contact_email": "NIGMS_TIRBEE_Program@nigms.nih.gov",
-      "abstract": "The Tribal Institutional Review Board Establishment and Enhancement (TIRBEE) Notice of Funding Opportunity will enable federally-recognized Tribes or Tribal Entities to establish or enhance Institutional Review Boards. TIRBEE builds the capacity and infrastructure for biomedical research involving human participants in federally-recognized Tribal communities by expanding their Institutional Review Board review and oversight capabilities. This is a Forecast for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Eligibility Section for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-28-038"
     },
     {
       "opportunity_id": "363857",
@@ -2700,19 +2700,7 @@
       "post_date": "2026-06-09",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-119",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "CIDR Team",
-      "contact_email": "nhgri-research-funding@nih.gov",
-      "abstract": "The Center for Inherited Disease Research (CIDR) carries out high-throughput genotyping and sequencing and supports statistical genetics services designed to 1) aid identification of genes or genetic modifications that contribute to human health and disease or 2) enhance the classification and characterization of well-phenotyped specimens by the addition of genotype or next-generation sequence data. The laboratory specializes in genomic services that cannot be efficiently carried out in individual investigator laboratories. CIDR provides the most up-to-date platforms, services, and statistical genetic support. This is an NIH-wide initiative that is administered by NHGRI. Information about current services offered can be accessed via: https://cidr.jhmi.edu .",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-27-119"
     },
     {
       "opportunity_id": "362666",
@@ -4424,7 +4412,19 @@
       "post_date": "2026-02-09",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-HG-26-002"
+      "url": "https://simpler.grants.gov/search?query=RFA-HG-26-002",
+      "award_ceiling": null,
+      "num_awards": "6",
+      "contact_name": "NHGRI Extramural Research Program",
+      "contact_email": "nhgri-research-funding@nih.gov",
+      "abstract": "The National Human Genome Research Institute (NHGRI), with other NIH Institutes and Centers (ICs) National Cancer Institute (NCI) and National Institute of Environmental Health Sciences (NIEHS), intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications to facilitate genomic research and the dissemination of its products, NHGRI proposes this RFA to support both new and existing genomic resources of demonstrated broad value to the research community. Awards under this NOFO will support the development, curation, and distribution of high-value genomic resources valuable for both basic and clinical genomics research. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the U24 activity code. Investigators with expertise and insights into this area of genomic resource development are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in computational genomics and data science and clinical applications of genomics will be encouraged and these investigators should also begin considering applying for this application.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.172",
+          "title": "Human Genome Research"
+        }
+      ]
     },
     {
       "opportunity_id": "361255",
@@ -4460,19 +4460,7 @@
       "post_date": "2026-02-06",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-26-117",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Geetha Bansal",
-      "contact_email": "FIC-ID@nih.gov",
-      "abstract": "This initiative supports rigorous advanced research training programs for low- and middle-income country (LMIC) scientists on infectious diseases that pose a potential threat to the U.S. and present special opportunities for research that are not readily available in the U.S., such as unique resources, exposed or infected populations, or environmental conditions that impact transmission. Applications must be relevant to the mission of at least one of the participating NIH Institutes, Centers, or Offices. Each program will provide long-term research training, along with complementary short-term training activities, and will include intensive mentorship and relevant training in data-driven science, professional skills, responsible conduct of research, and biosafety. Trainee research projects will leverage NIH-funded studies and thus will enhance NIH international investments. Research training programs will strengthen collaborations between U.S. and LMIC researchers to better understand the transmission and pathology of pathogens and to develop diagnostic, preventive or treatment interventions, especially those suited to low resource settings globally.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.989",
-          "title": "International Research and Research Training"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-26-117"
     },
     {
       "opportunity_id": "361242",
@@ -4652,7 +4640,19 @@
       "post_date": "2026-01-22",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AR-26-006"
+      "url": "https://simpler.grants.gov/search?query=RFA-AR-26-006",
+      "award_ceiling": null,
+      "num_awards": "8",
+      "contact_name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "contact_email": "NIAMS_PAIN@mail.nih.gov",
+      "abstract": "The National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS), in conjunction with other NIH Institutes and Centers (ICs) as a part of the congressionally mandated NIH Helping to End Addiction Long Term (HEAL) initiative intends to publish a Notice of Funding Opportunity (NOFO) to leverage and accelerate the progress achieved in the Restoring Joint Health and Function to Reduce Pain (RE-JOIN) Consortium. The NOFO aims to more fully refine and map the innervation of the different articular and peri-articular tissues that collectively form the joint (including bone, cartilage, synovium, joint capsule, ligament, tendon, fascia and muscle), by sensory neurons that mediate the sensation of pain. The NOFO seeks to expand initial and ongoing efforts by: Enhancing clinical pain phenotyping with multimodal profiling of new and expanded patient samples across life span and disease conditions (i.e., other musculoskeletal and/or rheumatic conditions associated with joint pain beyond knee and temporomandibular joint (TMJ)). Expanding to new preclinical and New Approach Methodologies (NAMs) in modeling joint disease. Preclinical testing of novel joint-targeted candidates identified in RE-JOIN 1.0. Focusing on peri-articular tissues in joint pain, such as vasculature, synovium, adipose, myofascial tissue, etc. Prioritizing secondary analysis of datasets and/or validation of methods and approaches in human samples. Improve data integration by developing/enhancing joint atlases that will enable integration of imaging and molecular datasets. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful multidisciplinary collaborations and responsive projects. Investigators with expertise and insights in neurobiology, pain science, data science, orthopedics, rheumatic disease, etc. are encouraged to consider applying for this NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.846",
+          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        }
+      ]
     },
     {
       "opportunity_id": "361168",
@@ -5480,7 +5480,19 @@
       "post_date": "2025-09-03",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AG-27-002"
+      "url": "https://simpler.grants.gov/search?query=RFA-AG-27-002",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "Nadezda Radoja, Ph.D.",
+      "contact_email": "nadezda.radoja@nih.gov",
+      "abstract": "The National Institute on Aging (NIA) intends to publish a Notice of Funding Opportunity (NOFO) that aims to establish a multi-component Translational Center for Accelerating the Use of Digital Health Technologies (DHT) Data in Alzheimer’s Disease (AD) and AD-Related Dementias (ADRD) research. The purpose of the Center is to develop infrastructure, methods, and best practices for hosting, discovering, accessing, disseminating, and integrating multi-modal, legacy, and new DHT data, and accelerate their (re)use in translational and clinical AD/ADRD research. To this end, the Center will establish a DHT data repository as a cloud-based; federated; Findable, Accessible, Interoperable, and Reusable (FAIR) data infrastructure for the secure storage, processing, dissemination, analysis, and multi-modal integration of legacy and new DHT data generated by AD/ADRD studies supported by NIH and other funding organizations. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO intends to utilize the U54 activity code. Investigators with expertise and insights into this area of aging research are encouraged to begin to consider applying for this new NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        }
+      ]
     },
     {
       "opportunity_id": "360432",
