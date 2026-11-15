@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:58:34.247002+00:00",
+  "updated_at": "2026-11-15T14:40:23.539330+00:00",
   "count": 365,
   "data": [
     {
@@ -124,7 +124,7 @@
       "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2026-11-03",
       "close_date": "2029-11-16",
       "status": "posted",
@@ -140,9 +140,6 @@
           "number": "93.CA1",
           "title": "National Cancer Institute Research - Research Projects"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -155,7 +152,19 @@
       "post_date": "2026-11-03",
       "close_date": "2027-03-05",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-28-214"
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-28-214",
+      "award_ceiling": 950000,
+      "num_awards": "1",
+      "contact_name": "Terez Shea-Donohue, Ph.D.",
+      "contact_email": "terez.shea-donohue@nih.gov",
+      "abstract": "This Notice of Funding Opportunity (NOFO) invites new applications to participate in the Diseases of Gastrointestinal Interoception Consortium (DGIC). The overall objectives of this consortium are to: 1) identify the underlying mechanisms that link altered GI interception more directly to GI dysmotility and symptoms; 2) identify disease or response biomarkers that better assess pathophysiology or treatment efficacy; and 3) leverage state-of-the-art technologies to identify novel therapeutic targets that could be assessed in future clinical trials.",
+      "opening_date": "2027-01-05",
+      "cfda_list": [
+        {
+          "number": "93.KRC",
+          "title": "Diabetes, Digestive, Kidney Extramural Research - Research Centers"
+        }
+      ]
     },
     {
       "opportunity_id": "360625",
@@ -167,7 +176,19 @@
       "post_date": "2026-11-03",
       "close_date": "2027-03-05",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-28-213"
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-28-213",
+      "award_ceiling": 500000,
+      "num_awards": "6",
+      "contact_name": "Terez Shea-Donohue, Ph.D.",
+      "contact_email": "terez.shea-donohue@nih.gov",
+      "abstract": "This Notice of Funding Opportunity (NOFO) invites new applications to participate in the Diseases of Gastrointestinal Interoception Consortium (DGIC). The overall objectives of this consortium are to: 1) identify the underlying mechanisms that link altered GI interception more directly to GI dysmotility and symptoms; 2) identify disease or response biomarkers that better assess pathophysiology or treatment efficacy; and 3) leverage state-of-the-art technologies to identify novel therapeutic targets that could be assessed in future clinical trials. This NOFO uses a cooperative agreement mechanism (U01) and runs in parallel with a companion NOFO ( RFA-DK-28-214) .",
+      "opening_date": "2027-01-05",
+      "cfda_list": [
+        {
+          "number": "93.KRC",
+          "title": "Diabetes, Digestive, Kidney Extramural Research - Research Centers"
+        }
+      ]
     },
     {
       "opportunity_id": "361287",
@@ -407,23 +428,7 @@
       "post_date": "2026-10-20",
       "close_date": "2027-01-29",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AI-28-012",
-      "award_ceiling": null,
-      "num_awards": "5",
-      "contact_name": "Division of Microbiology and Infectious Diseases (DMID) MPSTranslational",
-      "contact_email": "DMIDMPSTranslational@mail.nih.gov",
-      "abstract": "The purpose of this notice of funding opportunity (NOFO) is to support a consortium of Translational Centers using Microphysiological Systems (MPS) for Infectious Diseases (TCMID). Recent efforts in the MPS fields are moving towards validation and regulatory use but have not focused upon models studying infectious diseases and testing of medical interventions. The NIH and FDA have recently issued guidance and established initiatives for enhancing use of New Approach Methodologies (NAMs) in research and product development. This includes in vitro systems that allow scientists to model human disease and capture human variability and patient-specific characteristics that will accelerate safer treatments for patients while reducing costs and sparing use of laboratory animals. To meet this need, the Centers will refine well validated human tissue models studying infectious diseases to a level consistent with regulatory qualifications that will promote their adoption for use by product developers, supporting regulatory acceptance.",
-      "opening_date": "2026-12-29",
-      "cfda_list": [
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-AI-28-012"
     },
     {
       "opportunity_id": "361207",
@@ -435,19 +440,7 @@
       "post_date": "2026-10-20",
       "close_date": "2027-11-01",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DC-28-001",
-      "award_ceiling": 450000,
-      "num_awards": "5",
-      "contact_name": "Division of Scientific Programs",
-      "contact_email": "NIDCDNetworkU24@mail.nih.gov",
-      "abstract": "The objective of this Notice of Funding Opportunity (NOFO) is to continue to support laboratories that constitute a collaborative network, the NIDCD National Human Ear Resource Network, to serve as a national technological resource for auditory and vestibular researchers to use human inner and middle ear tissues for a range of basic and clinical studies to advance knowledge and treatment of auditory and vestibular disorders.",
-      "opening_date": "2027-02-05",
-      "cfda_list": [
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DC-28-001"
     },
     {
       "opportunity_id": "361208",
@@ -479,31 +472,11 @@
       "title": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDA",
+      "institute": "",
       "post_date": "2026-10-19",
       "close_date": "2029-07-16",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-093",
-      "award_ceiling": 450000,
-      "num_awards": "",
-      "contact_name": "NIDA DESPR Program Staff",
-      "contact_email": "nida-par-26-092@mail.nih.gov",
-      "abstract": "The purpose of this notice of funding opportunity (NOFO) is to support pilot and feasibility studies to inform the design and conduct of efficacy, effectiveness, and/or services research trials. Topics may include: 1) developing interventions to prevent substance use, misuse, or progression to substance use disorder; 2) prevention, treatment, or recovery services research, including research addressing comorbid pain and medical and mental health disorders; and 3) HIV eradication research, including implementation science, prevention, treatment and recovery in substance use settings/populations.",
-      "opening_date": "2027-01-16",
-      "cfda_list": [
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        },
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        },
-        {
-          "number": "93.681",
-          "title": "Office of Disease Prevention"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-28-093"
     },
     {
       "opportunity_id": "360869",
@@ -603,20 +576,6 @@
           "number": "93.989",
           "title": "International Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "NIAID",
-        "NHLBI",
-        "NIA",
-        "NICHD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIMH",
-        "NINR",
-        "NIMHD",
-        "FIC",
-        "NCI"
       ]
     },
     {
@@ -737,7 +696,19 @@
       "post_date": "2026-10-15",
       "close_date": "2026-11-17",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-122"
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-122",
+      "award_ceiling": null,
+      "num_awards": "1",
+      "contact_name": "Mary Evans, PhD",
+      "contact_email": "NIDDK_Obesity@nih.gov",
+      "abstract": "The purpose of this NOFO is to continue the Physiology of the Weight Reduced State (POWERS) clinical trial. The goal of POWERS is to understand the physiological processes underlying individual variability in weight regain following weight loss due to a lifestyle intervention. The continuation of POWERS will allow for the completion of the ongoing clinical trial and to conduct analysis of collected data and biospecimens. This NOFO invites a single source application from the Data Coordinating Center for the POWERS consortium. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+      "opening_date": "2026-10-16",
+      "cfda_list": [
+        {
+          "number": "93.847",
+          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+        }
+      ]
     },
     {
       "opportunity_id": "359941",
@@ -793,10 +764,6 @@
           "number": "93.393",
           "title": "Cancer Cause and Prevention Research"
         }
-      ],
-      "participating_icos": [
-        "NCI",
-        "NIEHS"
       ]
     },
     {
@@ -825,10 +792,6 @@
           "number": "93.395",
           "title": "Cancer Treatment Research"
         }
-      ],
-      "participating_icos": [
-        "NCI",
-        "NIDCR"
       ]
     },
     {
@@ -925,19 +888,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "OD",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIDA",
-        "NIEHS",
-        "NIMHD",
-        "NLM",
-        "NCI"
       ]
     },
     {
@@ -946,47 +896,11 @@
       "title": "Palliative Care Research Across the Lifespan: Leveraging the Palliative Care Consortium (R01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIA",
+      "institute": "",
       "post_date": "2026-10-14",
       "close_date": "2029-11-05",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-090",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIA Palliative Care Research",
-      "contact_email": "NIAPalliativeCareResearch@nih.gov",
-      "abstract": "The purpose of this Notice of Funding Opportunity (NOFO) is to invite R01 applications proposing research on palliative care across the lifespan for persons with serious illnesses and/or their care partners relevant to the missions of participating NIH Institutes, Centers, and Offices (ICOs), including projects focused on palliative care access, use, and quality. Applications may propose hypothesis-driven, milestone-defined palliative care traditional efficacy (Stage II), real-world efficacy (Stage III), effectiveness (Stage IV), and/or dissemination and implementation (Stage V) clinical trials in alignment with the NIH Stage Model (Stages II-V) and relevant Institute or Center policies. Applications may propose non-clinical trial palliative care research, such as health services research, methodologic research, natural experiments, or observational studies. Recipients will become members of the research community facilitated by the NIH-funded Advancing the Science of Palliative Care Across the Lifespan (ASCENT) Consortium. NOTE : This NOFO is not appropriate for applications proposing new intervention generation, refinement, modification, adaptation, and/or pilot testing (Stage I of the NIH Stage Model) clinical trial research. The intervention(s) to be tested must be in a developed and testable form, with Stage I activities already completed and demonstrated.",
-      "opening_date": "2027-01-05",
-      "cfda_list": [
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        },
-        {
-          "number": "93.361",
-          "title": "Nursing Research"
-        },
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-27-090"
     },
     {
       "opportunity_id": "361322",
@@ -1262,27 +1176,7 @@
       "post_date": "2026-10-09",
       "close_date": "2027-02-09",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-CA-28-013",
-      "award_ceiling": 700000,
-      "num_awards": "1",
-      "contact_name": "Tram Kim Lam, PhD, MPH",
-      "contact_email": "lamt@mail.nih.gov",
-      "abstract": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute invites applications to the Carcinogen Hazard Assessment Monographs Program (CHAMP) Initiative . NCI seeks meritorious proposals to critically and systematically evaluate the scientific evidence on carcinogenic hazards to humans. Identifying potential carcinogens is essential for guiding and advancing cancer research, as well as informing cancer control and prevention efforts.",
-      "opening_date": "2027-01-09",
-      "cfda_list": [
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.396",
-          "title": "Cancer Biology Research"
-        },
-        {
-          "number": "93.399",
-          "title": "Cancer Control"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-CA-28-013"
     },
     {
       "opportunity_id": "359168",
@@ -1698,7 +1592,27 @@
       "post_date": "2026-09-30",
       "close_date": "2027-10-28",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-MH-27-125"
+      "url": "https://simpler.grants.gov/search?query=RFA-MH-27-125",
+      "award_ceiling": null,
+      "num_awards": "6",
+      "contact_name": "Vasudev R Rao, MBBS, MS.",
+      "contact_email": "vasudev.rao@nih.gov",
+      "abstract": "The purpose of this notice of funding opportunity (NOFO) is to identify modifiable mechanisms and therapeutic targets to address central nervous system (CNS) complications associated with human immunodeficiency virus (HIV). The initiative supports a phased research approach beginning with the identification of patient phenotypes characterized by convergent pathophysiological features, followed by the discovery and experimental validation of molecular mechanisms using innovative in-vitro and in-vivo models. The goal of this NOFO is to advance therapeutic target, and intervention discovery to address the multifactorial and heterogeneous nature of HIV-associated CNS dysfunction.",
+      "opening_date": "2026-10-09",
+      "cfda_list": [
+        {
+          "number": "93.242",
+          "title": "Mental Health Research Grants"
+        },
+        {
+          "number": "93.279",
+          "title": "Drug Use and Addiction Research Programs"
+        },
+        {
+          "number": "93.853",
+          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        }
+      ]
     },
     {
       "opportunity_id": "360545",
@@ -1706,7 +1620,7 @@
       "title": "NEI Translational Research Program for Therapeutics (R61/R33 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NEI",
+      "institute": "",
       "post_date": "2026-09-25",
       "close_date": "2029-11-16",
       "status": "posted",
@@ -1722,9 +1636,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NEI"
       ]
     },
     {
@@ -1733,7 +1644,7 @@
       "title": "Pancreatic Cancer Detection Consortium: Management and Data Coordination Unit (U24 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2026-09-25",
       "close_date": "2027-05-25",
       "status": "posted",
@@ -1749,9 +1660,6 @@
           "number": "93.393",
           "title": "Cancer Cause and Prevention Research"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -1760,7 +1668,7 @@
       "title": "Pancreatic Cancer Detection Consortium: Research Units (U01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2026-09-25",
       "close_date": "2029-11-05",
       "status": "posted",
@@ -1776,9 +1684,6 @@
           "number": "93.393",
           "title": "Cancer Cause and Prevention Research"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -1907,7 +1812,7 @@
       "title": "Silvio O. Conte Centers for Basic Neuroscience or Translational Mental Health Research (P50 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2026-09-01",
       "close_date": "2028-05-25",
       "status": "posted",
@@ -1923,9 +1828,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -1938,47 +1840,7 @@
       "post_date": "2026-09-01",
       "close_date": "2029-04-17",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-051",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Heather L. Kimmel",
-      "contact_email": "heather.kimmel@nih.gov",
-      "abstract": "The National Institutes of Health seek to advance their mission by providing the scientific community with the opportunity to request access to biospecimens from the Adolescent Brain Cognitive Development SM (ABCD) Study, the HEALthy Brain and Child Development (HBCD) Study, and the Population Assessment of Tobacco and Health (PATH) Study to conduct research consistent with the respective study objectives that will maximize the scientific utility of these limited samples. Applications should expand the knowledge gained from these studies and advance our understanding of the multiple genetic and environmental factors, such as exposure to substances, that affect health and disease over the course of a lifetime.",
-      "opening_date": "2026-09-01",
-      "cfda_list": [
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        },
-        {
-          "number": "93.399",
-          "title": "Cancer Control"
-        },
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        }
-      ],
-      "participating_icos": [
-        "NIDA",
-        "NIAAA",
-        "NIDCR",
-        "NIMH",
-        "NINDS",
-        "NCI"
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-27-051"
     },
     {
       "opportunity_id": "360404",
@@ -1986,7 +1848,7 @@
       "title": "NINDS Efficacy and Exploratory Clinical Trials (UG3/UH3 - Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NINDS",
+      "institute": "",
       "post_date": "2026-08-31",
       "close_date": "2029-03-09",
       "status": "posted",
@@ -2002,9 +1864,6 @@
           "number": "93.853",
           "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
         }
-      ],
-      "participating_icos": [
-        "NINDS"
       ]
     },
     {
@@ -2077,7 +1936,7 @@
       "title": "Cancer Advancement through Partnerships in Research and Infrastructure (CAPRI) (U54 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2026-08-31",
       "close_date": "2027-01-25",
       "status": "posted",
@@ -2093,9 +1952,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -2104,7 +1960,7 @@
       "title": "Limited Competition: NIGMS Mature Synchrotron Resources (MSR) for Structural Biology (P30 - Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIGMS",
+      "institute": "",
       "post_date": "2026-08-31",
       "close_date": "2028-10-02",
       "status": "posted",
@@ -2120,9 +1976,6 @@
           "number": "93.859",
           "title": "Biomedical Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "NIGMS"
       ]
     },
     {
@@ -2227,23 +2080,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHLBI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIEHS",
-        "NIMH",
-        "NIMHD",
-        "NLM",
-        "NCCIH",
-        "NCI"
       ]
     },
     {
@@ -2252,7 +2088,7 @@
       "title": "Exploratory Clinical Neuroscience Research on Substance Use Disorders (R61/R33 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDA",
+      "institute": "",
       "post_date": "2026-08-31",
       "close_date": "2028-06-16",
       "status": "posted",
@@ -2268,9 +2104,6 @@
           "number": "93.279",
           "title": "Drug Use and Addiction Research Programs"
         }
-      ],
-      "participating_icos": [
-        "NIDA"
       ]
     },
     {
@@ -2331,7 +2164,7 @@
       "title": "Limited Competition: Centers of Biomedical Research Excellence: Development Phase (COBRE-D) (P30 - Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIGMS",
+      "institute": "",
       "post_date": "2026-08-19",
       "close_date": "2029-05-26",
       "status": "posted",
@@ -2347,9 +2180,6 @@
           "number": "93.859",
           "title": "Biomedical Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "NIGMS"
       ]
     },
     {
@@ -2386,11 +2216,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "ORIP",
-        "NIA",
-        "NIAID"
       ]
     },
     {
@@ -2435,13 +2260,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "ORIP",
-        "NEI",
-        "NIA",
-        "NIAID",
-        "NIGMS"
       ]
     },
     {
@@ -2510,17 +2328,6 @@
           "number": "93.THR",
           "title": "NIH Tribal Health Research Office (THRO)"
         }
-      ],
-      "participating_icos": [
-        "OD",
-        "NEI",
-        "NICHD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIGMS",
-        "NINDS"
       ]
     },
     {
@@ -2529,7 +2336,7 @@
       "title": "Limited Competition: Centers of Biomedical Research Excellence: Expansion/Sustainability Phases (COBRE-E/S) (P30 - Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIGMS",
+      "institute": "",
       "post_date": "2026-06-18",
       "close_date": "2029-05-25",
       "status": "posted",
@@ -2545,9 +2352,6 @@
           "number": "93.859",
           "title": "Biomedical Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "NIGMS"
       ]
     },
     {
@@ -2572,10 +2376,6 @@
           "number": "93.310",
           "title": "Trans-NIH Research Support"
         }
-      ],
-      "participating_icos": [
-        "NCI",
-        "NICHD"
       ]
     },
     {
@@ -2588,19 +2388,7 @@
       "post_date": "2026-06-16",
       "close_date": "2027-02-10",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-119",
-      "award_ceiling": 750000,
-      "num_awards": "4",
-      "contact_name": "Katrina J. Serrano, Ph.D.",
-      "contact_email": "katrina.serrano@nih.gov",
-      "abstract": "This Notice of Funding Opportunity (NOFO) invites applications for Silvio O. Conte Digestive Diseases Research Core Centers (DDRCCs). The DDRCCs are part of an integrated program of digestive and liver diseases research support provided by the NIDDK. The purpose of this Centers program is to bring together basic and clinical investigators to enhance communication, collaboration, and effectiveness of ongoing research related to digestive and/or liver diseases within the NIDDK's mission. DDRCCs are based on the core concept, whereby shared resources aimed at fostering productivity, synergy, and new research ideas among the funded investigators are supported in a cost-effective manner. Each proposed DDRCC must be organized around a central theme that reflects the focus of the digestive or liver diseases research of the Center members. The central theme must be within the primary mission of the NIDDK, and not thematic areas for which other NIH Institutes or Centers are considered the primary source of NIH funding.",
-      "opening_date": "2026-08-29",
-      "cfda_list": [
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-DK-27-119"
     },
     {
       "opportunity_id": "359859",
@@ -2632,23 +2420,11 @@
       "title": "NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCR",
+      "institute": "",
       "post_date": "2026-06-16",
       "close_date": "2029-07-05",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-058",
-      "award_ceiling": 500000,
-      "num_awards": "",
-      "contact_name": "Lorena Baccaglini, DDS, MS, PhD",
-      "contact_email": "lorena.baccaglini@nih.gov",
-      "abstract": "This Notice of Funding Opportunity (NOFO) will support, through the cooperative agreement mechanism, investigator-initiated observational studies or biomarker validation studies that require prospective collection of data/biospecimens or continued analysis of data/biospecimens.",
-      "opening_date": "2026-09-05",
-      "cfda_list": [
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-27-058"
     },
     {
       "opportunity_id": "359161",
@@ -2824,23 +2600,6 @@
           "number": "93.THR",
           "title": "NIH Tribal Health Research Office (THRO)"
         }
-      ],
-      "participating_icos": [
-        "OD",
-        "NEI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDA",
-        "NIEHS",
-        "NIGMS",
-        "NIMH"
       ]
     },
     {
@@ -2849,7 +2608,7 @@
       "title": "Science Track Award for Research Transition (START) Program (R03, Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDA",
+      "institute": "",
       "post_date": "2026-06-09",
       "close_date": "2029-03-16",
       "status": "posted",
@@ -2865,9 +2624,6 @@
           "number": "93.279",
           "title": "Drug Use and Addiction Research Programs"
         }
-      ],
-      "participating_icos": [
-        "NIDA"
       ]
     },
     {
@@ -2876,23 +2632,11 @@
       "title": "Avant Garde/Avenir Awards for Investigators Conducting High Risk/High Reward Research on HIV and Substance Use (or Substance Use Disorders) (DP1 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDA",
+      "institute": "",
       "post_date": "2026-06-09",
       "close_date": "2028-09-25",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-026",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Vasundhara Varthakavi, DVM, Ph.D.",
-      "contact_email": "vasundhara.varthakavi@nih.gov",
-      "abstract": "The purpose of this notice of funding opportunity (NOFO) is to support innovative basic, clinical, translational, and implementation science research relevant to HIV and substance use. This initiative encourages high risk high impact transformative studies that advance knowledge and strategies for HIV prevention, diagnosis, treatment and virus suppression in people who use substances and/or have a substance use disorder.",
-      "opening_date": "2026-08-25",
-      "cfda_list": [
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-27-026"
     },
     {
       "opportunity_id": "359703",
@@ -3012,24 +2756,6 @@
           "number": "93.T21",
           "title": "INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE"
         }
-      ],
-      "participating_icos": [
-        "OD",
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIGMS",
-        "NIMH",
-        "NINDS"
       ]
     },
     {
@@ -3042,125 +2768,7 @@
       "post_date": "2026-06-08",
       "close_date": "2029-05-05",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PA-27-035",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Division of Biomedical Research Workforce (DBRW)",
-      "contact_email": "NIHTrain@mail.nih.gov",
-      "abstract": "The National Institutes of Health (NIH) Research Education Program supports research education activities in the mission areas of the NIH. The overarching goal of the Research Education program is to:Support educational activities that complement and/or enhance training of a workforce to meet the nation's biomedical, behavioral and clinical research needs;Help recruit individuals with specific specialty or disciplinary backgrounds to research careers in biomedical, behavioral and clinical sciences; andFoster a better understanding of biomedical, behavioral and clinical research and its implications.",
-      "opening_date": "2026-08-25",
-      "cfda_list": [
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        },
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        },
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        },
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        },
-        {
-          "number": "93.313",
-          "title": "NIH Office of Research on Women's Health"
-        },
-        {
-          "number": "93.361",
-          "title": "Nursing Research"
-        },
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.398",
-          "title": "Cancer Research Manpower"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        },
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        },
-        {
-          "number": "93.T21",
-          "title": "INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE"
-        }
-      ],
-      "participating_icos": [
-        "OD",
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIGMS",
-        "NIMH",
-        "NINDS",
-        "NINR",
-        "NCI"
-      ]
+      "url": "https://simpler.grants.gov/search?query=PA-27-035"
     },
     {
       "opportunity_id": "360446",
@@ -3168,7 +2776,7 @@
       "title": "Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIGMS",
+      "institute": "",
       "post_date": "2026-06-08",
       "close_date": "2029-01-29",
       "status": "posted",
@@ -3184,9 +2792,6 @@
           "number": "93.859",
           "title": "Biomedical Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "NIGMS"
       ]
     },
     {
@@ -3311,24 +2916,6 @@
           "number": "93.THR",
           "title": "NIH Tribal Health Research Office (THRO)"
         }
-      ],
-      "participating_icos": [
-        "OD",
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIGMS",
-        "NIMH",
-        "NINDS"
       ]
     },
     {
@@ -3441,7 +3028,7 @@
       "title": "Paul Calabresi Career Development Award for Clinical Oncology (K12 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2026-06-03",
       "close_date": "2029-03-12",
       "status": "posted",
@@ -3457,9 +3044,6 @@
           "number": "93.398",
           "title": "Cancer Research Manpower"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -3468,7 +3052,7 @@
       "title": "Biological Testing Facility for Contraception & Reproductive Health (X01 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NICHD",
+      "institute": "",
       "post_date": "2026-06-01",
       "close_date": "2029-05-07",
       "status": "posted",
@@ -3484,9 +3068,6 @@
           "number": "93.865",
           "title": "Child Health and Human Development Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NICHD"
       ]
     },
     {
@@ -3591,7 +3172,7 @@
       "title": "Limited Competition: Small Grant Program for Mentored Research Career Development Award Recipients (R03) (Clinical Trials Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIAMS",
+      "institute": "",
       "post_date": "2026-05-28",
       "close_date": "2029-07-16",
       "status": "posted",
@@ -3607,9 +3188,6 @@
           "number": "93.846",
           "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
         }
-      ],
-      "participating_icos": [
-        "NIAMS"
       ]
     },
     {
@@ -3622,156 +3200,7 @@
       "post_date": "2026-05-28",
       "close_date": "2027-04-05",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PA-27-102",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH SEED (Small business Education and Entrepreneurial Development)",
-      "contact_email": "SEEDinfo@nih.gov",
-      "abstract": "The Small Business Technology Transfer (STTR) grant program helps United States small business concerns (SBCs) that partner with a nonprofit research institution bring scientific innovations to the marketplace. The STTR program supports feasibility studies to later stage research and development (R&D) needed to develop a commercial product.",
-      "opening_date": "2026-08-05",
-      "cfda_list": [
-        {
-          "number": "93.113",
-          "title": "Environmental Health"
-        },
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        },
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        },
-        {
-          "number": "93.213",
-          "title": "Research and Training in Complementary and Integrative Health"
-        },
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        },
-        {
-          "number": "93.286",
-          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
-        },
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        },
-        {
-          "number": "93.313",
-          "title": "NIH Office of Research on Women's Health"
-        },
-        {
-          "number": "93.350",
-          "title": "National Center for Advancing Translational Sciences"
-        },
-        {
-          "number": "93.351",
-          "title": "Research Infrastructure Programs"
-        },
-        {
-          "number": "93.361",
-          "title": "Nursing Research"
-        },
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.846",
-          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
-        },
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        },
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        },
-        {
-          "number": "93.879",
-          "title": "Medical Library Assistance"
-        }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIGMS"
-      ]
+      "url": "https://simpler.grants.gov/search?query=PA-27-102"
     },
     {
       "opportunity_id": "359758",
@@ -3783,115 +3212,7 @@
       "post_date": "2026-05-28",
       "close_date": "2029-04-05",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PA-27-101",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH SEED (Small business Education and Entrepreneurial Development)",
-      "contact_email": "SEEDinfo@nih.gov",
-      "abstract": "The NIH Phase IIB Strategic Breakthrough award bridges the funding gap between the end of a Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) Phase II award and commercialization. The Phase IIB Strategic Breakthrough provides previously funded NIH SBIR or STTR projects additional support for later-stage research and development (R&D).",
-      "opening_date": "2026-08-05",
-      "cfda_list": [
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        },
-        {
-          "number": "93.313",
-          "title": "NIH Office of Research on Women's Health"
-        },
-        {
-          "number": "93.350",
-          "title": "National Center for Advancing Translational Sciences"
-        },
-        {
-          "number": "93.351",
-          "title": "Research Infrastructure Programs"
-        },
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        },
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHLBI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NICHD",
-        "NIDDK",
-        "NIGMS",
-        "NIMH",
-        "NINDS",
-        "NIMHD",
-        "NCATS",
-        "ORIP",
-        "NCI"
-      ]
+      "url": "https://simpler.grants.gov/search?query=PA-27-101"
     },
     {
       "opportunity_id": "359671",
@@ -3903,196 +3224,7 @@
       "post_date": "2026-05-28",
       "close_date": "2027-04-05",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PA-27-100",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH SEED (Small business Education and Entrepreneurial Development)",
-      "contact_email": "SEEDinfo@nih.gov",
-      "abstract": "The Small Business Innovation Research (SBIR) program helps United States small business concerns (SBCs) bring scientific innovations to the marketplace. The SBIR program supports feasibility studies to later research and development (R&D) needed to develop a commercial product.",
-      "opening_date": "2026-08-05",
-      "cfda_list": [
-        {
-          "number": "93.068",
-          "title": "Chronic Diseases:  Research, Control, and Prevention"
-        },
-        {
-          "number": "93.070",
-          "title": "Environmental Public Health and Emergency Response"
-        },
-        {
-          "number": "93.073",
-          "title": "Birth Defects and Developmental Disabilities - Prevention and Surveillance"
-        },
-        {
-          "number": "93.083",
-          "title": "Prevention of Disease, Disability, and Death through Immunization and Control of Respiratory and Related Diseases"
-        },
-        {
-          "number": "93.084",
-          "title": "Prevention of Disease, Disability, and Death by Infectious Diseases"
-        },
-        {
-          "number": "93.103",
-          "title": "Food and Drug Administration Research"
-        },
-        {
-          "number": "93.113",
-          "title": "Environmental Health"
-        },
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.136",
-          "title": "Injury Prevention and Control Research and State and Community Based Programs"
-        },
-        {
-          "number": "93.142",
-          "title": "NIEHS Hazardous Waste Worker Health and Safety Training"
-        },
-        {
-          "number": "93.143",
-          "title": "NIEHS Superfund Hazardous Substances_Basic Research and Education"
-        },
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        },
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        },
-        {
-          "number": "93.213",
-          "title": "Research and Training in Complementary and Integrative Health"
-        },
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        },
-        {
-          "number": "93.286",
-          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
-        },
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        },
-        {
-          "number": "93.313",
-          "title": "NIH Office of Research on Women's Health"
-        },
-        {
-          "number": "93.326",
-          "title": "Strengthening Public Health through Surveillance, Epidemiologic Research, Disease Detection and Prevention"
-        },
-        {
-          "number": "93.350",
-          "title": "National Center for Advancing Translational Sciences"
-        },
-        {
-          "number": "93.351",
-          "title": "Research Infrastructure Programs"
-        },
-        {
-          "number": "93.361",
-          "title": "Nursing Research"
-        },
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.846",
-          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
-        },
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        },
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        },
-        {
-          "number": "93.879",
-          "title": "Medical Library Assistance"
-        }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIGMS"
-      ]
+      "url": "https://simpler.grants.gov/search?query=PA-27-100"
     },
     {
       "opportunity_id": "359669",
@@ -4104,144 +3236,7 @@
       "post_date": "2026-05-28",
       "close_date": "2029-04-05",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-27-098",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH SEED (Small business Education and Entrepreneurial Development)",
-      "contact_email": "SEEDinfo@nih.gov",
-      "abstract": "The Commercialization Readiness Pilot (CRP) program helps small business concerns (SBCs) move NIH-funded SBIR or STTR projects from late-stage development to commercialization. The CRP supports later-stage research and development (R&D) and/or technical assistance that Phase II and Phase IIB Strategic Breakthrough awards do not typically support. This includes:Independent replication or confirmation of key studiesIND- or IDE-enabling studiesClinical studiesManufacturing scale-up and related quality activitiesRegulatory and other specialized technical supportSBCs may subcontract (outsource) a significant amount of the work in a CRP to meet the project goals.",
-      "opening_date": "2026-08-05",
-      "cfda_list": [
-        {
-          "number": "93.113",
-          "title": "Environmental Health"
-        },
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.143",
-          "title": "NIEHS Superfund Hazardous Substances_Basic Research and Education"
-        },
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        },
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        },
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.286",
-          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
-        },
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        },
-        {
-          "number": "93.313",
-          "title": "NIH Office of Research on Women's Health"
-        },
-        {
-          "number": "93.350",
-          "title": "National Center for Advancing Translational Sciences"
-        },
-        {
-          "number": "93.351",
-          "title": "Research Infrastructure Programs"
-        },
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.846",
-          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
-        },
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        },
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        }
-      ],
-      "participating_icos": [
-        "OD",
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIEHS",
-        "NIGMS"
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-27-098"
     },
     {
       "opportunity_id": "359150",
@@ -4413,19 +3408,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NIGMS",
-        "NEI",
-        "NHGRI",
-        "NIA",
-        "NIAMS",
-        "NIBIB",
-        "NIDCD",
-        "NIDCR",
-        "NIMH",
-        "NINDS",
-        "ORIP"
       ]
     },
     {
@@ -4718,91 +3700,7 @@
       "post_date": "2026-05-12",
       "close_date": "2028-06-15",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-OD-27-004",
-      "award_ceiling": 500000,
-      "num_awards": "4",
-      "contact_name": "Charlene Schramm, Ph.D.",
-      "contact_email": "schrammc@nih.gov",
-      "abstract": "The NIH INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE (INCLUDE) Project seeks to improve health and quality-of-life for individuals with Down syndrome. The purpose of this Notice of Funding Opportunity (NOFO) is to solicit Transformative Research Award applications to support individual scientists or groups of scientists proposing groundbreaking, exceptionally innovative, original, and/or unconventional research that has the potential to create new scientific paradigms, establish entirely new and improved clinical approaches, or develop transformative technologies related to Down syndrome. Applications are welcome in all topics relevant to Down syndrome-related research or its co-occurring conditions. No preliminary data are required. Projects must clearly demonstrate, based on the strength of the logic, a compelling potential to produce a major impact in research related to Down syndrome.",
-      "opening_date": "2026-09-15",
-      "cfda_list": [
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        },
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        },
-        {
-          "number": "93.350",
-          "title": "National Center for Advancing Translational Sciences"
-        },
-        {
-          "number": "93.351",
-          "title": "Research Infrastructure Programs"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.846",
-          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
-        },
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        },
-        {
-          "number": "93.879",
-          "title": "Medical Library Assistance"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-OD-27-004"
     },
     {
       "opportunity_id": "360653",
@@ -4814,79 +3712,7 @@
       "post_date": "2026-05-12",
       "close_date": "2028-06-15",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=RFA-OD-27-003",
-      "award_ceiling": 200000,
-      "num_awards": "5",
-      "contact_name": "Melissa Parisi, MD, PhD",
-      "contact_email": "parisima@mail.nih.gov",
-      "abstract": "The NIH INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE (INCLUDE) Project seeks to improve health and quality-of-life for individuals with Down syndrome. This Notice of Funding Opportunity (NOFO) invites researchers to submit applications for support of new exploratory and developmental research projects that address critical needs for Down syndrome projects, as articulated in the INCLUDE Project objectives. For example, such projects could assess the feasibility of a novel area of investigation or a new experimental system that has the potential to enhance health-related research. Another example could include the unique and innovative use of an existing methodology to explore a new scientific area. These studies may involve considerable risk but may lead to a breakthrough in a particular area, or to the development of novel techniques, agents, methodologies, models, or applications that could have a major impact on a field of biomedical, behavioral, or clinical research.",
-      "opening_date": "2026-09-15",
-      "cfda_list": [
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        },
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        },
-        {
-          "number": "93.351",
-          "title": "Research Infrastructure Programs"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.846",
-          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        },
-        {
-          "number": "93.879",
-          "title": "Medical Library Assistance"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-OD-27-003"
     },
     {
       "opportunity_id": "359675",
@@ -5086,12 +3912,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NIA",
-        "NEI",
-        "NIDA",
-        "NIMH"
       ]
     },
     {
@@ -5260,12 +4080,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NCI",
-        "NEI",
-        "NICHD",
-        "NINDS"
       ]
     },
     {
@@ -5390,7 +4204,7 @@
       "title": "Single-Site Investigator-Initiated Clinical Trials (R61/R33 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NHLBI",
+      "institute": "",
       "post_date": "2026-03-18",
       "close_date": "2028-11-02",
       "status": "posted",
@@ -5422,9 +4236,6 @@
           "number": "93.840",
           "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
         }
-      ],
-      "participating_icos": [
-        "NHLBI"
       ]
     },
     {
@@ -5609,184 +4420,7 @@
       "post_date": "2026-01-20",
       "close_date": "2029-05-07",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PA-26-002",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Office of Policy for Extramural Research Administration (OPERA)",
-      "contact_email": "OPERAleadership@mail.nih.gov",
-      "abstract": "The National Institutes of Health (NIH) seeks to advance its mission by maintaining strong, productive, and secure international research collaborations in support of the NIH mission. The NIH Collaborative International Research Project (Parent Announcement) supports international research collaborations. This opportunity specifically implements an award structure of prime domestic awards with independent foreign awards that are linked to the prime. This structure provides NIH with oversight capacity for international collaborations, and allows NIH to track international funding, as identified in NOT-OD-25-104 . This funding opportunity is specifically designed for NIH to support funded international collaborations between a domestic prime organization and foreign organizations. This NOFO should not be used for foreign consultants, purchasing unique equipment or supplies from foreign vendors, foreign collaborations that do not involve NIH funding or any other foreign component that would not result in a foreign subaward. All collaborative international research project applications must include at least 1 international subproject. The proposed project must be related to the programmatic interests of one or more of the participating NIH Institutes, Centers and Offices (ICOs) based on their scientific missions. The application will be evaluated as a whole, and the international subproject(s) will be evaluated on whether the project presents special opportunities for furthering research programs through the use of unusual talent, resources, populations, or environmental conditions in other countries that are not readily available in the United States or that augment existing United States resources, and whether the proposed project has specific relevance to the mission and objectives of the ICO and has the potential for significantly advancing the health sciences in the United States.",
-      "opening_date": "2026-04-25",
-      "cfda_list": [
-        {
-          "number": "93.113",
-          "title": "Environmental Health"
-        },
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.172",
-          "title": "Human Genome Research"
-        },
-        {
-          "number": "93.173",
-          "title": "Research Related to Deafness and Communication Disorders"
-        },
-        {
-          "number": "93.213",
-          "title": "Research and Training in Complementary and Integrative Health"
-        },
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        },
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        },
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        },
-        {
-          "number": "93.286",
-          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
-        },
-        {
-          "number": "93.307",
-          "title": "Minority Health and Health Disparities Research"
-        },
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        },
-        {
-          "number": "93.313",
-          "title": "NIH Office of Research on Women's Health"
-        },
-        {
-          "number": "93.350",
-          "title": "National Center for Advancing Translational Sciences"
-        },
-        {
-          "number": "93.351",
-          "title": "Research Infrastructure Programs"
-        },
-        {
-          "number": "93.361",
-          "title": "Nursing Research"
-        },
-        {
-          "number": "93.372",
-          "title": "21st Century Cures Act -\tBrain Research through Advancing Innovative Neurotechnologies"
-        },
-        {
-          "number": "93.393",
-          "title": "Cancer Cause and Prevention Research"
-        },
-        {
-          "number": "93.394",
-          "title": "Cancer Detection and Diagnosis Research"
-        },
-        {
-          "number": "93.395",
-          "title": "Cancer Treatment Research"
-        },
-        {
-          "number": "93.396",
-          "title": "Cancer Biology Research"
-        },
-        {
-          "number": "93.397",
-          "title": "Cancer Centers Support Grants"
-        },
-        {
-          "number": "93.398",
-          "title": "Cancer Research Manpower"
-        },
-        {
-          "number": "93.399",
-          "title": "Cancer Control"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.846",
-          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
-        },
-        {
-          "number": "93.847",
-          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
-        },
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        },
-        {
-          "number": "93.855",
-          "title": "Allergy and Infectious Diseases Research"
-        },
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        },
-        {
-          "number": "93.865",
-          "title": "Child Health and Human Development Extramural Research"
-        },
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        },
-        {
-          "number": "93.867",
-          "title": "Vision Research"
-        },
-        {
-          "number": "93.879",
-          "title": "Medical Library Assistance"
-        },
-        {
-          "number": "93.989",
-          "title": "International Research and Research Training"
-        }
-      ],
-      "participating_icos": [
-        "OD",
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS"
-      ]
+      "url": "https://simpler.grants.gov/search?query=PA-26-002"
     },
     {
       "opportunity_id": "359861",
@@ -5842,7 +4476,7 @@
       "title": "Institutional Network Award for Promoting Kidney, Urologic, and Hematologic Research Training (U2C - Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDDK",
+      "institute": "",
       "post_date": "2025-12-10",
       "close_date": "2028-05-26",
       "status": "posted",
@@ -5858,9 +4492,6 @@
           "number": "93.847",
           "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NIDDK"
       ]
     },
     {
@@ -6157,23 +4788,6 @@
           "number": "93.ECH",
           "title": "Environmental influences on Child Health Outcomes (ECHO) Program"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIGMS"
       ]
     },
     {
@@ -6274,7 +4888,7 @@
       "title": "Community-Partnered Nursing Research Centers (P20 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NINR",
+      "institute": "",
       "post_date": "2025-09-17",
       "close_date": "2028-05-07",
       "status": "posted",
@@ -6290,9 +4904,6 @@
           "number": "93.361",
           "title": "Nursing Research"
         }
-      ],
-      "participating_icos": [
-        "NINR"
       ]
     },
     {
@@ -6365,23 +4976,11 @@
       "title": "Development of Interventions to Prevent and Treat Substance Use Disorders and Overdose (UG3/UH3 - Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDA",
+      "institute": "",
       "post_date": "2025-09-10",
       "close_date": "2028-08-21",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-25-446",
-      "award_ceiling": 3000000,
-      "num_awards": "",
-      "contact_name": "Drew Townsend, Ph.D.",
-      "contact_email": "drew.townsend@nih.gov",
-      "abstract": "The purpose of this Funding Opportunity (NOFO) is to solicit grant applications to support research on the discovery and development of interventions to prevent and/or treat substance use disorders (SUDs) and overdose, including medications and medical devices to treat co-morbid SUDs. This includes preclinical and clinical research studies that will have high impact and quickly yield the necessary results to advance candidate interventions closer to regulatory approval or clinical adoption. This NOFO will utilize the UG3/UH3 activity code.",
-      "opening_date": "2025-09-20",
-      "cfda_list": [
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-25-446"
     },
     {
       "opportunity_id": "359655",
@@ -6473,23 +5072,11 @@
       "title": "Native American Research Centers for Health (NARCH) Planning Grants (R34 - Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIGMS",
+      "institute": "",
       "post_date": "2025-08-26",
       "close_date": "2028-07-07",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-25-441",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Crina Frincu, Ph.D.",
-      "contact_email": "cfrincu@mail.nih.gov",
-      "abstract": "The purpose of the Native American Research Centers for Health (NARCH) Planning Grants program is to support federally recognized American Indian/Alaska Native (AI/AN) Tribes, Tribal colleges and universities, Tribal health programs, or Tribal organizations (collectively, eligible AI/AN Tribal entities) to plan and conduct preparatory work for developing competitive NARCH applications.",
-      "opening_date": "2025-09-16",
-      "cfda_list": [
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-25-441"
     },
     {
       "opportunity_id": "358879",
@@ -6613,23 +5200,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "OD",
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIEHS",
-        "NIMH"
       ]
     },
     {
@@ -6714,18 +5284,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NINDS",
-        "NEI",
-        "NIA",
-        "NIAAA",
-        "NIBIB",
-        "NICHD",
-        "NIDCR",
-        "NIDA",
-        "NIMH",
-        "NCCIH"
       ]
     },
     {
@@ -6734,7 +5292,7 @@
       "title": "NIDCR Dual Degree Dentist Scientist Pathway to Independence Award (K99/R00 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCR",
+      "institute": "",
       "post_date": "2025-06-17",
       "close_date": "2028-05-07",
       "status": "posted",
@@ -6750,9 +5308,6 @@
           "number": "93.121",
           "title": "Oral Diseases and Disorders Research"
         }
-      ],
-      "participating_icos": [
-        "NIDCR"
       ]
     },
     {
@@ -6797,14 +5352,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NCATS",
-        "NEI",
-        "NIAID",
-        "NIDCR",
-        "NIMH",
-        "NICHD"
       ]
     },
     {
@@ -7125,22 +5672,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHLBI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIGMS"
       ]
     },
     {
@@ -7245,23 +5776,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHLBI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINR",
-        "NIMHD",
-        "NCCIH"
       ]
     },
     {
@@ -7382,22 +5896,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS"
       ]
     },
     {
@@ -7410,67 +5908,7 @@
       "post_date": "2025-06-12",
       "close_date": "2028-05-07",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PA-25-424",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Division of Biomedical Research Workforce",
-      "contact_email": "nihtrain@mail.nih.gov",
-      "abstract": "The National Institutes of Health (NIH) awards senior individual research training fellowships to experienced scientists who wish to make major changes in the direction of their research careers or who wish to broaden their scientific background by acquiring new research capabilities as independent investigators in research fields relevant to the missions of participating NIH Institutes and Centers.",
-      "opening_date": "2025-07-08",
-      "cfda_list": [
-        {
-          "number": "93.113",
-          "title": "Environmental Health"
-        },
-        {
-          "number": "93.121",
-          "title": "Oral Diseases and Disorders Research"
-        },
-        {
-          "number": "93.233",
-          "title": "National Center on Sleep Disorders Research"
-        },
-        {
-          "number": "93.279",
-          "title": "Drug Use and Addiction Research Programs"
-        },
-        {
-          "number": "93.310",
-          "title": "Trans-NIH Research Support"
-        },
-        {
-          "number": "93.837",
-          "title": "Cardiovascular Diseases Research"
-        },
-        {
-          "number": "93.838",
-          "title": "Lung Diseases Research"
-        },
-        {
-          "number": "93.839",
-          "title": "Blood Diseases and Resources Research"
-        },
-        {
-          "number": "93.840",
-          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
-        },
-        {
-          "number": "93.846",
-          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
-        },
-        {
-          "number": "93.859",
-          "title": "Biomedical Research and Research Training"
-        }
-      ],
-      "participating_icos": [
-        "NHLBI",
-        "NIAMS",
-        "NIDCR",
-        "NIDA",
-        "NIEHS",
-        "NIGMS"
-      ]
+      "url": "https://simpler.grants.gov/search?query=PA-25-424"
     },
     {
       "opportunity_id": "358830",
@@ -7586,22 +6024,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS"
       ]
     },
     {
@@ -7766,17 +6188,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NIDA",
-        "NIA",
-        "NIAAA",
-        "NICHD",
-        "NIDCR",
-        "NIEHS",
-        "NIMH",
-        "NINR",
-        "NCCIH"
       ]
     },
     {
@@ -7889,23 +6300,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NIDA",
-        "NHLBI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIEHS",
-        "NIMH",
-        "NINR",
-        "NIMHD",
-        "NIAMS"
       ]
     },
     {
@@ -7914,7 +6308,7 @@
       "title": "National Cooperative Drug/Device Discovery/Development Groups (NCDDG) for the Treatment of Mental Disorders (U19 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2025-01-15",
       "close_date": "2027-10-25",
       "status": "posted",
@@ -7930,9 +6324,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -7941,7 +6332,7 @@
       "title": "National Cooperative Drug/Device Discovery/Development Groups (NCDDG) for the Treatment of Mental Disorders (U01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2025-01-15",
       "close_date": "2027-10-25",
       "status": "posted",
@@ -7957,9 +6348,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -7968,7 +6356,7 @@
       "title": "NCI Pathway to Independence Award (K99/R00  Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2025-01-14",
       "close_date": "2027-10-14",
       "status": "posted",
@@ -7984,9 +6372,6 @@
           "number": "93.398",
           "title": "Cancer Research Manpower"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -8055,18 +6440,6 @@
           "number": "93.989",
           "title": "International Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "NHGRI",
-        "NIAID",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "FIC",
-        "NCI"
       ]
     },
     {
@@ -8139,19 +6512,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NHGRI",
-        "NEI",
-        "NIAID",
-        "NICHD",
-        "NIDCD",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINDS",
-        "NIMHD",
-        "NCI"
       ]
     },
     {
@@ -8228,20 +6588,6 @@
           "number": "93.989",
           "title": "International Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "NHGRI",
-        "NEI",
-        "NIAID",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINDS",
-        "FIC",
-        "NCI"
       ]
     },
     {
@@ -8250,7 +6596,7 @@
       "title": "Limited Competition: Small Grant Program for NIDDK K01/K08/K23/K25 Recipients (R03 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDDK",
+      "institute": "",
       "post_date": "2025-01-10",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -8266,9 +6612,6 @@
           "number": "93.847",
           "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NIDDK"
       ]
     },
     {
@@ -8277,7 +6620,7 @@
       "title": "NEI Clinical Research Study Planning Grant Program (R34 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NEI",
+      "institute": "",
       "post_date": "2025-01-10",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -8293,9 +6636,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NEI"
       ]
     },
     {
@@ -8304,7 +6644,7 @@
       "title": "NIDCD Research Dissertation Fellowship for Au.D. Audiologists (F32)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCD",
+      "institute": "",
       "post_date": "2025-01-08",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -8320,9 +6660,6 @@
           "number": "93.173",
           "title": "Research Related to Deafness and Communication Disorders"
         }
-      ],
-      "participating_icos": [
-        "NIDCD"
       ]
     },
     {
@@ -8379,7 +6716,7 @@
       "title": "Priority HIV/AIDS Research within the Mission of NIDDK (R01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDDK",
+      "institute": "",
       "post_date": "2025-01-08",
       "close_date": "2027-11-05",
       "status": "posted",
@@ -8395,9 +6732,6 @@
           "number": "93.847",
           "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NIDDK"
       ]
     },
     {
@@ -8406,7 +6740,7 @@
       "title": "Pilot Studies of Biological, Behavioral and Social Mechanisms Contributing to HIV Pathogenesis Within the Mission of NIDDK (R21 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDDK",
+      "institute": "",
       "post_date": "2025-01-08",
       "close_date": "2027-11-16",
       "status": "posted",
@@ -8422,9 +6756,6 @@
           "number": "93.847",
           "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NIDDK"
       ]
     },
     {
@@ -8433,7 +6764,7 @@
       "title": "NIDCD Cooperative Agreement for Clinical Trials in Communication Disorders (U01 - Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCD",
+      "institute": "",
       "post_date": "2025-01-06",
       "close_date": "2027-10-18",
       "status": "posted",
@@ -8449,9 +6780,6 @@
           "number": "93.173",
           "title": "Research Related to Deafness and Communication Disorders"
         }
-      ],
-      "participating_icos": [
-        "NIDCD"
       ]
     },
     {
@@ -8460,7 +6788,7 @@
       "title": "Method to Extend Research in Time (MERIT) Award Extension Request (Type 4 eSubmission Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2025-01-06",
       "close_date": "2028-09-07",
       "status": "posted",
@@ -8496,9 +6824,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -8559,18 +6884,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "OD",
-        "NEI",
-        "NHLBI",
-        "NIA",
-        "NIAAA",
-        "NIBIB",
-        "NIDCD",
-        "NIDDK",
-        "NIEHS",
-        "NCCIH"
       ]
     },
     {
@@ -8579,7 +6892,7 @@
       "title": "NEI Research Grant for Vision-Related Secondary Data Analysis (R21 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NEI",
+      "institute": "",
       "post_date": "2025-01-02",
       "close_date": "2027-10-16",
       "status": "posted",
@@ -8595,9 +6908,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NEI"
       ]
     },
     {
@@ -8606,7 +6916,7 @@
       "title": "Academic-Industrial Partnerships for Translation of Technologies for Diagnosis and Treatment (R01 - Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-12-31",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -8626,9 +6936,6 @@
           "number": "93.395",
           "title": "Cancer Treatment Research"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -8669,11 +6976,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NCI",
-        "NEI",
-        "NIDCR"
       ]
     },
     {
@@ -8682,7 +6984,7 @@
       "title": "Cutting-Edge Basic Research Awards (CEBRA) (R21 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDA",
+      "institute": "",
       "post_date": "2024-12-30",
       "close_date": "2027-08-11",
       "status": "posted",
@@ -8698,9 +7000,6 @@
           "number": "93.279",
           "title": "Drug Use and Addiction Research Programs"
         }
-      ],
-      "participating_icos": [
-        "NIDA"
       ]
     },
     {
@@ -8709,7 +7008,7 @@
       "title": "Translational Bioinformatics and Experimental Approaches to Advance Drug Repositioning and Combination Therapy Development for Alzheimers Disease and Related Dementias (R01 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIA",
+      "institute": "",
       "post_date": "2024-12-30",
       "close_date": "2028-05-07",
       "status": "posted",
@@ -8725,9 +7024,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NIA"
       ]
     },
     {
@@ -8736,7 +7032,7 @@
       "title": "Innovative Mental Health Services Research Not Involving Clinical Trials (R01 Clinical Trials Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-12-30",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -8752,9 +7048,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -8763,7 +7056,7 @@
       "title": "Innovative Pilot Mental Health Services Research Not Involving Clinical Trials (R34 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-12-30",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -8779,9 +7072,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -8790,7 +7080,7 @@
       "title": "Early Immune System Development and Ontogeny (R01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NICHD",
+      "institute": "",
       "post_date": "2024-12-30",
       "close_date": "2028-11-05",
       "status": "posted",
@@ -8806,9 +7096,6 @@
           "number": "93.865",
           "title": "Child Health and Human Development Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NICHD"
       ]
     },
     {
@@ -8817,7 +7104,7 @@
       "title": "Limited Competition: Ruth L. Kirschstein National Research Service Award (NRSA) Predoctoral Research Training Grant for the Clinical and Translational Science Awards (CTSA) Program (T32 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCATS",
+      "institute": "",
       "post_date": "2024-12-19",
       "close_date": "2027-09-28",
       "status": "posted",
@@ -8833,9 +7120,6 @@
           "number": "93.350",
           "title": "National Center for Advancing Translational Sciences"
         }
-      ],
-      "participating_icos": [
-        "NCATS"
       ]
     },
     {
@@ -8844,7 +7128,7 @@
       "title": "Limited Competition: Ruth L. Kirschstein National Research Service Award (NRSA) Postdoctoral Research Training Grant for the Clinical and Translational Science Awards (CTSA) Program (T32 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCATS",
+      "institute": "",
       "post_date": "2024-12-19",
       "close_date": "2027-09-28",
       "status": "posted",
@@ -8860,9 +7144,6 @@
           "number": "93.350",
           "title": "National Center for Advancing Translational Sciences"
         }
-      ],
-      "participating_icos": [
-        "NCATS"
       ]
     },
     {
@@ -8955,20 +7236,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIBIB",
-        "NICHD",
-        "NIDA",
-        "NCI",
-        "NIEHS",
-        "NIMH",
-        "NINDS",
-        "NLM"
       ]
     },
     {
@@ -8977,7 +7244,7 @@
       "title": "Translational Efforts to Advance Gene-based Therapies for Ultra-Rare Neurological and Neuromuscular Disorders (U01 - Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NINDS",
+      "institute": "",
       "post_date": "2024-12-18",
       "close_date": "2027-10-08",
       "status": "posted",
@@ -8993,9 +7260,6 @@
           "number": "93.853",
           "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
         }
-      ],
-      "participating_icos": [
-        "NINDS"
       ]
     },
     {
@@ -9124,22 +7388,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINR",
-        "NLM",
-        "NIMHD"
       ]
     },
     {
@@ -9288,23 +7536,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIGMS",
-        "NIMH"
       ]
     },
     {
@@ -9445,23 +7676,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINDS",
-        "NINR",
-        "NLM"
       ]
     },
     {
@@ -9470,7 +7684,7 @@
       "title": "NHLBI Clinical Trial Pilot Studies (R34 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NHLBI",
+      "institute": "",
       "post_date": "2024-12-18",
       "close_date": "2027-03-16",
       "status": "posted",
@@ -9502,9 +7716,6 @@
           "number": "93.840",
           "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
         }
-      ],
-      "participating_icos": [
-        "NHLBI"
       ]
     },
     {
@@ -9605,22 +7816,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIGMS",
-        "NIMH"
       ]
     },
     {
@@ -9629,7 +7824,7 @@
       "title": "Leveraging Network Infrastructure to Conduct Innovative Research for Women, Children, Pregnant and Lactating Women, and Persons with Disabilities (UG3/UH3 - Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NICHD",
+      "institute": "",
       "post_date": "2024-12-16",
       "close_date": "2027-11-15",
       "status": "posted",
@@ -9649,9 +7844,6 @@
           "number": "93.865",
           "title": "Child Health and Human Development Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NICHD"
       ]
     },
     {
@@ -9660,7 +7852,7 @@
       "title": "Toward Translation of Nanotechnology Cancer Interventions (TTNCI; R01 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-12-16",
       "close_date": "2027-11-15",
       "status": "posted",
@@ -9676,9 +7868,6 @@
           "number": "93.395",
           "title": "Cancer Treatment Research"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -9735,7 +7924,7 @@
       "title": "Integrating Biospecimen Science Approaches into Clinical Assay Development (U01 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-12-13",
       "close_date": "2027-09-10",
       "status": "posted",
@@ -9751,9 +7940,6 @@
           "number": "93.393",
           "title": "Cancer Cause and Prevention Research"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -9798,12 +7984,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NIMHD",
-        "NIAAA",
-        "NINR",
-        "NCI"
       ]
     },
     {
@@ -9860,15 +8040,6 @@
           "number": "93.865",
           "title": "Child Health and Human Development Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NCATS",
-        "NHGRI",
-        "NIAID",
-        "NIAMS",
-        "NICHD",
-        "NIDCR",
-        "NIGMS"
       ]
     },
     {
@@ -9913,10 +8084,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NCI",
-        "NIDCR"
       ]
     },
     {
@@ -9925,7 +8092,7 @@
       "title": "Limited Competition: Mentored Research Career Development Program Award in Clinical and Translational Science Awards (CTSA) Program (K12 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCATS",
+      "institute": "",
       "post_date": "2024-12-10",
       "close_date": "2027-09-28",
       "status": "posted",
@@ -9941,9 +8108,6 @@
           "number": "93.350",
           "title": "National Center for Advancing Translational Sciences"
         }
-      ],
-      "participating_icos": [
-        "NCATS"
       ]
     },
     {
@@ -9952,7 +8116,7 @@
       "title": "Exploratory/Developmental Bioengineering Research Grants (EBRG) (R21 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-12-10",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -9984,9 +8148,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -9995,7 +8156,7 @@
       "title": "Limited Competition: NCATS Clinical and Translational Science Award (CTSA) Program Research Education Grants Programs (R25 - Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCATS",
+      "institute": "",
       "post_date": "2024-12-09",
       "close_date": "2027-05-28",
       "status": "posted",
@@ -10011,9 +8172,6 @@
           "number": "93.350",
           "title": "National Center for Advancing Translational Sciences"
         }
-      ],
-      "participating_icos": [
-        "NCATS"
       ]
     },
     {
@@ -10022,7 +8180,7 @@
       "title": "NIAMS Clinical Trial Implementation Cooperative Agreement (UG3/UH3 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIAMS",
+      "institute": "",
       "post_date": "2024-12-09",
       "close_date": "2027-03-04",
       "status": "posted",
@@ -10038,9 +8196,6 @@
           "number": "93.846",
           "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
         }
-      ],
-      "participating_icos": [
-        "NIAMS"
       ]
     },
     {
@@ -10169,23 +8324,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NIDCR",
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINDS"
       ]
     },
     {
@@ -10250,15 +8388,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NIMHD",
-        "NHLBI",
-        "NIA",
-        "NIAAA",
-        "NINDS",
-        "NINR",
-        "NCI"
       ]
     },
     {
@@ -10291,7 +8420,7 @@
       "title": "Pilot Health Services and Economic Research on the Treatment of Drug, Alcohol, and Tobacco Use Disorders (R34 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDA",
+      "institute": "",
       "post_date": "2024-12-06",
       "close_date": "2027-10-27",
       "status": "posted",
@@ -10307,9 +8436,6 @@
           "number": "93.279",
           "title": "Drug Use and Addiction Research Programs"
         }
-      ],
-      "participating_icos": [
-        "NIDA"
       ]
     },
     {
@@ -10342,11 +8468,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NIMHD",
-        "NIAAA",
-        "NCI"
       ]
     },
     {
@@ -10411,13 +8532,38 @@
       "title": "NHLBI Early Phase Clinical Trials for Therapeutics and/or Diagnostics for HLBS Disorders (R61/R33 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NHLBI",
+      "institute": "",
       "post_date": "2024-12-05",
       "close_date": "2027-02-03",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-026",
-      "participating_icos": [
-        "NHLBI"
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "The objective of this funding opportunity is to support investigator-initiated, Phase I clinical trials for diagnostic and therapeutic interventions for heart, lung, blood, and sleep (HLBS) disorders in adults and children. In addition to supporting clinical trial start-up and implementation activities, this FOA will provide support for final stage preclinical activities needed for the implementation of the proposed trial. All the activities proposed in the R61 phase must be directly related to the therapeutic/diagnostic in preparation for the clinical trial. The proposed trial can be single or multisite. This NOFO will utilize a bi-phasic, milestone-driven mechanism of award where the first phase can be used to finalize required pre-trial activities such as stability, shipping studies, and site training.",
+      "opening_date": "2025-01-03",
+      "cfda_list": [
+        {
+          "number": "93.233",
+          "title": "National Center on Sleep Disorders Research"
+        },
+        {
+          "number": "93.837",
+          "title": "Cardiovascular Diseases Research"
+        },
+        {
+          "number": "93.838",
+          "title": "Lung Diseases Research"
+        },
+        {
+          "number": "93.839",
+          "title": "Blood Diseases and Resources Research"
+        },
+        {
+          "number": "93.840",
+          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
+        }
       ]
     },
     {
@@ -10426,7 +8572,7 @@
       "title": "NHLBI Early Phase Clinical Trials for Therapeutics and/or Diagnostics for HLBS Disorders (R33 CT Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NHLBI",
+      "institute": "",
       "post_date": "2024-12-05",
       "close_date": "2027-02-03",
       "status": "posted",
@@ -10454,9 +8600,6 @@
           "number": "93.839",
           "title": "Blood Diseases and Resources Research"
         }
-      ],
-      "participating_icos": [
-        "NHLBI"
       ]
     },
     {
@@ -10465,7 +8608,7 @@
       "title": "Alzheimer's Drug-Development Program (U01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIA",
+      "institute": "",
       "post_date": "2024-12-04",
       "close_date": "2027-11-05",
       "status": "posted",
@@ -10481,9 +8624,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NIA"
       ]
     },
     {
@@ -10492,7 +8632,7 @@
       "title": "NIAID Career Transition Award (K22 Independent Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIAID",
+      "institute": "",
       "post_date": "2024-12-03",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -10508,9 +8648,6 @@
           "number": "93.855",
           "title": "Allergy and Infectious Diseases Research"
         }
-      ],
-      "participating_icos": [
-        "NIAID"
       ]
     },
     {
@@ -10519,26 +8656,11 @@
       "title": "Accelerating Solutions to Improve Access and Quality of Empirically-Supported Practices for Youth Mental Health (R01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-12-03",
       "close_date": "2027-01-07",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-25-310",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "This NOFO is a call to action in response to the mental health crisis in the United States. We seek applications that will study methods to increase access to evidence-based interventions and services for youth mental health, including those living in rural areas, inner cities, and other under-resourced areas, and youth experiencing housing and food insecurities and out-right homelessness. Applications should address research related to optimizing assessment, intervention and service strategies, overcoming challenges related to the workforce shortage, wait lists for treatment, integration of treatment and preventive interventions into settings where people are most likely to be best identified as needing care (eg: schools, social service, pediatric medicine and justice), and service interventions that address systemic barriers to access and quality of mental health care (structural, policy, organizational, value (cost/financing), management).",
-      "opening_date": "2025-01-21",
-      "cfda_list": [
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        }
-      ],
-      "participating_icos": [
-        "NIMH"
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-25-310"
     },
     {
       "opportunity_id": "357485",
@@ -10546,7 +8668,7 @@
       "title": "Innovative Screening Approaches and Therapies for Screenable Disorders in Newborns (R01 - Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NICHD",
+      "institute": "",
       "post_date": "2024-12-02",
       "close_date": "2027-11-16",
       "status": "posted",
@@ -10562,9 +8684,6 @@
           "number": "93.865",
           "title": "Child Health and Human Development Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NICHD"
       ]
     },
     {
@@ -10705,23 +8824,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NIGMS",
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS"
       ]
     },
     {
@@ -10730,7 +8832,7 @@
       "title": "NIDCR Behavioral and Social Intervention Clinical Trial Planning and Implementation Cooperative Agreement (UG3/UH3 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCR",
+      "institute": "",
       "post_date": "2024-12-02",
       "close_date": "2028-01-06",
       "status": "posted",
@@ -10746,9 +8848,6 @@
           "number": "93.121",
           "title": "Oral Diseases and Disorders Research"
         }
-      ],
-      "participating_icos": [
-        "NIDCR"
       ]
     },
     {
@@ -10757,7 +8856,7 @@
       "title": "Career Transition Award for NINDS Intramural Clinician-Scientists (K22 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NINDS",
+      "institute": "",
       "post_date": "2024-12-02",
       "close_date": "2027-11-12",
       "status": "posted",
@@ -10773,9 +8872,6 @@
           "number": "93.853",
           "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
         }
-      ],
-      "participating_icos": [
-        "NINDS"
       ]
     },
     {
@@ -10784,7 +8880,7 @@
       "title": "Career Transition Award for NINDS Intramural Clinician-Scientists (K22 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NINDS",
+      "institute": "",
       "post_date": "2024-12-02",
       "close_date": "2027-11-12",
       "status": "posted",
@@ -10800,9 +8896,6 @@
           "number": "93.853",
           "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
         }
-      ],
-      "participating_icos": [
-        "NINDS"
       ]
     },
     {
@@ -10811,7 +8904,7 @@
       "title": "Innovative Screening Approaches and Therapies for Screenable Disorders in Newborns (R21 - Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NICHD",
+      "institute": "",
       "post_date": "2024-12-02",
       "close_date": "2027-11-16",
       "status": "posted",
@@ -10827,9 +8920,6 @@
           "number": "93.865",
           "title": "Child Health and Human Development Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NICHD"
       ]
     },
     {
@@ -10838,7 +8928,7 @@
       "title": "Early Stage Testing of Pharmacologic or Neuromodulatory Device-based Interventions for the Treatment of Mental Disorders (R33- Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-26",
       "close_date": "2027-10-15",
       "status": "posted",
@@ -10854,9 +8944,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -10865,7 +8952,7 @@
       "title": "Effectiveness Trials to Test Mental Health System Interventions (R61/R33 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-26",
       "close_date": "2027-10-15",
       "status": "posted",
@@ -10881,9 +8968,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -10892,7 +8976,7 @@
       "title": "Full-Scale Hybrid Effectiveness-Implementation Trials for Mental Health Interventions (R01 - Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-26",
       "close_date": "2027-10-15",
       "status": "posted",
@@ -10908,9 +8992,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -10919,7 +9000,7 @@
       "title": "Development of Psychosocial Therapeutic and Preventive Interventions for Mental Disorders (R33 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-26",
       "close_date": "2027-10-15",
       "status": "posted",
@@ -10935,9 +9016,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -10946,26 +9024,11 @@
       "title": "Pilot Hybrid Effectiveness-Implementation Trials for Mental Health Interventions (R01  Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-26",
       "close_date": "2027-10-15",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-25-178",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "Pilot Effectiveness Trials for Treatment, Preventive and Services Interventions (R01 Clinical Trial Required). As part of NIMH's clinical trials pipeline NOFOs, this announcement encourages pilot effectiveness studies focused on 1) optimizing the effectiveness of preventive and therapeutic interventions with previously demonstrated efficacy, for use with broader target populations or for use in community practice settings, and 2) developing and preliminary testing innovative services interventions. Consistent with the NIMH experimental therapeutics approach, this NOFO is intended to support pilot studies of intervention effectiveness or service delivery approaches that explicitly address whether the intervention engages the target(s)/mechanism(s) presumed to underlie the intervention effects (i.e., the mechanism(s) that accounts for changes in clinical/functional outcomes, changes in provider behavior, improved access or continuity of services, etc.).",
-      "opening_date": "2025-01-14",
-      "cfda_list": [
-        {
-          "number": "93.242",
-          "title": "Mental Health Research Grants"
-        }
-      ],
-      "participating_icos": [
-        "NIMH"
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-25-178"
     },
     {
       "opportunity_id": "357423",
@@ -10973,7 +9036,7 @@
       "title": "Confirmatory Efficacy Clinical Trials of Non-Pharmacological and Pharmacological Interventions for Mental Disorders (R01 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-26",
       "close_date": "2027-10-15",
       "status": "posted",
@@ -10989,9 +9052,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -11000,7 +9060,7 @@
       "title": "Development of Psychosocial Therapeutic and Preventive Interventions for Mental Disorders (R61/R33 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-26",
       "close_date": "2027-10-15",
       "status": "posted",
@@ -11016,9 +9076,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -11027,7 +9084,7 @@
       "title": "First in Human and Early Stage Clinical Trials of Novel Investigational Drugs or Neuromodulatory Device-based Interventions for Psychiatric Disorders (U01 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-26",
       "close_date": "2027-10-15",
       "status": "posted",
@@ -11043,9 +9100,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -11054,7 +9108,7 @@
       "title": "Early Stage Testing of Pharmacologic or Neuromodulatory Device-based Interventions for the Treatment of Mental Disorders (R61/R33 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-26",
       "close_date": "2027-10-15",
       "status": "posted",
@@ -11070,9 +9124,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -11086,10 +9137,25 @@
       "close_date": "2027-05-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PAR-25-272",
-      "participating_icos": [
-        "NIA",
-        "NICHD",
-        "NCI"
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "The purpose of this funding opportunity is to encourage multidisciplinary investigators to submit applications developing exploratory, highly novel new approaches, or innovative applications of existing approaches to measure brain activity, connectivity, genomics, or other aspects across the age spectrum of neurodevelopment. The overarching goal is to extend our understanding of brain development and aging, including studies of the neurodevelopmental origins of later health and disease, by improving repeated measures across longer epochs of the lifespan to better predict outcomes at later ages. . Research can include healthy human participants of any age, specific clinical groups such those with cognitive, motor, or affective regulation challenges, and/or animal research on these domains of function. The studies can focus on longitudinal neuroanatomical or functional changes at any level, including genetics/genomics, single cells, connectomics, neural population activity patterns, and others. This funding opportunity is intended to encourage technological and conceptual innovation through this high risk, high reward funding mechanism to develop highly innovative ideas that either lack preliminary data or need additional preliminary data",
+      "opening_date": "2025-01-16",
+      "cfda_list": [
+        {
+          "number": "93.396",
+          "title": "Cancer Biology Research"
+        },
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        },
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        }
       ]
     },
     {
@@ -11098,7 +9164,7 @@
       "title": "Navigator Emergency Department Diversion Models for Non-Urgent Mental Health Concerns (R34 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-25",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -11114,9 +9180,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -11125,7 +9188,7 @@
       "title": "Prevention and Intervention Approaches for Fetal Alcohol Spectrum Disorders (R34 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIAAA",
+      "institute": "",
       "post_date": "2024-11-25",
       "close_date": "2027-01-07",
       "status": "posted",
@@ -11141,9 +9204,6 @@
           "number": "93.273",
           "title": "Alcohol Research Programs"
         }
-      ],
-      "participating_icos": [
-        "NIAAA"
       ]
     },
     {
@@ -11180,12 +9240,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NIA",
-        "NIBIB",
-        "NICHD",
-        "NCI"
       ]
     },
     {
@@ -11194,7 +9248,7 @@
       "title": "Navigator Emergency Department Diversion Models for Non-Urgent Mental Health Concerns (R01 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-25",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -11210,9 +9264,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -11265,14 +9316,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NIMHD",
-        "NIDA",
-        "NIMH",
-        "NCI",
-        "NIA",
-        "NINR"
       ]
     },
     {
@@ -11281,7 +9324,7 @@
       "title": "Prevention and Intervention Approaches for Fetal Alcohol Spectrum Disorders (R61/R33 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIAAA",
+      "institute": "",
       "post_date": "2024-11-25",
       "close_date": "2026-11-17",
       "status": "posted",
@@ -11297,9 +9340,6 @@
           "number": "93.273",
           "title": "Alcohol Research Programs"
         }
-      ],
-      "participating_icos": [
-        "NIAAA"
       ]
     },
     {
@@ -11308,7 +9348,7 @@
       "title": "Mood and Psychosis Symptoms during the Menopause Transition (R01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-22",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -11328,9 +9368,6 @@
           "number": "93.313",
           "title": "NIH Office of Research on Women's Health"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -11375,7 +9412,7 @@
       "title": "Utilizing Invasive Recording and Stimulating Opportunities in Humans to Advance Neural Circuitry Understanding of Mental Health Disorders (R21 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-22",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -11391,9 +9428,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -11402,7 +9436,7 @@
       "title": "Mood and Psychosis Symptoms during the Menopause Transition (R21 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-22",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -11422,9 +9456,6 @@
           "number": "93.313",
           "title": "NIH Office of Research on Women's Health"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -11433,7 +9464,7 @@
       "title": "Utilizing Invasive Recording and Stimulating Opportunities in Humans to Advance Neural Circuitry Understanding of Mental Health Disorders (R01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-22",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -11449,9 +9480,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -11532,7 +9560,7 @@
       "title": "Seamless Early-Stage Clinical Drug Development (Phase 1 to 2a) for Novel therapeutic Agents for the Spectrum of Alzheimer's Disease (AD) and AD-related Dementias (ADRD) (UG3/UH3 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIA",
+      "institute": "",
       "post_date": "2024-11-22",
       "close_date": "2026-11-19",
       "status": "posted",
@@ -11548,9 +9576,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIA"
       ]
     },
     {
@@ -11639,7 +9664,7 @@
       "title": "Feasibility Clinical Trials of Mind and Body Interventions for NCCIH High Priority Research Topics (R34 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCCIH",
+      "institute": "",
       "post_date": "2024-11-21",
       "close_date": "2026-11-17",
       "status": "posted",
@@ -11655,9 +9680,6 @@
           "number": "93.213",
           "title": "Research and Training in Complementary and Integrative Health"
         }
-      ],
-      "participating_icos": [
-        "NCCIH"
       ]
     },
     {
@@ -11666,7 +9688,7 @@
       "title": "Investigator Initiated Clinical Trials of Complementary and Integrative Interventions Delivered Remotely or via mHealth (R01 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCCIH",
+      "institute": "",
       "post_date": "2024-11-21",
       "close_date": "2026-11-17",
       "status": "posted",
@@ -11682,9 +9704,6 @@
           "number": "93.213",
           "title": "Research and Training in Complementary and Integrative Health"
         }
-      ],
-      "participating_icos": [
-        "NCCIH"
       ]
     },
     {
@@ -11693,7 +9712,7 @@
       "title": "Neuromodulation/Neurostimulation Device Development for Mental Health Applications (R21 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-21",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -11709,9 +9728,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -11756,13 +9772,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NIAAA",
-        "NIDCR",
-        "NIDA",
-        "NIMHD",
-        "NCI"
       ]
     },
     {
@@ -11771,7 +9780,7 @@
       "title": "NCCIH Multi-Site Feasibility Clinical Trials of Mind and Body Interventions (R01 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCCIH",
+      "institute": "",
       "post_date": "2024-11-21",
       "close_date": "2026-11-17",
       "status": "posted",
@@ -11787,9 +9796,6 @@
           "number": "93.213",
           "title": "Research and Training in Complementary and Integrative Health"
         }
-      ],
-      "participating_icos": [
-        "NCCIH"
       ]
     },
     {
@@ -11798,7 +9804,7 @@
       "title": "Utilizing the PLCO Biospecimens Resource to Bridge Gaps in Cancer Etiology and Early Detection Research (U01 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-21",
       "close_date": "2027-10-08",
       "status": "posted",
@@ -11814,9 +9820,6 @@
           "number": "93.393",
           "title": "Cancer Cause and Prevention Research"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -11913,19 +9916,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NICHD",
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIDCD",
-        "NIDA",
-        "NIMH",
-        "NINR",
-        "NCI"
       ]
     },
     {
@@ -11934,7 +9924,7 @@
       "title": "Neuromodulation/Neurostimulation Device Development for Mental Health Applications (R01 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-21",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -11950,9 +9940,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -11981,10 +9968,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NLM",
-        "NIMH"
       ]
     },
     {
@@ -11993,7 +9976,7 @@
       "title": "NIH StrokeNet Clinical Trials and Biomarker Studies for Stroke Treatment, Recovery, and Prevention (UG3/UH3 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NINDS",
+      "institute": "",
       "post_date": "2024-11-20",
       "close_date": "2026-11-19",
       "status": "posted",
@@ -12009,9 +9992,6 @@
           "number": "93.853",
           "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
         }
-      ],
-      "participating_icos": [
-        "NINDS"
       ]
     },
     {
@@ -12020,7 +10000,7 @@
       "title": "NCI Pathway to Independence Award (K99/R00  Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-20",
       "close_date": "2027-10-14",
       "status": "posted",
@@ -12036,9 +10016,6 @@
           "number": "93.398",
           "title": "Cancer Research Manpower"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -12115,10 +10092,6 @@
           "number": "93.865",
           "title": "Child Health and Human Development Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NICHD",
-        "NIDCD"
       ]
     },
     {
@@ -12127,7 +10100,7 @@
       "title": "Advancement and Innovation in Measurement of Language Development and Predictors (R21 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NICHD",
+      "institute": "",
       "post_date": "2024-11-18",
       "close_date": "2027-09-07",
       "status": "posted",
@@ -12147,9 +10120,6 @@
           "number": "93.865",
           "title": "Child Health and Human Development Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NICHD"
       ]
     },
     {
@@ -12158,7 +10128,7 @@
       "title": "NIDCR Small Grant Program for New Investigators (R03 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCR",
+      "institute": "",
       "post_date": "2024-11-18",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -12174,9 +10144,6 @@
           "number": "93.121",
           "title": "Oral Diseases and Disorders Research"
         }
-      ],
-      "participating_icos": [
-        "NIDCR"
       ]
     },
     {
@@ -12185,7 +10152,7 @@
       "title": "NICHD Small Research Grant Program (R03 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NICHD",
+      "institute": "",
       "post_date": "2024-11-18",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -12201,9 +10168,6 @@
           "number": "93.865",
           "title": "Child Health and Human Development Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NICHD"
       ]
     },
     {
@@ -12212,7 +10176,7 @@
       "title": "Mechanisms that Impact Cancer Risk with Use of Incretin Mimetics (R01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-18",
       "close_date": "2027-01-07",
       "status": "posted",
@@ -12228,9 +10192,6 @@
           "number": "93.393",
           "title": "Cancer Cause and Prevention Research"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -12239,7 +10200,7 @@
       "title": "Basic Research in Cancer Health Disparities (R01 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-18",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -12255,9 +10216,6 @@
           "number": "93.393",
           "title": "Cancer Cause and Prevention Research"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -12266,7 +10224,7 @@
       "title": "Mechanisms that Impact Cancer Risk with Use of Incretin Mimetics (R21 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-18",
       "close_date": "2027-01-07",
       "status": "posted",
@@ -12282,9 +10240,6 @@
           "number": "93.393",
           "title": "Cancer Cause and Prevention Research"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -12293,7 +10248,7 @@
       "title": "Basic Research in Cancer Health Disparities (R21 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-18",
       "close_date": "2027-11-16",
       "status": "posted",
@@ -12309,9 +10264,6 @@
           "number": "93.393",
           "title": "Cancer Cause and Prevention Research"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -12320,7 +10272,7 @@
       "title": "NCMRR Early Career Research Award (R03 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NICHD",
+      "institute": "",
       "post_date": "2024-11-18",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -12336,9 +10288,6 @@
           "number": "93.865",
           "title": "Child Health and Human Development Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NICHD"
       ]
     },
     {
@@ -12375,12 +10324,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NCI",
-        "NHGRI",
-        "NIA",
-        "NIDCR"
       ]
     },
     {
@@ -12521,22 +10464,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "OD",
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDA",
-        "NIEHS"
       ]
     },
     {
@@ -12565,10 +10492,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NHGRI",
-        "NCI"
       ]
     },
     {
@@ -12577,7 +10500,7 @@
       "title": "Development of Animal Models and Related Biological Materials for Research (R21 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "ORIP",
+      "institute": "",
       "post_date": "2024-11-15",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -12593,9 +10516,6 @@
           "number": "93.351",
           "title": "Research Infrastructure Programs"
         }
-      ],
-      "participating_icos": [
-        "ORIP"
       ]
     },
     {
@@ -12664,7 +10584,7 @@
       "title": "Focused Technology Research and Development (R01 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIGMS",
+      "institute": "",
       "post_date": "2024-11-14",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -12680,9 +10600,6 @@
           "number": "93.859",
           "title": "Biomedical Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "NIGMS"
       ]
     },
     {
@@ -12715,7 +10632,7 @@
       "title": "NIDCR Dentist Scientist Career Transition Award for Intramural Investigators (K22 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCR",
+      "institute": "",
       "post_date": "2024-11-12",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -12731,9 +10648,6 @@
           "number": "93.121",
           "title": "Oral Diseases and Disorders Research"
         }
-      ],
-      "participating_icos": [
-        "NIDCR"
       ]
     },
     {
@@ -12742,7 +10656,7 @@
       "title": "Exploratory Grants in Cancer Control (R21 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-12",
       "close_date": "2028-09-07",
       "status": "posted",
@@ -12762,9 +10676,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -12773,7 +10684,7 @@
       "title": "Cancer Prevention and Control Clinical Trials Grant Program (R01 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-12",
       "close_date": "2027-01-07",
       "status": "posted",
@@ -12793,9 +10704,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -12804,7 +10712,7 @@
       "title": "National Cancer Institute's Investigator-Initiated Early Phase Clinical Trials for Cancer Treatment and Diagnosis (R01 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-12",
       "close_date": "2027-01-07",
       "status": "posted",
@@ -12832,9 +10740,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -12843,7 +10748,7 @@
       "title": "Laboratories to Optimize Digital Health (R01 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-11-07",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -12859,9 +10764,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -12870,7 +10772,7 @@
       "title": "Modular R01s in Cancer Control and Population Sciences (R01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-07",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -12890,9 +10792,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -12921,10 +10820,6 @@
           "number": "93.396",
           "title": "Cancer Biology Research"
         }
-      ],
-      "participating_icos": [
-        "NCI",
-        "NIAAA"
       ]
     },
     {
@@ -12933,7 +10828,7 @@
       "title": "Natural History of Disorders Screenable in the Newborn Period (R01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NICHD",
+      "institute": "",
       "post_date": "2024-11-06",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -12949,9 +10844,6 @@
           "number": "93.865",
           "title": "Child Health and Human Development Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NICHD"
       ]
     },
     {
@@ -12960,7 +10852,7 @@
       "title": "Clinical Characterization of Cancer Therapy-induced Adverse Sequelae and Mechanism-based Interventional Strategies (R01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-06",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -12976,9 +10868,6 @@
           "number": "93.393",
           "title": "Cancer Cause and Prevention Research"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -13019,12 +10908,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NIBIB",
-        "NEI",
-        "NIA",
-        "NCI"
       ]
     },
     {
@@ -13033,7 +10916,7 @@
       "title": "Molecular Imaging of Inflammation in Cancer (R01 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-06",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -13057,9 +10940,6 @@
           "number": "93.396",
           "title": "Cancer Biology Research"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -13068,7 +10948,7 @@
       "title": "Integration of Imaging and Fluid-Based Tumor Monitoring in Cancer Therapy (R01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-06",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -13092,9 +10972,6 @@
           "number": "93.395",
           "title": "Cancer Treatment Research"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -13103,7 +10980,7 @@
       "title": "NIA Academic Leadership Career Award (K07 Independent Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIA",
+      "institute": "",
       "post_date": "2024-11-06",
       "close_date": "2027-11-12",
       "status": "posted",
@@ -13119,9 +10996,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NIA"
       ]
     },
     {
@@ -13154,11 +11028,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NIDDK",
-        "NHLBI",
-        "NIA"
       ]
     },
     {
@@ -13167,7 +11036,7 @@
       "title": "Academic-Industrial Partnerships (AIP) to Translate and Validate In Vivo Imaging Systems (R01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-06",
       "close_date": "2027-01-07",
       "status": "posted",
@@ -13187,9 +11056,6 @@
           "number": "93.395",
           "title": "Cancer Treatment Research"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -13198,7 +11064,7 @@
       "title": "Cancer Prevention and Control Clinical Trials Planning Grant Program (U34 Clinical Trials Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-05",
       "close_date": "2027-10-25",
       "status": "posted",
@@ -13214,9 +11080,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -13225,7 +11088,7 @@
       "title": "Cancer Prevention and Control Clinical Trials Planning Grant Program (R34 Clinical Trials Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-11-05",
       "close_date": "2027-10-25",
       "status": "posted",
@@ -13241,9 +11104,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -13252,26 +11112,11 @@
       "title": "Innovation Grants to Nurture Initial Translational Efforts (IGNITE): Neurotherapeutic Agent Characterization and In vivo Efficacy Studies (R61/R33 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NINDS",
+      "institute": "",
       "post_date": "2024-11-04",
       "close_date": "2027-10-20",
       "status": "posted",
-      "url": "https://simpler.grants.gov/search?query=PAR-25-225",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NIH Grants Information",
-      "contact_email": "grantsinfo@nih.gov",
-      "abstract": "Reissue PAR-21-122. This NOFO provides funding to conduct pharmacodynamic, pharmacokinetic, and in vivo efficacy studies to demonstrate that proposed therapeutic agent(s) have sufficient biological activity to warrant further development to treat neurological or neuromuscular disorders that fall under the NINDS mission. Therapeutic agents include small molecules, biologics or biotechnology-derived products. This FOA is part of a suite of Innovation Grants to Nurture Initial Translational Efforts (IGNITE) to advance projects to the point where they can meet the entry criteria for the Blueprint Neurotherapeutics Network or other translational programs.",
-      "opening_date": "2025-01-19",
-      "cfda_list": [
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        }
-      ],
-      "participating_icos": [
-        "NINDS"
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-25-225"
     },
     {
       "opportunity_id": "356920",
@@ -13363,24 +11208,6 @@
           "number": "93.989",
           "title": "International Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "NCI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINDS",
-        "NINR",
-        "NIMHD",
-        "FIC"
       ]
     },
     {
@@ -13389,7 +11216,7 @@
       "title": "Effectiveness Trials for Post-Acute Interventions and Services to Optimize Longer-term Outcomes (R01 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-10-31",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -13405,9 +11232,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -13448,12 +11272,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NCCIH",
-        "NIA",
-        "NIDCR",
-        "NCI"
       ]
     },
     {
@@ -13494,12 +11312,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NCCIH",
-        "NIA",
-        "NIDCR",
-        "NCI"
       ]
     },
     {
@@ -13508,7 +11320,7 @@
       "title": "Pilot Effectiveness Trials for Post-Acute Interventions and Services to Optimize Longer-term Outcomes (R01 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIMH",
+      "institute": "",
       "post_date": "2024-10-31",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -13524,9 +11336,6 @@
           "number": "93.242",
           "title": "Mental Health Research Grants"
         }
-      ],
-      "participating_icos": [
-        "NIMH"
       ]
     },
     {
@@ -13595,19 +11404,6 @@
           "number": "93.989",
           "title": "International Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "NCI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NICHD",
-        "NIDCR",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINDS",
-        "FIC"
       ]
     },
     {
@@ -13672,18 +11468,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NIGMS",
-        "NEI",
-        "NIA",
-        "NIAAA",
-        "NIAMS",
-        "NIDCR",
-        "NIDA",
-        "NIMH",
-        "NINDS",
-        "NCCIH"
       ]
     },
     {
@@ -13716,11 +11500,6 @@
           "number": "93.865",
           "title": "Child Health and Human Development Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NICHD",
-        "NIDCR",
-        "ORIP"
       ]
     },
     {
@@ -13833,24 +11612,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NCI",
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINDS"
       ]
     },
     {
@@ -13859,7 +11620,7 @@
       "title": "Translational Neural Devices (R61/R33 - Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NINDS",
+      "institute": "",
       "post_date": "2024-10-29",
       "close_date": "2027-01-28",
       "status": "posted",
@@ -13875,9 +11636,6 @@
           "number": "93.853",
           "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
         }
-      ],
-      "participating_icos": [
-        "NINDS"
       ]
     },
     {
@@ -13886,7 +11644,7 @@
       "title": "Computational Approaches to Curation at Scale for Biomedical Research Assets (R01 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NLM",
+      "institute": "",
       "post_date": "2024-10-29",
       "close_date": "2027-04-15",
       "status": "posted",
@@ -13902,9 +11660,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NLM"
       ]
     },
     {
@@ -13913,7 +11668,7 @@
       "title": "Limited Competition: Renewal of Existing NINDS-Supported Clinical Trial Cooperative Agreement Awards (U01 - Clinical Trials Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NINDS",
+      "institute": "",
       "post_date": "2024-10-28",
       "close_date": "2027-11-05",
       "status": "posted",
@@ -13929,9 +11684,6 @@
           "number": "93.853",
           "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
         }
-      ],
-      "participating_icos": [
-        "NINDS"
       ]
     },
     {
@@ -13940,7 +11692,7 @@
       "title": "Development of Biomarkers or Composite Biomarkers for Neurological and Neuromuscular Disorders (R61/R33 - Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NINDS",
+      "institute": "",
       "post_date": "2024-10-28",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -13960,9 +11712,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NINDS"
       ]
     },
     {
@@ -14007,14 +11756,6 @@
           "number": "93.855",
           "title": "Allergy and Infectious Diseases Research"
         }
-      ],
-      "participating_icos": [
-        "NCATS",
-        "NIAID",
-        "NIDCD",
-        "NIDCR",
-        "NIMH",
-        "NINDS"
       ]
     },
     {
@@ -14079,7 +11820,7 @@
       "title": "NIDCR Drug, Biologic, Device and/or Procedure Intervention Clinical Trial Planning and Implementation Cooperative Agreement (UG3/UH3 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCR",
+      "institute": "",
       "post_date": "2024-10-23",
       "close_date": "2028-01-06",
       "status": "posted",
@@ -14095,9 +11836,6 @@
           "number": "93.121",
           "title": "Oral Diseases and Disorders Research"
         }
-      ],
-      "participating_icos": [
-        "NIDCR"
       ]
     },
     {
@@ -14106,7 +11844,7 @@
       "title": "Innovation Grants to Nurture Initial Translational Efforts (IGNITE): Assay Development and Neurotherapeutic Agent Identification (R61/R33 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NINDS",
+      "institute": "",
       "post_date": "2024-10-22",
       "close_date": "2027-10-20",
       "status": "posted",
@@ -14122,9 +11860,6 @@
           "number": "93.853",
           "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
         }
-      ],
-      "participating_icos": [
-        "NINDS"
       ]
     },
     {
@@ -14133,7 +11868,7 @@
       "title": "Innovation Grants to Nurture Initial Translational Efforts (IGNITE):  Development and Validation of Model Systems to Facilitate Neurotherapeutic Discovery (R61/R33 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NINDS",
+      "institute": "",
       "post_date": "2024-10-22",
       "close_date": "2027-10-20",
       "status": "posted",
@@ -14149,9 +11884,6 @@
           "number": "93.853",
           "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
         }
-      ],
-      "participating_icos": [
-        "NINDS"
       ]
     },
     {
@@ -14160,7 +11892,7 @@
       "title": "NIDCD Early Career Research(ECR) Award (R21 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCD",
+      "institute": "",
       "post_date": "2024-10-18",
       "close_date": "2027-10-15",
       "status": "posted",
@@ -14176,9 +11908,6 @@
           "number": "93.173",
           "title": "Research Related to Deafness and Communication Disorders"
         }
-      ],
-      "participating_icos": [
-        "NIDCD"
       ]
     },
     {
@@ -14259,18 +11988,6 @@
           "number": "93.989",
           "title": "International Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "FIC",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIDCD",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINDS",
-        "NCI"
       ]
     },
     {
@@ -14359,20 +12076,6 @@
           "number": "93.989",
           "title": "International Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "FIC",
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIDCD",
-        "NIDCR",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINDS",
-        "NCI"
       ]
     },
     {
@@ -14409,11 +12112,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NIDCR",
-        "NIMHD",
-        "NCI"
       ]
     },
     {
@@ -14422,7 +12120,7 @@
       "title": "Continuation or Revision of NIDCR Clinical Trial Planning and Implementation Cooperative Agreement (UH3 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCR",
+      "institute": "",
       "post_date": "2024-10-10",
       "close_date": "2028-01-06",
       "status": "posted",
@@ -14438,9 +12136,6 @@
           "number": "93.121",
           "title": "Oral Diseases and Disorders Research"
         }
-      ],
-      "participating_icos": [
-        "NIDCR"
       ]
     },
     {
@@ -14454,9 +12149,21 @@
       "close_date": "2028-01-07",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PA-25-093",
-      "participating_icos": [
-        "NIAMS",
-        "NIAID"
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "This Notice of Funding Opportunity (NOFO) intends to support fundamental research that will contribute to basic understanding of skin injuries caused by chemicals that have been identified as public health threats, with an emphasis on investigating the commonalities of such injuries and identifying potential shared signaling pathways and therapeutic targets for medical countermeasure development.",
+      "opening_date": "2025-01-16",
+      "cfda_list": [
+        {
+          "number": "93.846",
+          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        },
+        {
+          "number": "93.855",
+          "title": "Allergy and Infectious Diseases Research"
+        }
       ]
     },
     {
@@ -14465,7 +12172,7 @@
       "title": "Research Experiences and/or Mentoring Networks through Research Education to Enhance Clinician-Scientists' Participation in NIDCDs Research (R25 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCD",
+      "institute": "",
       "post_date": "2024-10-02",
       "close_date": "2027-09-29",
       "status": "posted",
@@ -14481,9 +12188,6 @@
           "number": "93.173",
           "title": "Research Related to Deafness and Communication Disorders"
         }
-      ],
-      "participating_icos": [
-        "NIDCD"
       ]
     },
     {
@@ -14540,17 +12244,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NINDS",
-        "NEI",
-        "NIA",
-        "NIAAA",
-        "NIDCR",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NCCIH"
       ]
     },
     {
@@ -14683,20 +12376,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHGRI",
-        "NIAID",
-        "NIAMS",
-        "NIGMS",
-        "NINDS",
-        "NLM",
-        "NCCIH",
-        "NCATS",
-        "NHLBI",
-        "NIDCR",
-        "NIAAA"
       ]
     },
     {
@@ -14765,7 +12444,7 @@
       "title": "NICHD Resource Program Grants in Bioinformatics (P41 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NICHD",
+      "institute": "",
       "post_date": "2024-09-24",
       "close_date": "2027-09-25",
       "status": "posted",
@@ -14781,9 +12460,6 @@
           "number": "93.865",
           "title": "Child Health and Human Development Extramural Research"
         }
-      ],
-      "participating_icos": [
-        "NICHD"
       ]
     },
     {
@@ -14852,7 +12528,7 @@
       "title": "Mechanisms that Impact Cancer Risk after Bariatric Surgery (R01 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-09-05",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -14876,9 +12552,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -14887,7 +12560,7 @@
       "title": "Mechanisms that Impact Cancer Risk after Bariatric Surgery (R21 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCI",
+      "institute": "",
       "post_date": "2024-09-05",
       "close_date": "2028-01-07",
       "status": "posted",
@@ -14911,9 +12584,6 @@
           "number": "93.399",
           "title": "Cancer Control"
         }
-      ],
-      "participating_icos": [
-        "NCI"
       ]
     },
     {
@@ -14922,7 +12592,7 @@
       "title": "Tribal Undergraduate to Graduate Research Training and Leadership Experiences (TURTLE) Program (UE5/T32)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIGMS",
+      "institute": "",
       "post_date": "2024-09-03",
       "close_date": "2027-01-25",
       "status": "posted",
@@ -14938,9 +12608,6 @@
           "number": "93.859",
           "title": "Biomedical Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "NIGMS"
       ]
     },
     {
@@ -14949,7 +12616,7 @@
       "title": "Tribal Undergraduate to Graduate Research Training and Leadership Experiences (TURTLE) Program (UE5/T34)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIGMS",
+      "institute": "",
       "post_date": "2024-09-03",
       "close_date": "2027-01-25",
       "status": "posted",
@@ -14965,9 +12632,6 @@
           "number": "93.859",
           "title": "Biomedical Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "NIGMS"
       ]
     },
     {
@@ -14976,7 +12640,7 @@
       "title": "Clinical and Translational Science Award (UM1 Clinical Trial Optional)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCATS",
+      "institute": "",
       "post_date": "2024-09-03",
       "close_date": "2027-09-28",
       "status": "posted",
@@ -14992,9 +12656,6 @@
           "number": "93.350",
           "title": "National Center for Advancing Translational Sciences"
         }
-      ],
-      "participating_icos": [
-        "NCATS"
       ]
     },
     {
@@ -15031,12 +12692,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NIMHD",
-        "NIA",
-        "NINR",
-        "NCI"
       ]
     },
     {
@@ -15045,7 +12700,7 @@
       "title": "NIDA Animal Genomics Program (U01  Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDA",
+      "institute": "",
       "post_date": "2024-08-13",
       "close_date": "2027-02-11",
       "status": "posted",
@@ -15061,9 +12716,6 @@
           "number": "93.279",
           "title": "Drug Abuse and Addiction Research Programs"
         }
-      ],
-      "participating_icos": [
-        "NIDA"
       ]
     },
     {
@@ -15072,7 +12724,7 @@
       "title": "Tribal Institutional Review Board Establishment and Enhancement (TIRBEE) (R24 - Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIGMS",
+      "institute": "",
       "post_date": "2024-08-12",
       "close_date": "2027-01-27",
       "status": "posted",
@@ -15088,9 +12740,6 @@
           "number": "93.859",
           "title": "Biomedical Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "NIGMS"
       ]
     },
     {
@@ -15239,7 +12888,7 @@
       "title": "NHLBI Career Transition Award for Intramural Postdoctoral Fellows and Research Trainees (K22 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NHLBI",
+      "institute": "",
       "post_date": "2024-07-15",
       "close_date": "2027-07-12",
       "status": "posted",
@@ -15271,9 +12920,6 @@
           "number": "93.840",
           "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
         }
-      ],
-      "participating_icos": [
-        "NHLBI"
       ]
     },
     {
@@ -15282,7 +12928,7 @@
       "title": "NHLBI Career Transition Award for Intramural Postdoctoral Fellows and Research Trainees (K22 Independent Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NHLBI",
+      "institute": "",
       "post_date": "2024-07-15",
       "close_date": "2027-07-12",
       "status": "posted",
@@ -15314,9 +12960,6 @@
           "number": "93.840",
           "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
         }
-      ],
-      "participating_icos": [
-        "NHLBI"
       ]
     },
     {
@@ -15485,22 +13128,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS"
       ]
     },
     {
@@ -15677,22 +13304,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS"
       ]
     },
     {
@@ -15789,19 +13400,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "NICHD",
-        "NEI",
-        "NHLBI",
-        "NIA",
-        "NIAAA",
-        "NIDCD",
-        "NIDA",
-        "NIMH",
-        "NINDS",
-        "NINR",
-        "NCI"
       ]
     },
     {
@@ -15970,19 +13568,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NHLBI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIDCD",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINR",
-        "NCCIH"
       ]
     },
     {
@@ -16075,20 +13660,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NHLBI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIDCD",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINR",
-        "NIMHD",
-        "NCCIH"
       ]
     },
     {
@@ -16205,22 +13776,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINDS",
-        "NINR"
       ]
     },
     {
@@ -16265,12 +13820,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NIA",
-        "NIAAA",
-        "NIDA",
-        "NINDS"
       ]
     },
     {
@@ -16319,13 +13868,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NIA",
-        "NIAAA",
-        "NIDCR",
-        "NIDA",
-        "NINDS"
       ]
     },
     {
@@ -16458,22 +14000,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS"
       ]
     },
     {
@@ -16602,22 +14128,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS"
       ]
     },
     {
@@ -16718,24 +14228,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINDS",
-        "NIMHD",
-        "NLM",
-        "NCCIH",
-        "NCI",
-        "NEI"
       ]
     },
     {
@@ -16856,23 +14348,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NINR",
-        "NIMHD",
-        "NLM"
       ]
     },
     {
@@ -17001,22 +14476,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NHLBI",
-        "NHGRI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIMH"
       ]
     },
     {
@@ -17129,23 +14588,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NEI",
-        "NHLBI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIGMS",
-        "NCI"
       ]
     },
     {
@@ -17234,19 +14676,6 @@
           "number": "93.879",
           "title": "Medical Library Assistance"
         }
-      ],
-      "participating_icos": [
-        "NHLBI",
-        "NIA",
-        "NIAAA",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NCI",
-        "NLM"
       ]
     },
     {
@@ -17291,14 +14720,6 @@
           "number": "93.846",
           "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
         }
-      ],
-      "participating_icos": [
-        "NCATS",
-        "NIAID",
-        "NIAMS",
-        "NIDA",
-        "NIEHS",
-        "NIMHD"
       ]
     },
     {
@@ -17411,22 +14832,6 @@
           "number": "93.866",
           "title": "Aging Research"
         }
-      ],
-      "participating_icos": [
-        "NHLBI",
-        "NIA",
-        "NIAAA",
-        "NIAID",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDCR",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIGMS",
-        "NIMH"
       ]
     },
     {
@@ -17440,21 +14845,105 @@
       "close_date": "2027-05-08",
       "status": "posted",
       "url": "https://simpler.grants.gov/search?query=PA-24-184",
-      "participating_icos": [
-        "NHLBI",
-        "NIA",
-        "NIAAA",
-        "NIAMS",
-        "NIBIB",
-        "NICHD",
-        "NIDCD",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIGMS",
-        "NIMH",
-        "NINDS",
-        "NINR"
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NIH Grants Information",
+      "contact_email": "grantsinfo@nih.gov",
+      "abstract": "The purpose of the NIH Mentored Patient-Oriented Research Career Development Award (K23) is to support the career development of individuals with a clinical doctoral degree who have made a commitment to focus their research endeavors on patient-oriented research.",
+      "opening_date": "2024-11-06",
+      "cfda_list": [
+        {
+          "number": "93.113",
+          "title": "Environmental Health"
+        },
+        {
+          "number": "93.121",
+          "title": "Oral Diseases and Disorders Research"
+        },
+        {
+          "number": "93.173",
+          "title": "Research Related to Deafness and Communication Disorders"
+        },
+        {
+          "number": "93.213",
+          "title": "Research and Training in Complementary and Integrative Health"
+        },
+        {
+          "number": "93.233",
+          "title": "National Center on Sleep Disorders Research"
+        },
+        {
+          "number": "93.242",
+          "title": "Mental Health Research Grants"
+        },
+        {
+          "number": "93.273",
+          "title": "Alcohol Research Programs"
+        },
+        {
+          "number": "93.279",
+          "title": "Drug Abuse and Addiction Research Programs"
+        },
+        {
+          "number": "93.286",
+          "title": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+        },
+        {
+          "number": "93.307",
+          "title": "Minority Health and Health Disparities Research"
+        },
+        {
+          "number": "93.310",
+          "title": "Trans-NIH Research Support"
+        },
+        {
+          "number": "93.313",
+          "title": "NIH Office of Research on Women's Health"
+        },
+        {
+          "number": "93.361",
+          "title": "Nursing Research"
+        },
+        {
+          "number": "93.837",
+          "title": "Cardiovascular Diseases Research"
+        },
+        {
+          "number": "93.838",
+          "title": "Lung Diseases Research"
+        },
+        {
+          "number": "93.839",
+          "title": "Blood Diseases and Resources Research"
+        },
+        {
+          "number": "93.840",
+          "title": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
+        },
+        {
+          "number": "93.846",
+          "title": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        },
+        {
+          "number": "93.847",
+          "title": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+        },
+        {
+          "number": "93.853",
+          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        },
+        {
+          "number": "93.859",
+          "title": "Biomedical Research and Research Training"
+        },
+        {
+          "number": "93.865",
+          "title": "Child Health and Human Development Extramural Research"
+        },
+        {
+          "number": "93.866",
+          "title": "Aging Research"
+        }
       ]
     },
     {
@@ -17523,7 +15012,7 @@
       "title": "Medical Scientist Training Program (MSTP) (T32)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIGMS",
+      "institute": "",
       "post_date": "2024-03-04",
       "close_date": "2027-01-25",
       "status": "posted",
@@ -17539,9 +15028,6 @@
           "number": "93.859",
           "title": "Biomedical Research and Research Training"
         }
-      ],
-      "participating_icos": [
-        "NIGMS"
       ]
     },
     {
@@ -17550,7 +15036,7 @@
       "title": "NIDCD Mentored Career Development Award for Postdoctorate Au.D./Ph.D. Audiologists (K01 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCD",
+      "institute": "",
       "post_date": "2024-02-26",
       "close_date": "2027-05-07",
       "status": "posted",
@@ -17566,9 +15052,6 @@
           "number": "93.173",
           "title": "Research Related to Deafness and Communication Disorders"
         }
-      ],
-      "participating_icos": [
-        "NIDCD"
       ]
     },
     {
@@ -17577,7 +15060,7 @@
       "title": "NIDCD Mentored Career Development Award for Postdoctorate Au.D./Ph.D. Audiologists (K01 Independent Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCD",
+      "institute": "",
       "post_date": "2024-02-26",
       "close_date": "2027-05-07",
       "status": "posted",
@@ -17593,9 +15076,6 @@
           "number": "93.173",
           "title": "Research Related to Deafness and Communication Disorders"
         }
-      ],
-      "participating_icos": [
-        "NIDCD"
       ]
     },
     {
@@ -17604,7 +15084,7 @@
       "title": "NIDCD Research Career Enhancement Award for Established Investigators (K18 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCD",
+      "institute": "",
       "post_date": "2024-02-08",
       "close_date": "2027-05-07",
       "status": "posted",
@@ -17620,9 +15100,6 @@
           "number": "93.173",
           "title": "Research Related to Deafness and Communication Disorders"
         }
-      ],
-      "participating_icos": [
-        "NIDCD"
       ]
     },
     {
@@ -17631,7 +15108,7 @@
       "title": "NIDCD Research Career Enhancement Award for Established Investigators (K18 Clinical Trial Required)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIDCD",
+      "institute": "",
       "post_date": "2024-02-08",
       "close_date": "2027-05-07",
       "status": "posted",
@@ -17647,9 +15124,6 @@
           "number": "93.173",
           "title": "Research Related to Deafness and Communication Disorders"
         }
-      ],
-      "participating_icos": [
-        "NIDCD"
       ]
     },
     {
@@ -17742,22 +15216,6 @@
           "number": "93.867",
           "title": "Vision Research"
         }
-      ],
-      "participating_icos": [
-        "FIC",
-        "NHGRI",
-        "NIAAA",
-        "NIAID",
-        "NICHD",
-        "NIDDK",
-        "NIDA",
-        "NIEHS",
-        "NIMH",
-        "NIMHD",
-        "NCCIH",
-        "NCATS",
-        "NCI",
-        "NIA"
       ]
     }
   ]
