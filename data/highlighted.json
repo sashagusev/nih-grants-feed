@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T16:13:47.649291+00:00",
-  "count": 116,
+  "updated_at": "2026-11-19T16:21:11.057880+00:00",
+  "count": 117,
   "data": [
     {
       "id": 175,
@@ -102,6 +102,19 @@
       "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/164",
       "contacts": [],
       "abstract": "<p>This topic encourages a broad range of studies that identify and elucidate biological mechanisms whereby chronological aging of the reproductive system affects overall systemic aging, with the ultimate goal of improving healthspan and promoting healthy longevity in older adults.</p><p>A growing body of evidence suggests that aging of the reproductive system is not merely the end of reproductive capacity, but is also closely intertwined with—and impacts—overall aging, healthspan, and longevity.While reproduction itself ends relatively early in life (particularly in women), reproductive aging appears to both reflect and influence the aging trajectory of multiple organ systems—extending well beyond hormonal regulation alone.</p><p>Very little is known about the systemic effects of reproductive aging in men and women; however, in women, the transition to menopause is accompanied by changes that extend far beyond fertility. Declining ovarian function and changes in sex hormone production are associated with increased cardiovascular disease risk, bone and muscle loss, osteoporosis, metabolic dysfunction and insulin resistance, cognitive changes and increased risk of dementia, altered immune function and increased inflammation, and urogenital and skin aging. Notably, several of these age-related changes are also observed in men, but generally develop more gradually as age-related declines in testicular function and androgen production progress, in contrast with the abrupt endocrine transition that characterizes menopause.</p><p>Women who experience later natural menopause generally exhibit lower all-cause mortality and reduced cardiovascular mortality in observational studies, suggesting an association with longer health span and lifespan. However, later menopause is also associated with increased risks of certain hormone-sensitive cancers, and it remains unclear whether menopause timing is a causal determinant of longevity or a marker of slower biological aging. These observations suggest that the reproductive system functions as a regulator of whole-body physiology rather than solely as an organ for reproduction.</p><p>Given recent advances in reproductive aging research, this topic encourages applications seeking to understand the molecular mechanisms of reproductive system aging responsible for the aging of other organs, and the physiological implications on overall systemic aging in both sexes.</p>",
+      "abstract_is_html": true
+    },
+    {
+      "id": 144,
+      "title": "Advancing Diabetes Research Through Understanding Heterogeneity",
+      "lead_ico": "NIDDK",
+      "participating_icos": [],
+      "posted_date": "2026-07-20",
+      "expiration_date": "2028-11-18",
+      "status": "published",
+      "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/144",
+      "contacts": [],
+      "abstract": "<p><strong>Background:</strong></p><p>Diabetes and its complications comprise a large group of common chronic diseases that together represent a significant and growing public health care burden. Current definitions of diabetes group individuals into broad categories, such as type 1 or type 2 diabetes, with little integration of more detailed understanding of underlying pathophysiology leading to hyperglycemia. A growing body of evidence, however, suggests extensive heterogeneity within these conditions, leading to significant differences in disease onset, response to intervention, and progression to severe complications such as cardiovascular disease (CVD) and diabetic kidney disease (DKD). Despite this evidence, type 1 and type 2 diabetes are still largely diagnosed and managed as uniform entities. Recent breakthroughs in integrating biological, genetic, clinical, and molecular data now offer unprecedented opportunities to identify distinct disease subtypes based on a deeper understanding of etiology and pathophysiology. Defining these robust data-driven subtypes is critical to driving precision prevention, early detection, and optimized clinical management of these conditions and their complications, ultimately transforming health outcomes.</p><p><strong>Purpose: </strong>This topic catalyzes research designed to disentangle the complex heterogeneity of diabetes and its related complications. Specifically, it targets the varied pathophysiologic mechanisms driving disease onset, divergent responses to treatment and the trajectories of disease progression and complications. The ultimate goal is to delineate and characterize high-impact disease subtypes that have historically been constrained by narrow clinical criteria yet inherently encompass a broad spectrum of distinct clinical and molecular etiologies.</p><i></i>This topic is being issued as part of the Make America Healthy Again initiative, which is expanding NIH and agency research into specific areas.<p>It aligns with:</p><ul><li>NIH MAHA Chronic Disease Initiative : The National Institutes of Health (NIH) will launch an Initiative on Chronic Disease to leverage and align existing NIH research projects, improve NIH coordination on chronic disease research, and generate actionable results for diseases arising in childhood and adulthood.</li><li>NIH MAHA Chronic Disease Initiative : The NIH will launch a new Whole-Person-Health approach to chronic disease prevention research and leverage collective expertise across the agency to catalyze transformative discovery science and intervention strategies that promote wellness, resilience, and optimal health, including metabolic health, at all stages of life.</li></ul></p>",
       "abstract_is_html": true
     },
     {
@@ -384,6 +397,7 @@
       "participating_icos": [
         "NCCIH",
         "NEI",
+        "NHLBI",
         "NIA",
         "NIAID",
         "NIDDK",
@@ -1338,7 +1352,8 @@
       "participating_icos": [
         "NCATS",
         "NICHD",
-        "NIMH"
+        "NIMH",
+        "NINDS"
       ],
       "posted_date": "2026-02-24",
       "expiration_date": "2028-04-21",
