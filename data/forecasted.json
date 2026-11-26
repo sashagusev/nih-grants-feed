@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T17:51:11.324322+00:00",
+  "updated_at": "2026-11-26T17:34:58.044722+00:00",
   "count": 275,
   "data": [
     {
@@ -1176,19 +1176,7 @@
       "post_date": "2026-09-10",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-NS-28-003",
-      "award_ceiling": null,
-      "num_awards": "2",
-      "contact_name": "National Institute of Neurological Disorders & Stroke (NINDS) StrokeNet",
-      "contact_email": "strokenetinquiry@mail.nih.gov",
-      "abstract": "The National Institute of Neurological Disorders and Stroke (NINDS) at the National Institutes of Health (NIH) seeks to continue support for the infrastructure of the NIH Stroke Clinical Trials Network (NIH StrokeNet). The NIH StrokeNet conducts clinical trials focused on advancing acute stroke treatment, stroke prevention, and stroke recovery and rehabilitation across the lifespan. Its mission is to improve outcomes for individuals who experience stroke by evaluating promising new therapies for patients with stroke and those at risk for stroke. The program will encourage applications for a national clinical coordinating center (NCC) and national data management coordinating center (NDMC) to support the NIH StrokeNet clinical trial network. Applications are not being solicited at this time. This notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive applications for centers.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.853",
-          "title": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=RFA-NS-28-003"
     },
     {
       "opportunity_id": "363848",
@@ -3432,7 +3420,19 @@
       "post_date": "2026-05-07",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-016"
+      "url": "https://simpler.grants.gov/search?query=PAR-28-016",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "IRINAH Program Staff",
+      "contact_email": "irinah@mail.nih.gov",
+      "abstract": "The National Institute on Drug Abuse, along with other National Health Institutes, Centers, and Offices, seeks to advance its mission through the Intervention Research to Improve Native American Health (IRINAH), which aims to support: Research on the causes of health problems to inform the creation or refinement of interventions Studies that develop, adapt, or test interventions for health promotion, disease prevention, treatment, or recovery Research on the dissemination and implementation of strategies to overcome barriers to adopting, integrating, scaling up, and sustaining effective interventions. This initiative seeks interventions and related research that builds on community knowledge, strengths, and resilience to identify and rigorously test solutions to reduce morbidity and mortality in Native populations. Proposed interventions should be sustainable and flexible, so they can be adapted, shared, and expanded to other communities as appropriate. Grant authorities that allow NIDA to forecast this opportunity are as follows: 42 U.S.C 241 and 284",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.279",
+          "title": "Drug Use and Addiction Research Programs"
+        }
+      ]
     },
     {
       "opportunity_id": "362313",
@@ -3560,11 +3560,27 @@
       "title": "NIH Pragmatic Trials Conducted in Health Care Systems",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "",
+      "institute": "NCCIH",
       "post_date": "2026-04-29",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-010"
+      "url": "https://simpler.grants.gov/search?query=PAR-28-010",
+      "award_ceiling": null,
+      "num_awards": "",
+      "contact_name": "NCCIH Division of Extramural Research Program Officer",
+      "contact_email": "NCCIHDERFunding@nih.gov",
+      "abstract": "The National Institutes of Health intends to publish a Notice of Funding Opportunity (NOFO), Pragmatic and Implementation Trials Conducted in Health Care Settings This funding opportunity will support large-scale pragmatic trials that test intervention effectiveness in routine clinical care and/or implementation trials that evaluate strategies for delivering interventions within health care settings. These trials are intended to directly inform decision-makers (e.g., patients, clinicians, administrators, policymakers, and payers) about the comparative benefits, burdens, and risks of biomedical or behavioral interventions. To enhance real-world relevance and generalizability, applicants are encouraged to: 1) Select care settings where the target condition is commonly seen (e.g., emergency departments, primary care, public health clinics). 2) Include multiple health system types (e.g., academic centers, federally qualified health centers, integrated networks, VA Medical Centers). 3) Assess adaptation across systems and regions to ensure intervention effectiveness and implementation feasibility. Interventions under study should be embedded in routine care. Trials may integrate one or more interventions with established efficacy into appropriate health care settings or implement system-level changes to improve health outcomes. This phased award will use a milestone-driven cooperative agreement mechanism, supporting a planning phase and a phase for full trial execution. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. Investigators with expertise and insights into this area are encouraged to begin to consider applying for this NOFO.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.213",
+          "title": "Research and Training in Complementary and Integrative Health"
+        },
+        {
+          "number": "93.473",
+          "title": "Complementary and Integrative Health - Research Projects"
+        }
+      ]
     },
     {
       "opportunity_id": "362101",
@@ -3572,23 +3588,11 @@
       "title": "Feasibility Studies to Inform the Design of Future Clinical Trials",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NCCIH",
+      "institute": "",
       "post_date": "2026-04-28",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=PAR-28-011",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "NCCIH Division of Extramural Research Program Officer",
-      "contact_email": "NCCIHDERFunding@nih.gov",
-      "abstract": "The National Institutes of Health intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications that propose feasibility studies that could inform the design and conduct of subsequent definitive clinical trials (e.g., efficacy, effectiveness, pragmatic, dissemination and implementation, phase/stage II or later trials). Applications to this NOFO should demonstrate that the proposed feasibility research is scientifically necessary to design or plan the subsequent definitive clinical trial. Studies may utilize mixed methods and feasibility clinical trials to assess feasibility of recruitment, randomization, retention, intervention delivery, data collection, adherence, acceptability, and/or develop or adapt intervention components or protocols. The proposed feasibility research should enhance the rigor and reproducibility of the future trial methods. The subsequent definitive clinical trial should have the potential to make a significant impact on public health. Applications are not being solicited at this time. This notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. Investigators with expertise in clinical trial planning, design, implementation, intervention development, and/or stakeholder engagement are encouraged to begin to consider applying for this new NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.213",
-          "title": "Research and Training in Complementary and Integrative Health"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=PAR-28-011"
     },
     {
       "opportunity_id": "362097",
@@ -5164,7 +5168,19 @@
       "post_date": "2025-09-23",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=RFA-AT-26-001"
+      "url": "https://simpler.grants.gov/search?query=RFA-AT-26-001",
+      "award_ceiling": null,
+      "num_awards": "3",
+      "contact_name": "Erin Burke Quinlan, Ph.D.",
+      "contact_email": "erin.quinlan@nih.gov",
+      "abstract": "The National Center for Complementary and Integrative Health and the Office of Dietary Supplements intend to publish a Notice of Funding Opportunity (NOFO) for Fiscal Year 2027. This NOFO aims to support interdisciplinary research networks to advance biomedical research on resilience, aligning with the priorities of the National Institutes of Health (NIH), the Make America Healthy Again Commission, and the Department of Health and Human Services to optimize the health and well-being of all Americans. Resilience is defined by the NIH Resilience Research Working Group as the capacity to resist, recover, adapt, or grow from challenges or stressors. Americans across the lifespan face an alarming number of acute and chronic stressors, such as viral infections, burnout, bullying, financial hardship, environmental toxins, and natural disasters that can contribute to development or worsening of chronic diseases, ultimately impacting population health and well-being. Resilience outcomes (i.e., resistance, recovery, adaptation, or growth) can be measured over time and across interconnected systems encompassing the whole person, including individual (e.g., molecular, physiological, psychological), environmental, and community domains. Utilizing the U24 funding mechanism, this NOFO will support interdisciplinary research networks to grow the resilience research community and accomplish high-impact scientific activities that foster an innovative, rigorous, and reproducible body of resilience research. Appropriate activities include meetings, conferences, interdisciplinary cross-training (e.g. workshops, visiting scholar programs), research collaborations, and other training opportunities. The networks will also support innovative small-scale pilot projects to generate preliminary data in preparation for future NIH grants. Furthermore, the networks will be expected to engage in dissemination and outreach strategies (e.g., publications of research frameworks, reviews, design protocols, and best practices). This NOFO encourages interdisciplinary collaborations of researchers and clinicians with expertise in several domains of resilience science (e.g., cellular, physiological, psychological, social, and environmental). Grant authorities that allow NCCIH to forecast this opportunity are as follows: Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200.",
+      "opening_date": "",
+      "cfda_list": [
+        {
+          "number": "93.213",
+          "title": "Research and Training in Complementary and Integrative Health"
+        }
+      ]
     },
     {
       "opportunity_id": "360646",
@@ -5736,23 +5752,11 @@
       "title": "NIEHS Worker Training Program’s HAZMAT Training at DOE Nuclear Weapons Complex (UH4 Clinical Trial Not Allowed)",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIEHS",
+      "institute": "",
       "post_date": "2025-07-17",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=TEMP-31334",
-      "award_ceiling": null,
-      "num_awards": "2",
-      "contact_name": "Sharon D. Beard",
-      "contact_email": "beard1@niehs.nih.gov",
-      "abstract": "The National Institute of Environmental Health Sciences (NIEHS) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the NIEHS/DOE Worker Training Program's HAZMAT Training at US Department of Energy (DOE) Nuclear Weapons Complex (UH4 Clinical Trial Not Allowed). The major objective of the NIEHS WTP (Worker Training Program is to prevent work related harm by training workers in how best to protect themselves and their communities from exposure to hazardous materials. The WTP program is committed to preventing chronic disease/conditions, promoting mental health resilience, and improving the overall well-being of the U.S. workforce through health and safety education and training. The WTP is mandated by Congress through the Superfund Amendments and Reauthorization Act of 1986. Initiative Details The Superfund Amendments and Reauthorization Act of 1986 (SARA), Section 126(g) ; in U.S. law at 42 USC 9660a : authorizes an assistance program (GRANT PROGRAM) for training and education of workers engaged in activities related to hazardous waste generation, removal, containment or emergency response and hazardous materials transportation and emergency response. The United States Congress assigned responsibility for administering this program to the NIEHS, NIH, US HHS. The National Defense Authorization Act for fiscal years 1992 and 1993 (42 USC 7274(d)) authorized the Secretary of Energy in section 3131(a)(1)(A)-(B) to make awards (in law at 50 USC 2731(a)(1-3) : \"to provide training and education to persons who are or may be engaged in hazardous substance response or emergency at DOE nuclear weapons facilities; and to develop response curricula for such training and education.\" The Secretary was further authorized in Section 3131(a)(2)(A)-(B) to make the training awards to non-profit organizations demonstrating capabilities in: \"implementing and conducting effective training and education programs relating to the general health and safety of workers; and identifying, and involving in training, groups of workers whose duties include hazardous substance response or emergency response.\" Funding for the program comes from the Energy and Water Development Appropriations under the DOE Environmental Cleanup section and is transferred to administer the grants in Sect. 3131(a)(2)(B). This NOFO will utilize the UH4 activity code to provide support for the development of health and safety training of workers exposed to hazardous materials. This consists of health and safety training for workers and their supervisors, who are engaged in hazardous waste generation, treatment, storage, disposal, removal, containment, transportation, or emergency response. Investigators with expertise and insights into this area of occupational, environmental health and safety education and training are encouraged to apply. In addition, collaborative investigations combining expertise in industrial hygiene and environmental exposures will be encouraged.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.142",
-          "title": "NIEHS Hazardous Waste Worker Health and Safety Training"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=TEMP-31334"
     },
     {
       "opportunity_id": "358856",
@@ -6048,23 +6052,11 @@
       "title": "Biomarkers of Cognitive Decline and Dementias of Aging in Individuals within the Autism Spectrum",
       "agency_name": "National Institutes of Health",
       "agency_code": "HHS-NIH11",
-      "institute": "NIA",
+      "institute": "",
       "post_date": "2025-06-27",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=FOR-TEMP-25653",
-      "award_ceiling": null,
-      "num_awards": "",
-      "contact_name": "Alessandra Rovescalli, Ph.D.",
-      "contact_email": "rovescaa@mail.nih.gov",
-      "abstract": "The National Institute on Aging (NIA) intends to publish a Notice of Funding Opportunity (NOFO) to invite applications to conduct observational studies in individuals living with Autism Spectrum Disorders (ASD) along the lifespan. The overarching goal is to determine the occurrence of age-related neurodegeneration across the heterogeneities of the ASD spectrum, characterize the physiopathology and manifestation of Alzheimer's disease (AD) and AD-related dementias (ADRD) in ASD, and, ultimately, develop precision-medicine strategies tailored to this understudied population. It is expected that proposed studies pursue deep phenotyping of aging individuals across the ASD spectrum, along with the characterization/validation of existing biomarkers of age-related cognitive decline and/or dementia in this population, and/or the discovery of novel ones. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO intends to utilize the U01 activity code. This NOFO encourages collaborations between investigators with expertise in autism and those with expertise in aging and dementia, fostering interactions between established centers for neurodevelopmental research and centers studying age-related cognitive decline.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.866",
-          "title": "Aging Research"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=FOR-TEMP-25653"
     },
     {
       "opportunity_id": "359850",
@@ -6840,19 +6832,7 @@
       "post_date": "2025-05-13",
       "close_date": "",
       "status": "forecasted",
-      "url": "https://simpler.grants.gov/search?query=NOT-AA-25-012",
-      "award_ceiling": null,
-      "num_awards": "7",
-      "contact_name": "Dominique Lorang-Leins",
-      "contact_email": "Lorangd@mail.nih.gov",
-      "abstract": "The National Institute on Alcohol Abuse and Alcoholism (NIAAA) launched the National Consortium on Alcohol and Neurodevelopment in Adolescence (NCANDA) in 2012 to determine how adolescent alcohol-related disruption of normal brain growth patterns of structure, related brain function, and psychiatric health affects brain functioning in emerging adulthood. The consortium uses an accelerated longitudinal design and has acquired data on over 800 individuals between the ages of 12 to 32 years. This wide age range covers the period before onset of drinking, the transition from adolescence to young adulthood, the critical period for binge drinking, and the time of maturing out. This unique dataset provides novel information on the enduring and transient consequences of adolescent drinking on adult brain function and behavior. Current studies on adults drinking do not have this type of data. Renewal of this limited competition NOFO will enable NCANDA to continue to follow these participants up to 37 years of age and acquire data critical to understanding how early versus late onset drinking during adolescence differentially impacts drinking behavior in adulthood. This limited competition renewal will provide valuable information for developing evidence-based alcohol prevention strategies and early intervention approaches to prevent the progression to more severe drinking and AUD thereby preventing the development of chronic disease, improving health outcomes, and increasing quality of life and longevity. Applications are not being solicited at this time. This Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the U01 activity code. Investigators with expertise and insights into this area of developmental neuroscience are encouraged to begin to consider applying for this new NOFO.",
-      "opening_date": "",
-      "cfda_list": [
-        {
-          "number": "93.273",
-          "title": "Alcohol Research Programs"
-        }
-      ]
+      "url": "https://simpler.grants.gov/search?query=NOT-AA-25-012"
     },
     {
       "opportunity_id": "358870",
